@@ -1,0 +1,122 @@
+[
+  {
+    "year": 1995,
+    "make": "Geo",
+    "model": "Metro",
+    "engine": "1.0L I3",
+    "engine_code": [
+      "G10"
+    ],
+    "fitment_id": "f_d8e1be70ac"
+  },
+  {
+    "year": 1995,
+    "make": "Geo",
+    "model": "Metro",
+    "engine": "1.3L I4",
+    "engine_code": [
+      "G13"
+    ],
+    "fitment_id": "f_e5cb8805d1"
+  },
+  {
+    "year": 1995,
+    "make": "Geo",
+    "model": "Prizm",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "4A-FE"
+    ],
+    "fitment_id": "f_7f4d26fb97"
+  },
+  {
+    "year": 1995,
+    "make": "Geo",
+    "model": "Tracker",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_deced197a7"
+  },
+  {
+    "year": 1996,
+    "make": "Geo",
+    "model": "Metro",
+    "engine": "1.0L I3",
+    "engine_code": [
+      "G10"
+    ],
+    "fitment_id": "f_66c45059a3"
+  },
+  {
+    "year": 1996,
+    "make": "Geo",
+    "model": "Metro",
+    "engine": "1.3L I4",
+    "engine_code": [
+      "G13"
+    ],
+    "fitment_id": "f_23b7ae7d3a"
+  },
+  {
+    "year": 1996,
+    "make": "Geo",
+    "model": "Prizm",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "4A-FE"
+    ],
+    "fitment_id": "f_e74cbc4749"
+  },
+  {
+    "year": 1996,
+    "make": "Geo",
+    "model": "Tracker",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_2ec3b08666"
+  },
+  {
+    "year": 1997,
+    "make": "Geo",
+    "model": "Metro",
+    "engine": "1.0L I3",
+    "engine_code": [
+      "G10"
+    ],
+    "fitment_id": "f_fe43b073fd"
+  },
+  {
+    "year": 1997,
+    "make": "Geo",
+    "model": "Metro",
+    "engine": "1.3L I4",
+    "engine_code": [
+      "G13"
+    ],
+    "fitment_id": "f_b35b2b85eb"
+  },
+  {
+    "year": 1997,
+    "make": "Geo",
+    "model": "Prizm",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "4A-FE"
+    ],
+    "fitment_id": "f_53b7a07459"
+  },
+  {
+    "year": 1997,
+    "make": "Geo",
+    "model": "Tracker",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_834f2e7aec"
+  }
+]

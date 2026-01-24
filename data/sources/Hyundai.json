@@ -1,0 +1,1602 @@
+[
+  {
+    "year": 1995,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_3109cf726a"
+  },
+  {
+    "year": 1995,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_209fd12dbb"
+  },
+  {
+    "year": 1995,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_f938d1b3e1"
+  },
+  {
+    "year": 1996,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_6d14e0e1ee"
+  },
+  {
+    "year": 1996,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_19dea6816a"
+  },
+  {
+    "year": 1996,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_c948c24905"
+  },
+  {
+    "year": 1997,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_2b50679ff6"
+  },
+  {
+    "year": 1997,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_5df6665c95"
+  },
+  {
+    "year": 1997,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_67070ae405"
+  },
+  {
+    "year": 1998,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_39e122f009"
+  },
+  {
+    "year": 1998,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_0a1839f08c"
+  },
+  {
+    "year": 1998,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_556321d5e0"
+  },
+  {
+    "year": 1999,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_ef029b73e2"
+  },
+  {
+    "year": 1999,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_79a1731be9"
+  },
+  {
+    "year": 1999,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_ba26a09d98"
+  },
+  {
+    "year": 2000,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_109a2b03c6"
+  },
+  {
+    "year": 2000,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_02af39e029"
+  },
+  {
+    "year": 2000,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_64bc7e7429"
+  },
+  {
+    "year": 2001,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_f67562d3e4"
+  },
+  {
+    "year": 2001,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_25833d2c85"
+  },
+  {
+    "year": 2001,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_82a8b1ae4d"
+  },
+  {
+    "year": 2002,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_0c61f293d9"
+  },
+  {
+    "year": 2002,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_0a4023778e"
+  },
+  {
+    "year": 2002,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_2e6e471e72"
+  },
+  {
+    "year": 2003,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_94e9a4cc1a"
+  },
+  {
+    "year": 2003,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_cbe983dbe4"
+  },
+  {
+    "year": 2003,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_3cfd5562b9"
+  },
+  {
+    "year": 2004,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_8ca117c499"
+  },
+  {
+    "year": 2004,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_0eef971552"
+  },
+  {
+    "year": 2004,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_7d13d0e03a"
+  },
+  {
+    "year": 2005,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BETA18"
+    ],
+    "fitment_id": "f_36ed083262"
+  },
+  {
+    "year": 2005,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "SIRIUS24"
+    ],
+    "fitment_id": "f_703b071ad0"
+  },
+  {
+    "year": 2005,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "DELTA25"
+    ],
+    "fitment_id": "f_faa6297a16"
+  },
+  {
+    "year": 2006,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "BETA20"
+    ],
+    "fitment_id": "f_0368fc9fc0"
+  },
+  {
+    "year": 2006,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "DELTA27"
+    ],
+    "fitment_id": "f_0ac54a108c"
+  },
+  {
+    "year": 2006,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_5e8f71f524"
+  },
+  {
+    "year": 2006,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_18252a8429"
+  },
+  {
+    "year": 2006,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_ad4caf6fc7"
+  },
+  {
+    "year": 2007,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "BETA20"
+    ],
+    "fitment_id": "f_14208936db"
+  },
+  {
+    "year": 2007,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "DELTA27"
+    ],
+    "fitment_id": "f_bf3b75d72d"
+  },
+  {
+    "year": 2007,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_39924fa04f"
+  },
+  {
+    "year": 2007,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_e4f099a928"
+  },
+  {
+    "year": 2007,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_a2316e480e"
+  },
+  {
+    "year": 2008,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "BETA20"
+    ],
+    "fitment_id": "f_6e0296619b"
+  },
+  {
+    "year": 2008,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "DELTA27"
+    ],
+    "fitment_id": "f_4a78d768bc"
+  },
+  {
+    "year": 2008,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_a85fe168d0"
+  },
+  {
+    "year": 2008,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_ae8d4bc33f"
+  },
+  {
+    "year": 2008,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_407f605d8d"
+  },
+  {
+    "year": 2009,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "BETA20"
+    ],
+    "fitment_id": "f_9e42f0345d"
+  },
+  {
+    "year": 2009,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "DELTA27"
+    ],
+    "fitment_id": "f_4e4e47bb7e"
+  },
+  {
+    "year": 2009,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_5388b2ee44"
+  },
+  {
+    "year": 2009,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_4d214e4f73"
+  },
+  {
+    "year": 2009,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_ae69b802f7"
+  },
+  {
+    "year": 2010,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "BETA20"
+    ],
+    "fitment_id": "f_bfb45984e8"
+  },
+  {
+    "year": 2010,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "DELTA27"
+    ],
+    "fitment_id": "f_5b14843ede"
+  },
+  {
+    "year": 2010,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_a7d341907e"
+  },
+  {
+    "year": 2010,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_cbffec2692"
+  },
+  {
+    "year": 2010,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_d21b060aee"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "NU18"
+    ],
+    "fitment_id": "f_94326df3e4"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_ce82e1757a"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_049fe76070"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_a7436642bf"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_9b7fcc4f10"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_9f075d8585"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_98a087704b"
+  },
+  {
+    "year": 2011,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_7883d0de4b"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "NU18"
+    ],
+    "fitment_id": "f_2ad8095d20"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_8b3322ebf3"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_d88e364d1a"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_6588a7dcc9"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_6062b34f4f"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_a17853127e"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_de49b9dc94"
+  },
+  {
+    "year": 2012,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_d273c0ec54"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "NU18"
+    ],
+    "fitment_id": "f_81097d2787"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_1bda57c7af"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_b8e507e979"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_abede9d0cf"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_eb8b79eca5"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_782012387a"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_9f7bbd44ca"
+  },
+  {
+    "year": 2013,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_ae30ad92b3"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "NU18"
+    ],
+    "fitment_id": "f_a62ce14adf"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_a11d466b6b"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_3c0af77186"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_3ff1205219"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_a20f432261"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_051e9d7744"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_87114aaf90"
+  },
+  {
+    "year": 2014,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_d4bef3bb96"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "NU18"
+    ],
+    "fitment_id": "f_348ad3f14a"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_5c3a8f1c1c"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_078ef2b365"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_77ab9cd092"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_6eb1136367"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_c5c04cc71d"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_76be447a6e"
+  },
+  {
+    "year": 2015,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_d6244413e7"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "NU18"
+    ],
+    "fitment_id": "f_8d88093842"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_a95b4613ef"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_52a32468ad"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_8e72221f0e"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_edc3b10463"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_da62a9667a"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_8e2d09e8dc"
+  },
+  {
+    "year": 2016,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_ba726692d2"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "NU18"
+    ],
+    "fitment_id": "f_6cd0f5642a"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_c1ee06a941"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_bb8af2e758"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_f1c3141850"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_2ff0d6b02c"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_62d758aed0"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_d696e4cd13"
+  },
+  {
+    "year": 2017,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_c711da267d"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "NU18"
+    ],
+    "fitment_id": "f_606ae6f93b"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_82717d8edb"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_2b6d8ea34d"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_b8664459e9"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_7183acdc89"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_9e18109fa3"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_a0a8e9b50d"
+  },
+  {
+    "year": 2018,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_977171089d"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "NU18"
+    ],
+    "fitment_id": "f_0cea7a4ce5"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_c87369f186"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_781923e5e3"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_4997ea4066"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_be93b566e2"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_e9c9ab46b9"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_6d5ee87efc"
+  },
+  {
+    "year": 2019,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_f96c56bfc4"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "G4FJ"
+    ],
+    "fitment_id": "f_a3f24f7bc4"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_6babd73780"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_e7dd88e141"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM16T"
+    ],
+    "fitment_id": "f_d83b00b0c9"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "SMARTSTREAM25"
+    ],
+    "fitment_id": "f_818d2635c0"
+  },
+  {
+    "year": 2020,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "SMARTSTREAM25"
+    ],
+    "fitment_id": "f_4382201eac"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "G4FJ"
+    ],
+    "fitment_id": "f_cd02686b43"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_b1a301e26a"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_926d747aa8"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM16T"
+    ],
+    "fitment_id": "f_39856bf1d0"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "SMARTSTREAM25"
+    ],
+    "fitment_id": "f_0ad4ca249d"
+  },
+  {
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "SMARTSTREAM25"
+    ],
+    "fitment_id": "f_5113d32f93"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "G4FJ"
+    ],
+    "fitment_id": "f_de40b1cb37"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_3efec7287a"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_42f4fa0ad6"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM16T"
+    ],
+    "fitment_id": "f_f2ec78acb9"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "SMARTSTREAM25"
+    ],
+    "fitment_id": "f_4516ba948a"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "SMARTSTREAM25"
+    ],
+    "fitment_id": "f_3ac5950701"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "G4FJ"
+    ],
+    "fitment_id": "f_581a8d6064"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_3ee5635970"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_834d4ae9d8"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM16T"
+    ],
+    "fitment_id": "f_511ef8cf03"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "SMARTSTREAM25"
+    ],
+    "fitment_id": "f_134a58c377"
+  },
+  {
+    "year": 2023,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "SMARTSTREAM25"
+    ],
+    "fitment_id": "f_d8d4535cae"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "G4FJ"
+    ],
+    "fitment_id": "f_de129689fb"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "NU20"
+    ],
+    "fitment_id": "f_75f8e0fb83"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_b7f266bf1b"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM16T"
+    ],
+    "fitment_id": "f_58d47003a6"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "SMARTSTREAM25"
+    ],
+    "fitment_id": "f_48d5009678"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "SMARTSTREAM25"
+    ],
+    "fitment_id": "f_5a3c5c37ca"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "item_id": "engine_air_filter",
+  "scope_priority": [
+    "fitment_id (preferred)",
+    "year+make+model (fallback)"
+  ],
+  "fields": {
+    "oem_part_number": "string (optional)",
+    "aftermarket_options": "array of {brand, part_number} (optional)",
+    "filter_style": "enum [Standard, High-Flow] (optional)",
+    "quantity": "integer (default 1)",
+    "housing_location": "string (optional)",
+    "notes": "string (optional)"
+  },
+  "rules": [
+    "High-Flow filters should be labeled as performance-oriented",
+    "Quantity >1 must display replace-all guidance"
+  ]
+}

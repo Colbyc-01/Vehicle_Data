@@ -1,0 +1,867 @@
+{
+  "_comment": "PENDING engine specs; fill before moving to engines.json",
+  "mazda_skyactiv_g_25": {
+    "code": "mazda_skyactiv_g_25",
+    "make": "Mazda",
+    "displacement": "2.5L",
+    "configuration": "I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "ford_35_v6": {
+    "code": "ford_35_v6",
+    "make": "Ford",
+    "displacement": "3.5L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "hyundai_theta_24": {
+    "code": "hyundai_theta_24",
+    "make": "Hyundai",
+    "displacement": "2.4L",
+    "configuration": "I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "toyota_35_v6": {
+    "code": "toyota_35_v6",
+    "make": "Toyota",
+    "displacement": "3.5L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "ford_ecoboost_20": {
+    "code": "ford_ecoboost_20",
+    "make": "Ford",
+    "displacement": "2.0L",
+    "configuration": "Turbo I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "nissan_vq37vhr": {
+    "code": "nissan_vq37vhr",
+    "make": "Nissan",
+    "displacement": "3.7L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "gm_43_v6": {
+    "code": "gm_43_v6",
+    "make": "Chevrolet",
+    "displacement": "4.3L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "toyota_1gr_fe": {
+    "code": "toyota_1gr_fe",
+    "make": "Toyota",
+    "displacement": "4.0L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "chrysler_36_pentastar": {
+    "code": "chrysler_36_pentastar",
+    "make": "Chrysler",
+    "displacement": "3.6L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "ford_37_v6": {
+    "code": "ford_37_v6",
+    "make": "Ford",
+    "displacement": "3.7L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "subaru_fb25": {
+    "code": "subaru_fb25",
+    "make": "Subaru",
+    "displacement": "2.5L",
+    "configuration": "H4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "bmw_b58": {
+    "code": "bmw_b58",
+    "make": "BMW",
+    "displacement": "3.0L",
+    "configuration": "B58 Turbo I6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "dodge_64_hemi": {
+    "code": "dodge_64_hemi",
+    "make": "Dodge",
+    "displacement": "6.4L",
+    "configuration": "HEMI V8",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "chevy_14_turbo": {
+    "code": "chevy_14_turbo",
+    "make": "Chevrolet",
+    "displacement": "1.4L",
+    "configuration": "Turbo",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "nissan_mr20": {
+    "code": "nissan_mr20",
+    "make": "Nissan",
+    "displacement": "2.0L",
+    "configuration": "I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "ford_50_v8": {
+    "code": "ford_50_v8",
+    "make": "Ford",
+    "displacement": "5.0L",
+    "configuration": "V8",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "gm_34_v6": {
+    "code": "gm_34_v6",
+    "make": "Chevrolet",
+    "displacement": "3.4L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "dodge_33_v6": {
+    "code": "dodge_33_v6",
+    "make": "Dodge",
+    "displacement": "3.3L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "hyundai_38_v6": {
+    "code": "hyundai_38_v6",
+    "make": "Hyundai",
+    "displacement": "3.8L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "nissan_vq30de": {
+    "code": "nissan_vq30de",
+    "make": "Nissan",
+    "displacement": "3.0L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "mazda_mzr_23": {
+    "code": "mazda_mzr_23",
+    "make": "Mazda",
+    "displacement": "2.3L",
+    "configuration": "I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "vw_20_tsi": {
+    "code": "vw_20_tsi",
+    "make": "Volkswagen",
+    "displacement": "2.0L",
+    "configuration": "Turbo I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "honda_30_v6": {
+    "code": "honda_30_v6",
+    "make": "Honda",
+    "displacement": "3.0L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "subaru_ej20": {
+    "code": "subaru_ej20",
+    "make": "Subaru",
+    "displacement": "2.0L",
+    "configuration": "H4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "gm_38_v6": {
+    "code": "gm_38_v6",
+    "make": "Buick",
+    "displacement": "3.8L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "toyota_2az_fe": {
+    "code": "toyota_2az_fe",
+    "make": "Toyota",
+    "displacement": "2.4L",
+    "configuration": "I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "nissan_qr25de": {
+    "code": "nissan_qr25de",
+    "make": "Nissan",
+    "displacement": "2.5L",
+    "configuration": "I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "ford_duratec_25": {
+    "code": "ford_duratec_25",
+    "make": "Ford",
+    "displacement": "2.5L",
+    "configuration": "I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "mazda_skyactiv_g_20": {
+    "code": "mazda_skyactiv_g_20",
+    "make": "Mazda",
+    "displacement": "2.0L",
+    "configuration": "I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "subaru_fb20": {
+    "code": "subaru_fb20",
+    "make": "Subaru",
+    "displacement": "2.0L",
+    "configuration": "H4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "vw_18_tsi": {
+    "code": "vw_18_tsi",
+    "make": "Volkswagen",
+    "displacement": "1.8L",
+    "configuration": "Turbo I4",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  },
+  "toyota_1mz_fe": {
+    "code": "toyota_1mz_fe",
+    "make": "Toyota",
+    "displacement": "3.0L",
+    "configuration": "V6",
+    "oil": {
+      "viscosity": "",
+      "capacity": "",
+      "capacity_with_filter": ""
+    },
+    "oil_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "air_filter": {
+      "brand": "",
+      "part_number": "",
+      "alternatives": []
+    },
+    "spark_plugs": {
+      "part_number": "",
+      "gap": "",
+      "torque": "",
+      "quantity": 0
+    }
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "version": "cabin_air_filter_parts_seed.v1",
+  "scope": "US-only",
+  "fitment_key": "vehicle_selector",
+  "notes": "MVP cabin air filter seed. Vehicle-based fitment. Part numbers are OEM-referenced where stable; aftermarket cross-refs handled downstream.",
+  "generated_at": "2026-01-23T12:53:19.907910Z",
+  "items": [
+    {
+      "vehicle_selector": {
+        "make": "Toyota",
+        "model": "RAV4",
+        "years": "2019-2024"
+      },
+      "oem_part_number": "87139-0R010",
+      "notes": "Common RAV4 cabin filter; hybrid uses same."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Toyota",
+        "model": "Camry",
+        "years": "2018-2024"
+      },
+      "oem_part_number": "87139-YZZ20",
+      "notes": "Standard Camry cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Toyota",
+        "model": "Corolla",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "87139-YZZ20",
+      "notes": "Sedan and hatch share filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Honda",
+        "model": "CR-V",
+        "years": "2017-2024"
+      },
+      "oem_part_number": "80292-TZ3-A01",
+      "notes": "Common CR-V cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Honda",
+        "model": "Civic",
+        "years": "2016-2024"
+      },
+      "oem_part_number": "80292-SDA-A01",
+      "notes": "Sedan and hatchback."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Honda",
+        "model": "Accord",
+        "years": "2018-2024"
+      },
+      "oem_part_number": "80292-TBA-A01",
+      "notes": "10th\u201311th gen Accord."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Ford",
+        "model": "F-150",
+        "years": "2015-2024"
+      },
+      "oem_part_number": "FP-70",
+      "notes": "Most trims; verify for police/fleet."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Ford",
+        "model": "Escape",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "FP-92",
+      "notes": "Fourth-gen Escape."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Ford",
+        "model": "Explorer",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "FP-79",
+      "notes": "Sixth-gen Explorer."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Chevrolet",
+        "model": "Silverado 1500",
+        "years": "2019-2024"
+      },
+      "oem_part_number": "CF185",
+      "notes": "Cabin filter present on most trims; some base trims delete."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Chevrolet",
+        "model": "Equinox",
+        "years": "2018-2024"
+      },
+      "oem_part_number": "CF185",
+      "notes": "Shared with Terrain."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Nissan",
+        "model": "Rogue",
+        "years": "2021-2024"
+      },
+      "oem_part_number": "999M1-VS007",
+      "notes": "Common Rogue cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Nissan",
+        "model": "Altima",
+        "years": "2019-2024"
+      },
+      "oem_part_number": "27277-9BU0A",
+      "notes": "Standard Altima filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Hyundai",
+        "model": "Tucson",
+        "years": "2022-2024"
+      },
+      "oem_part_number": "97133-L1000",
+      "notes": "NX4 Tucson."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Kia",
+        "model": "Sportage",
+        "years": "2023-2024"
+      },
+      "oem_part_number": "97133-P1000",
+      "notes": "Latest Sportage generation."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Subaru",
+        "model": "Forester",
+        "years": "2019-2024"
+      },
+      "oem_part_number": "72880-FG000",
+      "notes": "Shared across trims."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Subaru",
+        "model": "Outback",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "72880-FG000",
+      "notes": "Shared with Forester."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Tesla",
+        "model": "Model Y",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "1107681-00-A",
+      "notes": "Uses dual filters; app should prompt quantity=2."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Toyota",
+        "model": "Highlander",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "87139-0R010",
+      "notes": "Gas and hybrid use same cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Toyota",
+        "model": "4Runner",
+        "years": "2010-2024"
+      },
+      "oem_part_number": "87139-YZZ08",
+      "notes": "5th gen 4Runner."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Honda",
+        "model": "Pilot",
+        "years": "2016-2024"
+      },
+      "oem_part_number": "80292-TZ3-A01",
+      "notes": "Shared across most trims."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Mazda",
+        "model": "CX-5",
+        "years": "2017-2024"
+      },
+      "oem_part_number": "KD45-61-J6X",
+      "notes": "CX-5 standard cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Mazda",
+        "model": "CX-30",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "B0J8-61-J6X",
+      "notes": "CX-30 cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "years": "2019-2024"
+      },
+      "oem_part_number": "97133-S1000",
+      "notes": "Common Santa Fe cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Kia",
+        "model": "Sorento",
+        "years": "2021-2024"
+      },
+      "oem_part_number": "97133-P2000",
+      "notes": "Sorento cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Kia",
+        "model": "Telluride",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "97133-S9000",
+      "notes": "Telluride cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Volkswagen",
+        "model": "Tiguan",
+        "years": "2018-2024"
+      },
+      "oem_part_number": "5Q0-819-653",
+      "notes": "MQB Tiguan cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Volkswagen",
+        "model": "Atlas",
+        "years": "2018-2024"
+      },
+      "oem_part_number": "3CN-819-653",
+      "notes": "Atlas cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "GMC",
+        "model": "Terrain",
+        "years": "2018-2024"
+      },
+      "oem_part_number": "CF185",
+      "notes": "Shared with Equinox."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Chevrolet",
+        "model": "Traverse",
+        "years": "2018-2024"
+      },
+      "oem_part_number": "CF185",
+      "notes": "Traverse cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Nissan",
+        "model": "Rogue Sport",
+        "years": "2017-2022"
+      },
+      "oem_part_number": "999M1-VS007",
+      "notes": "Shares filter family with Rogue."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Nissan",
+        "model": "Sentra",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "27277-EN000",
+      "notes": "B18 Sentra cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Subaru",
+        "model": "Crosstrek",
+        "years": "2018-2024"
+      },
+      "oem_part_number": "72880-FG000",
+      "notes": "Shared with Forester/Outback."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Toyota",
+        "model": "Corolla Cross",
+        "years": "2022-2024"
+      },
+      "oem_part_number": "87139-0R010",
+      "notes": "Shares with RAV4/Highlander."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Hyundai",
+        "model": "Palisade",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "97133-S8000",
+      "notes": "Palisade cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Kia",
+        "model": "Seltos",
+        "years": "2021-2024"
+      },
+      "oem_part_number": "97133-Q2000",
+      "notes": "Seltos cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Ford",
+        "model": "Bronco",
+        "years": "2021-2024"
+      },
+      "oem_part_number": "FP-101",
+      "notes": "Bronco cabin filter (not Sport)."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Volkswagen",
+        "model": "Taos",
+        "years": "2022-2024"
+      },
+      "oem_part_number": "5Q0-819-653",
+      "notes": "MQB Taos cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Chevrolet",
+        "model": "Blazer",
+        "years": "2019-2024"
+      },
+      "oem_part_number": "CF185",
+      "notes": "Shared GM crossover filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Nissan",
+        "model": "Rogue",
+        "years": "2014-2020"
+      },
+      "oem_part_number": "27277-4BA0A",
+      "notes": "Older Rogue generation."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Volkswagen",
+        "model": "Jetta",
+        "years": "2019-2024"
+      },
+      "oem_part_number": "5Q0-819-653",
+      "notes": "MQB Jetta cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "years": "2019-2024"
+      },
+      "oem_part_number": "CF185",
+      "notes": "Shared GM cabin filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Toyota",
+        "model": "Avalon",
+        "years": "2019-2022"
+      },
+      "oem_part_number": "87139-YZZ20",
+      "notes": "Final Avalon generation."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Honda",
+        "model": "Insight",
+        "years": "2019-2022"
+      },
+      "oem_part_number": "80292-TZ3-A01",
+      "notes": "Insight shares CR-V family filter."
+    },
+    {
+      "vehicle_selector": {
+        "make": "Subaru",
+        "model": "Legacy",
+        "years": "2020-2024"
+      },
+      "oem_part_number": "72880-FG000",
+      "notes": "Shared Subaru cabin filter family."
+    }
+  ],
+  "items_checksum": "1de5f71a47638530ef37712a4aba3fb7bfb01b33224d6b51a9a9b8fd46fca6fe"
+}

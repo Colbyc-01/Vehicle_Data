@@ -1,0 +1,40 @@
+[
+  {
+    "scope": {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150"
+    },
+    "item_id": "battery",
+    "group_size": "H6",
+    "chemistry": "AGM",
+    "min_cca": 760,
+    "registration_required": false,
+    "notes": "Higher CCA recommended for cold climates."
+  },
+  {
+    "scope": {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Camry"
+    },
+    "item_id": "battery",
+    "group_size": "35",
+    "chemistry": "Flooded",
+    "min_cca": 550,
+    "registration_required": false
+  },
+  {
+    "scope": {
+      "year": 2018,
+      "make": "Volkswagen",
+      "model": "Golf"
+    },
+    "item_id": "battery",
+    "group_size": "H7",
+    "chemistry": "AGM",
+    "min_cca": 760,
+    "registration_required": true,
+    "notes": "Battery must be registered/coded after replacement."
+  }
+]

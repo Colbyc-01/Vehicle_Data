@@ -1,0 +1,2132 @@
+[
+  {
+    "year": 1995,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_04bb4b906c"
+  },
+  {
+    "year": 1995,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L27"
+    ],
+    "fitment_id": "f_55fd6b5e35"
+  },
+  {
+    "year": 1995,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L27"
+    ],
+    "fitment_id": "f_c0292a9ea4"
+  },
+  {
+    "year": 1995,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_70c8ab357b"
+  },
+  {
+    "year": 1995,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L27"
+    ],
+    "fitment_id": "f_f4a1a9c3ed"
+  },
+  {
+    "year": 1995,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L27"
+    ],
+    "fitment_id": "f_20174de0c8"
+  },
+  {
+    "year": 1995,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_fb8831adc2"
+  },
+  {
+    "year": 1995,
+    "make": "Buick",
+    "model": "Roadmaster",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "LT1"
+    ],
+    "fitment_id": "f_dc810fc508"
+  },
+  {
+    "year": 1996,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_663bc645dd"
+  },
+  {
+    "year": 1996,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_13ef4a2103"
+  },
+  {
+    "year": 1996,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_fb85629f6f"
+  },
+  {
+    "year": 1996,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_fb5c12153b"
+  },
+  {
+    "year": 1996,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_322661a228"
+  },
+  {
+    "year": 1996,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_7e674726f8"
+  },
+  {
+    "year": 1996,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_c788f5429b"
+  },
+  {
+    "year": 1996,
+    "make": "Buick",
+    "model": "Roadmaster",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "LT1"
+    ],
+    "fitment_id": "f_1dbc3627d0"
+  },
+  {
+    "year": 1997,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_01f25a4ab0"
+  },
+  {
+    "year": 1997,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_e2a2bf4e08"
+  },
+  {
+    "year": 1997,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_393e199f11"
+  },
+  {
+    "year": 1997,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_719e684950"
+  },
+  {
+    "year": 1997,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_593583396c"
+  },
+  {
+    "year": 1997,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_e71e456141"
+  },
+  {
+    "year": 1997,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_fb9945d23a"
+  },
+  {
+    "year": 1997,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_7b10b8ecaa"
+  },
+  {
+    "year": 1998,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_09cd581757"
+  },
+  {
+    "year": 1998,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_66cdfc75c3"
+  },
+  {
+    "year": 1998,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_ca762f1a11"
+  },
+  {
+    "year": 1998,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_ce3b500031"
+  },
+  {
+    "year": 1998,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_56257ed774"
+  },
+  {
+    "year": 1998,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_03508c7f13"
+  },
+  {
+    "year": 1998,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_64493efae8"
+  },
+  {
+    "year": 1998,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_538308c869"
+  },
+  {
+    "year": 1999,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_7b3381f00f"
+  },
+  {
+    "year": 1999,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_22e1e5c815"
+  },
+  {
+    "year": 1999,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_28cb12f5f8"
+  },
+  {
+    "year": 1999,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_ffdc7dd1c5"
+  },
+  {
+    "year": 1999,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_181d6d764e"
+  },
+  {
+    "year": 1999,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_ba72d0857f"
+  },
+  {
+    "year": 1999,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_d5e0835d9f"
+  },
+  {
+    "year": 1999,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_91b4234a22"
+  },
+  {
+    "year": 2000,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_ae0bb14399"
+  },
+  {
+    "year": 2000,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_7bdee79b47"
+  },
+  {
+    "year": 2000,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_8389969c99"
+  },
+  {
+    "year": 2000,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_41a3b2dafa"
+  },
+  {
+    "year": 2000,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_22680752f9"
+  },
+  {
+    "year": 2000,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_aa226bad12"
+  },
+  {
+    "year": 2000,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_9fc8f34017"
+  },
+  {
+    "year": 2000,
+    "make": "Buick",
+    "model": "Riviera",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_2b64feb02d"
+  },
+  {
+    "year": 2001,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_c7c9964efc"
+  },
+  {
+    "year": 2001,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_eb4c004c28"
+  },
+  {
+    "year": 2001,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_f29903ec3b"
+  },
+  {
+    "year": 2001,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_7d68645de6"
+  },
+  {
+    "year": 2001,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_0319ba7961"
+  },
+  {
+    "year": 2001,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_582a9473f5"
+  },
+  {
+    "year": 2001,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_1c3f5d2377"
+  },
+  {
+    "year": 2002,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_ec3b30f502"
+  },
+  {
+    "year": 2002,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_c24fab083a"
+  },
+  {
+    "year": 2002,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_35fd76ffc2"
+  },
+  {
+    "year": 2002,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_84148d5260"
+  },
+  {
+    "year": 2002,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_38b3243d43"
+  },
+  {
+    "year": 2002,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_ba726b1c0d"
+  },
+  {
+    "year": 2002,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_95e5753d69"
+  },
+  {
+    "year": 2003,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_94fb90fd42"
+  },
+  {
+    "year": 2003,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_9d2e10df36"
+  },
+  {
+    "year": 2003,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_26a58c6db1"
+  },
+  {
+    "year": 2003,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_b6dbf0fda3"
+  },
+  {
+    "year": 2003,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_fd81b1d88d"
+  },
+  {
+    "year": 2003,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_45ccfe8599"
+  },
+  {
+    "year": 2003,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_3cb343c346"
+  },
+  {
+    "year": 2004,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_ce1c21b062"
+  },
+  {
+    "year": 2004,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_8c29c0f2b2"
+  },
+  {
+    "year": 2004,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_fa33c7080b"
+  },
+  {
+    "year": 2004,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_0d9f3648c0"
+  },
+  {
+    "year": 2004,
+    "make": "Buick",
+    "model": "Rainier",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_30d614b1da"
+  },
+  {
+    "year": 2004,
+    "make": "Buick",
+    "model": "Rainier",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_5204631961"
+  },
+  {
+    "year": 2004,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L36"
+    ],
+    "fitment_id": "f_cba3539a4c"
+  },
+  {
+    "year": 2004,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L67"
+    ],
+    "fitment_id": "f_d86ff63d13"
+  },
+  {
+    "year": 2004,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_e4d62865f9"
+  },
+  {
+    "year": 2004,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_df55f75bb6"
+  },
+  {
+    "year": 2005,
+    "make": "Buick",
+    "model": "Century",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "L82"
+    ],
+    "fitment_id": "f_4d62d36ca9"
+  },
+  {
+    "year": 2005,
+    "make": "Buick",
+    "model": "LeSabre",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_e7f475bfd9"
+  },
+  {
+    "year": 2005,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_8deb0eee47"
+  },
+  {
+    "year": 2005,
+    "make": "Buick",
+    "model": "Park Avenue",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L32"
+    ],
+    "fitment_id": "f_3171df04f5"
+  },
+  {
+    "year": 2005,
+    "make": "Buick",
+    "model": "Rainier",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_760d9dab88"
+  },
+  {
+    "year": 2005,
+    "make": "Buick",
+    "model": "Rainier",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_567b1d21fc"
+  },
+  {
+    "year": 2005,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_8dc6e05b06"
+  },
+  {
+    "year": 2005,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L32"
+    ],
+    "fitment_id": "f_56fbda30c8"
+  },
+  {
+    "year": 2005,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_291596be1f"
+  },
+  {
+    "year": 2005,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_f3ee245232"
+  },
+  {
+    "year": 2006,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_8e12f92991"
+  },
+  {
+    "year": 2006,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_ec8fb5d4d8"
+  },
+  {
+    "year": 2006,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_7bf806234d"
+  },
+  {
+    "year": 2006,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_3306233cf4"
+  },
+  {
+    "year": 2006,
+    "make": "Buick",
+    "model": "Rainier",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_5a3e20b29c"
+  },
+  {
+    "year": 2006,
+    "make": "Buick",
+    "model": "Rainier",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_656cc508de"
+  },
+  {
+    "year": 2006,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "LZ4"
+    ],
+    "fitment_id": "f_2f4649553d"
+  },
+  {
+    "year": 2006,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_57e8e79c61"
+  },
+  {
+    "year": 2007,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_b387278c31"
+  },
+  {
+    "year": 2007,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_43727ccdf7"
+  },
+  {
+    "year": 2007,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_3d441f425c"
+  },
+  {
+    "year": 2007,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_d2194263e2"
+  },
+  {
+    "year": 2007,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "LZ4"
+    ],
+    "fitment_id": "f_d26aebc4cb"
+  },
+  {
+    "year": 2007,
+    "make": "Buick",
+    "model": "Rendezvous",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_bd0ba36cff"
+  },
+  {
+    "year": 2008,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_9b8e5e25d4"
+  },
+  {
+    "year": 2008,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_c1f4b56018"
+  },
+  {
+    "year": 2008,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_821ca6fdfa"
+  },
+  {
+    "year": 2008,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_fdcb87d536"
+  },
+  {
+    "year": 2008,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_8f9f8e9ffd"
+  },
+  {
+    "year": 2009,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_1fbb9ce017"
+  },
+  {
+    "year": 2009,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_616a06c03a"
+  },
+  {
+    "year": 2009,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_10ac003a05"
+  },
+  {
+    "year": 2009,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "3.9L V6",
+    "engine_code": [
+      "LZ9"
+    ],
+    "fitment_id": "f_b20fecb2f5"
+  },
+  {
+    "year": 2009,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_d4301e530e"
+  },
+  {
+    "year": 2010,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_22b30faeeb"
+  },
+  {
+    "year": 2010,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LE5"
+    ],
+    "fitment_id": "f_149f580ffe"
+  },
+  {
+    "year": 2010,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LF1"
+    ],
+    "fitment_id": "f_f4d4a26e99"
+  },
+  {
+    "year": 2010,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_7d6e1cbc50"
+  },
+  {
+    "year": 2010,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "3.9L V6",
+    "engine_code": [
+      "LZ9"
+    ],
+    "fitment_id": "f_4ff20ee8ab"
+  },
+  {
+    "year": 2010,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_7eac92235b"
+  },
+  {
+    "year": 2011,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_2693035147"
+  },
+  {
+    "year": 2011,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_e0431ca4ce"
+  },
+  {
+    "year": 2011,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_001e9bdcb8"
+  },
+  {
+    "year": 2011,
+    "make": "Buick",
+    "model": "Lucerne",
+    "engine": "3.9L V6",
+    "engine_code": [
+      "LZ9"
+    ],
+    "fitment_id": "f_b559ddab27"
+  },
+  {
+    "year": 2011,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LHU"
+    ],
+    "fitment_id": "f_38b6a3836e"
+  },
+  {
+    "year": 2011,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LE5"
+    ],
+    "fitment_id": "f_df03ae683c"
+  },
+  {
+    "year": 2012,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_2abeaf1cbe"
+  },
+  {
+    "year": 2012,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_db113abeae"
+  },
+  {
+    "year": 2012,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_e2f51d6602"
+  },
+  {
+    "year": 2012,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LHU"
+    ],
+    "fitment_id": "f_157b403a54"
+  },
+  {
+    "year": 2012,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_e6958ae441"
+  },
+  {
+    "year": 2012,
+    "make": "Buick",
+    "model": "Verano",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_be66b70430"
+  },
+  {
+    "year": 2013,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_0441448878"
+  },
+  {
+    "year": 2013,
+    "make": "Buick",
+    "model": "Encore",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "LUJ"
+    ],
+    "fitment_id": "f_4379541087"
+  },
+  {
+    "year": 2013,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_3c99202992"
+  },
+  {
+    "year": 2013,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_67f08eae15"
+  },
+  {
+    "year": 2013,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LHU"
+    ],
+    "fitment_id": "f_4012d4fe9d"
+  },
+  {
+    "year": 2013,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_3bafa1e2a9"
+  },
+  {
+    "year": 2013,
+    "make": "Buick",
+    "model": "Verano",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LHU"
+    ],
+    "fitment_id": "f_955737f280"
+  },
+  {
+    "year": 2013,
+    "make": "Buick",
+    "model": "Verano",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_2177c2d0ec"
+  },
+  {
+    "year": 2014,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_8af20f7eb2"
+  },
+  {
+    "year": 2014,
+    "make": "Buick",
+    "model": "Encore",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "LUJ"
+    ],
+    "fitment_id": "f_1e4e566e75"
+  },
+  {
+    "year": 2014,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_0d0c163d4b"
+  },
+  {
+    "year": 2014,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_0f640aefa3"
+  },
+  {
+    "year": 2014,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_b70a47fa82"
+  },
+  {
+    "year": 2014,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_d2978c24fe"
+  },
+  {
+    "year": 2014,
+    "make": "Buick",
+    "model": "Verano",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LHU"
+    ],
+    "fitment_id": "f_6c82790e8e"
+  },
+  {
+    "year": 2014,
+    "make": "Buick",
+    "model": "Verano",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_75f730a190"
+  },
+  {
+    "year": 2015,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_63b3b43368"
+  },
+  {
+    "year": 2015,
+    "make": "Buick",
+    "model": "Encore",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "LUJ"
+    ],
+    "fitment_id": "f_1d662ed52b"
+  },
+  {
+    "year": 2015,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_56a0187bdf"
+  },
+  {
+    "year": 2015,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_a2f5cc40b6"
+  },
+  {
+    "year": 2015,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_183bf37dec"
+  },
+  {
+    "year": 2015,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_f3e1a7c9a3"
+  },
+  {
+    "year": 2015,
+    "make": "Buick",
+    "model": "Verano",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LHU"
+    ],
+    "fitment_id": "f_cec2be1e8e"
+  },
+  {
+    "year": 2015,
+    "make": "Buick",
+    "model": "Verano",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_098ef7452b"
+  },
+  {
+    "year": 2016,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_c0314e4475"
+  },
+  {
+    "year": 2016,
+    "make": "Buick",
+    "model": "Encore",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "LUJ"
+    ],
+    "fitment_id": "f_5834c0df22"
+  },
+  {
+    "year": 2016,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_e87c60d7be"
+  },
+  {
+    "year": 2016,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_f38dac2526"
+  },
+  {
+    "year": 2016,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_9e7719c42f"
+  },
+  {
+    "year": 2016,
+    "make": "Buick",
+    "model": "Verano",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LHU"
+    ],
+    "fitment_id": "f_88b01630a3"
+  },
+  {
+    "year": 2016,
+    "make": "Buick",
+    "model": "Verano",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_6f1d155063"
+  },
+  {
+    "year": 2017,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_9375f0bb9d"
+  },
+  {
+    "year": 2017,
+    "make": "Buick",
+    "model": "Encore",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "LUJ"
+    ],
+    "fitment_id": "f_b2a33a867b"
+  },
+  {
+    "year": 2017,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_5fab258288"
+  },
+  {
+    "year": 2017,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_0c077786b8"
+  },
+  {
+    "year": 2017,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_bc10b08bbc"
+  },
+  {
+    "year": 2017,
+    "make": "Buick",
+    "model": "Verano",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_a2f0b9f96c"
+  },
+  {
+    "year": 2018,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFY"
+    ],
+    "fitment_id": "f_2264fafc59"
+  },
+  {
+    "year": 2018,
+    "make": "Buick",
+    "model": "Encore",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "LUJ"
+    ],
+    "fitment_id": "f_56c8826564"
+  },
+  {
+    "year": 2018,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LFV"
+    ],
+    "fitment_id": "f_e77168c382"
+  },
+  {
+    "year": 2018,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_864d5a80e0"
+  },
+  {
+    "year": 2018,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_fbdb17bb28"
+  },
+  {
+    "year": 2018,
+    "make": "Buick",
+    "model": "Regal TourX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_7627344b07"
+  },
+  {
+    "year": 2019,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFY"
+    ],
+    "fitment_id": "f_d339227146"
+  },
+  {
+    "year": 2019,
+    "make": "Buick",
+    "model": "Encore",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "LUJ"
+    ],
+    "fitment_id": "f_841539dce1"
+  },
+  {
+    "year": 2019,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "L2T"
+    ],
+    "fitment_id": "f_31125332c7"
+  },
+  {
+    "year": 2019,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.3L Turbo I3",
+    "engine_code": [
+      "L3T"
+    ],
+    "fitment_id": "f_7cf35fecb2"
+  },
+  {
+    "year": 2019,
+    "make": "Buick",
+    "model": "Envision",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_1c391e97bc"
+  },
+  {
+    "year": 2019,
+    "make": "Buick",
+    "model": "Envision",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LKW"
+    ],
+    "fitment_id": "f_b6f7d3353d"
+  },
+  {
+    "year": 2019,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LFV"
+    ],
+    "fitment_id": "f_93cb861a5c"
+  },
+  {
+    "year": 2019,
+    "make": "Buick",
+    "model": "LaCrosse",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_2f64d51e9c"
+  },
+  {
+    "year": 2019,
+    "make": "Buick",
+    "model": "Regal",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_142a8bd424"
+  },
+  {
+    "year": 2019,
+    "make": "Buick",
+    "model": "Regal TourX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_9630191fb8"
+  },
+  {
+    "year": 2020,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFY"
+    ],
+    "fitment_id": "f_cac4e1c1e0"
+  },
+  {
+    "year": 2020,
+    "make": "Buick",
+    "model": "Encore",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "LUJ"
+    ],
+    "fitment_id": "f_ff82b72a6b"
+  },
+  {
+    "year": 2020,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "L2T"
+    ],
+    "fitment_id": "f_324e5b6ead"
+  },
+  {
+    "year": 2020,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "LIH"
+    ],
+    "fitment_id": "f_54068df71d"
+  },
+  {
+    "year": 2020,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.3L Turbo I3",
+    "engine_code": [
+      "L3T"
+    ],
+    "fitment_id": "f_774883a4e8"
+  },
+  {
+    "year": 2020,
+    "make": "Buick",
+    "model": "Envision",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_63cf8fe232"
+  },
+  {
+    "year": 2020,
+    "make": "Buick",
+    "model": "Envision",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_8f867119a8"
+  },
+  {
+    "year": 2021,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFY"
+    ],
+    "fitment_id": "f_39b10e60b3"
+  },
+  {
+    "year": 2021,
+    "make": "Buick",
+    "model": "Encore",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "LUJ"
+    ],
+    "fitment_id": "f_0ade93883a"
+  },
+  {
+    "year": 2021,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "L2T"
+    ],
+    "fitment_id": "f_15ad6a9e05"
+  },
+  {
+    "year": 2021,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "LIH"
+    ],
+    "fitment_id": "f_b214bfd397"
+  },
+  {
+    "year": 2021,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.3L Turbo I3",
+    "engine_code": [
+      "L3T"
+    ],
+    "fitment_id": "f_b45b8dde1f"
+  },
+  {
+    "year": 2021,
+    "make": "Buick",
+    "model": "Envision",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_3ffde5fd82"
+  },
+  {
+    "year": 2022,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFY"
+    ],
+    "fitment_id": "f_d7896e1fca"
+  },
+  {
+    "year": 2022,
+    "make": "Buick",
+    "model": "Encore",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "LUJ"
+    ],
+    "fitment_id": "f_d4fe298221"
+  },
+  {
+    "year": 2022,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "L2T"
+    ],
+    "fitment_id": "f_247dcb0ddc"
+  },
+  {
+    "year": 2022,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "LIH"
+    ],
+    "fitment_id": "f_f533df509f"
+  },
+  {
+    "year": 2022,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.3L Turbo I3",
+    "engine_code": [
+      "L3T"
+    ],
+    "fitment_id": "f_c8dd1c38b2"
+  },
+  {
+    "year": 2022,
+    "make": "Buick",
+    "model": "Envision",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_aecc697aa6"
+  },
+  {
+    "year": 2023,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFY"
+    ],
+    "fitment_id": "f_d1ca442618"
+  },
+  {
+    "year": 2023,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "LIH"
+    ],
+    "fitment_id": "f_0efb7691fb"
+  },
+  {
+    "year": 2023,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.3L Turbo I3",
+    "engine_code": [
+      "L3T"
+    ],
+    "fitment_id": "f_dd3864a5ee"
+  },
+  {
+    "year": 2023,
+    "make": "Buick",
+    "model": "Envision",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_4f9e0da4a4"
+  },
+  {
+    "year": 2023,
+    "make": "Buick",
+    "model": "Envista",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "LIH"
+    ],
+    "fitment_id": "f_bbfc31d4d6"
+  },
+  {
+    "year": 2024,
+    "make": "Buick",
+    "model": "Enclave",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFY"
+    ],
+    "fitment_id": "f_13d6ef5ac3"
+  },
+  {
+    "year": 2024,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "LIH"
+    ],
+    "fitment_id": "f_0d08ca5cb9"
+  },
+  {
+    "year": 2024,
+    "make": "Buick",
+    "model": "Encore GX",
+    "engine": "1.3L Turbo I3",
+    "engine_code": [
+      "L3T"
+    ],
+    "fitment_id": "f_c2d246cb02"
+  },
+  {
+    "year": 2024,
+    "make": "Buick",
+    "model": "Envision",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_68670c4623"
+  },
+  {
+    "year": 2024,
+    "make": "Buick",
+    "model": "Envista",
+    "engine": "1.2L Turbo I3",
+    "engine_code": [
+      "LIH"
+    ],
+    "fitment_id": "f_7ccfbca1cd"
+  }
+]

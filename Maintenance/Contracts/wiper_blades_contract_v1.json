@@ -1,0 +1,26 @@
+{
+  "item_id": "wiper_blades",
+  "scope_priority": [
+    "fitment_id (preferred)",
+    "year+make+model (fallback)"
+  ],
+  "positions_allowed": [
+    "front_driver",
+    "front_passenger",
+    "rear"
+  ],
+  "part_fields": {
+    "position": "enum positions_allowed",
+    "size_in": "integer",
+    "brand": "string (optional)",
+    "part_number": "string (optional)",
+    "source": "string (optional)",
+    "notes": "string (optional)"
+  },
+  "entry_fields": {
+    "scope": "object",
+    "item_id": "wiper_blades",
+    "parts": "array of part objects",
+    "notes": "string (optional)"
+  }
+}

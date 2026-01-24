@@ -1,0 +1,730 @@
+{
+  "version": "oil_capacity_seed.v2",
+  "scope": "US-only",
+  "engine_key": "engine_code",
+  "notes": "Oil capacity (with filter) in US quarts. Use variants when capacity depends on drivetrain/fitment. Values marked TBD must be verified from OEM sources.",
+  "generated_at": "2026-01-23T06:25:40.068481Z",
+  "items": [
+    {
+      "engine_code": "CHRYSLER_3.6_PENTASTAR",
+      "capacity_quarts_with_filter": 5.0,
+      "status": "SEEDED",
+      "source": "Stellantis Owner Manual 3.6L Pentastar",
+      "source_quality": "OEM_MANUAL",
+      "confidence": "HIGH"
+    },
+    {
+      "engine_code": "FORD_3.5_ECOBOOST",
+      "capacity_quarts_with_filter": 6.0,
+      "notes": "Ford owner manual capacities table (with oil filter).",
+      "status": "SEEDED",
+      "source": "Ford Service Content Owner Manual (3.5L EcoBoost capacities)",
+      "source_quality": "OEM_WEB",
+      "confidence": "HIGH"
+    },
+    {
+      "engine_code": "FORD_5.0_COYOTE",
+      "capacity_quarts_with_filter": 8.8,
+      "status": "SEEDED",
+      "source": "Common 5.0 Coyote fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_L3B",
+      "capacity_quarts_with_filter": null,
+      "notes": "Capacity differs by oil pan material per GM TechLink; enforce via vehicle fitment.",
+      "status": "SEEDED_VARIANTS",
+      "source": "GM TechLink Engine Oil Capacities (2024 PDF)",
+      "source_quality": "OEM_PDF",
+      "confidence": "MEDIUM",
+      "variants": [
+        {
+          "qualifier": "aluminum_pan",
+          "capacity_quarts_with_filter": 5.5
+        },
+        {
+          "qualifier": "plastic_pan",
+          "capacity_quarts_with_filter": 6.0
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L83",
+      "capacity_quarts_with_filter": 8.0,
+      "notes": "GM TechLink engine oil capacities (with filter).",
+      "status": "SEEDED",
+      "source": null,
+      "source_quality": null,
+      "confidence": null
+    },
+    {
+      "engine_code": "GM_L84",
+      "capacity_quarts_with_filter": 8.0,
+      "notes": "GM TechLink engine oil capacities (with filter).",
+      "status": "SEEDED",
+      "source": null,
+      "source_quality": null,
+      "confidence": null
+    },
+    {
+      "engine_code": "GM_L87",
+      "capacity_quarts_with_filter": 8.0,
+      "notes": "GM TechLink engine oil capacities (with filter).",
+      "status": "SEEDED",
+      "source": null,
+      "source_quality": null,
+      "confidence": null
+    },
+    {
+      "engine_code": "HONDA_K20C2",
+      "capacity_quarts_with_filter": 4.4,
+      "notes": "Common listing for K20C2 with filter.",
+      "status": "SEEDED",
+      "source": "Service listings (verify via Honda owner manual)",
+      "source_quality": "SECONDARY",
+      "confidence": "MEDIUM"
+    },
+    {
+      "engine_code": "HONDA_L15B7",
+      "capacity_quarts_with_filter": 0.0,
+      "status": "TBD_VERIFY",
+      "source": "TBD",
+      "source_quality": "UNSOURCED",
+      "confidence": "UNKNOWN"
+    },
+    {
+      "engine_code": "TOYOTA_A25A-FKS",
+      "capacity_quarts_with_filter": 4.8,
+      "notes": "Common listing for A25A-FKS with filter; verify by model-year if needed.",
+      "status": "SEEDED",
+      "source": "AMSOIL lookup (A25A-FKS) capacity with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "MEDIUM"
+    },
+    {
+      "engine_code": "NISSAN_QR25DE",
+      "capacity_quarts_with_filter": 5.1,
+      "status": "SEEDED",
+      "source": "Common QR25DE fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FKS",
+      "capacity_quarts_with_filter": 6.4,
+      "status": "SEEDED",
+      "source": "Common 2GR-FKS fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "HONDA_J35",
+      "capacity_quarts_with_filter": 4.5,
+      "status": "SEEDED",
+      "source": "Common J35 oil change fill",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "FORD_2.3_ECOBOOST",
+      "capacity_quarts_with_filter": 5.7,
+      "status": "SEEDED",
+      "source": "Common 2.3 EcoBoost fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_3.6_LGX",
+      "capacity_quarts_with_filter": 6.0,
+      "notes": "GM TechLink engine oil capacities (with filter).",
+      "status": "SEEDED",
+      "source": null,
+      "source_quality": null,
+      "confidence": null
+    },
+    {
+      "engine_code": "SUBARU_FB20",
+      "capacity_quarts_with_filter": 5.1,
+      "status": "SEEDED",
+      "source": "Common service listings (verify via Subaru owner manual)",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "SUBARU_FB25",
+      "capacity_quarts_with_filter": 5.1,
+      "status": "SEEDED",
+      "source": "Common service listings (verify via Subaru owner manual)",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_2.5_SMARTSTREAM",
+      "capacity_quarts_with_filter": 5.3,
+      "status": "SEEDED",
+      "source": "Common 2.5 Smartstream fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "BMW_B48",
+      "capacity_quarts_with_filter": 5.6,
+      "status": "SEEDED",
+      "source": "Common B48 fill with filter (varies by chassis)",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "BMW_B58",
+      "capacity_quarts_with_filter": 6.9,
+      "status": "SEEDED",
+      "source": "Common B58 fill with filter (varies by chassis)",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "VW_2.0_TSI",
+      "capacity_quarts_with_filter": 5.8,
+      "status": "SEEDED",
+      "source": "VW of America Job Aid - VW Engine Oil Capacities (NHTSA TSB PDF, 2021)",
+      "source_quality": "OEM_TSB_PDF",
+      "confidence": "MEDIUM",
+      "notes": "VW 2.0T capacities vary by engine code; many 2.0T entries list 4.9 qt, some list 6.0 qt. This seed uses 5.8 qt as a mid/default; enforce by exact engine code/fitment."
+    },
+    {
+      "engine_code": "MAZDA_2.5_SKYACTIV-G",
+      "capacity_quarts_with_filter": 4.8,
+      "status": "SEEDED",
+      "source": "Mazda Owners Manual capacities table (SKYACTIV-G 2.5)",
+      "source_quality": "OEM_WEB",
+      "confidence": "HIGH"
+    },
+    {
+      "engine_code": "GM_1.5_LYX",
+      "variants": [
+        {
+          "qualifier": "FWD",
+          "capacity_quarts_with_filter": 4.2
+        },
+        {
+          "qualifier": "AWD",
+          "capacity_quarts_with_filter": 5.3
+        }
+      ],
+      "notes": "GM TechLink shows different capacities by drivetrain (example: Terrain 1.5L LYX). Enforce via vehicle fitment.",
+      "status": "SEEDED",
+      "source": null,
+      "source_quality": null,
+      "confidence": null
+    },
+    {
+      "engine_code": "FORD_1.5_ECOBOOST",
+      "capacity_quarts_with_filter": 4.2,
+      "status": "SEEDED",
+      "source": "Common 1.5 EcoBoost fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_M20A-FKS",
+      "capacity_quarts_with_filter": 4.8,
+      "status": "SEEDED",
+      "source": "Common M20A fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "JEEP_2.0_TURBO_GME",
+      "capacity_quarts_with_filter": 5.0,
+      "status": "SEEDED",
+      "source": "Service guide (Paul's Travel Pictures) / dealer tips",
+      "source_quality": "SECONDARY",
+      "confidence": "MEDIUM"
+    },
+    {
+      "engine_code": "TOYOTA_2ZR-FXE",
+      "capacity_quarts_with_filter": 4.4,
+      "status": "SEEDED",
+      "source": "Common 2ZR-FXE hybrid fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_2.5_LCV",
+      "variants": [
+        {
+          "qualifier": "FWD",
+          "capacity_quarts_with_filter": 5.0
+        },
+        {
+          "qualifier": "AWD",
+          "capacity_quarts_with_filter": 6.0
+        }
+      ],
+      "notes": "GM TechLink shows different capacities by drivetrain (example: Blazer 2.5L LCV). Enforce via vehicle fitment.",
+      "status": "SEEDED",
+      "source": null,
+      "source_quality": null,
+      "confidence": null
+    },
+    {
+      "engine_code": "NISSAN_VQ35DE",
+      "capacity_quarts_with_filter": 5.1,
+      "status": "SEEDED",
+      "source": "Common VQ35DE fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "NISSAN_KR20DDET",
+      "capacity_quarts_with_filter": 5.1,
+      "status": "SEEDED",
+      "source": "Common VC-Turbo fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "FORD_7.3_GODZILLA",
+      "capacity_quarts_with_filter": 8.0,
+      "status": "SEEDED",
+      "source": "Common 7.3 Godzilla fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_6.2_LT1",
+      "capacity_quarts_with_filter": 10.0,
+      "notes": "GM TechLink lists LT1/LT4 10.0 qt in some 2024 applications; some LT1 apps use 8.0 qt. Prefer vehicle-fitment validation.",
+      "status": "SEEDED",
+      "source": "GM TechLink Engine Oil Capacities (2024 PDF)",
+      "source_quality": "OEM_PDF",
+      "confidence": "MEDIUM"
+    },
+    {
+      "engine_code": "GM_6.2_LT2",
+      "capacity_quarts_with_filter": 8.0,
+      "notes": "Often aligns with GM 6.2L listings; verify per RPO/vehicle if needed.",
+      "status": "SEEDED",
+      "source": null,
+      "source_quality": null,
+      "confidence": null
+    },
+    {
+      "engine_code": "RAM_5.7_HEMI",
+      "capacity_quarts_with_filter": 6.9,
+      "status": "SEEDED",
+      "source": "Blauparts service article (Ram 1500 5.7 HEMI)",
+      "source_quality": "SECONDARY",
+      "confidence": "MEDIUM"
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FXS",
+      "capacity_quarts_with_filter": 6.1,
+      "status": "SEEDED",
+      "source": "Common 2GR-FXS hybrid fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "FORD_6.7_POWERSTROKE_GAS",
+      "capacity_quarts_with_filter": 8.0,
+      "status": "SEEDED",
+      "source": "Ford Owner Manual 6.7L Gas V8",
+      "source_quality": "OEM_MANUAL",
+      "confidence": "HIGH"
+    },
+    {
+      "engine_code": "MAZDA_2.0_SKYACTIV-G",
+      "capacity_quarts_with_filter": 4.4,
+      "status": "SEEDED",
+      "source": "Mazda Owners Manual capacities table (SKYACTIV-G 2.0)",
+      "source_quality": "OEM_WEB",
+      "confidence": "HIGH"
+    },
+    {
+      "engine_code": "GM_5.3_L83",
+      "capacity_quarts_with_filter": 8.0,
+      "notes": "GM TechLink engine oil capacities (with filter).",
+      "status": "SEEDED",
+      "source": null,
+      "source_quality": null,
+      "confidence": null
+    },
+    {
+      "engine_code": "GM_5.3_L84",
+      "capacity_quarts_with_filter": 8.0,
+      "notes": "GM TechLink engine oil capacities (with filter).",
+      "status": "SEEDED",
+      "source": null,
+      "source_quality": null,
+      "confidence": null
+    },
+    {
+      "engine_code": "TOYOTA_5.7_3UR-FE",
+      "capacity_quarts_with_filter": 7.9,
+      "notes": "Toyota owner manual: with filter 7.9 qt.",
+      "status": "SEEDED",
+      "source": "AMSOIL lookup (3UR-FE) capacity with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "MEDIUM"
+    },
+    {
+      "engine_code": "FORD_3.0_ECOBOOST",
+      "capacity_quarts_with_filter": 6.0,
+      "status": "SEEDED",
+      "source": "Common 3.0 EcoBoost fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "NISSAN_MR20DD",
+      "capacity_quarts_with_filter": 4.6,
+      "status": "SEEDED",
+      "source": "Common MR20 fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_2.0_NU",
+      "capacity_quarts_with_filter": 4.2,
+      "status": "SEEDED",
+      "source": "Common 2.0 Nu fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_1GR-FE",
+      "capacity_quarts_with_filter": 6.4,
+      "status": "SEEDED",
+      "source": "Toyota owner manual PDF indicates 1GR-FE 6.4 qt with filter (source fetch error in tool; verify)",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_2TR-FE",
+      "capacity_quarts_with_filter": 6.1,
+      "status": "SEEDED",
+      "source": "Common 2TR-FE fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "FORD_2.7_ECOBOOST",
+      "capacity_quarts_with_filter": 6.0,
+      "status": "SEEDED",
+      "source": "Common 2.7 EcoBoost fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_LE2_2.0_TURBO",
+      "capacity_quarts_with_filter": 5.3,
+      "status": "SEEDED",
+      "source": "GM TechLink Engine Oil Capacities (2024 PDF)",
+      "source_quality": "OEM_PDF",
+      "confidence": "MEDIUM",
+      "notes": "Using GM 2.0L turbo family capacity; confirm by RPO/application."
+    },
+    {
+      "engine_code": "NISSAN_HR16DE",
+      "capacity_quarts_with_filter": 4.2,
+      "status": "SEEDED",
+      "source": "Common HR16 fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_2AR-FE",
+      "capacity_quarts_with_filter": 4.6,
+      "status": "SEEDED",
+      "source": "Common 2AR-FE fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_4RUNNER_4.0_1GR_FE_OLD",
+      "capacity_quarts_with_filter": 0.0,
+      "status": "TBD_VERIFY",
+      "source": "TBD",
+      "source_quality": "UNSOURCED",
+      "confidence": "UNKNOWN"
+    },
+    {
+      "engine_code": "FORD_4.6_MODULAR_2V_3V",
+      "capacity_quarts_with_filter": 6.0,
+      "status": "SEEDED",
+      "source": "Common 4.6 Modular fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_4.8_L20",
+      "capacity_quarts_with_filter": 8.0,
+      "status": "SEEDED",
+      "source": "GM TechLink Engine Oil Capacities (2024 PDF)",
+      "source_quality": "OEM_PDF",
+      "confidence": "LOW",
+      "notes": "If this engine_code maps to Gen V 4.8L, capacity may align with other Gen V V8s; verify."
+    },
+    {
+      "engine_code": "HONDA_R18A",
+      "capacity_quarts_with_filter": 3.7,
+      "status": "SEEDED",
+      "source": "Common R18 oil change fill",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "KIA_1.6_GDI",
+      "capacity_quarts_with_filter": 4.2,
+      "status": "SEEDED",
+      "source": "Common 1.6 GDI fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FE",
+      "capacity_quarts_with_filter": 6.4,
+      "status": "SEEDED",
+      "source": "Common 2GR-FE fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "FORD_5.4_MODULAR_3V",
+      "capacity_quarts_with_filter": 7.0,
+      "status": "SEEDED",
+      "source": "Common 5.4 Modular fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_3.0_DURAMAX_LM2",
+      "capacity_quarts_with_filter": 7.0,
+      "notes": "GM TechLink engine oil capacities (with filter).",
+      "status": "SEEDED",
+      "source": null,
+      "source_quality": null,
+      "confidence": null
+    },
+    {
+      "engine_code": "NISSAN_VQ37VHR",
+      "capacity_quarts_with_filter": 5.1,
+      "status": "SEEDED",
+      "source": "Common VQ37 fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "SUBARU_EJ25",
+      "capacity_quarts_with_filter": 4.2,
+      "status": "SEEDED",
+      "source": "Common service listings (verify via Subaru owner manual)",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_5.3_LM7_GEN4",
+      "capacity_quarts_with_filter": 6.0,
+      "status": "SEEDED",
+      "source": "Common LS-based 5.3 fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_6.0_LQ4_LQ9",
+      "capacity_quarts_with_filter": 6.0,
+      "status": "SEEDED",
+      "source": "Common LS-based 6.0 fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "FORD_3.0_DURATEC_V6",
+      "capacity_quarts_with_filter": 5.5,
+      "status": "SEEDED",
+      "source": "Common 3.0 Duratec fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "FORD_2.5_DURATEC_I4",
+      "capacity_quarts_with_filter": 5.7,
+      "status": "SEEDED",
+      "source": "Common 2.5 Duratec fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "NISSAN_QR25DE_OLD",
+      "capacity_quarts_with_filter": 5.1,
+      "status": "SEEDED",
+      "source": "Common older QR25DE fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_1NZ-FE",
+      "capacity_quarts_with_filter": 3.7,
+      "status": "SEEDED",
+      "source": "Common 1NZ fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_2AZ-FE",
+      "capacity_quarts_with_filter": 4.3,
+      "status": "SEEDED",
+      "source": "Common 2AZ fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "FORD_4.0_SOHC_V6",
+      "capacity_quarts_with_filter": 5.0,
+      "status": "SEEDED",
+      "source": "Common 4.0 SOHC fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_3.8_3800_SERIES_II",
+      "capacity_quarts_with_filter": 4.5,
+      "status": "SEEDED",
+      "source": "Common 3800 fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "HONDA_D17",
+      "capacity_quarts_with_filter": 3.7,
+      "status": "SEEDED",
+      "source": "Common D17 oil change fill",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_4.3_VORTEC_V6",
+      "capacity_quarts_with_filter": 6.0,
+      "status": "SEEDED",
+      "source": "GM TechLink Engine Oil Capacities (2024 PDF)",
+      "source_quality": "OEM_PDF",
+      "confidence": "HIGH",
+      "notes": "GM TechLink lists 4.3L V6 (LV1) 6.0 qt (with filter)."
+    },
+    {
+      "engine_code": "FORD_2.0_DURATEC_I4",
+      "capacity_quarts_with_filter": 4.5,
+      "status": "SEEDED",
+      "source": "Common 2.0 Duratec fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_5VZ-FE",
+      "capacity_quarts_with_filter": 5.5,
+      "status": "SEEDED",
+      "source": "Common 5VZ-FE fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "NISSAN_KA24DE",
+      "capacity_quarts_with_filter": 3.7,
+      "status": "SEEDED",
+      "source": "Common KA24 fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "HONDA_K24A",
+      "capacity_quarts_with_filter": 4.4,
+      "status": "SEEDED",
+      "source": "Common K24 oil change fill",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "FORD_3.7_CYCLONE_V6",
+      "capacity_quarts_with_filter": 6.0,
+      "status": "SEEDED",
+      "source": "Common 3.7 Cyclone fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "GM_2.2_ECOTEC_L61",
+      "capacity_quarts_with_filter": 5.0,
+      "status": "SEEDED",
+      "source": "Common 2.2 Ecotec fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "TOYOTA_22R_22RE",
+      "capacity_quarts_with_filter": 4.0,
+      "status": "SEEDED",
+      "source": "Common 22R fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "NISSAN_VG33E",
+      "capacity_quarts_with_filter": 3.7,
+      "status": "SEEDED",
+      "source": "Common VG33 fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "MITSUBISHI_4G63",
+      "capacity_quarts_with_filter": 4.8,
+      "status": "SEEDED",
+      "source": "Common 4G63 fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "MITSUBISHI_4G63T",
+      "capacity_quarts_with_filter": 4.8,
+      "status": "SEEDED",
+      "source": "Common 4G63T fill with filter",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "HONDA_K_SERIES_LEGACY",
+      "capacity_quarts_with_filter": 4.4,
+      "status": "SEEDED",
+      "source": "Common K-series oil change fill",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "HONDA_B_SERIES",
+      "capacity_quarts_with_filter": 4.4,
+      "status": "SEEDED",
+      "source": "Common B-series oil change fill",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "HONDA_D_SERIES_LEGACY",
+      "capacity_quarts_with_filter": 3.7,
+      "status": "SEEDED",
+      "source": "Common D-series oil change fill",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    },
+    {
+      "engine_code": "HONDA_F_SERIES",
+      "capacity_quarts_with_filter": 4.5,
+      "status": "SEEDED",
+      "source": "Common F-series oil change fill",
+      "source_quality": "SECONDARY",
+      "confidence": "LOW"
+    }
+  ],
+  "items_checksum": "b054b9d82a265bfe6df8843facbc437918c79139ed227748f286ca8237c53063"
+}

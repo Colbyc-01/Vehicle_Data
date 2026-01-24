@@ -1,0 +1,19 @@
+{
+  "item_id": "battery",
+  "scope_priority": [
+    "fitment_id (preferred)",
+    "year+make+model (fallback)"
+  ],
+  "fields": {
+    "group_size": "string (e.g. H6, H7, 35, 24F)",
+    "chemistry": "enum [Flooded, AGM, EFB]",
+    "min_cca": "integer",
+    "terminal_orientation": "string (optional)",
+    "registration_required": "boolean",
+    "notes": "string (optional)"
+  },
+  "rules": [
+    "If vehicle has start/stop, AGM or EFB is required",
+    "If registration_required is true, app must warn user post-install"
+  ]
+}

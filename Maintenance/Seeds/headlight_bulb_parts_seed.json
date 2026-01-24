@@ -1,0 +1,76 @@
+[
+  {
+    "scope": {
+      "year": 2020,
+      "make": "Ford",
+      "model": "F-150"
+    },
+    "item_id": "headlight_bulb",
+    "parts": [
+      {
+        "position": "low_beam",
+        "bulb_type": "H11",
+        "technology": "Halogen",
+        "requires_pair": true
+      },
+      {
+        "position": "high_beam",
+        "bulb_type": "9005",
+        "technology": "Halogen",
+        "requires_pair": true
+      }
+    ],
+    "notes": "Some trims use LED assemblies; verify by VIN."
+  },
+  {
+    "scope": {
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Camry"
+    },
+    "item_id": "headlight_bulb",
+    "parts": [
+      {
+        "position": "low_beam",
+        "bulb_type": "H11",
+        "technology": "Halogen",
+        "requires_pair": true
+      },
+      {
+        "position": "high_beam",
+        "bulb_type": "9005",
+        "technology": "Halogen",
+        "requires_pair": true
+      },
+      {
+        "position": "fog_light",
+        "bulb_type": "H16",
+        "technology": "Halogen",
+        "requires_pair": true
+      }
+    ]
+  },
+  {
+    "scope": {
+      "year": 2018,
+      "make": "Volkswagen",
+      "model": "Golf"
+    },
+    "item_id": "headlight_bulb",
+    "parts": [
+      {
+        "position": "low_beam",
+        "bulb_type": "D3S",
+        "technology": "HID",
+        "requires_pair": true
+      },
+      {
+        "position": "high_beam",
+        "bulb_type": "H7",
+        "technology": "Halogen",
+        "requires_pair": true
+      }
+    ],
+    "notes": "Bi-xenon setups vary by trim; VIN check recommended."
+  }
+]

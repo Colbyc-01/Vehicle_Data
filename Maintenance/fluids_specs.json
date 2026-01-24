@@ -1,0 +1,93 @@
+[
+  {
+    "scope": {
+      "engine_code": "EB35"
+    },
+    "engine_oil": {
+      "viscosity": [
+        "5W-30"
+      ],
+      "spec": [
+        "WSS-M2C961-A1"
+      ],
+      "capacity_with_filter_qt": 6.0,
+      "notes": "Some applications allow 0W-30 for extremely cold climates; always confirm by VIN/owner manual.",
+      "sources": [
+        {
+          "title": "Ford Owner Manual - 3.5L EcoBoost oil capacity/spec",
+          "ref": "turn0search14"
+        }
+      ]
+    }
+  },
+  {
+    "scope": {
+      "engine_code": "2GR-FKS"
+    },
+    "engine_oil": {
+      "viscosity": [
+        "0W-20"
+      ],
+      "capacity_with_filter_qt": 6.1,
+      "capacity_with_filter_alt_qt": 6.2,
+      "notes": "Capacity varies by application (e.g., oil cooler vs no oil cooler). Confirm by VIN/service info.",
+      "sources": [
+        {
+          "title": "AMSOIL lookup - 2GR-FKS Tacoma capacities",
+          "ref": "turn1search0"
+        },
+        {
+          "title": "MotivX oil service guide - 2GR-FKS capacities",
+          "ref": "turn1search6"
+        }
+      ]
+    }
+  },
+  {
+    "scope": {
+      "engine_code": "EA888"
+    },
+    "engine_oil": {
+      "viscosity": [
+        "0W-20",
+        "5W-30",
+        "5W-40"
+      ],
+      "spec": [
+        "VW 502 00",
+        "VW 504 00",
+        "VW 508 00/509 00"
+      ],
+      "capacity_with_filter_qt": 6.0,
+      "notes": "EA888 spans multiple generations; oil spec/viscosity and capacity vary by engine code and model year. Use VIN-based manual/service data to select the correct VW oil standard.",
+      "sources": [
+        {
+          "title": "VW Job Aid - Engine Oil Capacities (TSB PDF)",
+          "ref": "turn1search16"
+        },
+        {
+          "title": "FCP Euro EA888 oil change guide (5.7L mention)",
+          "ref": "turn1search7"
+        }
+      ]
+    }
+  },
+  {
+    "scope": {
+      "engine_code": "J35"
+    },
+    "engine_oil": {
+      "viscosity": [
+        "0W-20"
+      ],
+      "capacity_with_filter_qt": 5.7,
+      "notes": "Capacity/viscosity can vary by J35 variant and vehicle. Confirm by VIN/owner manual.",
+      "sources": [
+        {
+          "title": "AMSOIL lookup - Honda Odyssey J35Y7 (0W-20, 5.7 qt)",
+          "ref": "turn1search2"
+        }
+      ]
+    }
+  }
+]

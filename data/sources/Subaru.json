@@ -1,0 +1,1102 @@
+[
+  {
+    "year": 1995,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "EJ22"
+    ],
+    "fitment_id": "f_c384bedf2c"
+  },
+  {
+    "year": 1995,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "EJ22"
+    ],
+    "fitment_id": "f_0316d04010"
+  },
+  {
+    "year": 1996,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "EJ22"
+    ],
+    "fitment_id": "f_dd8b268f98"
+  },
+  {
+    "year": 1996,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "EJ22"
+    ],
+    "fitment_id": "f_0d0c602ab1"
+  },
+  {
+    "year": 1997,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "EJ22"
+    ],
+    "fitment_id": "f_4d748c8408"
+  },
+  {
+    "year": 1997,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "EJ22"
+    ],
+    "fitment_id": "f_3aad4a19ab"
+  },
+  {
+    "year": 1998,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "EJ22"
+    ],
+    "fitment_id": "f_9005f5caae"
+  },
+  {
+    "year": 1998,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "EJ22"
+    ],
+    "fitment_id": "f_65c3e1853c"
+  },
+  {
+    "year": 1999,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "EJ22"
+    ],
+    "fitment_id": "f_5261a05256"
+  },
+  {
+    "year": 1999,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "EJ22"
+    ],
+    "fitment_id": "f_f495b7fbbc"
+  },
+  {
+    "year": 2000,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_51596c5828"
+  },
+  {
+    "year": 2000,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_71163dd5f8"
+  },
+  {
+    "year": 2000,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "EZ30"
+    ],
+    "fitment_id": "f_91de9ca77a"
+  },
+  {
+    "year": 2000,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_c988746f6f"
+  },
+  {
+    "year": 2001,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_ce116000cb"
+  },
+  {
+    "year": 2001,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_aeb9ece6b5"
+  },
+  {
+    "year": 2001,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "EZ30"
+    ],
+    "fitment_id": "f_a9f7c5015f"
+  },
+  {
+    "year": 2001,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_cb8dd4b291"
+  },
+  {
+    "year": 2002,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_44bf7826bf"
+  },
+  {
+    "year": 2002,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_c5c3c62dd8"
+  },
+  {
+    "year": 2002,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "EZ30"
+    ],
+    "fitment_id": "f_325886f7c6"
+  },
+  {
+    "year": 2002,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_832876bd8e"
+  },
+  {
+    "year": 2003,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_95d691c09d"
+  },
+  {
+    "year": 2003,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_d5d26720d7"
+  },
+  {
+    "year": 2003,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "EZ30"
+    ],
+    "fitment_id": "f_6577e5a921"
+  },
+  {
+    "year": 2003,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_caeedb26ec"
+  },
+  {
+    "year": 2004,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_7284f9cba6"
+  },
+  {
+    "year": 2004,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_5869ccfe2e"
+  },
+  {
+    "year": 2004,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "EZ30"
+    ],
+    "fitment_id": "f_e3a7f71bff"
+  },
+  {
+    "year": 2004,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_14fcb3e11e"
+  },
+  {
+    "year": 2005,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_14ff9cf243"
+  },
+  {
+    "year": 2005,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_e740af4928"
+  },
+  {
+    "year": 2005,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "EZ30"
+    ],
+    "fitment_id": "f_245ded2b5a"
+  },
+  {
+    "year": 2005,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_4a190080d4"
+  },
+  {
+    "year": 2006,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_12f16b59d8"
+  },
+  {
+    "year": 2006,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_dd1a3251f0"
+  },
+  {
+    "year": 2006,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "EZ30"
+    ],
+    "fitment_id": "f_a9ee86e06a"
+  },
+  {
+    "year": 2006,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_9c5d8bbd44"
+  },
+  {
+    "year": 2007,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_98797d3355"
+  },
+  {
+    "year": 2007,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_4756803054"
+  },
+  {
+    "year": 2007,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "EZ30"
+    ],
+    "fitment_id": "f_66cf19a105"
+  },
+  {
+    "year": 2007,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_4785a67042"
+  },
+  {
+    "year": 2008,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_d9c5237fff"
+  },
+  {
+    "year": 2008,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_6389be28e2"
+  },
+  {
+    "year": 2008,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "EZ30"
+    ],
+    "fitment_id": "f_48939e06dc"
+  },
+  {
+    "year": 2008,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_e6ec654bfa"
+  },
+  {
+    "year": 2009,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_7522dbe0b0"
+  },
+  {
+    "year": 2009,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_ff8ea7cbfc"
+  },
+  {
+    "year": 2009,
+    "make": "Subaru",
+    "model": "Legacy",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "EZ30"
+    ],
+    "fitment_id": "f_09a6e815aa"
+  },
+  {
+    "year": 2009,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "EJ25"
+    ],
+    "fitment_id": "f_7036e7c96e"
+  },
+  {
+    "year": 2010,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_fd56550ba3"
+  },
+  {
+    "year": 2010,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_5e8e159286"
+  },
+  {
+    "year": 2010,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_3f2d40d337"
+  },
+  {
+    "year": 2010,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_3631354a91"
+  },
+  {
+    "year": 2011,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_088183f64c"
+  },
+  {
+    "year": 2011,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_d0ede067c5"
+  },
+  {
+    "year": 2011,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_a3545d57fd"
+  },
+  {
+    "year": 2011,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_7aa24f5231"
+  },
+  {
+    "year": 2012,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_178bec8340"
+  },
+  {
+    "year": 2012,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_46794468de"
+  },
+  {
+    "year": 2012,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_83bbd0412e"
+  },
+  {
+    "year": 2012,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_b2aaa6b8e3"
+  },
+  {
+    "year": 2013,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_663ef9ee6c"
+  },
+  {
+    "year": 2013,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_308438debe"
+  },
+  {
+    "year": 2013,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_ae4ca4b5b3"
+  },
+  {
+    "year": 2013,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_9311c6b7c8"
+  },
+  {
+    "year": 2014,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_732f52d9f1"
+  },
+  {
+    "year": 2014,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_f3359b1d61"
+  },
+  {
+    "year": 2014,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_9282b204f5"
+  },
+  {
+    "year": 2014,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_ba0b4f7038"
+  },
+  {
+    "year": 2015,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_9738869a88"
+  },
+  {
+    "year": 2015,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_aa371d96a7"
+  },
+  {
+    "year": 2015,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_14ea567b06"
+  },
+  {
+    "year": 2015,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_0a28a6cf3c"
+  },
+  {
+    "year": 2016,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_3a1ac0352a"
+  },
+  {
+    "year": 2016,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_72427da0b0"
+  },
+  {
+    "year": 2016,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_b4a13b7f70"
+  },
+  {
+    "year": 2016,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_a4f51e147f"
+  },
+  {
+    "year": 2017,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_57d48784e9"
+  },
+  {
+    "year": 2017,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_a90291830b"
+  },
+  {
+    "year": 2017,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_937033fca5"
+  },
+  {
+    "year": 2017,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_c3617e4097"
+  },
+  {
+    "year": 2018,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_be28f67d65"
+  },
+  {
+    "year": 2018,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_f5579f6d63"
+  },
+  {
+    "year": 2018,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_0ebdd551b5"
+  },
+  {
+    "year": 2018,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_f650e1365f"
+  },
+  {
+    "year": 2019,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_0aec77a53d"
+  },
+  {
+    "year": 2019,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_a3aa56f8c6"
+  },
+  {
+    "year": 2019,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_f9ade15ca9"
+  },
+  {
+    "year": 2019,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_067d127417"
+  },
+  {
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_5e5eec8d90"
+  },
+  {
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_054c812d63"
+  },
+  {
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_b417ed6857"
+  },
+  {
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_fa24458ebf"
+  },
+  {
+    "year": 2021,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_5d06d33894"
+  },
+  {
+    "year": 2021,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_2e0fdae759"
+  },
+  {
+    "year": 2021,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_a1aa9b17e8"
+  },
+  {
+    "year": 2021,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_1332941cac"
+  },
+  {
+    "year": 2022,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_ce487cb945"
+  },
+  {
+    "year": 2022,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_8b26b4011d"
+  },
+  {
+    "year": 2022,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_022d632188"
+  },
+  {
+    "year": 2022,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_a7602325d1"
+  },
+  {
+    "year": 2023,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_5d24104e03"
+  },
+  {
+    "year": 2023,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_159eaf1969"
+  },
+  {
+    "year": 2023,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_f70014d273"
+  },
+  {
+    "year": 2023,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_6da143892e"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Forester",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_ce197718c9"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Impreza",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FB20"
+    ],
+    "fitment_id": "f_d8903f629d"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "FB25"
+    ],
+    "fitment_id": "f_d61ac08211"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Outback",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "EZ36"
+    ],
+    "fitment_id": "f_c28bf4093a"
+  }
+]

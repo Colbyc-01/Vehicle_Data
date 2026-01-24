@@ -1,0 +1,1052 @@
+[
+  {
+    "year": 1995,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "1MZ-FE"
+    ],
+    "fitment_id": "f_ac8e0bff20"
+  },
+  {
+    "year": 1995,
+    "make": "Lexus",
+    "model": "LS",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "1UZ-FE"
+    ],
+    "fitment_id": "f_4b693fed47"
+  },
+  {
+    "year": 1996,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "1MZ-FE"
+    ],
+    "fitment_id": "f_6c5634393c"
+  },
+  {
+    "year": 1996,
+    "make": "Lexus",
+    "model": "LS",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "1UZ-FE"
+    ],
+    "fitment_id": "f_246075e5ff"
+  },
+  {
+    "year": 1997,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "1MZ-FE"
+    ],
+    "fitment_id": "f_a50089e288"
+  },
+  {
+    "year": 1997,
+    "make": "Lexus",
+    "model": "LS",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "1UZ-FE"
+    ],
+    "fitment_id": "f_c1f143554c"
+  },
+  {
+    "year": 1998,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "1MZ-FE"
+    ],
+    "fitment_id": "f_0bb7dd8c8e"
+  },
+  {
+    "year": 1998,
+    "make": "Lexus",
+    "model": "LS",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "1UZ-FE"
+    ],
+    "fitment_id": "f_54226c1322"
+  },
+  {
+    "year": 1999,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "1MZ-FE"
+    ],
+    "fitment_id": "f_373bdeebe2"
+  },
+  {
+    "year": 1999,
+    "make": "Lexus",
+    "model": "LS",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "1UZ-FE"
+    ],
+    "fitment_id": "f_4dd00d2fb4"
+  },
+  {
+    "year": 2000,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "1MZ-FE"
+    ],
+    "fitment_id": "f_0655a7c55e"
+  },
+  {
+    "year": 2000,
+    "make": "Lexus",
+    "model": "LS",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "1UZ-FE"
+    ],
+    "fitment_id": "f_c2057c84da"
+  },
+  {
+    "year": 2001,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "3MZ-FE"
+    ],
+    "fitment_id": "f_a7c53c98ee"
+  },
+  {
+    "year": 2001,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "3MZ-FE"
+    ],
+    "fitment_id": "f_789625d36c"
+  },
+  {
+    "year": 2002,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "3MZ-FE"
+    ],
+    "fitment_id": "f_68d9d9bb8e"
+  },
+  {
+    "year": 2002,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "3MZ-FE"
+    ],
+    "fitment_id": "f_e44229d2d7"
+  },
+  {
+    "year": 2003,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "3MZ-FE"
+    ],
+    "fitment_id": "f_db1bffa438"
+  },
+  {
+    "year": 2003,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "3MZ-FE"
+    ],
+    "fitment_id": "f_fdbe31a963"
+  },
+  {
+    "year": 2004,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "3MZ-FE"
+    ],
+    "fitment_id": "f_cc4ac87a01"
+  },
+  {
+    "year": 2004,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "3MZ-FE"
+    ],
+    "fitment_id": "f_66c5b4a137"
+  },
+  {
+    "year": 2005,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "3MZ-FE"
+    ],
+    "fitment_id": "f_6a1ce95f48"
+  },
+  {
+    "year": 2005,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "3MZ-FE"
+    ],
+    "fitment_id": "f_be071de667"
+  },
+  {
+    "year": 2006,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_75cab10786"
+  },
+  {
+    "year": 2006,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_376eb982b4"
+  },
+  {
+    "year": 2006,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_1d397cea09"
+  },
+  {
+    "year": 2007,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_c58e76baf3"
+  },
+  {
+    "year": 2007,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_964de8b7f3"
+  },
+  {
+    "year": 2007,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_95f1ffe8be"
+  },
+  {
+    "year": 2008,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_4ce65c4156"
+  },
+  {
+    "year": 2008,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_36e4d8c1d6"
+  },
+  {
+    "year": 2008,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_6df7efb4a4"
+  },
+  {
+    "year": 2009,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_23abb70c13"
+  },
+  {
+    "year": 2009,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_c380789c5f"
+  },
+  {
+    "year": 2009,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_e3589c57ec"
+  },
+  {
+    "year": 2010,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_970be8ce9f"
+  },
+  {
+    "year": 2010,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_3f44115759"
+  },
+  {
+    "year": 2010,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_fcafeb6ef4"
+  },
+  {
+    "year": 2011,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_a09fabd85c"
+  },
+  {
+    "year": 2011,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_a3b62c5f00"
+  },
+  {
+    "year": 2011,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "fitment_id": "f_6f68089c26"
+  },
+  {
+    "year": 2012,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_32b510a749"
+  },
+  {
+    "year": 2012,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_67d59eb2a3"
+  },
+  {
+    "year": 2012,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_ba97603c1f"
+  },
+  {
+    "year": 2012,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_270ba94b2b"
+  },
+  {
+    "year": 2012,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_b62604f7f2"
+  },
+  {
+    "year": 2013,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_1e695ae2c9"
+  },
+  {
+    "year": 2013,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_cda3009179"
+  },
+  {
+    "year": 2013,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_8307b5f23f"
+  },
+  {
+    "year": 2013,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_621be1c2ba"
+  },
+  {
+    "year": 2013,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_1f25238b2a"
+  },
+  {
+    "year": 2014,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_f32796085d"
+  },
+  {
+    "year": 2014,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_cd32b5c62c"
+  },
+  {
+    "year": 2014,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_5669f947e8"
+  },
+  {
+    "year": 2014,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_ba6611dd2b"
+  },
+  {
+    "year": 2014,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_3896a399ca"
+  },
+  {
+    "year": 2015,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_337abca0e8"
+  },
+  {
+    "year": 2015,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_1db04b4842"
+  },
+  {
+    "year": 2015,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_fa87e89ca5"
+  },
+  {
+    "year": 2015,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_93e88bd4a9"
+  },
+  {
+    "year": 2015,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_c5c4d1317b"
+  },
+  {
+    "year": 2016,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_bab28eb5c7"
+  },
+  {
+    "year": 2016,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_7415e16551"
+  },
+  {
+    "year": 2016,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_7083c8246e"
+  },
+  {
+    "year": 2016,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_bd9af6c218"
+  },
+  {
+    "year": 2016,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_15e0785f83"
+  },
+  {
+    "year": 2017,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_798a281f54"
+  },
+  {
+    "year": 2017,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_6ddc464710"
+  },
+  {
+    "year": 2017,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_faedc66cee"
+  },
+  {
+    "year": 2017,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_195dff1bb5"
+  },
+  {
+    "year": 2017,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_af05bd1062"
+  },
+  {
+    "year": 2018,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_858bdb2788"
+  },
+  {
+    "year": 2018,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_aafaef9b71"
+  },
+  {
+    "year": 2018,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_cd2d09c1b5"
+  },
+  {
+    "year": 2018,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_f1417ae53f"
+  },
+  {
+    "year": 2018,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_db18fd5284"
+  },
+  {
+    "year": 2019,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_0db87f5841"
+  },
+  {
+    "year": 2019,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_b79946e865"
+  },
+  {
+    "year": 2019,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_123481a65e"
+  },
+  {
+    "year": 2019,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_8cd112008d"
+  },
+  {
+    "year": 2019,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_c9efae71e9"
+  },
+  {
+    "year": 2020,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_c6330d8a74"
+  },
+  {
+    "year": 2020,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_b17c307055"
+  },
+  {
+    "year": 2020,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_2a0b60b79b"
+  },
+  {
+    "year": 2020,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_f1067c0bc7"
+  },
+  {
+    "year": 2020,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_547d97dcdb"
+  },
+  {
+    "year": 2021,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_634a52e427"
+  },
+  {
+    "year": 2021,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_4ba436eb93"
+  },
+  {
+    "year": 2021,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_f2ce97b231"
+  },
+  {
+    "year": 2021,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_95fe9c4e57"
+  },
+  {
+    "year": 2021,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_09af93cc49"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_6f05ab3fd3"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_17e5a89404"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_667058a0b5"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_1186498a50"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_b0042c0a3f"
+  },
+  {
+    "year": 2023,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_dcb9bd0c18"
+  },
+  {
+    "year": 2023,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_7f5de74fb2"
+  },
+  {
+    "year": 2023,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_25ba4955c4"
+  },
+  {
+    "year": 2023,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_9ff860f581"
+  },
+  {
+    "year": 2023,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_2eadb23db0"
+  },
+  {
+    "year": 2024,
+    "make": "Lexus",
+    "model": "ES",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_efd0e161f5"
+  },
+  {
+    "year": 2024,
+    "make": "Lexus",
+    "model": "GX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "fitment_id": "f_0d99af327f"
+  },
+  {
+    "year": 2024,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "fitment_id": "f_3a36329010"
+  },
+  {
+    "year": 2024,
+    "make": "Lexus",
+    "model": "IS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "fitment_id": "f_3f1b6083d5"
+  },
+  {
+    "year": 2024,
+    "make": "Lexus",
+    "model": "RX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "fitment_id": "f_8b23f77f4d"
+  }
+]

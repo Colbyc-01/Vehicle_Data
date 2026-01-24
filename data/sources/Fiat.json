@@ -1,0 +1,502 @@
+[
+  {
+    "year": 2012,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L I4",
+    "engine_code": [
+      "FIRE14"
+    ],
+    "fitment_id": "f_efa3ccc564"
+  },
+  {
+    "year": 2012,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_160fd74463"
+  },
+  {
+    "year": 2013,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L I4",
+    "engine_code": [
+      "FIRE14"
+    ],
+    "fitment_id": "f_cae937cdb8"
+  },
+  {
+    "year": 2013,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_5f97877ddc"
+  },
+  {
+    "year": 2014,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L I4",
+    "engine_code": [
+      "FIRE14"
+    ],
+    "fitment_id": "f_f52b769340"
+  },
+  {
+    "year": 2014,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_c6bcef47a2"
+  },
+  {
+    "year": 2014,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_e552a5cdc9"
+  },
+  {
+    "year": 2014,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_72aba0f93f"
+  },
+  {
+    "year": 2015,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L I4",
+    "engine_code": [
+      "FIRE14"
+    ],
+    "fitment_id": "f_67d95969a8"
+  },
+  {
+    "year": 2015,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_8cc4de0d08"
+  },
+  {
+    "year": 2015,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_740590ec1e"
+  },
+  {
+    "year": 2015,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_5b2556cdfb"
+  },
+  {
+    "year": 2016,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L I4",
+    "engine_code": [
+      "FIRE14"
+    ],
+    "fitment_id": "f_051772a199"
+  },
+  {
+    "year": 2016,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_aa768f4d9f"
+  },
+  {
+    "year": 2016,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_88a9384b5f"
+  },
+  {
+    "year": 2016,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_f8e9ee4880"
+  },
+  {
+    "year": 2016,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_9e5c0d2ee7"
+  },
+  {
+    "year": 2016,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_9896e0f297"
+  },
+  {
+    "year": 2017,
+    "make": "Fiat",
+    "model": "124 Spider",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_3ea0e031ba"
+  },
+  {
+    "year": 2017,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L I4",
+    "engine_code": [
+      "FIRE14"
+    ],
+    "fitment_id": "f_2cb0f3759c"
+  },
+  {
+    "year": 2017,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_607dbd0968"
+  },
+  {
+    "year": 2017,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_bc77a3955c"
+  },
+  {
+    "year": 2017,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_06a47180ae"
+  },
+  {
+    "year": 2017,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_a94b9a0e83"
+  },
+  {
+    "year": 2017,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_70e33ba1e2"
+  },
+  {
+    "year": 2018,
+    "make": "Fiat",
+    "model": "124 Spider",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_3ff629555c"
+  },
+  {
+    "year": 2018,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L I4",
+    "engine_code": [
+      "FIRE14"
+    ],
+    "fitment_id": "f_7d5f4634c7"
+  },
+  {
+    "year": 2018,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_03cb7f343e"
+  },
+  {
+    "year": 2018,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_772fcd6d7b"
+  },
+  {
+    "year": 2018,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_90851f3b9b"
+  },
+  {
+    "year": 2018,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_5294cbef37"
+  },
+  {
+    "year": 2018,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_32ec7fb0a3"
+  },
+  {
+    "year": 2019,
+    "make": "Fiat",
+    "model": "124 Spider",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_66029cf846"
+  },
+  {
+    "year": 2019,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L I4",
+    "engine_code": [
+      "FIRE14"
+    ],
+    "fitment_id": "f_74ff0111b9"
+  },
+  {
+    "year": 2019,
+    "make": "Fiat",
+    "model": "500",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_a43d018e78"
+  },
+  {
+    "year": 2019,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_66e29f8af1"
+  },
+  {
+    "year": 2019,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_2b7308ed37"
+  },
+  {
+    "year": 2019,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_f1dd848552"
+  },
+  {
+    "year": 2019,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_e0ffc577b5"
+  },
+  {
+    "year": 2020,
+    "make": "Fiat",
+    "model": "124 Spider",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_e59c49e67d"
+  },
+  {
+    "year": 2020,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_ec64a07ce2"
+  },
+  {
+    "year": 2020,
+    "make": "Fiat",
+    "model": "500L",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_4eb0f60fec"
+  },
+  {
+    "year": 2020,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_39ed7a18a0"
+  },
+  {
+    "year": 2020,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_5988ea9fcb"
+  },
+  {
+    "year": 2021,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_4dbb5549ef"
+  },
+  {
+    "year": 2021,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_22e29a001e"
+  },
+  {
+    "year": 2022,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_db1491a1b3"
+  },
+  {
+    "year": 2022,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_498e169e77"
+  },
+  {
+    "year": 2023,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "A14T"
+    ],
+    "fitment_id": "f_c58fc293e1"
+  },
+  {
+    "year": 2023,
+    "make": "Fiat",
+    "model": "500X",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "Tigershark24"
+    ],
+    "fitment_id": "f_0f17812b38"
+  }
+]

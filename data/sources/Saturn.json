@@ -1,0 +1,192 @@
+[
+  {
+    "year": 1995,
+    "make": "Saturn",
+    "model": "SL",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "LL0"
+    ],
+    "fitment_id": "f_97f91b7134"
+  },
+  {
+    "year": 1996,
+    "make": "Saturn",
+    "model": "SL",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "LL0"
+    ],
+    "fitment_id": "f_bd7432280c"
+  },
+  {
+    "year": 1997,
+    "make": "Saturn",
+    "model": "SL",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "LL0"
+    ],
+    "fitment_id": "f_4b49f522d0"
+  },
+  {
+    "year": 1998,
+    "make": "Saturn",
+    "model": "SL",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "LL0"
+    ],
+    "fitment_id": "f_99bc55a09c"
+  },
+  {
+    "year": 1999,
+    "make": "Saturn",
+    "model": "SL",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "LL0"
+    ],
+    "fitment_id": "f_3e8de5d280"
+  },
+  {
+    "year": 2000,
+    "make": "Saturn",
+    "model": "SL",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "LL0"
+    ],
+    "fitment_id": "f_a9bdaf7d53"
+  },
+  {
+    "year": 2001,
+    "make": "Saturn",
+    "model": "SL",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "LL0"
+    ],
+    "fitment_id": "f_35f6b35992"
+  },
+  {
+    "year": 2002,
+    "make": "Saturn",
+    "model": "SL",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "LL0"
+    ],
+    "fitment_id": "f_6eebb77fbb"
+  },
+  {
+    "year": 2003,
+    "make": "Saturn",
+    "model": "Ion",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "L61"
+    ],
+    "fitment_id": "f_94ab037e58"
+  },
+  {
+    "year": 2004,
+    "make": "Saturn",
+    "model": "Ion",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "L61"
+    ],
+    "fitment_id": "f_3b72a45f7d"
+  },
+  {
+    "year": 2005,
+    "make": "Saturn",
+    "model": "Ion",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "L61"
+    ],
+    "fitment_id": "f_48d03a23d1"
+  },
+  {
+    "year": 2006,
+    "make": "Saturn",
+    "model": "Ion",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "L61"
+    ],
+    "fitment_id": "f_99c2fa4989"
+  },
+  {
+    "year": 2007,
+    "make": "Saturn",
+    "model": "Ion",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "L61"
+    ],
+    "fitment_id": "f_91563b022c"
+  },
+  {
+    "year": 2008,
+    "make": "Saturn",
+    "model": "Aura",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "LX9"
+    ],
+    "fitment_id": "f_603324c115"
+  },
+  {
+    "year": 2008,
+    "make": "Saturn",
+    "model": "Vue",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A"
+    ],
+    "fitment_id": "f_9cb020560e"
+  },
+  {
+    "year": 2009,
+    "make": "Saturn",
+    "model": "Aura",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "LX9"
+    ],
+    "fitment_id": "f_7ca8e24f89"
+  },
+  {
+    "year": 2009,
+    "make": "Saturn",
+    "model": "Vue",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A"
+    ],
+    "fitment_id": "f_91d05c05d8"
+  },
+  {
+    "year": 2010,
+    "make": "Saturn",
+    "model": "Aura",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "LX9"
+    ],
+    "fitment_id": "f_26145c423f"
+  },
+  {
+    "year": 2010,
+    "make": "Saturn",
+    "model": "Vue",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A"
+    ],
+    "fitment_id": "f_248a0412a7"
+  }
+]

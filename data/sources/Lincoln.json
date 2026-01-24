@@ -1,0 +1,442 @@
+[
+  {
+    "year": 1995,
+    "make": "Lincoln",
+    "model": "Town Car",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "MOD46"
+    ],
+    "fitment_id": "f_8001e270e7"
+  },
+  {
+    "year": 1996,
+    "make": "Lincoln",
+    "model": "Town Car",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "MOD46"
+    ],
+    "fitment_id": "f_1c69f1b1ce"
+  },
+  {
+    "year": 1997,
+    "make": "Lincoln",
+    "model": "Town Car",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "MOD46"
+    ],
+    "fitment_id": "f_e316d1d374"
+  },
+  {
+    "year": 1998,
+    "make": "Lincoln",
+    "model": "Town Car",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "MOD46"
+    ],
+    "fitment_id": "f_7cfbacff5c"
+  },
+  {
+    "year": 1999,
+    "make": "Lincoln",
+    "model": "Town Car",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "MOD46"
+    ],
+    "fitment_id": "f_8c19062515"
+  },
+  {
+    "year": 2000,
+    "make": "Lincoln",
+    "model": "Town Car",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "MOD46"
+    ],
+    "fitment_id": "f_75e84a8543"
+  },
+  {
+    "year": 2001,
+    "make": "Lincoln",
+    "model": "Town Car",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "MOD46"
+    ],
+    "fitment_id": "f_034781de44"
+  },
+  {
+    "year": 2002,
+    "make": "Lincoln",
+    "model": "Town Car",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "MOD46"
+    ],
+    "fitment_id": "f_f83ac03bb0"
+  },
+  {
+    "year": 2003,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "5.4L V8",
+    "engine_code": [
+      "TRITON54"
+    ],
+    "fitment_id": "f_58a7d7c171"
+  },
+  {
+    "year": 2004,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "5.4L V8",
+    "engine_code": [
+      "TRITON54"
+    ],
+    "fitment_id": "f_c0591492d4"
+  },
+  {
+    "year": 2005,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "5.4L V8",
+    "engine_code": [
+      "TRITON54"
+    ],
+    "fitment_id": "f_990f2d5abd"
+  },
+  {
+    "year": 2006,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "5.4L V8",
+    "engine_code": [
+      "TRITON54"
+    ],
+    "fitment_id": "f_e2fe24afd2"
+  },
+  {
+    "year": 2007,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "5.4L V8",
+    "engine_code": [
+      "TRITON54"
+    ],
+    "fitment_id": "f_a36c8974b0"
+  },
+  {
+    "year": 2008,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "5.4L V8",
+    "engine_code": [
+      "TRITON54"
+    ],
+    "fitment_id": "f_3cf3680c8c"
+  },
+  {
+    "year": 2009,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "5.4L V8",
+    "engine_code": [
+      "TRITON54"
+    ],
+    "fitment_id": "f_c766180554"
+  },
+  {
+    "year": 2010,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "5.4L V8",
+    "engine_code": [
+      "TRITON54"
+    ],
+    "fitment_id": "f_4d9e32a45d"
+  },
+  {
+    "year": 2011,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_5a07760113"
+  },
+  {
+    "year": 2011,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_41a7dde314"
+  },
+  {
+    "year": 2012,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_0ffd3de8f8"
+  },
+  {
+    "year": 2012,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_e55863b710"
+  },
+  {
+    "year": 2013,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_3a39d379b4"
+  },
+  {
+    "year": 2013,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_7175491ba5"
+  },
+  {
+    "year": 2014,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_4de025c919"
+  },
+  {
+    "year": 2014,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_2c4ad6775b"
+  },
+  {
+    "year": 2015,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_6a44b7865b"
+  },
+  {
+    "year": 2015,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_4d434921db"
+  },
+  {
+    "year": 2016,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_0c70d8722b"
+  },
+  {
+    "year": 2016,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_3ab9a82a0c"
+  },
+  {
+    "year": 2017,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_262a879c19"
+  },
+  {
+    "year": 2017,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_d9e68cddbd"
+  },
+  {
+    "year": 2018,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_ec5949ab91"
+  },
+  {
+    "year": 2018,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_b9a82be4c2"
+  },
+  {
+    "year": 2019,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_026ddb280b"
+  },
+  {
+    "year": 2019,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_4ce4cec715"
+  },
+  {
+    "year": 2020,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_d218b15ed4"
+  },
+  {
+    "year": 2020,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_077d34d844"
+  },
+  {
+    "year": 2021,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_9045b5f2fd"
+  },
+  {
+    "year": 2021,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_d375c17343"
+  },
+  {
+    "year": 2022,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_b55c7bc405"
+  },
+  {
+    "year": 2022,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_611a0106a3"
+  },
+  {
+    "year": 2023,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_96f8e10ce5"
+  },
+  {
+    "year": 2023,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_eecf7b6e03"
+  },
+  {
+    "year": 2024,
+    "make": "Lincoln",
+    "model": "MKX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "CYC37"
+    ],
+    "fitment_id": "f_44881a0f00"
+  },
+  {
+    "year": 2024,
+    "make": "Lincoln",
+    "model": "Navigator",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "EB35"
+    ],
+    "fitment_id": "f_0e9c31046b"
+  }
+]

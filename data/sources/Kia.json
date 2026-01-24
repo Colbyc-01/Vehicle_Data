@@ -1,0 +1,802 @@
+[
+  {
+    "year": 1995,
+    "make": "Kia",
+    "model": "Sportage",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FE"
+    ],
+    "fitment_id": "f_ba027aa7ab"
+  },
+  {
+    "year": 1996,
+    "make": "Kia",
+    "model": "Sportage",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FE"
+    ],
+    "fitment_id": "f_cf49a4d305"
+  },
+  {
+    "year": 1997,
+    "make": "Kia",
+    "model": "Sportage",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FE"
+    ],
+    "fitment_id": "f_d9b48045d4"
+  },
+  {
+    "year": 1998,
+    "make": "Kia",
+    "model": "Sportage",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FE"
+    ],
+    "fitment_id": "f_7badc41720"
+  },
+  {
+    "year": 1999,
+    "make": "Kia",
+    "model": "Sportage",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FE"
+    ],
+    "fitment_id": "f_16f76847b2"
+  },
+  {
+    "year": 2000,
+    "make": "Kia",
+    "model": "Sportage",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FE"
+    ],
+    "fitment_id": "f_d83ff14d06"
+  },
+  {
+    "year": 2001,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "G4JS"
+    ],
+    "fitment_id": "f_65b47b46c1"
+  },
+  {
+    "year": 2001,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "DELTA27"
+    ],
+    "fitment_id": "f_c4e67cdbaf"
+  },
+  {
+    "year": 2002,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "G4JS"
+    ],
+    "fitment_id": "f_c8a13ae66f"
+  },
+  {
+    "year": 2002,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "DELTA27"
+    ],
+    "fitment_id": "f_e2a5e84bf8"
+  },
+  {
+    "year": 2003,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "G4JS"
+    ],
+    "fitment_id": "f_ee7726d067"
+  },
+  {
+    "year": 2003,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "DELTA27"
+    ],
+    "fitment_id": "f_294b7d017a"
+  },
+  {
+    "year": 2004,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "G4JS"
+    ],
+    "fitment_id": "f_04c9c93f6a"
+  },
+  {
+    "year": 2004,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "DELTA27"
+    ],
+    "fitment_id": "f_854c953a7b"
+  },
+  {
+    "year": 2005,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "G4JS"
+    ],
+    "fitment_id": "f_f7270b9c06"
+  },
+  {
+    "year": 2005,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "DELTA27"
+    ],
+    "fitment_id": "f_ac75bb53b9"
+  },
+  {
+    "year": 2006,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_9b5f422a04"
+  },
+  {
+    "year": 2006,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_063b60bb47"
+  },
+  {
+    "year": 2007,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_7a1640a545"
+  },
+  {
+    "year": 2007,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_7e5a011d56"
+  },
+  {
+    "year": 2008,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_6babd4ef4d"
+  },
+  {
+    "year": 2008,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_303bf824ee"
+  },
+  {
+    "year": 2009,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_406feb1c9d"
+  },
+  {
+    "year": 2009,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_75fd3fbf5a"
+  },
+  {
+    "year": 2010,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_9cf0a1efe5"
+  },
+  {
+    "year": 2010,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_249e709098"
+  },
+  {
+    "year": 2011,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_d1d35b7667"
+  },
+  {
+    "year": 2011,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "LAMBDA33"
+    ],
+    "fitment_id": "f_90a73dc42a"
+  },
+  {
+    "year": 2012,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_35b809603f"
+  },
+  {
+    "year": 2012,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_9c6b539548"
+  },
+  {
+    "year": 2012,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_0196fac774"
+  },
+  {
+    "year": 2012,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_a95fe6da60"
+  },
+  {
+    "year": 2013,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_2d1ea5099f"
+  },
+  {
+    "year": 2013,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_39aa8915d0"
+  },
+  {
+    "year": 2013,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_92c651246a"
+  },
+  {
+    "year": 2013,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_66e7ba2891"
+  },
+  {
+    "year": 2014,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_313c063af4"
+  },
+  {
+    "year": 2014,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_11c310c376"
+  },
+  {
+    "year": 2014,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_56ce62f32a"
+  },
+  {
+    "year": 2014,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_9f30a298a9"
+  },
+  {
+    "year": 2015,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_f62d320fae"
+  },
+  {
+    "year": 2015,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_11b8d6b9d6"
+  },
+  {
+    "year": 2015,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_488a827226"
+  },
+  {
+    "year": 2015,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_3459df74a4"
+  },
+  {
+    "year": 2016,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_d46ab8475e"
+  },
+  {
+    "year": 2016,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_93be8aac6b"
+  },
+  {
+    "year": 2016,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_0005b39e48"
+  },
+  {
+    "year": 2016,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_53357c5768"
+  },
+  {
+    "year": 2017,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_0378644d82"
+  },
+  {
+    "year": 2017,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_d07a4b9984"
+  },
+  {
+    "year": 2017,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_4b26033f67"
+  },
+  {
+    "year": 2017,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_ec302339db"
+  },
+  {
+    "year": 2018,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_e1fd052521"
+  },
+  {
+    "year": 2018,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_f6f9c21c5e"
+  },
+  {
+    "year": 2018,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_db14cd6f0a"
+  },
+  {
+    "year": 2018,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_17d3e82aaa"
+  },
+  {
+    "year": 2019,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_b928b6a484"
+  },
+  {
+    "year": 2019,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_eeb79e8550"
+  },
+  {
+    "year": 2019,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_231e7fd3ba"
+  },
+  {
+    "year": 2019,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_88b8914cf6"
+  },
+  {
+    "year": 2020,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_28e0042b1f"
+  },
+  {
+    "year": 2020,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_7992b5a46d"
+  },
+  {
+    "year": 2020,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_1f61921e00"
+  },
+  {
+    "year": 2020,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_199a6b55b5"
+  },
+  {
+    "year": 2021,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_61143ef8e0"
+  },
+  {
+    "year": 2021,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_95570a9990"
+  },
+  {
+    "year": 2021,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_a8c926293b"
+  },
+  {
+    "year": 2021,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_a5eaa8f579"
+  },
+  {
+    "year": 2022,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_6c5ab018f8"
+  },
+  {
+    "year": 2022,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_2addd048d0"
+  },
+  {
+    "year": 2022,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_2370974162"
+  },
+  {
+    "year": 2022,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_62994af99b"
+  },
+  {
+    "year": 2023,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_d04e09e6ae"
+  },
+  {
+    "year": 2023,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_87a3746e5f"
+  },
+  {
+    "year": 2023,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_b4baa76fd0"
+  },
+  {
+    "year": 2023,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_0312d71cb5"
+  },
+  {
+    "year": 2024,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_91cbcd2928"
+  },
+  {
+    "year": 2024,
+    "make": "Kia",
+    "model": "Optima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "THETA24"
+    ],
+    "fitment_id": "f_0b9d5537f6"
+  },
+  {
+    "year": 2024,
+    "make": "Kia",
+    "model": "Sorento",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_1d020f5edf"
+  },
+  {
+    "year": 2024,
+    "make": "Kia",
+    "model": "Telluride",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_1717a45ad5"
+  }
+]

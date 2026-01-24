@@ -1,0 +1,106 @@
+[
+  {
+    "scope": {
+      "engine_code": "EB35"
+    },
+    "items": [
+      {
+        "id": "oil_change",
+        "interval_miles": 10000,
+        "interval_months": 12,
+        "basis": "default_placeholder",
+        "notes": "Set by OEM/OLM; confirm by VIN & severe-use rules."
+      },
+      {
+        "id": "engine_air_filter",
+        "interval_miles": 30000,
+        "interval_months": 36,
+        "basis": "default_placeholder"
+      },
+      {
+        "id": "spark_plugs",
+        "interval_miles": 100000,
+        "interval_months": 120,
+        "basis": "default_placeholder"
+      }
+    ]
+  },
+  {
+    "scope": {
+      "engine_code": "2GR-FKS"
+    },
+    "items": [
+      {
+        "id": "oil_change",
+        "interval_miles": 10000,
+        "interval_months": 12,
+        "basis": "default_placeholder",
+        "notes": "OEM interval depends on driving conditions. Confirm by VIN & severe-use rules."
+      },
+      {
+        "id": "engine_air_filter",
+        "interval_miles": 30000,
+        "interval_months": 36,
+        "basis": "default_placeholder"
+      },
+      {
+        "id": "spark_plugs",
+        "interval_miles": 120000,
+        "interval_months": 120,
+        "basis": "default_placeholder"
+      }
+    ]
+  },
+  {
+    "scope": {
+      "engine_code": "EA888"
+    },
+    "items": [
+      {
+        "id": "oil_change",
+        "interval_miles": 10000,
+        "interval_months": 12,
+        "basis": "default_placeholder",
+        "notes": "Follow OEM interval and VW oil standard for your VIN."
+      },
+      {
+        "id": "engine_air_filter",
+        "interval_miles": 30000,
+        "interval_months": 36,
+        "basis": "default_placeholder"
+      },
+      {
+        "id": "spark_plugs",
+        "interval_miles": 60000,
+        "interval_months": 72,
+        "basis": "default_placeholder"
+      }
+    ]
+  },
+  {
+    "scope": {
+      "engine_code": "J35"
+    },
+    "items": [
+      {
+        "id": "oil_change",
+        "interval_miles": 10000,
+        "interval_months": 12,
+        "basis": "default_placeholder",
+        "notes": "Often managed by Honda Maintenance Minder; confirm by VIN."
+      },
+      {
+        "id": "engine_air_filter",
+        "interval_miles": 30000,
+        "interval_months": 36,
+        "basis": "default_placeholder"
+      },
+      {
+        "id": "spark_plugs",
+        "interval_miles": 105000,
+        "interval_months": 120,
+        "basis": "default_placeholder"
+      }
+    ]
+  }
+]

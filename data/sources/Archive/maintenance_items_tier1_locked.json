@@ -1,0 +1,68 @@
+{
+  "battery": {
+    "category": "Electrical",
+    "description": "Replace vehicle battery.",
+    "difficulty": "Medium",
+    "name": "Vehicle battery"
+  },
+  "brake_fluid": {
+    "category": "Brakes",
+    "description": "Flush and replace brake fluid.",
+    "difficulty": "Medium",
+    "name": "Brake fluid"
+  },
+  "brake_pads_front": {
+    "category": "Brakes",
+    "description": "Replace front brake pads.",
+    "difficulty": "Medium",
+    "name": "Front brake pads"
+  },
+  "brake_pads_rear": {
+    "category": "Brakes",
+    "description": "Replace rear brake pads.",
+    "difficulty": "Medium",
+    "name": "Rear brake pads"
+  },
+  "cabin_air_filter": {
+    "category": "HVAC",
+    "description": "Replace cabin air filter.",
+    "difficulty": "Easy",
+    "name": "Cabin air filter"
+  },
+  "coolant": {
+    "category": "Cooling",
+    "description": "Service engine coolant.",
+    "difficulty": "Medium",
+    "name": "Engine coolant"
+  },
+  "engine_air_filter": {
+    "category": "Engine",
+    "description": "Replace engine intake air filter.",
+    "difficulty": "Easy",
+    "name": "Engine air filter"
+  },
+  "headlight_bulb": {
+    "category": "Lighting",
+    "description": "Replace headlight bulb.",
+    "difficulty": "Easy",
+    "name": "Headlight bulb"
+  },
+  "oil_change": {
+    "category": "Engine",
+    "description": "Replace engine oil and oil filter.",
+    "difficulty": "Easy",
+    "name": "Engine oil & filter"
+  },
+  "tire_rotation": {
+    "category": "Wheels & Tires",
+    "description": "Rotate tires to promote even wear.",
+    "difficulty": "Easy",
+    "name": "Tire rotation"
+  },
+  "wiper_blades": {
+    "category": "Exterior",
+    "description": "Replace windshield wiper blades.",
+    "difficulty": "Easy",
+    "name": "Windshield wiper blades"
+  }
+}

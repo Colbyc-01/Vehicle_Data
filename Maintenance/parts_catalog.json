@@ -1,0 +1,30 @@
+[
+  {
+    "scope": {
+      "engine_code": "EB35"
+    },
+    "item_id": "oil_change",
+    "parts": []
+  },
+  {
+    "scope": {
+      "engine_code": "2GR-FKS"
+    },
+    "item_id": "oil_change",
+    "parts": []
+  },
+  {
+    "scope": {
+      "engine_code": "EA888"
+    },
+    "item_id": "oil_change",
+    "parts": []
+  },
+  {
+    "scope": {
+      "engine_code": "J35"
+    },
+    "item_id": "oil_change",
+    "parts": []
+  }
+]

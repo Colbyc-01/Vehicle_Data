@@ -1,0 +1,1252 @@
+[
+  {
+    "year": 1995,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "KA24DE"
+    ],
+    "fitment_id": "f_5917b74cb6"
+  },
+  {
+    "year": 1995,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_71c6b87933"
+  },
+  {
+    "year": 1995,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "VG33E"
+    ],
+    "fitment_id": "f_f4359e8dac"
+  },
+  {
+    "year": 1996,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "KA24DE"
+    ],
+    "fitment_id": "f_4eb2668c4c"
+  },
+  {
+    "year": 1996,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_9572d285a6"
+  },
+  {
+    "year": 1996,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "VG33E"
+    ],
+    "fitment_id": "f_e266fa307d"
+  },
+  {
+    "year": 1997,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "KA24DE"
+    ],
+    "fitment_id": "f_a3a419dc14"
+  },
+  {
+    "year": 1997,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_e99251c03a"
+  },
+  {
+    "year": 1997,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "VG33E"
+    ],
+    "fitment_id": "f_3569c2f106"
+  },
+  {
+    "year": 1998,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "KA24DE"
+    ],
+    "fitment_id": "f_ca1b4c5586"
+  },
+  {
+    "year": 1998,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_045c346281"
+  },
+  {
+    "year": 1998,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "VG33E"
+    ],
+    "fitment_id": "f_30f4ca2ad9"
+  },
+  {
+    "year": 1999,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "KA24DE"
+    ],
+    "fitment_id": "f_61da545d5f"
+  },
+  {
+    "year": 1999,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_9a80625d3b"
+  },
+  {
+    "year": 1999,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "VG33E"
+    ],
+    "fitment_id": "f_b06f89af3d"
+  },
+  {
+    "year": 2000,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "KA24DE"
+    ],
+    "fitment_id": "f_36ee725a25"
+  },
+  {
+    "year": 2000,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_3d79a4ba52"
+  },
+  {
+    "year": 2000,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "VG33E"
+    ],
+    "fitment_id": "f_8b9d2a7271"
+  },
+  {
+    "year": 2001,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "KA24DE"
+    ],
+    "fitment_id": "f_6dbe5794a5"
+  },
+  {
+    "year": 2001,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_897f0f9498"
+  },
+  {
+    "year": 2001,
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "VG33E"
+    ],
+    "fitment_id": "f_aaad90cf17"
+  },
+  {
+    "year": 2002,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_8e3362729e"
+  },
+  {
+    "year": 2002,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_6e419f1746"
+  },
+  {
+    "year": 2002,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "4.0L V6",
+    "engine_code": [
+      "VQ40DE"
+    ],
+    "fitment_id": "f_57807dc800"
+  },
+  {
+    "year": 2002,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_52ddc57664"
+  },
+  {
+    "year": 2003,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_5ddbebc0f4"
+  },
+  {
+    "year": 2003,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_a2ab1eaa00"
+  },
+  {
+    "year": 2003,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "4.0L V6",
+    "engine_code": [
+      "VQ40DE"
+    ],
+    "fitment_id": "f_0bc823ea65"
+  },
+  {
+    "year": 2003,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_ee384798ad"
+  },
+  {
+    "year": 2004,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_40f4981452"
+  },
+  {
+    "year": 2004,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_51284e456b"
+  },
+  {
+    "year": 2004,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "4.0L V6",
+    "engine_code": [
+      "VQ40DE"
+    ],
+    "fitment_id": "f_aa83b0efe2"
+  },
+  {
+    "year": 2004,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_6ab2f7bef9"
+  },
+  {
+    "year": 2005,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_0eada0f0c6"
+  },
+  {
+    "year": 2005,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_666c9faf44"
+  },
+  {
+    "year": 2005,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "4.0L V6",
+    "engine_code": [
+      "VQ40DE"
+    ],
+    "fitment_id": "f_94a1a3b028"
+  },
+  {
+    "year": 2005,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_ab1121b5ad"
+  },
+  {
+    "year": 2006,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_5053116105"
+  },
+  {
+    "year": 2006,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_07d0a9a1db"
+  },
+  {
+    "year": 2006,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "4.0L V6",
+    "engine_code": [
+      "VQ40DE"
+    ],
+    "fitment_id": "f_5ab649aa43"
+  },
+  {
+    "year": 2006,
+    "make": "Nissan",
+    "model": "Maxima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_2e416f4564"
+  },
+  {
+    "year": 2007,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_36bb5f635f"
+  },
+  {
+    "year": 2007,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_757a52b6cf"
+  },
+  {
+    "year": 2007,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_fb8f15fc71"
+  },
+  {
+    "year": 2007,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56DE"
+    ],
+    "fitment_id": "f_d88df50a81"
+  },
+  {
+    "year": 2008,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_a90093c3cc"
+  },
+  {
+    "year": 2008,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_4076c97c7c"
+  },
+  {
+    "year": 2008,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_6f1590b24e"
+  },
+  {
+    "year": 2008,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56DE"
+    ],
+    "fitment_id": "f_ed9f345734"
+  },
+  {
+    "year": 2009,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_6cf546e039"
+  },
+  {
+    "year": 2009,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_9dc06c10c5"
+  },
+  {
+    "year": 2009,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_1da4e4646b"
+  },
+  {
+    "year": 2009,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56DE"
+    ],
+    "fitment_id": "f_110797782e"
+  },
+  {
+    "year": 2010,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_03f7043392"
+  },
+  {
+    "year": 2010,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_2d15ca728b"
+  },
+  {
+    "year": 2010,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_74b1a66dfa"
+  },
+  {
+    "year": 2010,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56DE"
+    ],
+    "fitment_id": "f_2822901637"
+  },
+  {
+    "year": 2011,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_baed8a90aa"
+  },
+  {
+    "year": 2011,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_f66ecff88d"
+  },
+  {
+    "year": 2011,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_f1655b1ac7"
+  },
+  {
+    "year": 2011,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56DE"
+    ],
+    "fitment_id": "f_0750891977"
+  },
+  {
+    "year": 2012,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_77263da05e"
+  },
+  {
+    "year": 2012,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_99c743ce7d"
+  },
+  {
+    "year": 2012,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_9bdcb23568"
+  },
+  {
+    "year": 2012,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56DE"
+    ],
+    "fitment_id": "f_df2cf25a93"
+  },
+  {
+    "year": 2013,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_051d6e6a39"
+  },
+  {
+    "year": 2013,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_d2f99d6dcc"
+  },
+  {
+    "year": 2013,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_e1eb48c7e9"
+  },
+  {
+    "year": 2013,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_dc6e7f3277"
+  },
+  {
+    "year": 2013,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_3da9a6b104"
+  },
+  {
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_405f944b4f"
+  },
+  {
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_4f6af07236"
+  },
+  {
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_9a5ea664c7"
+  },
+  {
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_b52fc8e5b4"
+  },
+  {
+    "year": 2014,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_897a22b2cd"
+  },
+  {
+    "year": 2015,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_153ee69384"
+  },
+  {
+    "year": 2015,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_4611198f6b"
+  },
+  {
+    "year": 2015,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_34ef281f47"
+  },
+  {
+    "year": 2015,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_f34e9d0663"
+  },
+  {
+    "year": 2015,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_a4e9f26e8c"
+  },
+  {
+    "year": 2016,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_3d503ddd93"
+  },
+  {
+    "year": 2016,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_41f1e4ead6"
+  },
+  {
+    "year": 2016,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_51ababe09e"
+  },
+  {
+    "year": 2016,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_a64f337f13"
+  },
+  {
+    "year": 2016,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_e6e47fde44"
+  },
+  {
+    "year": 2017,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_851e65085b"
+  },
+  {
+    "year": 2017,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_819dd453d0"
+  },
+  {
+    "year": 2017,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_de97d4dc88"
+  },
+  {
+    "year": 2017,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_69c75fd5bb"
+  },
+  {
+    "year": 2017,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_deb60f7af7"
+  },
+  {
+    "year": 2018,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_77abc38cbc"
+  },
+  {
+    "year": 2018,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_352ea2b2eb"
+  },
+  {
+    "year": 2018,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_8ccb07f672"
+  },
+  {
+    "year": 2018,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_2446d5ebba"
+  },
+  {
+    "year": 2018,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_5024a52b64"
+  },
+  {
+    "year": 2019,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_03980f8d51"
+  },
+  {
+    "year": 2019,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_4cbaf699c8"
+  },
+  {
+    "year": 2019,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_ffeea450b8"
+  },
+  {
+    "year": 2019,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_336e981e09"
+  },
+  {
+    "year": 2019,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_73e4e06c86"
+  },
+  {
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_0a2a65ee83"
+  },
+  {
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_2e2daf9bed"
+  },
+  {
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_a8f4a07845"
+  },
+  {
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_0e8042705b"
+  },
+  {
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_e0164ce70b"
+  },
+  {
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_8b17e67630"
+  },
+  {
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_c4c57c05fa"
+  },
+  {
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_6c527fa249"
+  },
+  {
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_8390c0d6a4"
+  },
+  {
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_bf16f294ae"
+  },
+  {
+    "year": 2022,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_359121d27f"
+  },
+  {
+    "year": 2022,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_3c8fd99285"
+  },
+  {
+    "year": 2022,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_9dfff68f1c"
+  },
+  {
+    "year": 2022,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_1305d865c0"
+  },
+  {
+    "year": 2022,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_4492fe0b22"
+  },
+  {
+    "year": 2023,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_c37e41cfbe"
+  },
+  {
+    "year": 2023,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_aea6a4db5a"
+  },
+  {
+    "year": 2023,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_9119427731"
+  },
+  {
+    "year": 2023,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_536a893020"
+  },
+  {
+    "year": 2023,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_ffe9ee1c1e"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_d71b5c0afc"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Altima",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "fitment_id": "f_c8185b0c8f"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Frontier",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "VQ38DD"
+    ],
+    "fitment_id": "f_47ffb09b36"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Rogue",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PR25DD"
+    ],
+    "fitment_id": "f_c6a3f78500"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Titan",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_a9557a54a4"
+  }
+]

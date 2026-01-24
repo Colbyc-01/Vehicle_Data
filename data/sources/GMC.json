@@ -1,0 +1,6802 @@
+[
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Jimmy",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_30296cede9"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_393f48a5e9"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_af9ea7fe77"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_40dafeb6cc"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_10f9317a77"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_ed57bf3905"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_0903e14a35"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_f0b455aec4"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_f22487057d"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_29f7c3ce39"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_0d1f93cba3"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_11522858a9"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "LN2"
+    ],
+    "fitment_id": "f_5d205e7784"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_28ab0f175f"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_914858f4f6"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_10c281a021"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_80dc182b3e"
+  },
+  {
+    "year": 1995,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_165d1066da"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Jimmy",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_eb2d61adcc"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_3cf942d87f"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_ee74d7e89e"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_071c03f1b2"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_a4f00aacc2"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_5858e0bee6"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_b2626db671"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_9894793098"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_a57bd179ff"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_76555421ce"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_854e3d8ae8"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_76e6bceb45"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_3b4b2bf006"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_627cc1224f"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_8758000b08"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_e5c7b1ae6a"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "LN2"
+    ],
+    "fitment_id": "f_7cc1862b3a"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_6c9f1f1155"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_43409cfd36"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_1a76973096"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_bb404ab72f"
+  },
+  {
+    "year": 1996,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_ac8c174ae6"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Jimmy",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_fc979ae6b4"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_8fb0155aba"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_8d60df6fdf"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_c8d9547045"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_a115150246"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_ef01873828"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_f105acc636"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_bf4facb03a"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_d3d8006aff"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_71f984d0b0"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_d286089c6e"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_87ea12f917"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_2d8dd453a5"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_dbb010aee2"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_de496b1fa3"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_17a0e6f6bd"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "LN2"
+    ],
+    "fitment_id": "f_6e9a23b979"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_500b0df4a8"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_b6e8849bec"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_10a86928d1"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_4d2f07a94d"
+  },
+  {
+    "year": 1997,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_ae7428a076"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Jimmy",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_2b966b3d1f"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_6369d2a22c"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_dc459e02e8"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_1a46256175"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_2df545fe7a"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_4efd8e5dff"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_ec4f50c523"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_c28a264705"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_7a64fc0c61"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_e47bd6cda7"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_c3305c74b0"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_f6fb9c471c"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_e1eeebf0c1"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_aa9f6fab8b"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_3e3ca31ea9"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_b0e43775bc"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "LN2"
+    ],
+    "fitment_id": "f_086a66d983"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_2734f890d6"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_09a20c5a48"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_e139e76f5e"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_4f884bcd6c"
+  },
+  {
+    "year": 1998,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_24dc7bd5b2"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Jimmy",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_ca589976db"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_40ed0395c0"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_ea2224a566"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_08102ee666"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_1b6b68e830"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_9ddc0fc636"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_00067b9c72"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_fafad8df99"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_06bfe2ec80"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_7e5c41763c"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_b234b1f1cf"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_494b2bb614"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_dbbf572733"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_e568ebc7e1"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_7fb9ccf419"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_356b30719e"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_dfadefbbd7"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_14df19c011"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_bbb556d2eb"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_31804bc687"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_b08a1b5d4c"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "LN2"
+    ],
+    "fitment_id": "f_bcfecbfa75"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_0854f7ceca"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_fbdd140fff"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_e5baa2cffa"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_ee734134b9"
+  },
+  {
+    "year": 1999,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_da3f3f155d"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Jimmy",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_46912ef611"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_22539e1fc7"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_6b6f7dbaf2"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_e1cf99883c"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_03b957dc2a"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_3d994da091"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_ef2b11d3dd"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_48e77e159b"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_4b062284c8"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_41f30b9d5a"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_2a999d94da"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_370451a7db"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_3e380b7f2a"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_73aa73fc0d"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_159af71877"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_06d9e7c59b"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_0bfc924953"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_0ac21a67db"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "7.4L V8",
+    "engine_code": [
+      "L29"
+    ],
+    "fitment_id": "f_6b65c94f0b"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "LN2"
+    ],
+    "fitment_id": "f_67c5f9321b"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_af9571b6a6"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_167f2c79e9"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_3e3d5dec4f"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_05b52fe4fb"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_a960256229"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_1cbc0191c6"
+  },
+  {
+    "year": 2000,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_6a461f455c"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Jimmy",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_f37fa62b27"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_4453f2104b"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_53ac600ddd"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_61de774f0f"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_05b129a639"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_6b22c6fcd9"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_7d10ab14c8"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_72577b3fd0"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_efd6b9607a"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_65dd6fe975"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_1e9bc612d3"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_02b2de8810"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_6dfab12ae5"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LB7"
+    ],
+    "fitment_id": "f_0c49db4945"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_192f510e65"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_c837e066ab"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_78324a9b86"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LB7"
+    ],
+    "fitment_id": "f_bdd6783263"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "LN2"
+    ],
+    "fitment_id": "f_9320e1fa78"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_0dc13ae921"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_0fa41143b3"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_874c92c9bb"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_cf76eeef66"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_7ab4c272a5"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_3b9657749d"
+  },
+  {
+    "year": 2001,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_938b8a4466"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_eabbae44c9"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_18ef28853c"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_1470a6f91a"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_de01a32b77"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "L30"
+    ],
+    "fitment_id": "f_17eb1695a9"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_f5daa6951c"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.5L Turbo Diesel V8",
+    "engine_code": [
+      "L65"
+    ],
+    "fitment_id": "f_8ccbc263d5"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_ce642d4c45"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_e20e8c3ca1"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_c06beae6f8"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_d4676c5e9f"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_147f410da1"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_49ddeca7d0"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_8cf7a0cc87"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_40fbfb341c"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LB7"
+    ],
+    "fitment_id": "f_a421ad9778"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_4547a8e734"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_08165a0c68"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_568ddad99d"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LB7"
+    ],
+    "fitment_id": "f_670e24c0b0"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "LN2"
+    ],
+    "fitment_id": "f_3253c10a5e"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_3016046936"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_890fee98c1"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_50f68e9a32"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_b82ab391e0"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_f3d2a111a4"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_bb78a7b56b"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_814129e396"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_0ce3577936"
+  },
+  {
+    "year": 2002,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_82a1a0f117"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_98ad9aa945"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_254c2ac542"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_d8ebd73570"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_105c54d14b"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_ddb559177b"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_23a890edc2"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_37eecc9f22"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_ec0d5351bb"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_a349a16c76"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_c12da7307f"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_6cf7352917"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_12708a68f6"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_af48b5f851"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_3a8bce3697"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_c373eadb70"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_ee975d18d7"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LB7"
+    ],
+    "fitment_id": "f_1942fb7c26"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_3957346e57"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_0cd547c55d"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_6511a5402e"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LB7"
+    ],
+    "fitment_id": "f_cd38f89093"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "LN2"
+    ],
+    "fitment_id": "f_edbbe2eaab"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_ffc3656296"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_9df04334aa"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_a2aca05f7d"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_d373b3f769"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_9e5dbdc94d"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_3eb85a6040"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_c1a6636419"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_558d890dcb"
+  },
+  {
+    "year": 2003,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_7734ac382c"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.8L I4",
+    "engine_code": [
+      "LK5"
+    ],
+    "fitment_id": "f_9040643232"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.5L I5",
+    "engine_code": [
+      "L52"
+    ],
+    "fitment_id": "f_fa9f985d8b"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_99f0c65f66"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_64e3fac1e8"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_e2f6d31f5d"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_228752e591"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Envoy XUV",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_589471b48b"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_3940bcddee"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_f4663a20de"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_f0acf5d977"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_556e0e3988"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_d7503c6ea5"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_143426242c"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_1c70165ef4"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_5529b050ff"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_d34ffa84e6"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_3413e7fe89"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_ea18c6071b"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_5c9f2cf22a"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LB7"
+    ],
+    "fitment_id": "f_d58362ffe9"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LLY"
+    ],
+    "fitment_id": "f_5f8001f82e"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_882933f219"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_ba42e12e55"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_0e59e3dda0"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LB7"
+    ],
+    "fitment_id": "f_cc83a34294"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LLY"
+    ],
+    "fitment_id": "f_1a75c54829"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Sonoma",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_2f26117cba"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_fc1db738ab"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_986d08e9cc"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_bfe2176349"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_fd2f7abf9f"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_3c3ecda61e"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_ec38c93a04"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_394bb214fa"
+  },
+  {
+    "year": 2004,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_5eab3adba0"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.8L I4",
+    "engine_code": [
+      "LK5"
+    ],
+    "fitment_id": "f_d76019fb87"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.5L I5",
+    "engine_code": [
+      "L52"
+    ],
+    "fitment_id": "f_5992af4726"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_903e46d20c"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_4ed2052820"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_be7d1beaec"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_dd1c41eb2e"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_9c909f9707"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Envoy XUV",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_3058d26a00"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Safari",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "L35"
+    ],
+    "fitment_id": "f_29b9dfde54"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_07296018b1"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_e33ee8865a"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_3e0b66bb6e"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_6c493cdcf8"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_ac7af9f246"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_97702eca45"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_58af887718"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_44d927e6db"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_5fdb0b278c"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_e7ead350b7"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_8cf941b1c9"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LLY"
+    ],
+    "fitment_id": "f_7d375323aa"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_10d8dd223e"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_25c7022179"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_7b6d11ea4a"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LLY"
+    ],
+    "fitment_id": "f_3893f88f42"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_ec4f5d447c"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_dc574ce74a"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_6e5e47f962"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_24464dfd40"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_7c774c4fc8"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_ebf1afff3d"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_9d23ded3ee"
+  },
+  {
+    "year": 2005,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_0e4042d55b"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.8L I4",
+    "engine_code": [
+      "LK5"
+    ],
+    "fitment_id": "f_df4fdf4f37"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.5L I5",
+    "engine_code": [
+      "L52"
+    ],
+    "fitment_id": "f_8c08849100"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_0ae084997d"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_ae41909065"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_37dbce4dfb"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Envoy XL",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_3e1eadceed"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_261f974532"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_76ea7611bd"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_6d94a9be87"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_d279122cfc"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_ca2abadfbd"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_092fd78379"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_a1ce1152c7"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_deedc57d61"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_8933b9315f"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 2500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_c899b9b576"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_9410656005"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LBZ"
+    ],
+    "fitment_id": "f_eed1fd9376"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_fba1d05035"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 3500",
+    "engine": "8.1L V8",
+    "engine_code": [
+      "L18"
+    ],
+    "fitment_id": "f_327c21afef"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_9820bf2e89"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LBZ"
+    ],
+    "fitment_id": "f_9858649003"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_f59ae4acb1"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_55d897df0e"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_bb56ab6f5e"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_c0400ac43d"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_d96e7492ce"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L59"
+    ],
+    "fitment_id": "f_8754b7f52f"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_582e4e4644"
+  },
+  {
+    "year": 2006,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_3244c00a85"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_97c357112b"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.9L I4",
+    "engine_code": [
+      "LLV"
+    ],
+    "fitment_id": "f_add5cb8c85"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "L60"
+    ],
+    "fitment_id": "f_e99b865753"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_ca46e79bb9"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_c3c994798b"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_802d3904e9"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_d614520706"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_0662c87447"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LY2"
+    ],
+    "fitment_id": "f_99339621b6"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LY5"
+    ],
+    "fitment_id": "f_c18fac2bc6"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_b326277530"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_ce22ca02f2"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LBZ"
+    ],
+    "fitment_id": "f_2f23b58c95"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LMM"
+    ],
+    "fitment_id": "f_36d173a6b7"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_08ec9089b6"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LBZ"
+    ],
+    "fitment_id": "f_41de818326"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LMM"
+    ],
+    "fitment_id": "f_923190ae40"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LY5"
+    ],
+    "fitment_id": "f_e672962ea9"
+  },
+  {
+    "year": 2007,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LY5"
+    ],
+    "fitment_id": "f_4af0321169"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_c125659a88"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.9L I4",
+    "engine_code": [
+      "LLV"
+    ],
+    "fitment_id": "f_a472491822"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "L60"
+    ],
+    "fitment_id": "f_c43457606d"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_540dad0392"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_964aa6252b"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_dd8608dd47"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_63341dd175"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_ae8d298c54"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LY2"
+    ],
+    "fitment_id": "f_a9623119e4"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LY5"
+    ],
+    "fitment_id": "f_b670f866c1"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_d125390eec"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_fb5bdbeee5"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LMM"
+    ],
+    "fitment_id": "f_53c0c9fa12"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_2f4c2fd734"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LMM"
+    ],
+    "fitment_id": "f_a5953ddafc"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LY5"
+    ],
+    "fitment_id": "f_028e3634a5"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_bf6ea78bf2"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LY5"
+    ],
+    "fitment_id": "f_1ed81d311d"
+  },
+  {
+    "year": 2008,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_5b0da29498"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_ec05d00293"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.9L I4",
+    "engine_code": [
+      "LLV"
+    ],
+    "fitment_id": "f_64fb2ee913"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "L60"
+    ],
+    "fitment_id": "f_03185f8701"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LH8"
+    ],
+    "fitment_id": "f_2e0278e729"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Envoy",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_0ed8eef5a1"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_0fb1cb5d8f"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LR4"
+    ],
+    "fitment_id": "f_f76ea42f3c"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM7"
+    ],
+    "fitment_id": "f_0758d372ea"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_c499e71237"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LY2"
+    ],
+    "fitment_id": "f_c4b12aebec"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LY5"
+    ],
+    "fitment_id": "f_29f87b4b98"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_3848ae33dc"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_4f7fd1d1b1"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LMM"
+    ],
+    "fitment_id": "f_e5a11e8064"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_4870887970"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LMM"
+    ],
+    "fitment_id": "f_72d67a4a6a"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LY5"
+    ],
+    "fitment_id": "f_7ef170fd7d"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_63be6b6d7c"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LY5"
+    ],
+    "fitment_id": "f_4c5fe2d4af"
+  },
+  {
+    "year": 2009,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_a698646ba0"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_8f2ceb7188"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.9L I4",
+    "engine_code": [
+      "LLV"
+    ],
+    "fitment_id": "f_ce04c68b8d"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "L60"
+    ],
+    "fitment_id": "f_efd793b960"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LH8"
+    ],
+    "fitment_id": "f_79dba158fe"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_f453ebc570"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "LY2"
+    ],
+    "fitment_id": "f_18295626be"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_b2d9807348"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "L20"
+    ],
+    "fitment_id": "f_200bb4eea9"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_0bad527962"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_7308ebe24e"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_6f6828245a"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LMM"
+    ],
+    "fitment_id": "f_bb3bf51ab4"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_0cbce645c2"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LMM"
+    ],
+    "fitment_id": "f_2756b487b8"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_21bb8a8a04"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LF1"
+    ],
+    "fitment_id": "f_3cadebc218"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_86b9bf3494"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_42ab67bc31"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_588bd48228"
+  },
+  {
+    "year": 2010,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_116d782f81"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_448f19e570"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.9L I4",
+    "engine_code": [
+      "LLV"
+    ],
+    "fitment_id": "f_1cfc2baf7d"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "L60"
+    ],
+    "fitment_id": "f_d765c3cc0f"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LH8"
+    ],
+    "fitment_id": "f_589e761c14"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_eada5a6473"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_2183ba565f"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "L20"
+    ],
+    "fitment_id": "f_6af5d5dcee"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_e6e55c4d96"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_74bc65d57d"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_a1e6b71088"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_952b9f44ed"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_38e3fd7562"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_c5e6765a07"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_f2c2eafa13"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LF1"
+    ],
+    "fitment_id": "f_4ed6880504"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_5190d1041b"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_ee5a2627a7"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_a9273378dd"
+  },
+  {
+    "year": 2011,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_c5b27670ac"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_025049fef1"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.9L I4",
+    "engine_code": [
+      "LLV"
+    ],
+    "fitment_id": "f_85e83416a2"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "L60"
+    ],
+    "fitment_id": "f_e37c9ff1bb"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LH8"
+    ],
+    "fitment_id": "f_dffe51b5e5"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_e16e9bb615"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_76d75a7658"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "L20"
+    ],
+    "fitment_id": "f_f02835c5d2"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_2910fabb8d"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_c3af85b2e1"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_b3bd060ea9"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_16ccf253b2"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_03f4ac8d50"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_e1f150a2f4"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_e4cc2984e6"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LF1"
+    ],
+    "fitment_id": "f_ee703a35b9"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_d70b7fc2e0"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_ca61725b5e"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_0599c85674"
+  },
+  {
+    "year": 2012,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_04d227b7a5"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_21c6f5b60f"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_7a0b935efb"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_5d406be918"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "L20"
+    ],
+    "fitment_id": "f_6c26409585"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_e1fca8fa40"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_be629c704a"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_2ebdc412b8"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_99e8bedb5b"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_15475ea36b"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_50b1aa6498"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_c5bc168d33"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_6c33b4f4ce"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_06a3e10866"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_0a19f93b64"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LC9"
+    ],
+    "fitment_id": "f_d5306519f1"
+  },
+  {
+    "year": 2013,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L9H"
+    ],
+    "fitment_id": "f_f1b418566d"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_e498c7670f"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LU3"
+    ],
+    "fitment_id": "f_6e6e2035a8"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_ad9dee85c9"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_77de977039"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV3"
+    ],
+    "fitment_id": "f_c488589a04"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_8e01f7b485"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_152cb8bd74"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_460d9e439a"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_90fb3c2757"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_61884acd07"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_8efb0e065b"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_728576c6de"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_9f68bd2b92"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_04889bc0f6"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_0a413a37d2"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_25566b768d"
+  },
+  {
+    "year": 2014,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_ab396b5b9e"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_c03d4c0bf6"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_9601cfba6d"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGZ"
+    ],
+    "fitment_id": "f_763ef1302e"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_4506960876"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_d16aa93c85"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV3"
+    ],
+    "fitment_id": "f_d561f93211"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_9f7ef247ca"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_3f4e358ab2"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_d3e0d8aa40"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_0c2f440a27"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_9a4d1279f4"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_a47c36ffc6"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_78a0e25f5d"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_47e97b7522"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_c7baec2181"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_e2e291479d"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_8d21c02e85"
+  },
+  {
+    "year": 2015,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_73baaf13bc"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_5e81672288"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_98d0abc16c"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.8L Turbo Diesel I4",
+    "engine_code": [
+      "LWN"
+    ],
+    "fitment_id": "f_df9d2daf3f"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGZ"
+    ],
+    "fitment_id": "f_9d5c324507"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_a1ac99949a"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_89e08d47f2"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV3"
+    ],
+    "fitment_id": "f_20e3474241"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_4d884a5e9b"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_eba9ca38b8"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_040b675905"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_f69b5f9ad0"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_bf430ba742"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "LML"
+    ],
+    "fitment_id": "f_f13641b218"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_f9a928d643"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_a23055925b"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_19d94d40f8"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_893bbed991"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_583002f930"
+  },
+  {
+    "year": 2016,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_cd04ad2100"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_771514f03c"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_0fcead651a"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_bc401af232"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.8L Turbo Diesel I4",
+    "engine_code": [
+      "LWN"
+    ],
+    "fitment_id": "f_acee94ac01"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGZ"
+    ],
+    "fitment_id": "f_bdd8f23c72"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_9cd4a68182"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LY6"
+    ],
+    "fitment_id": "f_abb8b48ed0"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV3"
+    ],
+    "fitment_id": "f_89b892b951"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_f2bcc174e3"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_7295065309"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_dfbffceaa6"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_cb075338b8"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_6d7ede7aba"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_e726d17cc2"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LEA"
+    ],
+    "fitment_id": "f_abd00ed557"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_aa523a8d80"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_4bf18326f0"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_77f9cc592c"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_5ad406ee7c"
+  },
+  {
+    "year": 2017,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_f0f144def9"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_0f794ee95f"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_30e2835612"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_812f81b57c"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.8L Turbo Diesel I4",
+    "engine_code": [
+      "LWN"
+    ],
+    "fitment_id": "f_a1bc63b652"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGZ"
+    ],
+    "fitment_id": "f_d3cb0ceb4b"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_572b9cca56"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_8b6a4cbdf8"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV3"
+    ],
+    "fitment_id": "f_43ba113de2"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_39878d77d1"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_1ec586e928"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_e29ccb7b90"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_12ce2c8221"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_5b43258ed2"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_1ad0f29fbf"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "1.5L Turbo I4",
+    "engine_code": [
+      "LYX"
+    ],
+    "fitment_id": "f_30ab604e5c"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "1.6L Turbo Diesel I4",
+    "engine_code": [
+      "LH7"
+    ],
+    "fitment_id": "f_b7e1fd48ef"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_c09741732e"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_2445585ce8"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_70bd0b74c6"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_6edbf91469"
+  },
+  {
+    "year": 2018,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_6010f97040"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_da24987cc2"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_944d4756fc"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_b6142157a6"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.8L Turbo Diesel I4",
+    "engine_code": [
+      "LWN"
+    ],
+    "fitment_id": "f_110f4f41ff"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGZ"
+    ],
+    "fitment_id": "f_a405206340"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_bba999045f"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_a9638e778a"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_f3fe763ed3"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV3"
+    ],
+    "fitment_id": "f_f453611975"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_5461221e86"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_8da22a6638"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_a63ab5857a"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_737762312d"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "L96"
+    ],
+    "fitment_id": "f_973a200bd5"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_674d5d6395"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "1.5L Turbo I4",
+    "engine_code": [
+      "LYX"
+    ],
+    "fitment_id": "f_62e1f63d10"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "1.6L Turbo Diesel I4",
+    "engine_code": [
+      "LH7"
+    ],
+    "fitment_id": "f_ed1eb274b9"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_d0f9de1453"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_d36020eb75"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_28d5da5d7d"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_e64937118c"
+  },
+  {
+    "year": 2019,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_0459c6912f"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_bd03df1e29"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_4fc495a5b8"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_37f64eb0aa"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.8L Turbo Diesel I4",
+    "engine_code": [
+      "LWN"
+    ],
+    "fitment_id": "f_42f4a3c559"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGZ"
+    ],
+    "fitment_id": "f_05d27d5930"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_ad801e05ec"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_ed5f37bab3"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_55163d5029"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_2cef6ec03c"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV3"
+    ],
+    "fitment_id": "f_319733535a"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_dca70368b4"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_f5e8d53c45"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_f6e1174288"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_18376132e4"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_ec7ee5e99a"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_081e0cc2d3"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "1.5L Turbo I4",
+    "engine_code": [
+      "LYX"
+    ],
+    "fitment_id": "f_4af6acc72b"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "1.6L Turbo Diesel I4",
+    "engine_code": [
+      "LH7"
+    ],
+    "fitment_id": "f_6f232e9218"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_8826cac451"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_1983245d55"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_edb5fd91c8"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L83"
+    ],
+    "fitment_id": "f_b01f59b1cb"
+  },
+  {
+    "year": 2020,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_8db78afdff"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_40f45b9348"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_4a7bd31ce9"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_f4c7230876"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.8L Turbo Diesel I4",
+    "engine_code": [
+      "LWN"
+    ],
+    "fitment_id": "f_7a0551ac27"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGZ"
+    ],
+    "fitment_id": "f_969ade57be"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_3769898038"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_721784f4a5"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_c78ce1bd88"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_fa64093993"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV3"
+    ],
+    "fitment_id": "f_3818bf6201"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_5106b750dc"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_3c04b4913c"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_0d997d29dc"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_a637b32c5b"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_b8c5aa313d"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_2b5b1815e4"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "1.5L Turbo I4",
+    "engine_code": [
+      "LYX"
+    ],
+    "fitment_id": "f_590e4b41ad"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_8e6373b5ec"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_5748b8a0df"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_44845ec0aa"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_414fea9beb"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_1864ec8fbb"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_f35ed248c7"
+  },
+  {
+    "year": 2021,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_321df2b09a"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_9aa5bb2c81"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_cf41a5da96"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_983d4e5257"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.8L Turbo Diesel I4",
+    "engine_code": [
+      "LWN"
+    ],
+    "fitment_id": "f_5421fe45c0"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGZ"
+    ],
+    "fitment_id": "f_38b36be3e4"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_e2cccaa828"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_2d1a62b354"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_305ef2cd93"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_8a082f8cf8"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_3f0c480e40"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_4c5c0486ca"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_9d85406122"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_a4f2963a37"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_9e9154577a"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_452b88daad"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "1.5L Turbo I4",
+    "engine_code": [
+      "LSD"
+    ],
+    "fitment_id": "f_8a22696f17"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_0052d60ba7"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_4f06470ade"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_6f3d8ec35b"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_8c88162804"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_86a8215547"
+  },
+  {
+    "year": 2022,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_28827309c0"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_f8b9ba5c47"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_36359fbade"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_4f59a0c06b"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_8770f0582d"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_ed52ca0368"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_71e064e0cc"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LZ0"
+    ],
+    "fitment_id": "f_631360996b"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_53ad766f8c"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_a929615ccd"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_3da92c4f9c"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_17e8613753"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_0c43757a45"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_a00ff006a3"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "1.5L Turbo I4",
+    "engine_code": [
+      "LSD"
+    ],
+    "fitment_id": "f_50c8ce99fa"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_ae66267bee"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_ea56953ac8"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_c80df5da33"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_ab8c18e4fc"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_e277f12227"
+  },
+  {
+    "year": 2023,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_aa82776aa4"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Acadia",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "LK0"
+    ],
+    "fitment_id": "f_385b4685bd"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Canyon",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_73a590ca1a"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "4.3L V6",
+    "engine_code": [
+      "LV1"
+    ],
+    "fitment_id": "f_0494cfcb9e"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Savana",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_779bce625b"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_4dd1bcbad8"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LZ0"
+    ],
+    "fitment_id": "f_1b08f5c402"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_c8193b35ad"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_f0f6ebc16f"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_c156cd375e"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Sierra 2500 HD",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_796a71f67b"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L Turbo Diesel V8",
+    "engine_code": [
+      "L5P"
+    ],
+    "fitment_id": "f_92150a730e"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Sierra 3500 HD",
+    "engine": "6.6L V8",
+    "engine_code": [
+      "L8T"
+    ],
+    "fitment_id": "f_468a3f41fb"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Terrain",
+    "engine": "1.5L Turbo I4",
+    "engine_code": [
+      "LSD"
+    ],
+    "fitment_id": "f_2f0933c4bf"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_40bf7bb8d3"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_ea2b02306e"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Yukon",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_a2eb115fb3"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_2de344251a"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "L84"
+    ],
+    "fitment_id": "f_8162142aaf"
+  },
+  {
+    "year": 2024,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_c9a422ca97"
+  }
+]

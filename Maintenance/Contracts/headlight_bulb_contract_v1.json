@@ -1,0 +1,25 @@
+{
+  "item_id": "headlight_bulb",
+  "scope_priority": [
+    "fitment_id (preferred)",
+    "year+make+model (fallback)"
+  ],
+  "positions_allowed": [
+    "low_beam",
+    "high_beam",
+    "fog_light",
+    "driving_light",
+    "daytime_running_light"
+  ],
+  "fields": {
+    "bulb_type": "string (e.g. H11, 9005, D3S)",
+    "technology": "enum [Halogen, HID, LED]",
+    "requires_pair": "boolean",
+    "notes": "string (optional)"
+  },
+  "rules": [
+    "HID and LED bulbs may require ballast or control module",
+    "Replace bulbs in pairs when applicable",
+    "Do not recommend LED retrofit where housing is not designed for it"
+  ]
+}

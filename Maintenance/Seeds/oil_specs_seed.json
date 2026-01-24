@@ -1,0 +1,351 @@
+{
+  "version": "oil_specs_seed.v2.draft",
+  "scope": "US-only",
+  "tier": "tier-1-locked",
+  "engine_key": "engine_code",
+  "notes": "Maps engine_code to locked Tier-1 oil spec keys. Capacities handled in a separate seed.",
+  "items": [
+    {
+      "engine_code": "GM_L83",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_L84",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_L87",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_3.6_LGX",
+      "oil_spec_key": "dexos1_gen3_5w30"
+    },
+    {
+      "engine_code": "GM_L3B",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_1.5_LYX",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_2.0_LE2",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_5.3_L83",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_5.3_L84",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_6.2_LT1",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_6.2_LT2",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_3.0_DURAMAX_LM2",
+      "oil_spec_key": "dexos_d_0w20"
+    },
+    {
+      "engine_code": "FORD_3.5_ECOBOOST",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30"
+    },
+    {
+      "engine_code": "FORD_2.7_ECOBOOST",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30"
+    },
+    {
+      "engine_code": "FORD_2.3_ECOBOOST",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30"
+    },
+    {
+      "engine_code": "FORD_1.5_ECOBOOST",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w20"
+    },
+    {
+      "engine_code": "FORD_5.0_COYOTE",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w20"
+    },
+    {
+      "engine_code": "FORD_7.3_GODZILLA",
+      "oil_spec_key": "ford_wss_m2c961_a1_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_A25A-FKS",
+      "oil_spec_key": "ilsac_gf6a_0w16"
+    },
+    {
+      "engine_code": "TOYOTA_M20A-FKS",
+      "oil_spec_key": "ilsac_gf6a_0w16"
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FKS",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_2ZR-FXE",
+      "oil_spec_key": "ilsac_gf6a_0w16"
+    },
+    {
+      "engine_code": "HONDA_K20C2",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "HONDA_K24A",
+      "oil_spec_key": "ilsac_gf5_5w20"
+    },
+    {
+      "engine_code": "HONDA_J35",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "HONDA_D_SERIES_LEGACY",
+      "oil_spec_key": "ilsac_gf4_5w20"
+    },
+    {
+      "engine_code": "HONDA_B_SERIES",
+      "oil_spec_key": "ilsac_gf4_5w30"
+    },
+    {
+      "engine_code": "NISSAN_QR25DE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "NISSAN_VQ35DE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "NISSAN_VQ37VHR",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "NISSAN_KR20DDET",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SUBARU_FB20",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SUBARU_FB25",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SUBARU_EJ25",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_2.5_SMARTSTREAM",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_2.0_NU",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "KIA_1.6_GDI",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "BMW_B48",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20"
+    },
+    {
+      "engine_code": "BMW_B58",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20"
+    },
+    {
+      "engine_code": "VW_2.0_TSI",
+      "oil_spec_key": "vw_508_509_0w20"
+    },
+    {
+      "engine_code": "MAZDA_2.5_SKYACTIV-G",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "MAZDA_2.0_SKYACTIV-G",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "GM_4.3_VORTEC_V6",
+      "oil_spec_key": "dexos1_gen2_5w30"
+    },
+    {
+      "engine_code": "GM_3.8_3800_SERIES_II",
+      "oil_spec_key": "dexos1_gen2_5w30"
+    },
+    {
+      "engine_code": "GM_2.2_ECOTEC_L61",
+      "oil_spec_key": "dexos1_gen2_5w30"
+    },
+    {
+      "engine_code": "GM_4.8_L20",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_5.3_LM7_GEN4",
+      "oil_spec_key": "dexos1_gen2_5w30"
+    },
+    {
+      "engine_code": "GM_6.0_LQ4_LQ9",
+      "oil_spec_key": "dexos1_gen2_5w30"
+    },
+    {
+      "engine_code": "FORD_4.6_MODULAR_2V_3V",
+      "oil_spec_key": "ford_wss_m2c930_a_5w20"
+    },
+    {
+      "engine_code": "FORD_5.4_MODULAR_3V",
+      "oil_spec_key": "ford_wss_m2c930_a_5w20"
+    },
+    {
+      "engine_code": "FORD_4.0_SOHC_V6",
+      "oil_spec_key": "ford_wss_m2c930_a_5w30"
+    },
+    {
+      "engine_code": "FORD_3.7_CYCLONE_V6",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w20"
+    },
+    {
+      "engine_code": "FORD_2.0_DURATEC_I4",
+      "oil_spec_key": "ford_wss_m2c930_a_5w20"
+    },
+    {
+      "engine_code": "FORD_2.5_DURATEC_I4",
+      "oil_spec_key": "ford_wss_m2c930_a_5w20"
+    },
+    {
+      "engine_code": "FORD_3.0_DURATEC_V6",
+      "oil_spec_key": "ford_wss_m2c930_a_5w20"
+    },
+    {
+      "engine_code": "TOYOTA_1GR-FE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_5VZ-FE",
+      "oil_spec_key": "ilsac_gf4_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_2AZ-FE",
+      "oil_spec_key": "ilsac_gf4_5w20"
+    },
+    {
+      "engine_code": "TOYOTA_1NZ-FE",
+      "oil_spec_key": "ilsac_gf4_5w20"
+    },
+    {
+      "engine_code": "TOYOTA_22R_22RE",
+      "oil_spec_key": "ilsac_gf3_10w30"
+    },
+    {
+      "engine_code": "HONDA_F_SERIES",
+      "oil_spec_key": "ilsac_gf4_5w30"
+    },
+    {
+      "engine_code": "HONDA_K_SERIES_LEGACY",
+      "oil_spec_key": "ilsac_gf5_5w20"
+    },
+    {
+      "engine_code": "NISSAN_MR20DD",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "NISSAN_HR16DE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "NISSAN_KA24DE",
+      "oil_spec_key": "ilsac_gf4_5w30"
+    },
+    {
+      "engine_code": "NISSAN_VG33E",
+      "oil_spec_key": "ilsac_gf4_5w30"
+    },
+    {
+      "engine_code": "MITSUBISHI_4G63",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "MITSUBISHI_4G63T",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "CHRYSLER_3.6_PENTASTAR",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "RAM_5.7_HEMI",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "JEEP_2.0_TURBO_GME",
+      "oil_spec_key": "tbd_verify_stellantis_2.0t_gme"
+    },
+    {
+      "engine_code": "FORD_3.0_ECOBOOST",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30"
+    },
+    {
+      "engine_code": "FORD_6.7_POWERSTROKE_GAS",
+      "oil_spec_key": "tbd_verify_ford_6.7_gas_v8"
+    },
+    {
+      "engine_code": "GM_2.5_LCV",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_LE2_2.0_TURBO",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "HONDA_L15B7",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "HONDA_R18A",
+      "oil_spec_key": "ilsac_gf4_5w20"
+    },
+    {
+      "engine_code": "HONDA_D17",
+      "oil_spec_key": "ilsac_gf4_5w20"
+    },
+    {
+      "engine_code": "NISSAN_QR25DE_OLD",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_2AR-FE",
+      "oil_spec_key": "ilsac_gf5_0w20"
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FXS",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "TOYOTA_2TR-FE",
+      "oil_spec_key": "ilsac_gf5_0w20"
+    },
+    {
+      "engine_code": "TOYOTA_4RUNNER_4.0_1GR_FE_OLD",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_5.7_3UR-FE",
+      "oil_spec_key": "ilsac_gf5_0w20"
+    }
+  ],
+  "generated_at": "2026-01-23T06:12:18.796676Z",
+  "items_checksum": "36a446d5413f41fd24d07a3dba718ce8852dfe10ef5a336fc5b112ecb5595bfa"
+}

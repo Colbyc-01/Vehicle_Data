@@ -1,0 +1,19 @@
+{
+  "item_id": "cabin_air_filter",
+  "scope_priority": [
+    "fitment_id (preferred)",
+    "year+make+model (fallback)"
+  ],
+  "fields": {
+    "oem_part_number": "string (optional)",
+    "aftermarket_options": "array of {brand, part_number} (optional)",
+    "filter_style": "enum [Standard, Charcoal, HEPA] (optional)",
+    "quantity": "integer (default 1)",
+    "access_location": "string (optional)",
+    "notes": "string (optional)"
+  },
+  "rules": [
+    "If quantity > 1, app must show 'replace both'",
+    "If HEPA/Charcoal optional, present as upgrade options"
+  ]
+}

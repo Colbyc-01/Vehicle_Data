@@ -1,0 +1,5012 @@
+[
+  {
+    "year": 1995,
+    "make": "Audi",
+    "model": "90",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AAH"
+    ],
+    "fitment_id": "f_5d39440d78"
+  },
+  {
+    "year": 1995,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AAH"
+    ],
+    "fitment_id": "f_de20879ec1"
+  },
+  {
+    "year": 1995,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "ABZ"
+    ],
+    "fitment_id": "f_2e9b435d37"
+  },
+  {
+    "year": 1995,
+    "make": "Audi",
+    "model": "Cabriolet",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AAH"
+    ],
+    "fitment_id": "f_5fcef522f9"
+  },
+  {
+    "year": 1995,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "2.2L Turbo I5",
+    "engine_code": [
+      "AAN"
+    ],
+    "fitment_id": "f_e1ef2c9d53"
+  },
+  {
+    "year": 1996,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AFC"
+    ],
+    "fitment_id": "f_46f835303b"
+  },
+  {
+    "year": 1996,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AFC"
+    ],
+    "fitment_id": "f_a152c38431"
+  },
+  {
+    "year": 1996,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "ABZ"
+    ],
+    "fitment_id": "f_4200dbf930"
+  },
+  {
+    "year": 1996,
+    "make": "Audi",
+    "model": "Cabriolet",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AFC"
+    ],
+    "fitment_id": "f_aea9faea50"
+  },
+  {
+    "year": 1996,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "2.2L Turbo I5",
+    "engine_code": [
+      "AAN"
+    ],
+    "fitment_id": "f_fc130460b7"
+  },
+  {
+    "year": 1997,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AEB"
+    ],
+    "fitment_id": "f_3a26395b59"
+  },
+  {
+    "year": 1997,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AFC"
+    ],
+    "fitment_id": "f_f05a29d642"
+  },
+  {
+    "year": 1997,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AFC"
+    ],
+    "fitment_id": "f_25ab32b50e"
+  },
+  {
+    "year": 1997,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "ABZ"
+    ],
+    "fitment_id": "f_ecc1c0e063"
+  },
+  {
+    "year": 1997,
+    "make": "Audi",
+    "model": "Cabriolet",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AFC"
+    ],
+    "fitment_id": "f_9b9c63e740"
+  },
+  {
+    "year": 1997,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "2.2L Turbo I5",
+    "engine_code": [
+      "AAN"
+    ],
+    "fitment_id": "f_e7ee4f0b1c"
+  },
+  {
+    "year": 1998,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AEB"
+    ],
+    "fitment_id": "f_8cd8547a89"
+  },
+  {
+    "year": 1998,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AHA"
+    ],
+    "fitment_id": "f_e437ea0a88"
+  },
+  {
+    "year": 1998,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AHA"
+    ],
+    "fitment_id": "f_66442a31bb"
+  },
+  {
+    "year": 1998,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "ABZ"
+    ],
+    "fitment_id": "f_5f7c6a8997"
+  },
+  {
+    "year": 1998,
+    "make": "Audi",
+    "model": "Cabriolet",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AHA"
+    ],
+    "fitment_id": "f_0698a1fe50"
+  },
+  {
+    "year": 1999,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AEB"
+    ],
+    "fitment_id": "f_2b7d30e65e"
+  },
+  {
+    "year": 1999,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AHA"
+    ],
+    "fitment_id": "f_adf564764c"
+  },
+  {
+    "year": 1999,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_4c72d6f2d0"
+  },
+  {
+    "year": 1999,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AHA"
+    ],
+    "fitment_id": "f_b623ff7e26"
+  },
+  {
+    "year": 1999,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "ABZ"
+    ],
+    "fitment_id": "f_3486dfaa14"
+  },
+  {
+    "year": 1999,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "APX"
+    ],
+    "fitment_id": "f_dd2143b426"
+  },
+  {
+    "year": 2000,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "ATW"
+    ],
+    "fitment_id": "f_d414081c39"
+  },
+  {
+    "year": 2000,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AHA"
+    ],
+    "fitment_id": "f_039aaeb7ad"
+  },
+  {
+    "year": 2000,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_7dc1dacbc1"
+  },
+  {
+    "year": 2000,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AHA"
+    ],
+    "fitment_id": "f_b32a27524a"
+  },
+  {
+    "year": 2000,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "ABZ"
+    ],
+    "fitment_id": "f_677acaaa01"
+  },
+  {
+    "year": 2000,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_af41c971bf"
+  },
+  {
+    "year": 2000,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "AQJ"
+    ],
+    "fitment_id": "f_1cb4507c8f"
+  },
+  {
+    "year": 2000,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "ATC"
+    ],
+    "fitment_id": "f_14250fc1b7"
+  },
+  {
+    "year": 2001,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "ATW"
+    ],
+    "fitment_id": "f_f62dbb53cb"
+  },
+  {
+    "year": 2001,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AHA"
+    ],
+    "fitment_id": "f_57ebcf13d9"
+  },
+  {
+    "year": 2001,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_a7a1f301b7"
+  },
+  {
+    "year": 2001,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "AHA"
+    ],
+    "fitment_id": "f_f64dee3d05"
+  },
+  {
+    "year": 2001,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "ART"
+    ],
+    "fitment_id": "f_c8c7ff067f"
+  },
+  {
+    "year": 2001,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "ABZ"
+    ],
+    "fitment_id": "f_ee26eebe95"
+  },
+  {
+    "year": 2001,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_9e55968db6"
+  },
+  {
+    "year": 2001,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "AQH"
+    ],
+    "fitment_id": "f_55fc7cd360"
+  },
+  {
+    "year": 2001,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "ATC"
+    ],
+    "fitment_id": "f_866a669c4d"
+  },
+  {
+    "year": 2001,
+    "make": "Audi",
+    "model": "allroad",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_0d6d7b158a"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AMB"
+    ],
+    "fitment_id": "f_3e403dc3de"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AVK"
+    ],
+    "fitment_id": "f_b5687be968"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_502b69a4fe"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AVK"
+    ],
+    "fitment_id": "f_3cd21dc9c8"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "ART"
+    ],
+    "fitment_id": "f_3ce74a86de"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "AQH"
+    ],
+    "fitment_id": "f_c3725e58bc"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_3f329aedd4"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "AQJ"
+    ],
+    "fitment_id": "f_cb1abf5269"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "AQH"
+    ],
+    "fitment_id": "f_fd615f1aad"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AMB"
+    ],
+    "fitment_id": "f_b5c0568cf3"
+  },
+  {
+    "year": 2002,
+    "make": "Audi",
+    "model": "allroad",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_923a68673f"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AMB"
+    ],
+    "fitment_id": "f_2054a0fb21"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AVK"
+    ],
+    "fitment_id": "f_3d0a032ffb"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_cf04df5106"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AVK"
+    ],
+    "fitment_id": "f_e2b8a81ec0"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "ART"
+    ],
+    "fitment_id": "f_599f1bc7ca"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BFM"
+    ],
+    "fitment_id": "f_c99772c2e4"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "RS6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BCY"
+    ],
+    "fitment_id": "f_adb908b7bf"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BBK"
+    ],
+    "fitment_id": "f_dc53c3181e"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "AQJ"
+    ],
+    "fitment_id": "f_22ad8b3c08"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BFM"
+    ],
+    "fitment_id": "f_70fa6a6ca4"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AMB"
+    ],
+    "fitment_id": "f_05752ad53b"
+  },
+  {
+    "year": 2003,
+    "make": "Audi",
+    "model": "allroad",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_f8af06dcd2"
+  },
+  {
+    "year": 2004,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AMB"
+    ],
+    "fitment_id": "f_d0819a93a9"
+  },
+  {
+    "year": 2004,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AVK"
+    ],
+    "fitment_id": "f_afdc969462"
+  },
+  {
+    "year": 2004,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AVK"
+    ],
+    "fitment_id": "f_6c34f4018c"
+  },
+  {
+    "year": 2004,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BFM"
+    ],
+    "fitment_id": "f_4f09ef613c"
+  },
+  {
+    "year": 2004,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BBK"
+    ],
+    "fitment_id": "f_7a81577fd0"
+  },
+  {
+    "year": 2004,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BFM"
+    ],
+    "fitment_id": "f_948b95eb08"
+  },
+  {
+    "year": 2004,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AMB"
+    ],
+    "fitment_id": "f_bd36c3405f"
+  },
+  {
+    "year": 2004,
+    "make": "Audi",
+    "model": "allroad",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_f6395cf235"
+  },
+  {
+    "year": 2005,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AMB"
+    ],
+    "fitment_id": "f_a9b85d1d7b"
+  },
+  {
+    "year": 2005,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AVK"
+    ],
+    "fitment_id": "f_48a8ed2954"
+  },
+  {
+    "year": 2005,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BKH"
+    ],
+    "fitment_id": "f_925be059f9"
+  },
+  {
+    "year": 2005,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BFM"
+    ],
+    "fitment_id": "f_e540f30fb1"
+  },
+  {
+    "year": 2005,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BFM"
+    ],
+    "fitment_id": "f_d327bbd8d6"
+  },
+  {
+    "year": 2005,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BBK"
+    ],
+    "fitment_id": "f_a0760a1cf7"
+  },
+  {
+    "year": 2005,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BFM"
+    ],
+    "fitment_id": "f_de5267605e"
+  },
+  {
+    "year": 2005,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AMB"
+    ],
+    "fitment_id": "f_bdabf217a5"
+  },
+  {
+    "year": 2005,
+    "make": "Audi",
+    "model": "allroad",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "APB"
+    ],
+    "fitment_id": "f_ed2bebf143"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "BPY"
+    ],
+    "fitment_id": "f_ed43fd2998"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BUB"
+    ],
+    "fitment_id": "f_5bea511caa"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "BPY"
+    ],
+    "fitment_id": "f_1946ecc86e"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BKH"
+    ],
+    "fitment_id": "f_0c79110b86"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BKH"
+    ],
+    "fitment_id": "f_7162cd4b6e"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_f7204e11b2"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_543dd7eab5"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "BHK"
+    ],
+    "fitment_id": "f_fe3d294bb6"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_c5f7851b62"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BBK"
+    ],
+    "fitment_id": "f_f10c365e36"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_cb6203317a"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_1ca6eaf83e"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "AMB"
+    ],
+    "fitment_id": "f_0c540dfea5"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BHE"
+    ],
+    "fitment_id": "f_b53972b4a3"
+  },
+  {
+    "year": 2006,
+    "make": "Audi",
+    "model": "allroad",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BAS"
+    ],
+    "fitment_id": "f_d2e9fe30bb"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "BPY"
+    ],
+    "fitment_id": "f_1020416ce9"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BUB"
+    ],
+    "fitment_id": "f_7165936c76"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "BPY"
+    ],
+    "fitment_id": "f_83898c5537"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BKH"
+    ],
+    "fitment_id": "f_0ea8717c0d"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_bf778da0a9"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BKH"
+    ],
+    "fitment_id": "f_cf63a95190"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_34e4ce8b98"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_1b82169d8c"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "BHK"
+    ],
+    "fitment_id": "f_c56df835cd"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_166a099a5a"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BYH"
+    ],
+    "fitment_id": "f_f52cd20325"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BBK"
+    ],
+    "fitment_id": "f_b0a9580378"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "CAUA"
+    ],
+    "fitment_id": "f_eb18b62b10"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_cc49594e47"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_315791bd66"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "BWA"
+    ],
+    "fitment_id": "f_0791aac035"
+  },
+  {
+    "year": 2007,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BHE"
+    ],
+    "fitment_id": "f_9383c1a92a"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "BPY"
+    ],
+    "fitment_id": "f_0efcb69b47"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BUB"
+    ],
+    "fitment_id": "f_c6a6b085cc"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "BPY"
+    ],
+    "fitment_id": "f_b7cbde3e46"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BKH"
+    ],
+    "fitment_id": "f_26e6c4c90f"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_1fc3f04bfd"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BKH"
+    ],
+    "fitment_id": "f_39a02027e3"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_c0dff39021"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_c6caaf7903"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "BHK"
+    ],
+    "fitment_id": "f_bd252babad"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_1384623f5f"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BYH"
+    ],
+    "fitment_id": "f_a7f7418413"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BBK"
+    ],
+    "fitment_id": "f_fd1bd2ac86"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "CAUA"
+    ],
+    "fitment_id": "f_17ac29d872"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_ecb587841f"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_e563e1efc7"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "BWA"
+    ],
+    "fitment_id": "f_faa29f207e"
+  },
+  {
+    "year": 2008,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "BHE"
+    ],
+    "fitment_id": "f_fed5bffa60"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_c478d2fd94"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_d4116a00c5"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_1a2d30d09b"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_9191c72348"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_2597fe3187"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_8373528236"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_94b2effcd8"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_36fdeb7630"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_99215458ef"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CATA"
+    ],
+    "fitment_id": "f_962973e79d"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "BHK"
+    ],
+    "fitment_id": "f_22706322b3"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_25669d0993"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BYH"
+    ],
+    "fitment_id": "f_a9ab4a7ba5"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_ec598f37f0"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "CAUA"
+    ],
+    "fitment_id": "f_d5a2458dae"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_8fd4030e5a"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_615de4800f"
+  },
+  {
+    "year": 2009,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_e42e23b10e"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "CBEA"
+    ],
+    "fitment_id": "f_e6f021503d"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_66dc2428ff"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_eafd47c8fa"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_dc85ee47dd"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_7b8b928e35"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_6d72cee956"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_35f1fb9138"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_c8d608f286"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CATA"
+    ],
+    "fitment_id": "f_7a7d23c9bd"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "BHK"
+    ],
+    "fitment_id": "f_bb9083a3de"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_c94da8950b"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BYH"
+    ],
+    "fitment_id": "f_3bdac55d50"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BUJ"
+    ],
+    "fitment_id": "f_4392fa1e31"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_b8b240c686"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "CAUA"
+    ],
+    "fitment_id": "f_ec51654a23"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_4d7bb1c771"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_69fc2c7fbe"
+  },
+  {
+    "year": 2010,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_fd92d4fea1"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "CBEA"
+    ],
+    "fitment_id": "f_a11f66837e"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_e57ab277ac"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_4d4479e812"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_7d5d7db427"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_66894bb85f"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_135c05e687"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_1151110cbe"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_729efd8b5b"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BVJ"
+    ],
+    "fitment_id": "f_19732ce180"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_1d7f2e56d5"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_205d5d2e16"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CATA"
+    ],
+    "fitment_id": "f_8fe8845efe"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CJWA"
+    ],
+    "fitment_id": "f_5e05dae17e"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BYH"
+    ],
+    "fitment_id": "f_c791c25f35"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BUJ"
+    ],
+    "fitment_id": "f_ca5e4c4d4b"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_f5d86072eb"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "CAUA"
+    ],
+    "fitment_id": "f_a7a2488ea7"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_888feba920"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BXA"
+    ],
+    "fitment_id": "f_a2c0d2afee"
+  },
+  {
+    "year": 2011,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_a9f99fed9f"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "CBEA"
+    ],
+    "fitment_id": "f_ad7ba482c1"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_e22a8fc68b"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_ed326a8415"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_6c5f442801"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_8f059edf5f"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_1a69da0480"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_a1aa44efec"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_fa666b2877"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "6.3L V12",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_7ed7b0e124"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_069677bc23"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "CALB"
+    ],
+    "fitment_id": "f_dec4ad366a"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CATA"
+    ],
+    "fitment_id": "f_18d2757a47"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CJWA"
+    ],
+    "fitment_id": "f_62e593b079"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BYH"
+    ],
+    "fitment_id": "f_5c62ade2cf"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BUJ"
+    ],
+    "fitment_id": "f_03f8ea2911"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_3a5b171773"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "CAUA"
+    ],
+    "fitment_id": "f_e95145b5fb"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_1c2e324063"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_e2de82252c"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_08ef84ecbb"
+  },
+  {
+    "year": 2012,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_9630d8e4af"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "CBEA"
+    ],
+    "fitment_id": "f_79678ad5a5"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_b2f9b4123e"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_e825db1539"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_7f1ce232d1"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_6370298318"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_caea1e2a4f"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_e305a2359a"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "6.3L V12",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_d15b156857"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_3918e51ac7"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_7ba8605997"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CNRB"
+    ],
+    "fitment_id": "f_b7dc4910ec"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CJWA"
+    ],
+    "fitment_id": "f_55288fb9a3"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BYH"
+    ],
+    "fitment_id": "f_dc92eb0baa"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BUJ"
+    ],
+    "fitment_id": "f_a0271c0cf5"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "CFSA"
+    ],
+    "fitment_id": "f_8f2a2bfc33"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_7e3309c841"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_937772e03e"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_df48777264"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_ab1540944f"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_a17e1085ce"
+  },
+  {
+    "year": 2013,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_bc73963b59"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "CPMA"
+    ],
+    "fitment_id": "f_acf43dcf77"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CPLA"
+    ],
+    "fitment_id": "f_8cb23450ee"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_3ee607243f"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_4eb550ec8e"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_4c0ef9bbc4"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPNB"
+    ],
+    "fitment_id": "f_85e1600b87"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_f060aee555"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPNB"
+    ],
+    "fitment_id": "f_88d025d3a1"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_66923e12f4"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPNA"
+    ],
+    "fitment_id": "f_ccb8d616d3"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_a1ef1d828b"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_224815c708"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPHA"
+    ],
+    "fitment_id": "f_c1401c85fc"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_c7b4cda592"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CNRB"
+    ],
+    "fitment_id": "f_a28e384a17"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CJWA"
+    ],
+    "fitment_id": "f_6eabfa866b"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BYH"
+    ],
+    "fitment_id": "f_4532e97f4e"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BUJ"
+    ],
+    "fitment_id": "f_4333ec35d3"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "CFSA"
+    ],
+    "fitment_id": "f_4f45bbd3f4"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CPLA"
+    ],
+    "fitment_id": "f_75bd85f765"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_911eef27c8"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_ae871f8fdb"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_1afc595116"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_bfb26511b7"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_b4d22e2203"
+  },
+  {
+    "year": 2014,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_20b621ad15"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "CPMA"
+    ],
+    "fitment_id": "f_0af57db654"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "CRUA"
+    ],
+    "fitment_id": "f_fa760a7e99"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CPLA"
+    ],
+    "fitment_id": "f_22b3432cc0"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_997e424a92"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_b064ed6015"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_82ff2c4a69"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPNB"
+    ],
+    "fitment_id": "f_fb3db7c0c8"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_ea44664f71"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPNB"
+    ],
+    "fitment_id": "f_9fb342c190"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "fitment_id": "f_dc8105ffe0"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPNA"
+    ],
+    "fitment_id": "f_dd0f421262"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_d6e8224e03"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "Q3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_ea777e9533"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_9bc3346775"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPHA"
+    ],
+    "fitment_id": "f_b67214a7e6"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_03eadcf5bc"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CNRB"
+    ],
+    "fitment_id": "f_ab05f9f40d"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CJWA"
+    ],
+    "fitment_id": "f_5d994f220b"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "BYH"
+    ],
+    "fitment_id": "f_333e15cad5"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "BUJ"
+    ],
+    "fitment_id": "f_303b36ebf1"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "CFSA"
+    ],
+    "fitment_id": "f_4f2ffca1b2"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CPLA"
+    ],
+    "fitment_id": "f_846be946d7"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_d482d71642"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_0d91872d28"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_9e025a7886"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_174b0495ae"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_9243222e62"
+  },
+  {
+    "year": 2015,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_edd360b76d"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "CPMA"
+    ],
+    "fitment_id": "f_038ded5bb7"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CPLA"
+    ],
+    "fitment_id": "f_48754c221e"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_a67bd797f5"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_882f4af19f"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_b8e1003c12"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPNB"
+    ],
+    "fitment_id": "f_6817f844c9"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGXB"
+    ],
+    "fitment_id": "f_047ef2d90e"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPNB"
+    ],
+    "fitment_id": "f_f5d72d780d"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGXB"
+    ],
+    "fitment_id": "f_08c1c5522b"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_74ea55bc5e"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "Q3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_2b3fd4ec43"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_4997fffaef"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "CPHA"
+    ],
+    "fitment_id": "f_d0b4444a04"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_2241a84ca7"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CJWA"
+    ],
+    "fitment_id": "f_d545adff56"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "Q8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_817cc14454"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_8bd4f4ea4d"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "CFSA"
+    ],
+    "fitment_id": "f_204a6738a6"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "RS7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_9d94cf4b8f"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CPLA"
+    ],
+    "fitment_id": "f_d54ad1a772"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_a1b2b52ddd"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_d0c881b054"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_fbb8397da4"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_34db1a6944"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_27312472b1"
+  },
+  {
+    "year": 2016,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CETA"
+    ],
+    "fitment_id": "f_99e96b31ef"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_645cb006a8"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_9c51d4688e"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_1c79a1e66f"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_eabff13835"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGXB"
+    ],
+    "fitment_id": "f_4739ccb1c8"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGXB"
+    ],
+    "fitment_id": "f_d4fb6bd3b4"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_0db2a82518"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "Q3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_f0b4f23bdd"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CAEB"
+    ],
+    "fitment_id": "f_f64017ac67"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "CGWC"
+    ],
+    "fitment_id": "f_32a781f4b5"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_9483f50ab6"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "Q8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_97b3a99b80"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_8dca23e372"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "RS3",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "DAZA"
+    ],
+    "fitment_id": "f_003982777d"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_e75ff9d62d"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "RS7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_6c551c6188"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "RSQ8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_2e93230e65"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_72f4f4a466"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_7fe3253f50"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_64b185138f"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_ae90d65ee2"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_6b98c746ae"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_5f552792bd"
+  },
+  {
+    "year": 2017,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CETA"
+    ],
+    "fitment_id": "f_81415dc575"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_96dada7453"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_010ec1263c"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_1aefcdd964"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_6148003e68"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_82f5183b8a"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_2fbe3c2868"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_25b696fed8"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "Q3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CCTA"
+    ],
+    "fitment_id": "f_2b174b1973"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_63b14b9376"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_5c2694580a"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "Q8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_faa0932c88"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_0c52e1e2fd"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "RS3",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "DAZA"
+    ],
+    "fitment_id": "f_1eced2884d"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_fc4c1738d4"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "RS7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_347e2d50d6"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "RSQ8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_6f8a2bed0a"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_ee5e1829fa"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_ef2473ee92"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_5918b0270f"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_4135740f4d"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_6be444659a"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_476e469c5e"
+  },
+  {
+    "year": 2018,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CETA"
+    ],
+    "fitment_id": "f_792683f818"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_1564d2788c"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_1b36850b1d"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_f5e521147d"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_96760ddfd7"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_b50ccf70b7"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_da981f1c2a"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_5c2fddce66"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "Q3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DASA"
+    ],
+    "fitment_id": "f_16946760ea"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_417626057c"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_83cf44c3f6"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "Q8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_367e5fd23f"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_63c015030b"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "RS3",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "DAZA"
+    ],
+    "fitment_id": "f_38c400b827"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_487e4fafac"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "RS7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_5211fffb5e"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "RSQ8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_648b75f7d5"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_d1192b47d7"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_086c7f6423"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_57550af167"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_4111c94c21"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_e9f8fc38d1"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_9c9880fea6"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CETA"
+    ],
+    "fitment_id": "f_1e028537ed"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_bc4f28829b"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_dc2ee21961"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_5d22fa90d9"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_319e55f556"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_13d33e8a5c"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_13fbf6bf55"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_bb916c0190"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "Q3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DASA"
+    ],
+    "fitment_id": "f_9c99fa38cc"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_01f7d255ac"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_a3c1f73806"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "Q8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_2627153b20"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_0ca84ce3ec"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "RS3",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "DAZA"
+    ],
+    "fitment_id": "f_c6e0fae2e2"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_a9f6e8e141"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "RS7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_dda1611e13"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "RSQ8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_06b33619e8"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_e845dff5fb"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_32a07347b1"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_5cd3143c26"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_4a929eb63a"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_1824b200a7"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_935a9d694a"
+  },
+  {
+    "year": 2020,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CETA"
+    ],
+    "fitment_id": "f_87fc98d41b"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_f5b6fd49c3"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_6a329438ed"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_794bd8e352"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_712614906f"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_4a03a1e225"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_a9f5ab7fcf"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_97774e49b0"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_7384fcbda7"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "Q3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DASA"
+    ],
+    "fitment_id": "f_605731d95e"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_8cadeb679d"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_787ad204cb"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "Q8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_f953b2f7fc"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_b5958bdfcc"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "RS3",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "DAZA"
+    ],
+    "fitment_id": "f_3be79a7e28"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_974fdb271a"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "RS7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_40e124d2d1"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "RSQ8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_a80a91aa45"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_e2fe7cb646"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_b989160de7"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_f716a7eb24"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_cc62541dea"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_7f276400a6"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_406751ad14"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CETA"
+    ],
+    "fitment_id": "f_8e810be9cc"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_758d50c143"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_3e404aade2"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_936f1c7330"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_bda37d2e52"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_20858dba0e"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_b12c41edb7"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_52a0c3ac42"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_36767326e5"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "Q3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DASA"
+    ],
+    "fitment_id": "f_6eedaa9964"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_8c2a6a039f"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_fc015566ef"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "Q8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_781a80d1c6"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_47faaecef7"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "RS3",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "DAZA"
+    ],
+    "fitment_id": "f_f25025a99e"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_5c53f83e9b"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "RS7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_3661d2c5e5"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "RSQ8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_6f773318fe"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_7efdbd13a7"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_9367f41cb8"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_633e17e6ae"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_80ede84dbc"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_d9a0612eb1"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_3a0839a647"
+  },
+  {
+    "year": 2022,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CETA"
+    ],
+    "fitment_id": "f_ff875f6d18"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_ff86cd41f4"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_0b9e2dbd81"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_d3279fa06c"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_471ad89459"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_f0980379c2"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_d4206449b8"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_9cb457b406"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_a8a4bcd32d"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "Q3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DASA"
+    ],
+    "fitment_id": "f_187f7bbc14"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_4a0cba04bc"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_bc47553386"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "Q8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_ac32644a81"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_63d29d0bf4"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "RS3",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "DAZA"
+    ],
+    "fitment_id": "f_8726d71930"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_d3a849e6d5"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "RS7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_b050230b17"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "RSQ8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_089563e770"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_bd75cd597c"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_99616612ee"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_d65d5811e9"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_c131d6b3ee"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_06e8282839"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_bd204f2d14"
+  },
+  {
+    "year": 2023,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CETA"
+    ],
+    "fitment_id": "f_b0c76b83b3"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "A3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_6c7b975174"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "A4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_ef35cd472d"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "A5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_d49dd2ee1d"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_646405636b"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "A6",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_4757c6a476"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "A7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_f848baa18a"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_f3f09abe88"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "A8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_b82b91642b"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "Q3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DASA"
+    ],
+    "fitment_id": "f_4759e1bf22"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "Q5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CYMC"
+    ],
+    "fitment_id": "f_9fabbff1e8"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "Q7",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_9114cb1169"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "Q8",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "DLZA"
+    ],
+    "fitment_id": "f_91d0c1d62f"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "R8",
+    "engine": "5.2L V10",
+    "engine_code": [
+      "CEUA"
+    ],
+    "fitment_id": "f_d7a3bfe000"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "RS3",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "DAZA"
+    ],
+    "fitment_id": "f_44b2f2a23b"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "RS5",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_ad71599739"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "RS7",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_c52d6538ba"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "RSQ8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_19db2cb1b6"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "S3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "DADA"
+    ],
+    "fitment_id": "f_8c18842d80"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "S4",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_6065d563a2"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "S5",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "CWGD"
+    ],
+    "fitment_id": "f_54940d4a19"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "S6",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_c1429dd509"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "S7",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "DECA"
+    ],
+    "fitment_id": "f_11920473ae"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "S8",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "CEUC"
+    ],
+    "fitment_id": "f_a51cea6a4e"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "TT",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "CETA"
+    ],
+    "fitment_id": "f_c7f38f51eb"
+  }
+]

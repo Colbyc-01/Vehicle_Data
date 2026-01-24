@@ -1,0 +1,7392 @@
+[
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "M42"
+    ],
+    "fitment_id": "f_65debefe99"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "M44"
+    ],
+    "fitment_id": "f_ab49be56b7"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M50"
+    ],
+    "fitment_id": "f_18a9105de4"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "S50"
+    ],
+    "fitment_id": "f_acdb6913f1"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M50"
+    ],
+    "fitment_id": "f_47cd2f181a"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M60"
+    ],
+    "fitment_id": "f_33cbb890e8"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "M60"
+    ],
+    "fitment_id": "f_4e2f33ede5"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M60"
+    ],
+    "fitment_id": "f_aa9dde8e09"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "M60"
+    ],
+    "fitment_id": "f_069c0f1993"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "5.4L V12",
+    "engine_code": [
+      "M73"
+    ],
+    "fitment_id": "f_8d6d1172d8"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "M60"
+    ],
+    "fitment_id": "f_15bf464bc9"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "5.4L V12",
+    "engine_code": [
+      "M73"
+    ],
+    "fitment_id": "f_c50cfd9c23"
+  },
+  {
+    "year": 1995,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "M44"
+    ],
+    "fitment_id": "f_6d09e1442c"
+  },
+  {
+    "year": 1996,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "M44"
+    ],
+    "fitment_id": "f_77a91db44d"
+  },
+  {
+    "year": 1996,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_cda80ce4d2"
+  },
+  {
+    "year": 1996,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S52"
+    ],
+    "fitment_id": "f_3097644952"
+  },
+  {
+    "year": 1996,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_13979de27d"
+  },
+  {
+    "year": 1996,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_1b7441ba2d"
+  },
+  {
+    "year": 1996,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_f5c694f558"
+  },
+  {
+    "year": 1996,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "5.4L V12",
+    "engine_code": [
+      "M73"
+    ],
+    "fitment_id": "f_973b3fdb7c"
+  },
+  {
+    "year": 1996,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "M44"
+    ],
+    "fitment_id": "f_7e73505d66"
+  },
+  {
+    "year": 1996,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_e6d4361fd5"
+  },
+  {
+    "year": 1997,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "M44"
+    ],
+    "fitment_id": "f_8a475d6300"
+  },
+  {
+    "year": 1997,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_5701ac5838"
+  },
+  {
+    "year": 1997,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S52"
+    ],
+    "fitment_id": "f_76ec831096"
+  },
+  {
+    "year": 1997,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_a7208f9b11"
+  },
+  {
+    "year": 1997,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_e03d6c8f4e"
+  },
+  {
+    "year": 1997,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_4e02ba381f"
+  },
+  {
+    "year": 1997,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "5.4L V12",
+    "engine_code": [
+      "M73"
+    ],
+    "fitment_id": "f_b502ad65a4"
+  },
+  {
+    "year": 1997,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "M44"
+    ],
+    "fitment_id": "f_c68afe9bc2"
+  },
+  {
+    "year": 1997,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_d0e61b5864"
+  },
+  {
+    "year": 1998,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "M44"
+    ],
+    "fitment_id": "f_c7f68e333c"
+  },
+  {
+    "year": 1998,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_0bd836ad6d"
+  },
+  {
+    "year": 1998,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S52"
+    ],
+    "fitment_id": "f_a42b6a9efe"
+  },
+  {
+    "year": 1998,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_0fb23c1063"
+  },
+  {
+    "year": 1998,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_276f53e316"
+  },
+  {
+    "year": 1998,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_cab6ee797d"
+  },
+  {
+    "year": 1998,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "5.4L V12",
+    "engine_code": [
+      "M73"
+    ],
+    "fitment_id": "f_7f2fd4f210"
+  },
+  {
+    "year": 1998,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "1.9L I4",
+    "engine_code": [
+      "M44"
+    ],
+    "fitment_id": "f_11bbfb5482"
+  },
+  {
+    "year": 1998,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_57db1fc9ab"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_5f4595584c"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_9ae353b365"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S52"
+    ],
+    "fitment_id": "f_3c2422c0ab"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_b120cc4bd2"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_b29d4a6be8"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_ab5af88255"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "5.4L V12",
+    "engine_code": [
+      "M73"
+    ],
+    "fitment_id": "f_c155770257"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.9L V8",
+    "engine_code": [
+      "S62"
+    ],
+    "fitment_id": "f_61ac45421e"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_a1431f6cd0"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_94a119c010"
+  },
+  {
+    "year": 1999,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S52"
+    ],
+    "fitment_id": "f_6531861c53"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_10f6a67b2f"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_19b1ca17eb"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S52"
+    ],
+    "fitment_id": "f_a8985206c1"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_e38c256abb"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_636083fb60"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_34ec55d632"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "5.4L V12",
+    "engine_code": [
+      "M73"
+    ],
+    "fitment_id": "f_3f8c6be820"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.9L V8",
+    "engine_code": [
+      "S62"
+    ],
+    "fitment_id": "f_940a388d8a"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_8b4fa69b3b"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_d5fe1394f7"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_6bf6801501"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_e8a550f61e"
+  },
+  {
+    "year": 2000,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S52"
+    ],
+    "fitment_id": "f_0656b4943e"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_cf561751f7"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.8L I6",
+    "engine_code": [
+      "M52"
+    ],
+    "fitment_id": "f_df22b0c205"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_db5bf0a593"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_36455a21a1"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_3d8d44e7f5"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_8c0505ac2b"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_adddde0ff9"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_a5acf1abcd"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_3cea7deafa"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_0ab50d223b"
+  },
+  {
+    "year": 2001,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_cc6d472d1e"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_3b63d5da88"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_e1ce0c0186"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_b53eb40275"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_9e5980cdf4"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_a8ff56383b"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_2ee09ac7d3"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S54"
+    ],
+    "fitment_id": "f_57f1c2ebcb"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_9903a80495"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_78087fb63a"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_418c79667e"
+  },
+  {
+    "year": 2002,
+    "make": "BMW",
+    "model": "Z3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_61373eecd4"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_06b9b53335"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_2b37d0af1b"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_d69f4b65d2"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_7e21cbab33"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_9b4fbd163b"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_b2d988b2fd"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S54"
+    ],
+    "fitment_id": "f_f07bdae94f"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_fc9f1efb40"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "M62"
+    ],
+    "fitment_id": "f_52e26003f5"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_5fd5b50c21"
+  },
+  {
+    "year": 2003,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_6bef10e718"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_c521a35885"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_1ee569295d"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_e6c2947482"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_41afdc606c"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_c6c02a5ea7"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S54"
+    ],
+    "fitment_id": "f_13b47e7e66"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_dbee9af2b3"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_f34f6dc17f"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_42b0220509"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_4e34eff360"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_5a4cd3ac82"
+  },
+  {
+    "year": 2004,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_aa9c5650de"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_dfda593373"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_51e89e07a7"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_50c984566c"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_4c822c69a4"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_8b6f4f89e9"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_1c2fe379cc"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_b1a4566a59"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "S54"
+    ],
+    "fitment_id": "f_41d5497d09"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_1b707aa747"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_a8946379c7"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_dc45ce2a89"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_fd1ddf771b"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_4f8905ff10"
+  },
+  {
+    "year": 2005,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "M54"
+    ],
+    "fitment_id": "f_7a34b5fdad"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_1e0f1c4c82"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_bdf7a70fe7"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_349e1f5c27"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_d935db22ca"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_c70ea301ff"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_c54d7db0b4"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "5.0L V10",
+    "engine_code": [
+      "S85"
+    ],
+    "fitment_id": "f_3855e28135"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "M6",
+    "engine": "5.0L V10",
+    "engine_code": [
+      "S85"
+    ],
+    "fitment_id": "f_c3f76dc670"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_9736b4c6aa"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_fe113bf0d3"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_a5fae33b46"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_a8cc3c0e4e"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_25ab0359f8"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_9b24c41efe"
+  },
+  {
+    "year": 2006,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_cb0c7f68f7"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_3ebef93cca"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_f871f76d4e"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_b1a2bf8174"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_13fdfeb143"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_e2fa3e1105"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_16ec99d021"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_fff2700b7d"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_6a4478aa3d"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "5.0L V10",
+    "engine_code": [
+      "S85"
+    ],
+    "fitment_id": "f_6013d2f223"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "M6",
+    "engine": "5.0L V10",
+    "engine_code": [
+      "S85"
+    ],
+    "fitment_id": "f_ef95068b48"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_0589bb0d66"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_58fb76f28d"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_45020dbe03"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_200cfa01cd"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_ebd92246d8"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_65cf1c40c1"
+  },
+  {
+    "year": 2007,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_476a8cb458"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_9c79f082c1"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_20ac071ab9"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_4a911733e8"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_d64bbd2acc"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_679d87f1fa"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_f9fd6b53de"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_6bb5466346"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_c767ddcb4e"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_80f798631c"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_c70ff1110f"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_4488d3b9c7"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_7c6919d5e4"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "S65"
+    ],
+    "fitment_id": "f_334ec9505e"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "5.0L V10",
+    "engine_code": [
+      "S85"
+    ],
+    "fitment_id": "f_6254db52ff"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "M6",
+    "engine": "5.0L V10",
+    "engine_code": [
+      "S85"
+    ],
+    "fitment_id": "f_80e0a16f4c"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_0fd4b31660"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_e5a52d7248"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_e0037879dc"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_d5ee7e20b7"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_ff06a58ccc"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_9519115d2f"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_d65ffd86b1"
+  },
+  {
+    "year": 2008,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_ad11233c68"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_51b4bc4a7b"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_14f1e2defa"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_f317016d79"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Diesel I6",
+    "engine_code": [
+      "M57"
+    ],
+    "fitment_id": "f_0ac9c9327f"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_350a29c62a"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_5b0f05bd54"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_539c9fef1d"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_d5e7b30079"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_d11dd17a85"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_dd0d74d62e"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_8534fd35fd"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_123f54f3b6"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_7aca2df361"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "S65"
+    ],
+    "fitment_id": "f_ba1a3e1662"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "5.0L V10",
+    "engine_code": [
+      "S85"
+    ],
+    "fitment_id": "f_8aa420f4c4"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "M6",
+    "engine": "5.0L V10",
+    "engine_code": [
+      "S85"
+    ],
+    "fitment_id": "f_1835eecdd1"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_ba0d6a7484"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_991f2b138f"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Diesel I6",
+    "engine_code": [
+      "M57"
+    ],
+    "fitment_id": "f_105c700602"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_ee29f85dcc"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_c06f5fa8d5"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "N62"
+    ],
+    "fitment_id": "f_e6ed52f5a6"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_4706a81fe2"
+  },
+  {
+    "year": 2009,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_225a337dbe"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_bc7d6f06f4"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_e026be6698"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_e756696599"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Diesel I6",
+    "engine_code": [
+      "M57"
+    ],
+    "fitment_id": "f_a877a95248"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_0d5b1d632d"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_f8e403116c"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_b8a3b834c2"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_91fc074109"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_d3426cbe32"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_d6dc28540c"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_cb9cfb9eb6"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_17d630276c"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "S65"
+    ],
+    "fitment_id": "f_2e715a299a"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_ca0a029c25"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_c08769cc48"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Diesel I6",
+    "engine_code": [
+      "M57"
+    ],
+    "fitment_id": "f_93afb6f445"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N51"
+    ],
+    "fitment_id": "f_7ffd92ca73"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N52"
+    ],
+    "fitment_id": "f_c5e02268f6"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_266136bb94"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X5 M",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_13b08de343"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_dd5d097e43"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "X6 M",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_844d92bb07"
+  },
+  {
+    "year": 2010,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_5119ed4424"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_e2c7236a3c"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_7e7e0189f4"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Diesel I6",
+    "engine_code": [
+      "M57"
+    ],
+    "fitment_id": "f_53915a1630"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_323dc759fd"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_4d1c29872b"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_1f6d308cca"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_8e52f5536e"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_0180a0d34e"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_4025b52ec3"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_1bcfa5aa77"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_d41b693b41"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "S65"
+    ],
+    "fitment_id": "f_67f6a324da"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_9da64eb26f"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_1ad0959e85"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_bae9b01c1b"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Diesel I6",
+    "engine_code": [
+      "M57"
+    ],
+    "fitment_id": "f_8bf159b2d6"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_007f5e8d4d"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_20de17a7a4"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X5 M",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_631bd26796"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_12dab70fb4"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "X6 M",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_6ea84c9c40"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_93ca3b4fdb"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_f01d34a751"
+  },
+  {
+    "year": 2011,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_9ed9ff1ce2"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "1 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_16f2e63959"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_f5e5673094"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_5bd9e53838"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_9d2ddd4ff3"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_d8c48941d0"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_a606c0f549"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_96f2d76dee"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_dd5f959633"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_e05821d9f3"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_88adf0ce28"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_29f7d04bc7"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_acbe585aa5"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "S65"
+    ],
+    "fitment_id": "f_9804489b0f"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_9e3051e92d"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_1ef1fcc569"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_7a2780d460"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_bc5aee1542"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Diesel I6",
+    "engine_code": [
+      "M57"
+    ],
+    "fitment_id": "f_855133c3d7"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_35ae78a123"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_d5bfec6854"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_882953bc21"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_0d236834a3"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_abd4dc23c3"
+  },
+  {
+    "year": 2012,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_ffbb848c90"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_c9b07d8474"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_5ecad06381"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_5eda811d4c"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_e96e1db51a"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_e45ca8c2db"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_f9310034d8"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_04a0ab9119"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_cde1398e93"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_28122de712"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_8f5f9f5cc1"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_f1ceed0957"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_e8f9379139"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_2647af9861"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_a84249789a"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_8789a3f1e9"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "M6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_1ca4858460"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_0d0894fc17"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_8a7715116d"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_e54e886985"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_d3b64807ef"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_ef4fb57704"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_1bc59fcfd4"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Diesel I6",
+    "engine_code": [
+      "M57"
+    ],
+    "fitment_id": "f_e4b0ad891f"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_1d18d02b56"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_41b5c4dd0d"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_6127c4f214"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_44ba25ed0c"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_8ab6abb7ae"
+  },
+  {
+    "year": 2013,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_e177d24b0e"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_e42382643b"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_f1c2b4ae06"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_1d80d363fc"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_6d98d48410"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_35c8def66d"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_95e24f1cde"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_1e903241ab"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_4c095cea55"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_7da1ff031e"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_cf7cf4bf50"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_5342229409"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_96a6640f63"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_0676024df8"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_b69d8a7a5c"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "N57"
+    ],
+    "fitment_id": "f_d6bf746e07"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_3eafcb39ad"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_b59388a493"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_dff7468281"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N54"
+    ],
+    "fitment_id": "f_726921a236"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_7136658870"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_60173a1913"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_1205153c54"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_b2526ae602"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "M6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_2474db2b8c"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_7561e6df0e"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_9eefe965cd"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_fbf99b2c57"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_4045ce12cd"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_94b4f44675"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_1f5b30f274"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_fa4f080d37"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_f4baa40196"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "N57"
+    ],
+    "fitment_id": "f_787b67200b"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_bae357d0f7"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_2a51e39745"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_6a60753018"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_f38e515a1e"
+  },
+  {
+    "year": 2014,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_0e7025cf53"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_46fb904293"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_1aad44c044"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_f0dc1161cd"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_a8b4a50038"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_315fede736"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_8aebbd3886"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_5bbfc886e5"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_7ba6d9a565"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_28d6185e28"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_2d526c7983"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_21d1bf6c4c"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_4d27c9072e"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_15467dcf49"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_ccdb222a47"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "N57"
+    ],
+    "fitment_id": "f_1c58e54b3c"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_aaab71760c"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_c37603f9c3"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_bc224a40ab"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_44755d3f1e"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_95cf7fbb9c"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_518bc2e1ad"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_22cf39b73e"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_8b40639b60"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "M6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_566b857c4f"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_0e50078143"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_f2f926404d"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_82e05bc20b"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_7704e0b572"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_32f43b5888"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_9ac3ae6c25"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_5af7225cd2"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_0292e4f3f3"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_61175ca8ec"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_e271e1fa0e"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "N57"
+    ],
+    "fitment_id": "f_f47a994eb3"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_5fbb66756c"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_99d730a7d1"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N20"
+    ],
+    "fitment_id": "f_704a4cfa2a"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "N26"
+    ],
+    "fitment_id": "f_0dfcfd5032"
+  },
+  {
+    "year": 2015,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_76d202560e"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_21a47ec802"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_4c9fa1f7fa"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_1d7e84219c"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_746821a407"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_8a0b256387"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_327ad8ad53"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_99d1849fa5"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_fcac063d68"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_ce0a934b79"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_de0ab5c777"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_a7659c28ee"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_704ddc84fc"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_c80fe3c6b3"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "N57"
+    ],
+    "fitment_id": "f_83ddc817b4"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_cbe982c76e"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_06ef1ab7a2"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_3e3e665dd0"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "6 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_c97dbd3847"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_f4102ac9a7"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_b681c6291c"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "M2",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_d4e7b25978"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_3141c64a44"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_d464051112"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_b73fc17485"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "M6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_1a019ce546"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_97a728d8cd"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_e423bd620d"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_2d070bd6ca"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_4761b6ae56"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_d10b8984cc"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_b6ba1ed2e9"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_3911cd94a4"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_745681a243"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_d208f03f6d"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "N57"
+    ],
+    "fitment_id": "f_f909c25557"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_f0bffc1b1b"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_8e3f0da2c8"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_71e27a0d3f"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_41adaa5a5c"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_3796614cb5"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_cd79ec2e41"
+  },
+  {
+    "year": 2016,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_5e61bdf858"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_fa5aa881f1"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_3fcedb6706"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_00f27af2cd"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_3e70d8ec9e"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_a685b1e857"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_865d62d5d9"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_309b35604e"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_0ec05d4394"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_39f8604115"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_cc71982389"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_67a4c616dd"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_57e886e067"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_4a623dc915"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_b9fe187d8e"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_a00f7d9c03"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_a6539a3ff0"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_ff9e7aa1ff"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "M2",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_a4b34203c6"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_efa4061fda"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_5fe75a1fe2"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_44f7f9f6f3"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_3a32f1de8b"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_6d97044326"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_f118a90e8b"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_c302071357"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_c5ff5e1343"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_cef17056e1"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_884f1ba5f3"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "N57"
+    ],
+    "fitment_id": "f_2b564aa477"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_2aa7893ad4"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_2ed64c5618"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_e04aa77f45"
+  },
+  {
+    "year": 2017,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_f9af11e794"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_6231df7bdd"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_eae4cb6098"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_ca07c65255"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_9333a15e1c"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_4017f360a9"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_b94b5bb4c4"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_dd1bc4109a"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_50344e7ba5"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_dac844a48a"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_fb3659b977"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_ca61769549"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_482a64b9a5"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "B57"
+    ],
+    "fitment_id": "f_01cbf52fcf"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_c6cedfa893"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_92003876a9"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_a9ae50fe67"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_d9eeb6d76d"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "M2",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "N55"
+    ],
+    "fitment_id": "f_ee32678d38"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_625b1d2371"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_343d5aa5e1"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_df5ad0567c"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_91806ca2f9"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_181363d40f"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_54233a6244"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_6e2433484c"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo Diesel I4",
+    "engine_code": [
+      "N47"
+    ],
+    "fitment_id": "f_6b93f6bca4"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_972a194a72"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_26563e32c9"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_f8e7f022c8"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_67a48bfbc7"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_0ae0b0d04b"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_88ae74a597"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "N57"
+    ],
+    "fitment_id": "f_e9e952cf3d"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_ac3600d5d5"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_17e28356d5"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_a6fa22c0b7"
+  },
+  {
+    "year": 2018,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_74d30b7152"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_829773cf01"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_921373f681"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_66083920d5"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_b25ff3fe4a"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_07e28f1161"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_b38118cc1b"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_557c50e28f"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_7173e9dd05"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_4d7800d12a"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_86b2325720"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_9798302bd1"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_cd8e8ab524"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_0294d0b3db"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_abe34787a0"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_9a9cf1da22"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_6807381f25"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_a78dd90a6c"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "M2 Competition",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_f52813268b"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_21dfcdd4f5"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_1f7e0d55f6"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_b4324d22bb"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_fd01607f3f"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_1f7206876c"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_4e30389c15"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_5138c705ca"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_0ea718ed00"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_db529dba34"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_cefa962b8a"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X3 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_d13186b751"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_d04676f7f1"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_47c7da305e"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_4497373494"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X4 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_d9a4260778"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_bb28fe6190"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_9c81c1a6b8"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_bf247086c0"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_dc6431ccfa"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X7",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_f6b7b04cfb"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "X7",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_b17b1248b6"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_fdd0632096"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_5122e9e631"
+  },
+  {
+    "year": 2019,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_ec4ae3c1aa"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_e0df51ca28"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_da5ee00251"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_d416403ad0"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_8a09c62088"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_a00b294f06"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_7e59e40a4d"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_8e5eda087b"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_2b865afdc3"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_565d5e607d"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_f75c9481b7"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_c6129ad77e"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_22050e9220"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_e8b50124da"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_2c624e8826"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_ed3b0c164a"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_8f676f6e92"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_cc57eb800b"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "M2 Competition",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_d8e35a8473"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_befdbbd8b8"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_7d12631802"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_83f975ffc6"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "M8",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_a66ed2b110"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_ba83421735"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_1128dbe1c3"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_acb37f2dd3"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_4d4c0e7558"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_e7ae4bb4b5"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_d96589dec8"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_511550585d"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X3 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_2cc5f7214b"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_3c03a9c475"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_b9f5c56199"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_152a977115"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X4 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_c6718ef182"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_ce371050cb"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_3cfb5bbe6d"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X5 M",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_06c252d49b"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_d7f65bfc8b"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_898e18a7ff"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X6 M",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_30cee2405b"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X7",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_4a996a88f4"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "X7",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_0d3722895f"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_a9d9343d20"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_b0093638cf"
+  },
+  {
+    "year": 2020,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_882decb705"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_d21702ef47"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_135fb3cd54"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_95d1c78136"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_868f22da4f"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_5f06e6f33e"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_82afb6a63b"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_83999e30e2"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_7754d171b0"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_2fccfc84fe"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_908e6ea993"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_bae2a753a3"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_a81f8be9da"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_0defd9c6c3"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_8837c4970e"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_a52e66e77c"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_3cdf976709"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_f41a0a7d37"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "M2 Competition",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S55"
+    ],
+    "fitment_id": "f_0bdcd5e893"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_aadd3b2dac"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_a90dba85b9"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_07a0788fc9"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "M8",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_03b3e335d1"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_f89fc535d1"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_a9d2d3923e"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_b160c50a54"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_4063e79e0e"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_206df96579"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_7c20e77a99"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_3d54fa5082"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X3 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_acb67770f6"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_0e334369d4"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_2f6162c8d3"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_ffe2ab7682"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X4 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_9946404fd7"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_e1d4ec010f"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_92b5c7dfdb"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X5 M",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_ed95413920"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_47a775ef2f"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_a3a0b82ecb"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X6 M",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_dfeba91428"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X7",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_a10e48915e"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "X7",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_a765556c5e"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_2bbb12d9ec"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_27976678be"
+  },
+  {
+    "year": 2021,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_200db79c27"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_84466a8b61"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_704a226cac"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_55393468ac"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_1916182c07"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_168b9283dc"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_f0977ec80f"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_50fcc52d61"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_61f662c23d"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_87c1ac3768"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_7baecab44b"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_87223c99b5"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_c6d02a6b7c"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_a4f1389a1b"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_59cab7e9e0"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_2ba99e5254"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_aac1d26214"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_39fbf53d7f"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "M2",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_ce57febbc8"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_077efbade0"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_1977421b31"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "M5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_890249211f"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "M8",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_3aa354b345"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_44999e6158"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_cc80956315"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_55d892ab08"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_d3f75f9d2d"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_aa2d849927"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_1ac14ed0b1"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_64019c97f9"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X3 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_693e693528"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_d0da83e93f"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_6e0969b6a4"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_6f31782afd"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X4 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_b565377e8b"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_aea2830a73"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_c9edb6e033"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X5 M",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_9ce8ea176a"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_2a66378f81"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_70c7ab0fff"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X6 M",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "S63"
+    ],
+    "fitment_id": "f_ba2a8431bf"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X7",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_5527c5467b"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "X7",
+    "engine": "4.4L Turbo V8",
+    "engine_code": [
+      "N63"
+    ],
+    "fitment_id": "f_c7ca4ede30"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_ecf1783e8d"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_fed9304571"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_efa31f2e6e"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_06a96a64da"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_e304472185"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_958cf21057"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_c4cab061e2"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_37d89c8117"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_427c78cfc4"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_2fcc8350a1"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_5b93bb9e84"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_949488b18b"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_6b97c24f32"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_4319a5ebb6"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_0c88cc08a9"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_f0618607fa"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_1d674a7067"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "M2",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_ee36307a84"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_e7b1a401e2"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_91fcc60eff"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_99b8d81b70"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_4f7b210c6c"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_752c2c1d21"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_3b77e2683f"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_644db1de4b"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_0286a62151"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_6144f7ea71"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X3 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_a6be9102b2"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_831adfec04"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_15e518c82f"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_5e3330c80b"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X4 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_5bd3b28c17"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_bc894db727"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_9b8c2bbcfa"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "X7",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_e8f7c4ca35"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_2c233cbca3"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_a1e425fbd5"
+  },
+  {
+    "year": 2023,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_de523aeb22"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_1c851c6ef0"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_647e7332ed"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "2 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_1289b0a7ef"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_169260b05f"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_266229ee1d"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "3 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_90780798df"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_5af359ae6a"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_2bf7e5d0dc"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "4 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_f4c989101e"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_99f8ab29dc"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_b6e42493a3"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "5 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_7402a42c9c"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "7 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_5c6f5cbb81"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "8 Series",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_e8e2c206d6"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "M2",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_72fe8891d7"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "M3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_6d42f80600"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "M4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_c213fe2f43"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_05cc288d7f"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X1",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_3d63d06986"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_0e2cd0a60c"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X2",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_dc49357f65"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_2f9c2bdbb1"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_55c15fb747"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X3",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_e09ae5a377"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X3 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_dd2004dd65"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_8dadd0de32"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_67552affc8"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_771d512709"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X4 M",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "S58"
+    ],
+    "fitment_id": "f_bf69452747"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X5",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_cffa7a2527"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X6",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_2b0dd3d180"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "X7",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_ad7c069775"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B46"
+    ],
+    "fitment_id": "f_c70d074291"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_05401d6c8a"
+  },
+  {
+    "year": 2024,
+    "make": "BMW",
+    "model": "Z4",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "B58"
+    ],
+    "fitment_id": "f_ff4742bc8f"
+  }
+]

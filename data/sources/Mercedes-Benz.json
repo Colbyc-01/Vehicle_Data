@@ -1,0 +1,752 @@
+[
+  {
+    "year": 1995,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "M111"
+    ],
+    "fitment_id": "f_f4be688b29"
+  },
+  {
+    "year": 1995,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "M112"
+    ],
+    "fitment_id": "f_1b7c3a2eaf"
+  },
+  {
+    "year": 1996,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "M111"
+    ],
+    "fitment_id": "f_a3e28dc700"
+  },
+  {
+    "year": 1996,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "M112"
+    ],
+    "fitment_id": "f_21eff79bdb"
+  },
+  {
+    "year": 1997,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "M111"
+    ],
+    "fitment_id": "f_8fba5533b2"
+  },
+  {
+    "year": 1997,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "M112"
+    ],
+    "fitment_id": "f_86230183bc"
+  },
+  {
+    "year": 1998,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "M111"
+    ],
+    "fitment_id": "f_1c530982ce"
+  },
+  {
+    "year": 1998,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "M112"
+    ],
+    "fitment_id": "f_8aa04d18db"
+  },
+  {
+    "year": 1999,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "M111"
+    ],
+    "fitment_id": "f_e57e6b23d3"
+  },
+  {
+    "year": 1999,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "M112"
+    ],
+    "fitment_id": "f_0c97058381"
+  },
+  {
+    "year": 2000,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "M111"
+    ],
+    "fitment_id": "f_0b1047769a"
+  },
+  {
+    "year": 2000,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "M112"
+    ],
+    "fitment_id": "f_f7dea7f854"
+  },
+  {
+    "year": 2001,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "M111"
+    ],
+    "fitment_id": "f_dc443118fb"
+  },
+  {
+    "year": 2001,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "M112"
+    ],
+    "fitment_id": "f_aab45faee3"
+  },
+  {
+    "year": 2002,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_1bf372fc70"
+  },
+  {
+    "year": 2002,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_64139d0f8e"
+  },
+  {
+    "year": 2003,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_b80c49766f"
+  },
+  {
+    "year": 2003,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_16527d5959"
+  },
+  {
+    "year": 2004,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_5f694e3d4d"
+  },
+  {
+    "year": 2004,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_546e7d7854"
+  },
+  {
+    "year": 2005,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_701ecb0ba9"
+  },
+  {
+    "year": 2005,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_af0279b2ee"
+  },
+  {
+    "year": 2006,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_24259c9a03"
+  },
+  {
+    "year": 2006,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_aa8b9c0055"
+  },
+  {
+    "year": 2007,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_2107002f47"
+  },
+  {
+    "year": 2007,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_97d8a89e3f"
+  },
+  {
+    "year": 2008,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_a6a5ea2b39"
+  },
+  {
+    "year": 2008,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_9a48133ec6"
+  },
+  {
+    "year": 2009,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_9f3891a8e2"
+  },
+  {
+    "year": 2009,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "M272"
+    ],
+    "fitment_id": "f_9919b9a9fe"
+  },
+  {
+    "year": 2010,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_1e62be2c11"
+  },
+  {
+    "year": 2010,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_e5b5bd0f44"
+  },
+  {
+    "year": 2010,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_79509338b3"
+  },
+  {
+    "year": 2011,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_2e9cfb0eb0"
+  },
+  {
+    "year": 2011,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_7f7fb9ced1"
+  },
+  {
+    "year": 2011,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_5dbf2350d6"
+  },
+  {
+    "year": 2012,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_e0365a73c2"
+  },
+  {
+    "year": 2012,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_8a49e3f25a"
+  },
+  {
+    "year": 2012,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_5cfb9241ed"
+  },
+  {
+    "year": 2013,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_f0dcb25c60"
+  },
+  {
+    "year": 2013,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_fa42810a17"
+  },
+  {
+    "year": 2013,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_894fc2d4c5"
+  },
+  {
+    "year": 2014,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_abfb0f2e7d"
+  },
+  {
+    "year": 2014,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_3f5e8f4fcf"
+  },
+  {
+    "year": 2014,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_7c58a7b1e5"
+  },
+  {
+    "year": 2015,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_1802a2b5a9"
+  },
+  {
+    "year": 2015,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_b72bed0941"
+  },
+  {
+    "year": 2015,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_9ae8e69192"
+  },
+  {
+    "year": 2016,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_db472824f1"
+  },
+  {
+    "year": 2016,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_3239f26682"
+  },
+  {
+    "year": 2016,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_0fd6304fbd"
+  },
+  {
+    "year": 2017,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_2737b15a07"
+  },
+  {
+    "year": 2017,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_f5276767e6"
+  },
+  {
+    "year": 2017,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_66b8527af5"
+  },
+  {
+    "year": 2018,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_4cf1fcf823"
+  },
+  {
+    "year": 2018,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_2924be0749"
+  },
+  {
+    "year": 2018,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_9de20459d3"
+  },
+  {
+    "year": 2019,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_68410e4c54"
+  },
+  {
+    "year": 2019,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_35511cf19b"
+  },
+  {
+    "year": 2019,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_1c6a8345f4"
+  },
+  {
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_b8fdd9c7ca"
+  },
+  {
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_ebb334333f"
+  },
+  {
+    "year": 2020,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_a3f2a16fc4"
+  },
+  {
+    "year": 2021,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_a68a8895c0"
+  },
+  {
+    "year": 2021,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_db514d1180"
+  },
+  {
+    "year": 2021,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_701fde81ab"
+  },
+  {
+    "year": 2022,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_73000a8e41"
+  },
+  {
+    "year": 2022,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_cbb32f82d4"
+  },
+  {
+    "year": 2022,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_bb714289a4"
+  },
+  {
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_a44ea7c6d4"
+  },
+  {
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_ca5d48c409"
+  },
+  {
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_73859b80a6"
+  },
+  {
+    "year": 2024,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_f24ce76802"
+  },
+  {
+    "year": 2024,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "M274"
+    ],
+    "fitment_id": "f_d875bfe903"
+  },
+  {
+    "year": 2024,
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "M276"
+    ],
+    "fitment_id": "f_8ec0500cef"
+  }
+]

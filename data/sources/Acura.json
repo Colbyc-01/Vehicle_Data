@@ -1,0 +1,2302 @@
+[
+  {
+    "year": 1995,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18B1"
+    ],
+    "fitment_id": "f_24c00ce9f8"
+  },
+  {
+    "year": 1995,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C1"
+    ],
+    "fitment_id": "f_1239f0647f"
+  },
+  {
+    "year": 1995,
+    "make": "Acura",
+    "model": "Legend",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32A"
+    ],
+    "fitment_id": "f_bd557049df"
+  },
+  {
+    "year": 1995,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "C30A"
+    ],
+    "fitment_id": "f_4ff1aa6a74"
+  },
+  {
+    "year": 1995,
+    "make": "Acura",
+    "model": "Vigor",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "G25A"
+    ],
+    "fitment_id": "f_5893316fb3"
+  },
+  {
+    "year": 1996,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18B1"
+    ],
+    "fitment_id": "f_600006875c"
+  },
+  {
+    "year": 1996,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C1"
+    ],
+    "fitment_id": "f_7a088df4c9"
+  },
+  {
+    "year": 1996,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "C30A"
+    ],
+    "fitment_id": "f_1e26af3de0"
+  },
+  {
+    "year": 1996,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "C35A"
+    ],
+    "fitment_id": "f_7b9f16b5da"
+  },
+  {
+    "year": 1996,
+    "make": "Acura",
+    "model": "SLX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_ecfeddf5c7"
+  },
+  {
+    "year": 1996,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "G25A"
+    ],
+    "fitment_id": "f_0f18704777"
+  },
+  {
+    "year": 1996,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32A"
+    ],
+    "fitment_id": "f_6d9b4bbfd2"
+  },
+  {
+    "year": 1997,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "F22B1"
+    ],
+    "fitment_id": "f_71a4f3ea8b"
+  },
+  {
+    "year": 1997,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "J30A1"
+    ],
+    "fitment_id": "f_f459739bcc"
+  },
+  {
+    "year": 1997,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18B1"
+    ],
+    "fitment_id": "f_7da98e72df"
+  },
+  {
+    "year": 1997,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C1"
+    ],
+    "fitment_id": "f_2668a1de03"
+  },
+  {
+    "year": 1997,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C5"
+    ],
+    "fitment_id": "f_4856d166da"
+  },
+  {
+    "year": 1997,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32B"
+    ],
+    "fitment_id": "f_614ef3b5ae"
+  },
+  {
+    "year": 1997,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "C35A"
+    ],
+    "fitment_id": "f_e8d08e73c1"
+  },
+  {
+    "year": 1997,
+    "make": "Acura",
+    "model": "SLX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_a53038d94a"
+  },
+  {
+    "year": 1997,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "G25A"
+    ],
+    "fitment_id": "f_433dd36406"
+  },
+  {
+    "year": 1997,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32A"
+    ],
+    "fitment_id": "f_97ecf02581"
+  },
+  {
+    "year": 1998,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "F22B1"
+    ],
+    "fitment_id": "f_e1572af139"
+  },
+  {
+    "year": 1998,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "J30A1"
+    ],
+    "fitment_id": "f_be379eac43"
+  },
+  {
+    "year": 1998,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18B1"
+    ],
+    "fitment_id": "f_097cc56103"
+  },
+  {
+    "year": 1998,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C1"
+    ],
+    "fitment_id": "f_09d947d044"
+  },
+  {
+    "year": 1998,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C5"
+    ],
+    "fitment_id": "f_df869f1bd3"
+  },
+  {
+    "year": 1998,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32B"
+    ],
+    "fitment_id": "f_84274f71fc"
+  },
+  {
+    "year": 1998,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "C35A"
+    ],
+    "fitment_id": "f_0305e199b9"
+  },
+  {
+    "year": 1998,
+    "make": "Acura",
+    "model": "SLX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_137c4b808a"
+  },
+  {
+    "year": 1998,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "G25A"
+    ],
+    "fitment_id": "f_83fd783c62"
+  },
+  {
+    "year": 1998,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32A"
+    ],
+    "fitment_id": "f_c40b54e319"
+  },
+  {
+    "year": 1999,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "2.2L I4",
+    "engine_code": [
+      "F22B1"
+    ],
+    "fitment_id": "f_ef43397d84"
+  },
+  {
+    "year": 1999,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "J30A1"
+    ],
+    "fitment_id": "f_bb477509d1"
+  },
+  {
+    "year": 1999,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18B1"
+    ],
+    "fitment_id": "f_935f42334b"
+  },
+  {
+    "year": 1999,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C1"
+    ],
+    "fitment_id": "f_d671d95a1f"
+  },
+  {
+    "year": 1999,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C5"
+    ],
+    "fitment_id": "f_1b3edecc3b"
+  },
+  {
+    "year": 1999,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32B"
+    ],
+    "fitment_id": "f_ec2339eb8a"
+  },
+  {
+    "year": 1999,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "C35A"
+    ],
+    "fitment_id": "f_bb4d6df98b"
+  },
+  {
+    "year": 1999,
+    "make": "Acura",
+    "model": "SLX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_f8a336beba"
+  },
+  {
+    "year": 1999,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "G25A"
+    ],
+    "fitment_id": "f_dfe10b72ea"
+  },
+  {
+    "year": 1999,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32A"
+    ],
+    "fitment_id": "f_5ab37abae4"
+  },
+  {
+    "year": 2000,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18B1"
+    ],
+    "fitment_id": "f_f2781cae22"
+  },
+  {
+    "year": 2000,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C1"
+    ],
+    "fitment_id": "f_aab07608e9"
+  },
+  {
+    "year": 2000,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C5"
+    ],
+    "fitment_id": "f_64dbd3d37e"
+  },
+  {
+    "year": 2000,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "C30A"
+    ],
+    "fitment_id": "f_be6d2b1f03"
+  },
+  {
+    "year": 2000,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32B"
+    ],
+    "fitment_id": "f_78891e348a"
+  },
+  {
+    "year": 2000,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "C35A"
+    ],
+    "fitment_id": "f_8d966575f9"
+  },
+  {
+    "year": 2000,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A1"
+    ],
+    "fitment_id": "f_9adc47d5cb"
+  },
+  {
+    "year": 2001,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A1"
+    ],
+    "fitment_id": "f_ddab032dad"
+  },
+  {
+    "year": 2001,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A2"
+    ],
+    "fitment_id": "f_4d52e35956"
+  },
+  {
+    "year": 2001,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18B1"
+    ],
+    "fitment_id": "f_d78e870602"
+  },
+  {
+    "year": 2001,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C1"
+    ],
+    "fitment_id": "f_563efa26c7"
+  },
+  {
+    "year": 2001,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "B18C5"
+    ],
+    "fitment_id": "f_db91d23533"
+  },
+  {
+    "year": 2001,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A3"
+    ],
+    "fitment_id": "f_39f8948440"
+  },
+  {
+    "year": 2001,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "C30A"
+    ],
+    "fitment_id": "f_cc9c2c8cab"
+  },
+  {
+    "year": 2001,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32B"
+    ],
+    "fitment_id": "f_a5494ad8d7"
+  },
+  {
+    "year": 2001,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "C35A"
+    ],
+    "fitment_id": "f_8c3204becb"
+  },
+  {
+    "year": 2001,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A1"
+    ],
+    "fitment_id": "f_6ee6db25fa"
+  },
+  {
+    "year": 2002,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A1"
+    ],
+    "fitment_id": "f_f78c430f29"
+  },
+  {
+    "year": 2002,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A2"
+    ],
+    "fitment_id": "f_7a3aac5071"
+  },
+  {
+    "year": 2002,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A3"
+    ],
+    "fitment_id": "f_0457bf2fca"
+  },
+  {
+    "year": 2002,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "C30A"
+    ],
+    "fitment_id": "f_78ae500fc9"
+  },
+  {
+    "year": 2002,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32B"
+    ],
+    "fitment_id": "f_0a181acdf5"
+  },
+  {
+    "year": 2002,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "C35A"
+    ],
+    "fitment_id": "f_8dc3f43286"
+  },
+  {
+    "year": 2002,
+    "make": "Acura",
+    "model": "RSX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "K20A2"
+    ],
+    "fitment_id": "f_159719bc61"
+  },
+  {
+    "year": 2002,
+    "make": "Acura",
+    "model": "RSX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "K20A3"
+    ],
+    "fitment_id": "f_50d06315be"
+  },
+  {
+    "year": 2002,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A1"
+    ],
+    "fitment_id": "f_4e17522d5f"
+  },
+  {
+    "year": 2002,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A2"
+    ],
+    "fitment_id": "f_3c075e3bd2"
+  },
+  {
+    "year": 2003,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A1"
+    ],
+    "fitment_id": "f_d07f15c7fa"
+  },
+  {
+    "year": 2003,
+    "make": "Acura",
+    "model": "CL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A2"
+    ],
+    "fitment_id": "f_935c31c474"
+  },
+  {
+    "year": 2003,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A3"
+    ],
+    "fitment_id": "f_15b86fc069"
+  },
+  {
+    "year": 2003,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "C30A"
+    ],
+    "fitment_id": "f_a10ad4e511"
+  },
+  {
+    "year": 2003,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32B"
+    ],
+    "fitment_id": "f_7a259924a3"
+  },
+  {
+    "year": 2003,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "C35A"
+    ],
+    "fitment_id": "f_b89ecd41e0"
+  },
+  {
+    "year": 2003,
+    "make": "Acura",
+    "model": "RSX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "K20A2"
+    ],
+    "fitment_id": "f_e7f4f502f7"
+  },
+  {
+    "year": 2003,
+    "make": "Acura",
+    "model": "RSX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "K20A3"
+    ],
+    "fitment_id": "f_4151e73f75"
+  },
+  {
+    "year": 2003,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A1"
+    ],
+    "fitment_id": "f_76f37938c0"
+  },
+  {
+    "year": 2003,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A2"
+    ],
+    "fitment_id": "f_2b2ef30b9e"
+  },
+  {
+    "year": 2004,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A5"
+    ],
+    "fitment_id": "f_15c7f2c95d"
+  },
+  {
+    "year": 2004,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "C30A"
+    ],
+    "fitment_id": "f_38a5ddc10a"
+  },
+  {
+    "year": 2004,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32B"
+    ],
+    "fitment_id": "f_bfd0a6ee6c"
+  },
+  {
+    "year": 2004,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "C35A"
+    ],
+    "fitment_id": "f_e7fcfa5153"
+  },
+  {
+    "year": 2004,
+    "make": "Acura",
+    "model": "RSX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "K20A2"
+    ],
+    "fitment_id": "f_94a7b41c44"
+  },
+  {
+    "year": 2004,
+    "make": "Acura",
+    "model": "RSX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "K20A3"
+    ],
+    "fitment_id": "f_c21929d861"
+  },
+  {
+    "year": 2004,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A3"
+    ],
+    "fitment_id": "f_85f2ee8968"
+  },
+  {
+    "year": 2004,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24A2"
+    ],
+    "fitment_id": "f_ccb9d07e2a"
+  },
+  {
+    "year": 2005,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A5"
+    ],
+    "fitment_id": "f_ba5443c89a"
+  },
+  {
+    "year": 2005,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "C30A"
+    ],
+    "fitment_id": "f_31d75c55eb"
+  },
+  {
+    "year": 2005,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "C32B"
+    ],
+    "fitment_id": "f_1ba6f6b6ec"
+  },
+  {
+    "year": 2005,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A8"
+    ],
+    "fitment_id": "f_0210fc482d"
+  },
+  {
+    "year": 2005,
+    "make": "Acura",
+    "model": "RSX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "K20A3"
+    ],
+    "fitment_id": "f_e826ff7d29"
+  },
+  {
+    "year": 2005,
+    "make": "Acura",
+    "model": "RSX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "K20Z1"
+    ],
+    "fitment_id": "f_ad865c9a68"
+  },
+  {
+    "year": 2005,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A3"
+    ],
+    "fitment_id": "f_3ae929dea1"
+  },
+  {
+    "year": 2005,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24A2"
+    ],
+    "fitment_id": "f_5b1bbbf8e3"
+  },
+  {
+    "year": 2006,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A5"
+    ],
+    "fitment_id": "f_0de31e3d09"
+  },
+  {
+    "year": 2006,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A8"
+    ],
+    "fitment_id": "f_0c3792d729"
+  },
+  {
+    "year": 2006,
+    "make": "Acura",
+    "model": "RSX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "K20A3"
+    ],
+    "fitment_id": "f_af7365e6b0"
+  },
+  {
+    "year": 2006,
+    "make": "Acura",
+    "model": "RSX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "K20Z1"
+    ],
+    "fitment_id": "f_515d654124"
+  },
+  {
+    "year": 2006,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A3"
+    ],
+    "fitment_id": "f_0d88c94aeb"
+  },
+  {
+    "year": 2006,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24A2"
+    ],
+    "fitment_id": "f_805c015cae"
+  },
+  {
+    "year": 2007,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A1"
+    ],
+    "fitment_id": "f_c120357c06"
+  },
+  {
+    "year": 2007,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "K23A1"
+    ],
+    "fitment_id": "f_aea35a3b48"
+  },
+  {
+    "year": 2007,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A8"
+    ],
+    "fitment_id": "f_68a3c67300"
+  },
+  {
+    "year": 2007,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A3"
+    ],
+    "fitment_id": "f_e84fe1ea90"
+  },
+  {
+    "year": 2007,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A8"
+    ],
+    "fitment_id": "f_c6cc122bce"
+  },
+  {
+    "year": 2007,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24A2"
+    ],
+    "fitment_id": "f_dbf7b6db2b"
+  },
+  {
+    "year": 2008,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A1"
+    ],
+    "fitment_id": "f_0359d1ccee"
+  },
+  {
+    "year": 2008,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "K23A1"
+    ],
+    "fitment_id": "f_0a22609ba4"
+  },
+  {
+    "year": 2008,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A8"
+    ],
+    "fitment_id": "f_4e3f77aacf"
+  },
+  {
+    "year": 2008,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "J32A3"
+    ],
+    "fitment_id": "f_edfda5f67a"
+  },
+  {
+    "year": 2008,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35A8"
+    ],
+    "fitment_id": "f_ed0dfee732"
+  },
+  {
+    "year": 2008,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24A2"
+    ],
+    "fitment_id": "f_6f39106188"
+  },
+  {
+    "year": 2009,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A1"
+    ],
+    "fitment_id": "f_bc51b431d5"
+  },
+  {
+    "year": 2009,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "K23A1"
+    ],
+    "fitment_id": "f_996d9bce0a"
+  },
+  {
+    "year": 2009,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A2"
+    ],
+    "fitment_id": "f_deb943504b"
+  },
+  {
+    "year": 2009,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_abd16e0101"
+  },
+  {
+    "year": 2009,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A4"
+    ],
+    "fitment_id": "f_250ce284eb"
+  },
+  {
+    "year": 2009,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24Z3"
+    ],
+    "fitment_id": "f_acd2a90ce0"
+  },
+  {
+    "year": 2010,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A1"
+    ],
+    "fitment_id": "f_65abc7377d"
+  },
+  {
+    "year": 2010,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "K23A1"
+    ],
+    "fitment_id": "f_007e572f2d"
+  },
+  {
+    "year": 2010,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A2"
+    ],
+    "fitment_id": "f_38907ef549"
+  },
+  {
+    "year": 2010,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_f6f4531a58"
+  },
+  {
+    "year": 2010,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A4"
+    ],
+    "fitment_id": "f_54d3acdca0"
+  },
+  {
+    "year": 2010,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24Z3"
+    ],
+    "fitment_id": "f_2ddf5f5609"
+  },
+  {
+    "year": 2010,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_6324c7096c"
+  },
+  {
+    "year": 2010,
+    "make": "Acura",
+    "model": "ZDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A5"
+    ],
+    "fitment_id": "f_0a55fd1b55"
+  },
+  {
+    "year": 2011,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A1"
+    ],
+    "fitment_id": "f_2309d1f30a"
+  },
+  {
+    "year": 2011,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "K23A1"
+    ],
+    "fitment_id": "f_94e54a3fe9"
+  },
+  {
+    "year": 2011,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A2"
+    ],
+    "fitment_id": "f_adc8dc8413"
+  },
+  {
+    "year": 2011,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_e8e23d7bac"
+  },
+  {
+    "year": 2011,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A4"
+    ],
+    "fitment_id": "f_fe5c8e3755"
+  },
+  {
+    "year": 2011,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24Z3"
+    ],
+    "fitment_id": "f_fe70d413ac"
+  },
+  {
+    "year": 2011,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_de0b65feb9"
+  },
+  {
+    "year": 2011,
+    "make": "Acura",
+    "model": "ZDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A5"
+    ],
+    "fitment_id": "f_621d499a81"
+  },
+  {
+    "year": 2012,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A1"
+    ],
+    "fitment_id": "f_05d0ca7ad6"
+  },
+  {
+    "year": 2012,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "K23A1"
+    ],
+    "fitment_id": "f_30b320a1db"
+  },
+  {
+    "year": 2012,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A2"
+    ],
+    "fitment_id": "f_d94e1c3a70"
+  },
+  {
+    "year": 2012,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_7ee0a00e4a"
+  },
+  {
+    "year": 2012,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A4"
+    ],
+    "fitment_id": "f_c5c95b2bf5"
+  },
+  {
+    "year": 2012,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24Z3"
+    ],
+    "fitment_id": "f_4fa56e7954"
+  },
+  {
+    "year": 2012,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_f1ea80c276"
+  },
+  {
+    "year": 2012,
+    "make": "Acura",
+    "model": "ZDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A5"
+    ],
+    "fitment_id": "f_a6c0a4ac95"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "1.5L I4",
+    "engine_code": [
+      "LEA2"
+    ],
+    "fitment_id": "f_3856ed69f6"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "R20A3"
+    ],
+    "fitment_id": "f_2f43f120a9"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24Z7"
+    ],
+    "fitment_id": "f_a757d58247"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A1"
+    ],
+    "fitment_id": "f_3669ef5c63"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z2"
+    ],
+    "fitment_id": "f_f4405651a8"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "RL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A2"
+    ],
+    "fitment_id": "f_85e57af8d3"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "RLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y1"
+    ],
+    "fitment_id": "f_ea8dadc5e2"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_fb482559e2"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A4"
+    ],
+    "fitment_id": "f_009133635a"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24Z3"
+    ],
+    "fitment_id": "f_71768bc40e"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_543580257e"
+  },
+  {
+    "year": 2013,
+    "make": "Acura",
+    "model": "ZDX",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A5"
+    ],
+    "fitment_id": "f_c02c2538c2"
+  },
+  {
+    "year": 2014,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "1.5L I4",
+    "engine_code": [
+      "LEA2"
+    ],
+    "fitment_id": "f_fc84f0dcc1"
+  },
+  {
+    "year": 2014,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "R20A3"
+    ],
+    "fitment_id": "f_3388c4dc15"
+  },
+  {
+    "year": 2014,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24Z7"
+    ],
+    "fitment_id": "f_c593539ac2"
+  },
+  {
+    "year": 2014,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_b4d0a8b80f"
+  },
+  {
+    "year": 2014,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z2"
+    ],
+    "fitment_id": "f_a9491c475b"
+  },
+  {
+    "year": 2014,
+    "make": "Acura",
+    "model": "RLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y1"
+    ],
+    "fitment_id": "f_b7023c3078"
+  },
+  {
+    "year": 2014,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_935d185b98"
+  },
+  {
+    "year": 2014,
+    "make": "Acura",
+    "model": "TL",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "J37A4"
+    ],
+    "fitment_id": "f_8d8c2cb6ba"
+  },
+  {
+    "year": 2014,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24Z3"
+    ],
+    "fitment_id": "f_f87a5d34d8"
+  },
+  {
+    "year": 2014,
+    "make": "Acura",
+    "model": "TSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z6"
+    ],
+    "fitment_id": "f_5a8721eef3"
+  },
+  {
+    "year": 2015,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "R20A3"
+    ],
+    "fitment_id": "f_639a03ddf0"
+  },
+  {
+    "year": 2015,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24Z7"
+    ],
+    "fitment_id": "f_75bc8d94e4"
+  },
+  {
+    "year": 2015,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_16ac9187d0"
+  },
+  {
+    "year": 2015,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z2"
+    ],
+    "fitment_id": "f_187a2b2fc0"
+  },
+  {
+    "year": 2015,
+    "make": "Acura",
+    "model": "RLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y1"
+    ],
+    "fitment_id": "f_5069c864bf"
+  },
+  {
+    "year": 2015,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24W7"
+    ],
+    "fitment_id": "f_f62412ac31"
+  },
+  {
+    "year": 2015,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y6"
+    ],
+    "fitment_id": "f_975ce4a7b6"
+  },
+  {
+    "year": 2016,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24V7"
+    ],
+    "fitment_id": "f_8341682f08"
+  },
+  {
+    "year": 2016,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_d6534dd9ef"
+  },
+  {
+    "year": 2016,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z2"
+    ],
+    "fitment_id": "f_0f55c7e987"
+  },
+  {
+    "year": 2016,
+    "make": "Acura",
+    "model": "RLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y1"
+    ],
+    "fitment_id": "f_9363a85427"
+  },
+  {
+    "year": 2016,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24W7"
+    ],
+    "fitment_id": "f_bf7342a58c"
+  },
+  {
+    "year": 2016,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y6"
+    ],
+    "fitment_id": "f_4c3cb5841d"
+  },
+  {
+    "year": 2017,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24V7"
+    ],
+    "fitment_id": "f_1fad3ec7c7"
+  },
+  {
+    "year": 2017,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_3a2167d5a0"
+  },
+  {
+    "year": 2017,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "JNC1"
+    ],
+    "fitment_id": "f_101cc46c2c"
+  },
+  {
+    "year": 2017,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z2"
+    ],
+    "fitment_id": "f_b97a491258"
+  },
+  {
+    "year": 2017,
+    "make": "Acura",
+    "model": "RLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y1"
+    ],
+    "fitment_id": "f_9059a467b5"
+  },
+  {
+    "year": 2017,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24W7"
+    ],
+    "fitment_id": "f_376c05582a"
+  },
+  {
+    "year": 2017,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y6"
+    ],
+    "fitment_id": "f_af31923155"
+  },
+  {
+    "year": 2018,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24V7"
+    ],
+    "fitment_id": "f_a2c15a6f85"
+  },
+  {
+    "year": 2018,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_68b0b19149"
+  },
+  {
+    "year": 2018,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "JNC1"
+    ],
+    "fitment_id": "f_e7f3c2ac52"
+  },
+  {
+    "year": 2018,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Z2"
+    ],
+    "fitment_id": "f_6b415db509"
+  },
+  {
+    "year": 2018,
+    "make": "Acura",
+    "model": "RLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y1"
+    ],
+    "fitment_id": "f_928f8cd1b6"
+  },
+  {
+    "year": 2018,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24W7"
+    ],
+    "fitment_id": "f_7282623c8e"
+  },
+  {
+    "year": 2018,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y6"
+    ],
+    "fitment_id": "f_a3013d8212"
+  },
+  {
+    "year": 2019,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24V7"
+    ],
+    "fitment_id": "f_02d45109e6"
+  },
+  {
+    "year": 2019,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_3a6d402e3a"
+  },
+  {
+    "year": 2019,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "JNC1"
+    ],
+    "fitment_id": "f_de3948e63c"
+  },
+  {
+    "year": 2019,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C4"
+    ],
+    "fitment_id": "f_5585f28a95"
+  },
+  {
+    "year": 2019,
+    "make": "Acura",
+    "model": "RLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y1"
+    ],
+    "fitment_id": "f_60b8f49dd6"
+  },
+  {
+    "year": 2019,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24W7"
+    ],
+    "fitment_id": "f_5c873ef6bf"
+  },
+  {
+    "year": 2019,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y6"
+    ],
+    "fitment_id": "f_ca9ecec2da"
+  },
+  {
+    "year": 2020,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24V7"
+    ],
+    "fitment_id": "f_1c0781c312"
+  },
+  {
+    "year": 2020,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_ca39f69758"
+  },
+  {
+    "year": 2020,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "JNC1"
+    ],
+    "fitment_id": "f_8b7c7d1abe"
+  },
+  {
+    "year": 2020,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C4"
+    ],
+    "fitment_id": "f_d2cf352903"
+  },
+  {
+    "year": 2020,
+    "make": "Acura",
+    "model": "RLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y1"
+    ],
+    "fitment_id": "f_198e4a8399"
+  },
+  {
+    "year": 2020,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24W7"
+    ],
+    "fitment_id": "f_5d0ad257c1"
+  },
+  {
+    "year": 2020,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y6"
+    ],
+    "fitment_id": "f_1c705b7b07"
+  },
+  {
+    "year": 2021,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24V7"
+    ],
+    "fitment_id": "f_e4d8c3617a"
+  },
+  {
+    "year": 2021,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_1b70dcf98f"
+  },
+  {
+    "year": 2021,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "JNC1"
+    ],
+    "fitment_id": "f_47a1fc969b"
+  },
+  {
+    "year": 2021,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C4"
+    ],
+    "fitment_id": "f_9d23eef78a"
+  },
+  {
+    "year": 2021,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C4"
+    ],
+    "fitment_id": "f_d6fdbcb98d"
+  },
+  {
+    "year": 2021,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "J30AC"
+    ],
+    "fitment_id": "f_54d8321ec6"
+  },
+  {
+    "year": 2022,
+    "make": "Acura",
+    "model": "ILX",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "K24V7"
+    ],
+    "fitment_id": "f_87a74d08bc"
+  },
+  {
+    "year": 2022,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_a958ad328e"
+  },
+  {
+    "year": 2022,
+    "make": "Acura",
+    "model": "NSX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "JNC1"
+    ],
+    "fitment_id": "f_56c6063884"
+  },
+  {
+    "year": 2022,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C4"
+    ],
+    "fitment_id": "f_7180af0c53"
+  },
+  {
+    "year": 2022,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C4"
+    ],
+    "fitment_id": "f_41b03a3c71"
+  },
+  {
+    "year": 2022,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "J30AC"
+    ],
+    "fitment_id": "f_f318726a74"
+  },
+  {
+    "year": 2023,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.5L Turbo I4",
+    "engine_code": [
+      "L15CA"
+    ],
+    "fitment_id": "f_37d28a4b6a"
+  },
+  {
+    "year": 2023,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C1"
+    ],
+    "fitment_id": "f_f4a364f37e"
+  },
+  {
+    "year": 2023,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_984c096dd3"
+  },
+  {
+    "year": 2023,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C4"
+    ],
+    "fitment_id": "f_e84c348136"
+  },
+  {
+    "year": 2023,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C4"
+    ],
+    "fitment_id": "f_bae46ecac8"
+  },
+  {
+    "year": 2023,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "J30AC"
+    ],
+    "fitment_id": "f_30cae34a43"
+  },
+  {
+    "year": 2024,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "1.5L Turbo I4",
+    "engine_code": [
+      "L15CA"
+    ],
+    "fitment_id": "f_44706b3e67"
+  },
+  {
+    "year": 2024,
+    "make": "Acura",
+    "model": "Integra",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C1"
+    ],
+    "fitment_id": "f_19259f1b1b"
+  },
+  {
+    "year": 2024,
+    "make": "Acura",
+    "model": "MDX",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "fitment_id": "f_e4d0f50095"
+  },
+  {
+    "year": 2024,
+    "make": "Acura",
+    "model": "RDX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C4"
+    ],
+    "fitment_id": "f_35f06f84c0"
+  },
+  {
+    "year": 2024,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "K20C4"
+    ],
+    "fitment_id": "f_4e825bb609"
+  },
+  {
+    "year": 2024,
+    "make": "Acura",
+    "model": "TLX",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "J30AC"
+    ],
+    "fitment_id": "f_dfa71abbfd"
+  }
+]

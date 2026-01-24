@@ -1,0 +1,472 @@
+[
+  {
+    "year": 2014,
+    "make": "Alfa Romeo",
+    "model": "4C",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_b572018f05"
+  },
+  {
+    "year": 2015,
+    "make": "Alfa Romeo",
+    "model": "4C",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_606514a3a7"
+  },
+  {
+    "year": 2015,
+    "make": "Alfa Romeo",
+    "model": "4C Spider",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_05b44aa483"
+  },
+  {
+    "year": 2016,
+    "make": "Alfa Romeo",
+    "model": "4C",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_f553b4981c"
+  },
+  {
+    "year": 2016,
+    "make": "Alfa Romeo",
+    "model": "4C Spider",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_ac2653c0da"
+  },
+  {
+    "year": 2017,
+    "make": "Alfa Romeo",
+    "model": "4C",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_616a6e012b"
+  },
+  {
+    "year": 2017,
+    "make": "Alfa Romeo",
+    "model": "4C Spider",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_778350d532"
+  },
+  {
+    "year": 2017,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_5c12965853"
+  },
+  {
+    "year": 2017,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_d52a6e6e2a"
+  },
+  {
+    "year": 2017,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_0be781a50d"
+  },
+  {
+    "year": 2017,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_fbec3d6769"
+  },
+  {
+    "year": 2018,
+    "make": "Alfa Romeo",
+    "model": "4C",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_0203e7fd42"
+  },
+  {
+    "year": 2018,
+    "make": "Alfa Romeo",
+    "model": "4C Spider",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_0f000ee93a"
+  },
+  {
+    "year": 2018,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_e44608265c"
+  },
+  {
+    "year": 2018,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_800724ad0d"
+  },
+  {
+    "year": 2018,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_a8c38eb0e4"
+  },
+  {
+    "year": 2018,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_bd632916e7"
+  },
+  {
+    "year": 2019,
+    "make": "Alfa Romeo",
+    "model": "4C Spider",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_2ad02bb351"
+  },
+  {
+    "year": 2019,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_31c0ff4c4f"
+  },
+  {
+    "year": 2019,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_38f9f66107"
+  },
+  {
+    "year": 2019,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_4caa53baf8"
+  },
+  {
+    "year": 2019,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_d2ac18588f"
+  },
+  {
+    "year": 2020,
+    "make": "Alfa Romeo",
+    "model": "4C Spider",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "fitment_id": "f_203aad89f9"
+  },
+  {
+    "year": 2020,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_cd4a531477"
+  },
+  {
+    "year": 2020,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_56254a3cfa"
+  },
+  {
+    "year": 2020,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_40939f142c"
+  },
+  {
+    "year": 2020,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_9385851b0b"
+  },
+  {
+    "year": 2021,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_45f5c6b07b"
+  },
+  {
+    "year": 2021,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_cd0d3b97d2"
+  },
+  {
+    "year": 2021,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_a7bb7b0902"
+  },
+  {
+    "year": 2021,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_a7c860ee09"
+  },
+  {
+    "year": 2022,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_c261afff46"
+  },
+  {
+    "year": 2022,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_310e773383"
+  },
+  {
+    "year": 2022,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_59cd09ac2a"
+  },
+  {
+    "year": 2022,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_0b2ff30836"
+  },
+  {
+    "year": 2023,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_3c9629a338"
+  },
+  {
+    "year": 2023,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_460b85a332"
+  },
+  {
+    "year": 2023,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_0eac8c8850"
+  },
+  {
+    "year": 2023,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_86dacfea07"
+  },
+  {
+    "year": 2023,
+    "make": "Alfa Romeo",
+    "model": "Tonale",
+    "engine": "1.3L Turbo I4",
+    "engine_code": [
+      "GSE-T4 PHEV"
+    ],
+    "fitment_id": "f_aef53f526a"
+  },
+  {
+    "year": 2023,
+    "make": "Alfa Romeo",
+    "model": "Tonale",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_7edc7dc14c"
+  },
+  {
+    "year": 2024,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_229d6fc3a2"
+  },
+  {
+    "year": 2024,
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_861f0fddfa"
+  },
+  {
+    "year": 2024,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_12069aec43"
+  },
+  {
+    "year": 2024,
+    "make": "Alfa Romeo",
+    "model": "Stelvio",
+    "engine": "2.9L V6",
+    "engine_code": [
+      "690T"
+    ],
+    "fitment_id": "f_d4b4ee9624"
+  },
+  {
+    "year": 2024,
+    "make": "Alfa Romeo",
+    "model": "Tonale",
+    "engine": "1.3L Turbo I4",
+    "engine_code": [
+      "GSE-T4 PHEV"
+    ],
+    "fitment_id": "f_80f12afc85"
+  },
+  {
+    "year": 2024,
+    "make": "Alfa Romeo",
+    "model": "Tonale",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "GMET4"
+    ],
+    "fitment_id": "f_9602fece95"
+  }
+]

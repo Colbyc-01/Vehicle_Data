@@ -1,0 +1,292 @@
+[
+  {
+    "year": 1995,
+    "make": "Saab",
+    "model": "900",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "B234"
+    ],
+    "fitment_id": "f_ef7276750e"
+  },
+  {
+    "year": 1996,
+    "make": "Saab",
+    "model": "900",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "B234"
+    ],
+    "fitment_id": "f_a4088e339b"
+  },
+  {
+    "year": 1997,
+    "make": "Saab",
+    "model": "900",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "B234"
+    ],
+    "fitment_id": "f_8af17c5c76"
+  },
+  {
+    "year": 1998,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_1c035006a0"
+  },
+  {
+    "year": 1998,
+    "make": "Saab",
+    "model": "900",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "B234"
+    ],
+    "fitment_id": "f_9c34f2a4af"
+  },
+  {
+    "year": 1999,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_a7a9625166"
+  },
+  {
+    "year": 1999,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_3c133d1025"
+  },
+  {
+    "year": 2000,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_5e67775237"
+  },
+  {
+    "year": 2000,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_090d0b1c48"
+  },
+  {
+    "year": 2001,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_d2f00ba477"
+  },
+  {
+    "year": 2001,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_aa81426923"
+  },
+  {
+    "year": 2002,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_7a0d2ce854"
+  },
+  {
+    "year": 2002,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_b72967172f"
+  },
+  {
+    "year": 2003,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_51f6ff88d8"
+  },
+  {
+    "year": 2003,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_1b6d467edd"
+  },
+  {
+    "year": 2004,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_e712a3b87c"
+  },
+  {
+    "year": 2004,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_b92aff3dea"
+  },
+  {
+    "year": 2005,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_f2d2ed61a4"
+  },
+  {
+    "year": 2005,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_d880a9cdcf"
+  },
+  {
+    "year": 2006,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_ea7e10bde7"
+  },
+  {
+    "year": 2006,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_d37a5b1642"
+  },
+  {
+    "year": 2007,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_eb5e85bad4"
+  },
+  {
+    "year": 2007,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_9120e195e8"
+  },
+  {
+    "year": 2008,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_4bfdb3cbc6"
+  },
+  {
+    "year": 2008,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_2db7251b2a"
+  },
+  {
+    "year": 2009,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_10e576c0b5"
+  },
+  {
+    "year": 2009,
+    "make": "Saab",
+    "model": "9-5",
+    "engine": "2.3L Turbo I4",
+    "engine_code": [
+      "B235"
+    ],
+    "fitment_id": "f_d80c49442e"
+  },
+  {
+    "year": 2010,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_e254b7aa0b"
+  },
+  {
+    "year": 2011,
+    "make": "Saab",
+    "model": "9-3",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B207"
+    ],
+    "fitment_id": "f_e2fe5175bc"
+  }
+]

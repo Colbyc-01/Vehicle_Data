@@ -1,0 +1,7564 @@
+{
+  "acura_b18b1": {
+    "engine_name": "B18B1",
+    "engine_family": "B18",
+    "engine_code": [
+      "B18B1"
+    ],
+    "make": "Acura",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_b18c1": {
+    "engine_name": "B18C1",
+    "engine_family": "B18",
+    "engine_code": [
+      "B18C1"
+    ],
+    "make": "Acura",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_b18c5": {
+    "engine_name": "B18C5",
+    "engine_family": "B18",
+    "engine_code": [
+      "B18C5"
+    ],
+    "make": "Acura",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_k20a2": {
+    "engine_name": "K20A2",
+    "engine_family": "K20",
+    "engine_code": [
+      "K20A2"
+    ],
+    "make": "Acura",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC I-VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_k20z1": {
+    "engine_name": "K20Z1",
+    "engine_family": "K20",
+    "engine_code": [
+      "K20Z1"
+    ],
+    "make": "Acura",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC I-VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_k20z3": {
+    "engine_name": "K20Z3",
+    "engine_family": "K20",
+    "engine_code": [
+      "K20Z3"
+    ],
+    "make": "Acura",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC I-VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_k24a2": {
+    "engine_name": "K24A2",
+    "engine_family": "K24",
+    "engine_code": [
+      "K24A2"
+    ],
+    "make": "Acura",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC I-VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_k24z7": {
+    "engine_name": "K24Z7",
+    "engine_family": "K24",
+    "engine_code": [
+      "K24Z7"
+    ],
+    "make": "Acura",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC I-VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_r20a3": {
+    "engine_name": "R20A3",
+    "engine_family": "R20",
+    "engine_code": [
+      "R20A3"
+    ],
+    "make": "Acura",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "SOHC I-VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_l15b7": {
+    "engine_name": "L15B7",
+    "engine_family": "L15",
+    "engine_code": [
+      "L15B7"
+    ],
+    "make": "Acura",
+    "displacement_l": 1.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC VTEC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "acura_k20c4": {
+    "engine_name": "K20C4",
+    "engine_family": "K20",
+    "engine_code": [
+      "K20C4"
+    ],
+    "make": "Acura",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC VTEC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "acura_c32a": {
+    "engine_name": "C32A",
+    "engine_family": "C32",
+    "engine_code": [
+      "C32A"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_c35a": {
+    "engine_name": "C35A",
+    "engine_family": "C35",
+    "engine_code": [
+      "C35A"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j32a1": {
+    "engine_name": "J32A1",
+    "engine_family": "J32",
+    "engine_code": [
+      "J32A1"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "SOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j32a2": {
+    "engine_name": "J32A2",
+    "engine_family": "J32",
+    "engine_code": [
+      "J32A2"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "SOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j35a3": {
+    "engine_name": "J35A3",
+    "engine_family": "J35",
+    "engine_code": [
+      "J35A3"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j35a4": {
+    "engine_name": "J35A4",
+    "engine_family": "J35",
+    "engine_code": [
+      "J35A4"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j35a5": {
+    "engine_name": "J35A5",
+    "engine_family": "J35",
+    "engine_code": [
+      "J35A5"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j35a6": {
+    "engine_name": "J35A6",
+    "engine_family": "J35",
+    "engine_code": [
+      "J35A6"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j35y1": {
+    "engine_name": "J35Y1",
+    "engine_family": "J35",
+    "engine_code": [
+      "J35Y1"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC I-VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j35y2": {
+    "engine_name": "J35Y2",
+    "engine_family": "J35",
+    "engine_code": [
+      "J35Y2"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC I-VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j37a1": {
+    "engine_name": "J37A1",
+    "engine_family": "J37",
+    "engine_code": [
+      "J37A1"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.7,
+    "cylinders": 6,
+    "valvetrain": "SOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j37a2": {
+    "engine_name": "J37A2",
+    "engine_family": "J37",
+    "engine_code": [
+      "J37A2"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.7,
+    "cylinders": 6,
+    "valvetrain": "SOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_j37a4": {
+    "engine_name": "J37A4",
+    "engine_family": "J37",
+    "engine_code": [
+      "J37A4"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.7,
+    "cylinders": 6,
+    "valvetrain": "SOHC VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_k24w7": {
+    "engine_name": "K24W7",
+    "engine_family": "K24",
+    "engine_code": [
+      "K24W7"
+    ],
+    "make": "Acura",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC I-VTEC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "acura_jnc1": {
+    "engine_name": "JNC1",
+    "engine_family": "Jnc",
+    "engine_code": [
+      "JNC1"
+    ],
+    "make": "Acura",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "alfa_55263020": {
+    "engine_name": "55263020",
+    "engine_family": "Multiair",
+    "engine_code": [
+      "55263020"
+    ],
+    "make": "Alfa Romeo",
+    "displacement_l": 1.4,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "alfa_1750TBI": {
+    "engine_name": "1750TBI",
+    "engine_family": "Tbi",
+    "engine_code": [
+      "1750TBI"
+    ],
+    "make": "Alfa Romeo",
+    "displacement_l": 1.75,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "alfa_GMET4": {
+    "engine_name": "GMET4",
+    "engine_family": "Gme",
+    "engine_code": [
+      "GMET4"
+    ],
+    "make": "Alfa Romeo",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "alfa_690T": {
+    "engine_name": "690T",
+    "engine_family": "Ferrari-Derived",
+    "engine_code": [
+      "690T"
+    ],
+    "make": "Alfa Romeo",
+    "displacement_l": 2.9,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_amb": {
+    "engine_name": "AMB",
+    "engine_family": "EA113",
+    "engine_code": [
+      "AMB"
+    ],
+    "make": "Audi",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_bpy": {
+    "engine_name": "BPY",
+    "engine_family": "EA113",
+    "engine_code": [
+      "BPY"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_bpg": {
+    "engine_name": "BPG",
+    "engine_family": "EA113",
+    "engine_code": [
+      "BPG"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_bwt": {
+    "engine_name": "BWT",
+    "engine_family": "EA113",
+    "engine_code": [
+      "BWT"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_caeb": {
+    "engine_name": "CAEB",
+    "engine_family": "EA888 Gen 2",
+    "engine_code": [
+      "CAEB"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_cpma": {
+    "engine_name": "CPMA",
+    "engine_family": "EA888 Gen 2",
+    "engine_code": [
+      "CPMA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_cpmc": {
+    "engine_name": "CPMC",
+    "engine_family": "EA888 Gen 2",
+    "engine_code": [
+      "CPMC"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_cyfb": {
+    "engine_name": "CYFB",
+    "engine_family": "EA888 Gen 3",
+    "engine_code": [
+      "CYFB"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_dkfa": {
+    "engine_name": "DKFA",
+    "engine_family": "EA888 Gen 3",
+    "engine_code": [
+      "DKFA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_dnwa": {
+    "engine_name": "DNWA",
+    "engine_family": "EA888 Gen 3",
+    "engine_code": [
+      "DNWA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_cepa": {
+    "engine_name": "CEPA",
+    "engine_family": "EA855",
+    "engine_code": [
+      "CEPA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.5,
+    "cylinders": 5,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_daza": {
+    "engine_name": "DAZA",
+    "engine_family": "EA855 Evo",
+    "engine_code": [
+      "DAZA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.5,
+    "cylinders": 5,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_dnwa_25": {
+    "engine_name": "DNWA",
+    "engine_family": "EA855 Evo",
+    "engine_code": [
+      "DNWA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.5,
+    "cylinders": 5,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_czgb": {
+    "engine_name": "CZGB",
+    "engine_family": "EA888 Gen 3",
+    "engine_code": [
+      "CZGB"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_djha": {
+    "engine_name": "DJHA",
+    "engine_family": "EA888 Gen 3",
+    "engine_code": [
+      "DJHA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_cala": {
+    "engine_name": "CALA",
+    "engine_family": "EA837",
+    "engine_code": [
+      "CALA"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_cgxa": {
+    "engine_name": "CGXA",
+    "engine_family": "EA837",
+    "engine_code": [
+      "CGXA"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_crec": {
+    "engine_name": "CREC",
+    "engine_family": "EA837",
+    "engine_code": [
+      "CREC"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_cgxc": {
+    "engine_name": "CGXC",
+    "engine_family": "EA837",
+    "engine_code": [
+      "CGXC"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_daxa": {
+    "engine_name": "DAXA",
+    "engine_family": "EA839",
+    "engine_code": [
+      "DAXA"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_ddxa": {
+    "engine_name": "DDXA",
+    "engine_family": "EA839",
+    "engine_code": [
+      "DDXA"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_deca": {
+    "engine_name": "DECA",
+    "engine_family": "EA839",
+    "engine_code": [
+      "DECA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.9,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_ddva": {
+    "engine_name": "DDVA",
+    "engine_family": "EA839",
+    "engine_code": [
+      "DDVA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.9,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_ceuc": {
+    "engine_name": "CEUC",
+    "engine_family": "EA824",
+    "engine_code": [
+      "CEUC"
+    ],
+    "make": "Audi",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_ctga": {
+    "engine_name": "CTGA",
+    "engine_family": "EA824",
+    "engine_code": [
+      "CTGA"
+    ],
+    "make": "Audi",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_djua": {
+    "engine_name": "DJUA",
+    "engine_family": "EA825",
+    "engine_code": [
+      "DJUA"
+    ],
+    "make": "Audi",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_dwua": {
+    "engine_name": "DWUA",
+    "engine_family": "EA825",
+    "engine_code": [
+      "DWUA"
+    ],
+    "make": "Audi",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "audi_bhf": {
+    "engine_name": "BHF",
+    "engine_family": "4.2L V8",
+    "engine_code": [
+      "BHF"
+    ],
+    "make": "Audi",
+    "displacement_l": 4.2,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "audi_cfsa": {
+    "engine_name": "CFSA",
+    "engine_family": "4.2L V8",
+    "engine_code": [
+      "CFSA"
+    ],
+    "make": "Audi",
+    "displacement_l": 4.2,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "audi_bar": {
+    "engine_name": "BAR",
+    "engine_family": "4.2L V8",
+    "engine_code": [
+      "BAR"
+    ],
+    "make": "Audi",
+    "displacement_l": 4.2,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "audi_bkh": {
+    "engine_name": "BKH",
+    "engine_family": "Naturally Aspirated V6",
+    "engine_code": [
+      "BKH"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "audi_cala_na": {
+    "engine_name": "CALA",
+    "engine_family": "Naturally Aspirated V6",
+    "engine_code": [
+      "CALA"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "audi_cgwa": {
+    "engine_name": "CGWA",
+    "engine_family": "Naturally Aspirated V6",
+    "engine_code": [
+      "CGWA"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "audi_bdf": {
+    "engine_name": "BDF",
+    "engine_family": "VR6",
+    "engine_code": [
+      "BDF"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "audi_bpj": {
+    "engine_name": "BPJ",
+    "engine_family": "VR6",
+    "engine_code": [
+      "BPJ"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "audi_bdx": {
+    "engine_name": "BDX",
+    "engine_family": "VR6",
+    "engine_code": [
+      "BDX"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "audi_aua_28": {
+    "engine_name": "AHA",
+    "engine_family": "Naturally Aspirated V6",
+    "engine_code": [
+      "AHA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.8,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "audi_amb_30_na": {
+    "engine_name": "ASN",
+    "engine_family": "Naturally Aspirated V6",
+    "engine_code": [
+      "ASN"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_m52b25": {
+    "engine_name": "M52B25",
+    "engine_family": "M52",
+    "engine_code": [
+      "M52B25"
+    ],
+    "make": "BMW",
+    "displacement_l": 2.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_m52b28": {
+    "engine_name": "M52B28",
+    "engine_family": "M52",
+    "engine_code": [
+      "M52B28"
+    ],
+    "make": "BMW",
+    "displacement_l": 2.8,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_m54b25": {
+    "engine_name": "M54B25",
+    "engine_family": "M54",
+    "engine_code": [
+      "M54B25"
+    ],
+    "make": "BMW",
+    "displacement_l": 2.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_m54b30": {
+    "engine_name": "M54B30",
+    "engine_family": "M54",
+    "engine_code": [
+      "M54B30"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_m56b25": {
+    "engine_name": "M56B25",
+    "engine_family": "M56",
+    "engine_code": [
+      "M56B25"
+    ],
+    "make": "BMW",
+    "displacement_l": 2.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n52b30": {
+    "engine_name": "N52B30",
+    "engine_family": "N52",
+    "engine_code": [
+      "N52B30"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n54b30": {
+    "engine_name": "N54B30",
+    "engine_family": "N54",
+    "engine_code": [
+      "N54B30"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n55b30": {
+    "engine_name": "N55B30",
+    "engine_family": "N55",
+    "engine_code": [
+      "N55B30"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n20b20": {
+    "engine_name": "N20B20",
+    "engine_family": "N20",
+    "engine_code": [
+      "N20B20"
+    ],
+    "make": "BMW",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n26b20": {
+    "engine_name": "N26B20",
+    "engine_family": "N26",
+    "engine_code": [
+      "N26B20"
+    ],
+    "make": "BMW",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_b46b20": {
+    "engine_name": "B46B20",
+    "engine_family": "B46",
+    "engine_code": [
+      "B46B20"
+    ],
+    "make": "BMW",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_b48b20": {
+    "engine_name": "B48B20",
+    "engine_family": "B48",
+    "engine_code": [
+      "B48B20"
+    ],
+    "make": "BMW",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_b58b30": {
+    "engine_name": "B58B30",
+    "engine_family": "B58",
+    "engine_code": [
+      "B58B30"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_s52b32": {
+    "engine_name": "S52B32",
+    "engine_family": "S52",
+    "engine_code": [
+      "S52B32"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_s54b32": {
+    "engine_name": "S54B32",
+    "engine_family": "S54",
+    "engine_code": [
+      "S54B32"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_s62b50": {
+    "engine_name": "S62B50",
+    "engine_family": "S62",
+    "engine_code": [
+      "S62B50"
+    ],
+    "make": "BMW",
+    "displacement_l": 5.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_s65b40": {
+    "engine_name": "S65B40",
+    "engine_family": "S65",
+    "engine_code": [
+      "S65B40"
+    ],
+    "make": "BMW",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_s85b50": {
+    "engine_name": "S85B50",
+    "engine_family": "S85",
+    "engine_code": [
+      "S85B50"
+    ],
+    "make": "BMW",
+    "displacement_l": 5.0,
+    "cylinders": 10,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_s55b30": {
+    "engine_name": "S55B30",
+    "engine_family": "S55",
+    "engine_code": [
+      "S55B30"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_s58b30": {
+    "engine_name": "S58B30",
+    "engine_family": "S58",
+    "engine_code": [
+      "S58B30"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n62b44": {
+    "engine_name": "N62B44",
+    "engine_family": "N62",
+    "engine_code": [
+      "N62B44"
+    ],
+    "make": "BMW",
+    "displacement_l": 4.4,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n62b48": {
+    "engine_name": "N62B48",
+    "engine_family": "N62",
+    "engine_code": [
+      "N62B48"
+    ],
+    "make": "BMW",
+    "displacement_l": 4.8,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n63b44": {
+    "engine_name": "N63B44",
+    "engine_family": "N63",
+    "engine_code": [
+      "N63B44"
+    ],
+    "make": "BMW",
+    "displacement_l": 4.4,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n63b44t2": {
+    "engine_name": "N63B44T2",
+    "engine_family": "N63",
+    "engine_code": [
+      "N63B44T2"
+    ],
+    "make": "BMW",
+    "displacement_l": 4.4,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n73b60": {
+    "engine_name": "N73B60",
+    "engine_family": "N73",
+    "engine_code": [
+      "N73B60"
+    ],
+    "make": "BMW",
+    "displacement_l": 6.0,
+    "cylinders": 12,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n74b60": {
+    "engine_name": "N74B60",
+    "engine_family": "N74",
+    "engine_code": [
+      "N74B60"
+    ],
+    "make": "BMW",
+    "displacement_l": 6.0,
+    "cylinders": 12,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "bmw_n74b66": {
+    "engine_name": "N74B66",
+    "engine_family": "N74",
+    "engine_code": [
+      "N74B66"
+    ],
+    "make": "BMW",
+    "displacement_l": 6.6,
+    "cylinders": 12,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "buick_l82_3100": {
+    "engine_name": "L82 3100",
+    "engine_family": "3100",
+    "engine_code": [
+      "L82"
+    ],
+    "make": "Buick",
+    "displacement_l": 3.1,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_la1_3400": {
+    "engine_name": "LA1 3400",
+    "engine_family": "3400",
+    "engine_code": [
+      "LA1"
+    ],
+    "make": "Buick",
+    "displacement_l": 3.4,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_l36_3800_series_ii": {
+    "engine_name": "L36 3800 Series II",
+    "engine_family": "3800",
+    "engine_code": [
+      "L36"
+    ],
+    "make": "Buick",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_l67_3800_supercharged": {
+    "engine_name": "L67 3800 Supercharged",
+    "engine_family": "3800",
+    "engine_code": [
+      "L67"
+    ],
+    "make": "Buick",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "buick_l26_3800_series_iii": {
+    "engine_name": "L26 3800 Series III",
+    "engine_family": "3800",
+    "engine_code": [
+      "L26"
+    ],
+    "make": "Buick",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_l32_3800_supercharged_series_iii": {
+    "engine_name": "L32 3800 Supercharged Series III",
+    "engine_family": "3800",
+    "engine_code": [
+      "L32"
+    ],
+    "make": "Buick",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "buick_ly7_36": {
+    "engine_name": "LY7 3.6L V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "make": "Buick",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_llt_36": {
+    "engine_name": "LLT 3.6L V6 Direct Injection",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "make": "Buick",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_lea_24": {
+    "engine_name": "LEA 2.4L Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LEA"
+    ],
+    "make": "Buick",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_lcv_25": {
+    "engine_name": "LCV 2.5L Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LCV"
+    ],
+    "make": "Buick",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_lhu_20t": {
+    "engine_name": "LHU 2.0L Turbo Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LHU"
+    ],
+    "make": "Buick",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "buick_ltg_20t": {
+    "engine_name": "LTG 2.0L Turbo Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LTG"
+    ],
+    "make": "Buick",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "buick_lfx_36": {
+    "engine_name": "LFX 3.6L V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "make": "Buick",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_lgx_36": {
+    "engine_name": "LGX 3.6L V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "make": "Buick",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_lh6_53": {
+    "engine_name": "LH6 5.3L V8",
+    "engine_family": "Vortec",
+    "engine_code": [
+      "LH6"
+    ],
+    "make": "Buick",
+    "displacement_l": 5.3,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_laf_24": {
+    "engine_name": "LAF 2.4L Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LAF"
+    ],
+    "make": "Buick",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "buick_luj_14t": {
+    "engine_name": "LUJ 1.4L Turbo Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LUJ"
+    ],
+    "make": "Buick",
+    "displacement_l": 1.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "buick_luv_14t": {
+    "engine_name": "LUV 1.4L Turbo Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LUV"
+    ],
+    "make": "Buick",
+    "displacement_l": 1.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "buick_l3t_13t": {
+    "engine_name": "L3T 1.3L Turbo",
+    "engine_family": "GM Small Turbo",
+    "engine_code": [
+      "L3T"
+    ],
+    "make": "Buick",
+    "displacement_l": 1.3,
+    "cylinders": 3,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "buick_ejh_20t": {
+    "engine_name": "EJH 2.0L Turbo",
+    "engine_family": "GM Turbo",
+    "engine_code": [
+      "EJH"
+    ],
+    "make": "Buick",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_ld8_46": {
+    "engine_name": "LD8 4.6L Northstar V8",
+    "engine_family": "Northstar",
+    "engine_code": [
+      "LD8"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_l37_46": {
+    "engine_name": "L37 4.6L Northstar V8",
+    "engine_family": "Northstar",
+    "engine_code": [
+      "L37"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lh2_46": {
+    "engine_name": "LH2 4.6L Northstar V8",
+    "engine_family": "Northstar",
+    "engine_code": [
+      "LH2"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_l47_42": {
+    "engine_name": "L47 4.0L Northstar V8",
+    "engine_family": "Northstar",
+    "engine_code": [
+      "L47"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_ly7_36": {
+    "engine_name": "LY7 3.6L V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_llt_36": {
+    "engine_name": "LLT 3.6L V6 Direct Injection",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lfx_36": {
+    "engine_name": "LFX 3.6L V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lp9_28t": {
+    "engine_name": "LP9 2.8L Turbo V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LP9"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 2.8,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lfx_36t": {
+    "engine_name": "LF4 3.6L Twin-Turbo V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LF4"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_ls6_57": {
+    "engine_name": "LS6 5.7L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS6"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 5.7,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_ls2_60": {
+    "engine_name": "LS2 6.0L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS2"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 6.0,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_ls3_62": {
+    "engine_name": "LS3 6.2L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS3"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lsa_62_supercharged": {
+    "engine_name": "LSA 6.2L Supercharged V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LSA"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_ltg_20t": {
+    "engine_name": "LTG 2.0L Turbo",
+    "engine_family": "GM Turbo",
+    "engine_code": [
+      "LTG"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lsy_20t": {
+    "engine_name": "LSY 2.0L Turbo",
+    "engine_family": "GM Turbo",
+    "engine_code": [
+      "LSY"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lgx_36": {
+    "engine_name": "LGX 3.6L V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lf4_36tt": {
+    "engine_name": "LF4 3.6L Twin-Turbo V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LF4"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lt4_62_supercharged": {
+    "engine_name": "LT4 6.2L Supercharged V8",
+    "engine_family": "LT",
+    "engine_code": [
+      "LT4"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lta_42tt_blackwing": {
+    "engine_name": "LTA 4.2L Twin-Turbo Blackwing V8",
+    "engine_family": "Blackwing",
+    "engine_code": [
+      "LTA"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 4.2,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lq9_60": {
+    "engine_name": "LQ9 6.0L V8",
+    "engine_family": "Vortec",
+    "engine_code": [
+      "LQ9"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 6.0,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lq4_60": {
+    "engine_name": "LQ4 6.0L V8",
+    "engine_family": "Vortec",
+    "engine_code": [
+      "LQ4"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 6.0,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_l92_62": {
+    "engine_name": "L92 6.2L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "L92"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_l94_62": {
+    "engine_name": "L94 6.2L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "L94"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_l86_62": {
+    "engine_name": "L86 6.2L V8",
+    "engine_family": "Gen V LT",
+    "engine_code": [
+      "L86"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_l87_62": {
+    "engine_name": "L87 6.2L V8",
+    "engine_family": "Gen V LT",
+    "engine_code": [
+      "L87"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_l83_53": {
+    "engine_name": "L83 5.3L V8",
+    "engine_family": "Gen V LT",
+    "engine_code": [
+      "L83"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 5.3,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_lz1_30tt": {
+    "engine_name": "LZ1 3.0L Twin-Turbo V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LZ1"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "cadillac_l3b_27t": {
+    "engine_name": "L3B 2.7L Turbo",
+    "engine_family": "GM Turbo",
+    "engine_code": [
+      "L3B"
+    ],
+    "make": "Cadillac",
+    "displacement_l": 2.7,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l82_3100": {
+    "engine_name": "L82 3.1L V6",
+    "engine_family": "3100",
+    "engine_code": [
+      "L82"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.1,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_la1_3400": {
+    "engine_name": "LA1 3.4L V6",
+    "engine_family": "3400",
+    "engine_code": [
+      "LA1"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.4,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l36_3800": {
+    "engine_name": "L36 3.8L V6 Series II",
+    "engine_family": "3800",
+    "engine_code": [
+      "L36"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l67_3800_supercharged": {
+    "engine_name": "L67 3.8L Supercharged V6",
+    "engine_family": "3800",
+    "engine_code": [
+      "L67"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l35_43": {
+    "engine_name": "L35 4.3L V6",
+    "engine_family": "Vortec",
+    "engine_code": [
+      "L35"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 4.3,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lm7_53": {
+    "engine_name": "LM7 5.3L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LM7"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 5.3,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l59_53": {
+    "engine_name": "L59 5.3L V8 Flex-Fuel",
+    "engine_family": "LS",
+    "engine_code": [
+      "L59"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 5.3,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l33_53_ho": {
+    "engine_name": "L33 5.3L HO V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "L33"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 5.3,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_ls1_57": {
+    "engine_name": "LS1 5.7L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS1"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 5.7,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_ly7_36": {
+    "engine_name": "LY7 3.6L V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_llt_36": {
+    "engine_name": "LLT 3.6L V6 Direct Injection",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lfx_36": {
+    "engine_name": "LFX 3.6L V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lnf_20t": {
+    "engine_name": "LNF 2.0L Turbo Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LNF"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lhu_20t": {
+    "engine_name": "LHU 2.0L Turbo Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LHU"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_ldk_20t": {
+    "engine_name": "LDK 2.0L Turbo Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LDK"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_ls2_60": {
+    "engine_name": "LS2 6.0L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS2"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.0,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_ls3_62": {
+    "engine_name": "LS3 6.2L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS3"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l99_62": {
+    "engine_name": "L99 6.2L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "L99"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l76_60": {
+    "engine_name": "L76 6.0L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "L76"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.0,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lfa_60_hybrid": {
+    "engine_name": "LFA 6.0L V8 (Hybrid-Compatible)",
+    "engine_family": "LS",
+    "engine_code": [
+      "LFA"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.0,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_ltg_20t": {
+    "engine_name": "LTG 2.0L Turbo",
+    "engine_family": "GM Turbo",
+    "engine_code": [
+      "LTG"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lsy_20t": {
+    "engine_name": "LSY 2.0L Turbo",
+    "engine_family": "GM Turbo",
+    "engine_code": [
+      "LSY"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l3b_27t": {
+    "engine_name": "L3B 2.7L Turbo",
+    "engine_family": "GM Turbo",
+    "engine_code": [
+      "L3B"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 2.7,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lgx_36": {
+    "engine_name": "LGX 3.6L V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l83_53": {
+    "engine_name": "L83 5.3L V8",
+    "engine_family": "Gen V LT",
+    "engine_code": [
+      "L83"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 5.3,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l86_62": {
+    "engine_name": "L86 6.2L V8",
+    "engine_family": "Gen V LT",
+    "engine_code": [
+      "L86"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l8t_62_hd": {
+    "engine_name": "L8T 6.6L V8",
+    "engine_family": "Gen V LT",
+    "engine_code": [
+      "L8T"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l87_62": {
+    "engine_name": "L87 6.2L V8",
+    "engine_family": "Gen V LT",
+    "engine_code": [
+      "L87"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_ls7_70": {
+    "engine_name": "LS7 7.0L V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS7"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 7.0,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_ls9_62_supercharged": {
+    "engine_name": "LS9 6.2L Supercharged V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS9"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lsa_62_supercharged": {
+    "engine_name": "LSA 6.2L Supercharged V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LSA"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lt1_62": {
+    "engine_name": "LT1 6.2L V8",
+    "engine_family": "LT",
+    "engine_code": [
+      "LT1"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lt4_62_supercharged": {
+    "engine_name": "LT4 6.2L Supercharged V8",
+    "engine_family": "LT",
+    "engine_code": [
+      "LT4"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lt5_62_supercharged_dohc": {
+    "engine_name": "LT5 6.2L Supercharged DOHC V8",
+    "engine_family": "LT",
+    "engine_code": [
+      "LT5"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_luj_14t": {
+    "engine_name": "LUJ 1.4L Turbo Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LUJ"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 1.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_luv_14t": {
+    "engine_name": "LUV 1.4L Turbo Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LUV"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 1.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lfv_15t": {
+    "engine_name": "LFV 1.5L Turbo",
+    "engine_family": "GM Small Turbo",
+    "engine_code": [
+      "LFV"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 1.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_l3t_13t": {
+    "engine_name": "L3T 1.3L Turbo",
+    "engine_family": "GM Small Turbo",
+    "engine_code": [
+      "L3T"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 1.3,
+    "cylinders": 3,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lcv_25": {
+    "engine_name": "LCV 2.5L Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LCV"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lea_24": {
+    "engine_name": "LEA 2.4L Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LEA"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_laf_24": {
+    "engine_name": "LAF 2.4L Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LAF"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lwe_18": {
+    "engine_name": "LWE 1.8L Ecotec",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LWE"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lfw_30": {
+    "engine_name": "LFW 3.0L V6",
+    "engine_family": "High Feature V6",
+    "engine_code": [
+      "LFW"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lz9_39": {
+    "engine_name": "LZ9 3.9L V6",
+    "engine_family": "60-Degree V6",
+    "engine_code": [
+      "LZ9"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.9,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_edz_24": {
+    "engine_name": "EDZ 2.4L DOHC",
+    "engine_family": "Chrysler EDZ",
+    "engine_code": [
+      "EDZ"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_ecn_20": {
+    "engine_name": "ECN 2.0L SOHC",
+    "engine_family": "Chrysler EC",
+    "engine_code": [
+      "ECN"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_eer_27": {
+    "engine_name": "EER 2.7L V6",
+    "engine_family": "Chrysler LH V6",
+    "engine_code": [
+      "EER"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 2.7,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_egb_32": {
+    "engine_name": "EGB 3.2L V6",
+    "engine_family": "Chrysler LH V6",
+    "engine_code": [
+      "EGB"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_egc_35": {
+    "engine_name": "EGC 3.5L V6",
+    "engine_family": "Chrysler LH V6",
+    "engine_code": [
+      "EGC"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_ed3_24": {
+    "engine_name": "ED3 2.4L World Engine",
+    "engine_family": "World Engine",
+    "engine_code": [
+      "ED3"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_egw_33": {
+    "engine_name": "EGW 3.3L V6",
+    "engine_family": "Chrysler V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 3.3,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_egm_38": {
+    "engine_name": "EGM 3.8L V6",
+    "engine_family": "Chrysler V6",
+    "engine_code": [
+      "EGM"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_egp_40": {
+    "engine_name": "EGP 4.0L V6",
+    "engine_family": "Chrysler V6",
+    "engine_code": [
+      "EGP"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 4.0,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_erb_36": {
+    "engine_name": "ERB 3.6L Pentastar V6",
+    "engine_family": "Pentastar",
+    "engine_code": [
+      "ERB"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_ezd_57_hemi": {
+    "engine_name": "EZD 5.7L HEMI V8",
+    "engine_family": "HEMI",
+    "engine_code": [
+      "EZD"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 5.7,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_esf_61_hemi": {
+    "engine_name": "ESF 6.1L HEMI V8",
+    "engine_family": "HEMI",
+    "engine_code": [
+      "ESF"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 6.1,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_erb2_36": {
+    "engine_name": "ERB Gen 2 3.6L Pentastar V6",
+    "engine_family": "Pentastar",
+    "engine_code": [
+      "ERB2"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_ezh_57_hemi": {
+    "engine_name": "EZH 5.7L HEMI V8",
+    "engine_family": "HEMI",
+    "engine_code": [
+      "EZH"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 5.7,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_ezc_57_hemi": {
+    "engine_name": "EZC 5.7L HEMI V8",
+    "engine_family": "HEMI",
+    "engine_code": [
+      "EZC"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 5.7,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_esg_64_hemi": {
+    "engine_name": "ESG 6.4L HEMI V8",
+    "engine_family": "HEMI",
+    "engine_code": [
+      "ESG"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 6.4,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_evc_84_v10": {
+    "engine_name": "EVC 8.4L V10",
+    "engine_family": "Viper V10",
+    "engine_code": [
+      "EVC"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 8.4,
+    "cylinders": 10,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_ed4_20t": {
+    "engine_name": "ED4 2.0L Turbo",
+    "engine_family": "Tigershark Turbo",
+    "engine_code": [
+      "ED4"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_eba_20": {
+    "engine_name": "EBA 2.0L SOHC",
+    "engine_family": "Chrysler EC",
+    "engine_code": [
+      "EBA"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_edv_25": {
+    "engine_name": "EDV 2.5L V6",
+    "engine_family": "Chrysler 6G",
+    "engine_code": [
+      "EDV"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 2.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "chrysler_gme_t4_20t": {
+    "engine_name": "GME-T4 2.0L Turbo",
+    "engine_family": "Hurricane",
+    "engine_code": [
+      "GME-T4"
+    ],
+    "make": "Chrysler",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "chevrolet_lb7_66_duramax": {
+    "engine_name": "LB7 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LB7"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "chevrolet_lly_66_duramax": {
+    "engine_name": "LLY 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LLY"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "chevrolet_lbz_66_duramax": {
+    "engine_name": "LBZ 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LBZ"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "chevrolet_lmm_66_duramax": {
+    "engine_name": "LMM 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LMM"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "chevrolet_lml_66_duramax": {
+    "engine_name": "LML 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LML"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "chevrolet_l5p_66_duramax": {
+    "engine_name": "L5P 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "L5P"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "chevrolet_lm2_30_duramax": {
+    "engine_name": "LM2 3.0L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LM2"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "chevrolet_lwn_28_duramax": {
+    "engine_name": "LWN 2.8L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LWN"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 2.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "chevrolet_65_detroit_diesel": {
+    "engine_name": "6.5L Detroit Diesel V8",
+    "engine_family": "Detroit Diesel V8",
+    "engine_code": [
+      "6.5L"
+    ],
+    "make": "Chevrolet",
+    "displacement_l": 6.5,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "gmc_65_detroit_diesel": {
+    "engine_name": "6.5L Detroit Diesel V8",
+    "engine_family": "Detroit Diesel V8",
+    "engine_code": [
+      "6.5L"
+    ],
+    "make": "GMC",
+    "displacement_l": 6.5,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "gmc_lb7_66_duramax": {
+    "engine_name": "LB7 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LB7"
+    ],
+    "make": "GMC",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "gmc_lly_66_duramax": {
+    "engine_name": "LLY 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LLY"
+    ],
+    "make": "GMC",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "gmc_lbz_66_duramax": {
+    "engine_name": "LBZ 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LBZ"
+    ],
+    "make": "GMC",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "gmc_lmm_66_duramax": {
+    "engine_name": "LMM 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LMM"
+    ],
+    "make": "GMC",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "gmc_lml_66_duramax": {
+    "engine_name": "LML 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LML"
+    ],
+    "make": "GMC",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "gmc_l5p_66_duramax": {
+    "engine_name": "L5P 6.6L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "L5P"
+    ],
+    "make": "GMC",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "gmc_lm2_30_duramax": {
+    "engine_name": "LM2 3.0L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LM2"
+    ],
+    "make": "GMC",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "gmc_lwn_28_duramax": {
+    "engine_name": "LWN 2.8L Duramax",
+    "engine_family": "Duramax",
+    "engine_code": [
+      "LWN"
+    ],
+    "make": "GMC",
+    "displacement_l": 2.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "ford_73_powerstroke": {
+    "engine_name": "7.3L Power Stroke",
+    "engine_family": "Power Stroke",
+    "engine_code": [
+      "7.3L"
+    ],
+    "make": "Ford",
+    "displacement_l": 7.3,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "ford_60_powerstroke": {
+    "engine_name": "6.0L Power Stroke",
+    "engine_family": "Power Stroke",
+    "engine_code": [
+      "6.0L"
+    ],
+    "make": "Ford",
+    "displacement_l": 6.0,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "ford_64_powerstroke": {
+    "engine_name": "6.4L Power Stroke",
+    "engine_family": "Power Stroke",
+    "engine_code": [
+      "6.4L"
+    ],
+    "make": "Ford",
+    "displacement_l": 6.4,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "ford_67_powerstroke": {
+    "engine_name": "6.7L Power Stroke",
+    "engine_family": "Power Stroke",
+    "engine_code": [
+      "6.7L"
+    ],
+    "make": "Ford",
+    "displacement_l": 6.7,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "dodge_59_cummins_12v_ve": {
+    "engine_name": "5.9L Cummins 12-Valve VE",
+    "engine_family": "Cummins B-Series",
+    "engine_code": [
+      "5.9L VE"
+    ],
+    "make": "Dodge",
+    "displacement_l": 5.9,
+    "cylinders": 6,
+    "valvetrain": "OHV 12-Valve",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "dodge_59_cummins_12v_p7100": {
+    "engine_name": "5.9L Cummins 12-Valve P7100",
+    "engine_family": "Cummins B-Series",
+    "engine_code": [
+      "5.9L P7100"
+    ],
+    "make": "Dodge",
+    "displacement_l": 5.9,
+    "cylinders": 6,
+    "valvetrain": "OHV 12-Valve",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "dodge_59_cummins_24v_vp44": {
+    "engine_name": "5.9L Cummins 24-Valve VP44",
+    "engine_family": "Cummins B-Series",
+    "engine_code": [
+      "5.9L VP44"
+    ],
+    "make": "Dodge",
+    "displacement_l": 5.9,
+    "cylinders": 6,
+    "valvetrain": "OHV 24-Valve",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "dodge_59_cummins_24v_cp3": {
+    "engine_name": "5.9L Cummins 24-Valve Common Rail",
+    "engine_family": "Cummins B-Series",
+    "engine_code": [
+      "5.9L CR"
+    ],
+    "make": "Dodge",
+    "displacement_l": 5.9,
+    "cylinders": 6,
+    "valvetrain": "OHV 24-Valve",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "dodge_67_cummins": {
+    "engine_name": "6.7L Cummins",
+    "engine_family": "Cummins B-Series",
+    "engine_code": [
+      "6.7L"
+    ],
+    "make": "Dodge",
+    "displacement_l": 6.7,
+    "cylinders": 6,
+    "valvetrain": "OHV 24-Valve",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "jeep_30_ecodiesel_v6": {
+    "engine_name": "3.0L EcoDiesel V6",
+    "engine_family": "VM Motori V6",
+    "engine_code": [
+      "3.0 EcoDiesel"
+    ],
+    "make": "Jeep",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "mercedes_30_om642_bluetec": {
+    "engine_name": "3.0L OM642 BlueTEC V6",
+    "engine_family": "OM642",
+    "engine_code": [
+      "OM642"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "mercedes_21_om651_bluetec": {
+    "engine_name": "2.1L OM651 BlueTEC I4",
+    "engine_family": "OM651",
+    "engine_code": [
+      "OM651"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 2.1,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "volkswagen_19_tdi": {
+    "engine_name": "1.9L TDI",
+    "engine_family": "EA180 / EA188",
+    "engine_code": [
+      "ALH",
+      "BEW",
+      "BRM"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 1.9,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "volkswagen_20_tdi_ea189": {
+    "engine_name": "2.0L TDI EA189",
+    "engine_family": "EA189",
+    "engine_code": [
+      "CBEA",
+      "CJAA"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "volkswagen_20_tdi_ea288": {
+    "engine_name": "2.0L TDI EA288",
+    "engine_family": "EA288",
+    "engine_code": [
+      "CRUA"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "volkswagen_30_tdi_v6": {
+    "engine_name": "3.0L TDI V6",
+    "engine_family": "V6 TDI",
+    "engine_code": [
+      "CATA",
+      "CNRB"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "volkswagen_v10_tdi": {
+    "engine_name": "5.0L V10 TDI",
+    "engine_family": "V10 TDI",
+    "engine_code": [
+      "BKW",
+      "BLE"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 5.0,
+    "cylinders": 10,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "audi_20_tdi_ea189": {
+    "engine_name": "2.0L TDI EA189",
+    "engine_family": "EA189",
+    "engine_code": [
+      "CBEA",
+      "CJAA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "audi_20_tdi_ea288": {
+    "engine_name": "2.0L TDI EA288",
+    "engine_family": "EA288",
+    "engine_code": [
+      "CRUA"
+    ],
+    "make": "Audi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "audi_30_tdi_v6": {
+    "engine_name": "3.0L TDI V6",
+    "engine_family": "V6 TDI",
+    "engine_code": [
+      "CATA",
+      "CNRB"
+    ],
+    "make": "Audi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "bmw_m57_30d": {
+    "engine_name": "3.0L M57 Diesel",
+    "engine_family": "M57",
+    "engine_code": [
+      "M57"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "bmw_n57_30d": {
+    "engine_name": "3.0L N57 Diesel",
+    "engine_family": "N57",
+    "engine_code": [
+      "N57"
+    ],
+    "make": "BMW",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "landrover_20_ingenium_diesel": {
+    "engine_name": "2.0L Ingenium Diesel",
+    "engine_family": "Ingenium",
+    "engine_code": [
+      "AJ200D"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "landrover_30_ingenium_diesel": {
+    "engine_name": "3.0L Ingenium Diesel",
+    "engine_family": "Ingenium",
+    "engine_code": [
+      "AJ300D"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "jaguar_20_ingenium_diesel": {
+    "engine_name": "2.0L Ingenium Diesel",
+    "engine_family": "Ingenium",
+    "engine_code": [
+      "AJ200D"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "jaguar_30_ingenium_diesel": {
+    "engine_name": "3.0L Ingenium Diesel",
+    "engine_family": "Ingenium",
+    "engine_code": [
+      "AJ300D"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Diesel"
+  },
+  "dodge_37_powertech_v6": {
+    "engine_name": "3.7L PowerTech V6",
+    "engine_family": "PowerTech",
+    "engine_code": [
+      "3.7L"
+    ],
+    "make": "Dodge",
+    "displacement_l": 3.7,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "dodge_47_powertech_v8": {
+    "engine_name": "4.7L PowerTech V8",
+    "engine_family": "PowerTech",
+    "engine_code": [
+      "4.7L"
+    ],
+    "make": "Dodge",
+    "displacement_l": 4.7,
+    "cylinders": 8,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "dodge_39_magnum_v6": {
+    "engine_name": "3.9L Magnum V6",
+    "engine_family": "Magnum",
+    "engine_code": [
+      "3.9L"
+    ],
+    "make": "Dodge",
+    "displacement_l": 3.9,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "dodge_52_magnum_v8": {
+    "engine_name": "5.2L Magnum V8",
+    "engine_family": "Magnum",
+    "engine_code": [
+      "5.2L"
+    ],
+    "make": "Dodge",
+    "displacement_l": 5.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "dodge_59_magnum_v8": {
+    "engine_name": "5.9L Magnum V8",
+    "engine_family": "Magnum",
+    "engine_code": [
+      "5.9L"
+    ],
+    "make": "Dodge",
+    "displacement_l": 5.9,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "dodge_36_pentastar_v6": {
+    "engine_name": "3.6L Pentastar V6",
+    "engine_family": "Pentastar",
+    "engine_code": [
+      "3.6L"
+    ],
+    "make": "Dodge",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "dodge_57_hemi_v8": {
+    "engine_name": "5.7L Hemi V8",
+    "engine_family": "Hemi",
+    "engine_code": [
+      "5.7L"
+    ],
+    "make": "Dodge",
+    "displacement_l": 5.7,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "dodge_61_hemi_v8": {
+    "engine_name": "6.1L Hemi V8",
+    "engine_family": "Hemi",
+    "engine_code": [
+      "6.1L"
+    ],
+    "make": "Dodge",
+    "displacement_l": 6.1,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "dodge_64_hemi_v8": {
+    "engine_name": "6.4L Hemi V8",
+    "engine_family": "Hemi",
+    "engine_code": [
+      "6.4L"
+    ],
+    "make": "Dodge",
+    "displacement_l": 6.4,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "dodge_30_hurricane_sixpack": {
+    "engine_name": "3.0L Hurricane Sixpack",
+    "engine_family": "Hurricane",
+    "engine_code": [
+      "3.0L TT"
+    ],
+    "make": "Dodge",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "gmc_25_lcv_i4": {
+    "engine_name": "2.5L LCV I4",
+    "engine_family": "LCV",
+    "engine_code": [
+      "2.5L"
+    ],
+    "make": "GMC",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "gmc_27_l3b_turbo_i4": {
+    "engine_name": "2.7L L3B Turbo I4",
+    "engine_family": "L3B",
+    "engine_code": [
+      "2.7L"
+    ],
+    "make": "GMC",
+    "displacement_l": 2.7,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "gmc_30_lz0_turbo_i6": {
+    "engine_name": "3.0L LZ0 Turbo I6",
+    "engine_family": "LZ0",
+    "engine_code": [
+      "3.0L"
+    ],
+    "make": "GMC",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "gmc_36_lgx_v6": {
+    "engine_name": "3.6L LGX V6",
+    "engine_family": "LGX",
+    "engine_code": [
+      "3.6L"
+    ],
+    "make": "GMC",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "gmc_43_lv3_v6": {
+    "engine_name": "4.3L LV3 V6",
+    "engine_family": "LV3",
+    "engine_code": [
+      "4.3L"
+    ],
+    "make": "GMC",
+    "displacement_l": 4.3,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "gmc_53_l82_v8": {
+    "engine_name": "5.3L L82 V8",
+    "engine_family": "L82",
+    "engine_code": [
+      "5.3L"
+    ],
+    "make": "GMC",
+    "displacement_l": 5.3,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "gmc_53_l84_v8": {
+    "engine_name": "5.3L L84 V8",
+    "engine_family": "L84",
+    "engine_code": [
+      "5.3L"
+    ],
+    "make": "GMC",
+    "displacement_l": 5.3,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "gmc_62_l87_v8": {
+    "engine_name": "6.2L L87 V8",
+    "engine_family": "L87",
+    "engine_code": [
+      "6.2L"
+    ],
+    "make": "GMC",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "gmc_66_l8t_v8": {
+    "engine_name": "6.6L L8T V8",
+    "engine_family": "L8T",
+    "engine_code": [
+      "6.6L"
+    ],
+    "make": "GMC",
+    "displacement_l": 6.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_15_l15b_turbo_i4": {
+    "engine_name": "1.5L L15B Turbo I4",
+    "engine_family": "L-Series",
+    "engine_code": [
+      "L15B7"
+    ],
+    "make": "Honda",
+    "displacement_l": 1.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "honda_18_r18a_i4": {
+    "engine_name": "1.8L R18A I4",
+    "engine_family": "R-Series",
+    "engine_code": [
+      "R18A",
+      "R18Z"
+    ],
+    "make": "Honda",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_20_r20a_i4": {
+    "engine_name": "2.0L R20A I4",
+    "engine_family": "R-Series",
+    "engine_code": [
+      "R20A",
+      "R20Z"
+    ],
+    "make": "Honda",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_15_d15b_i4": {
+    "engine_name": "1.5L D15B I4",
+    "engine_family": "D-Series",
+    "engine_code": [
+      "D15B"
+    ],
+    "make": "Honda",
+    "displacement_l": 1.5,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_16_d16a_i4": {
+    "engine_name": "1.6L D16A I4",
+    "engine_family": "D-Series",
+    "engine_code": [
+      "D16A",
+      "D16Z"
+    ],
+    "make": "Honda",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_16_b16a_i4": {
+    "engine_name": "1.6L B16A I4",
+    "engine_family": "B-Series",
+    "engine_code": [
+      "B16A",
+      "B16A2",
+      "B16A3"
+    ],
+    "make": "Honda",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_16_b16b_i4": {
+    "engine_name": "1.6L B16B I4",
+    "engine_family": "B-Series",
+    "engine_code": [
+      "B16B"
+    ],
+    "make": "Honda",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_17_b17a_i4": {
+    "engine_name": "1.7L B17A I4",
+    "engine_family": "B-Series",
+    "engine_code": [
+      "B17A1"
+    ],
+    "make": "Honda",
+    "displacement_l": 1.7,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_18_b18b_i4": {
+    "engine_name": "1.8L B18B I4",
+    "engine_family": "B-Series",
+    "engine_code": [
+      "B18B1"
+    ],
+    "make": "Honda",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_18_b18c_i4": {
+    "engine_name": "1.8L B18C I4",
+    "engine_family": "B-Series",
+    "engine_code": [
+      "B18C1",
+      "B18C5"
+    ],
+    "make": "Honda",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_20_b20b_i4": {
+    "engine_name": "2.0L B20B I4",
+    "engine_family": "B-Series",
+    "engine_code": [
+      "B20B"
+    ],
+    "make": "Honda",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_20_b20z_i4": {
+    "engine_name": "2.0L B20Z I4",
+    "engine_family": "B-Series",
+    "engine_code": [
+      "B20Z"
+    ],
+    "make": "Honda",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_20_k20a_i4": {
+    "engine_name": "2.0L K20A I4",
+    "engine_family": "K-Series",
+    "engine_code": [
+      "K20A",
+      "K20Z"
+    ],
+    "make": "Honda",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_20_k20c_turbo_i4": {
+    "engine_name": "2.0L K20C Turbo I4",
+    "engine_family": "K-Series",
+    "engine_code": [
+      "K20C1",
+      "K20C4"
+    ],
+    "make": "Honda",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "honda_24_k24a_i4": {
+    "engine_name": "2.4L K24A I4",
+    "engine_family": "K-Series",
+    "engine_code": [
+      "K24A",
+      "K24Z",
+      "K24W"
+    ],
+    "make": "Honda",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_30_j30a_v6": {
+    "engine_name": "3.0L J30A V6",
+    "engine_family": "J-Series",
+    "engine_code": [
+      "J30A"
+    ],
+    "make": "Honda",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_35_j35_v6": {
+    "engine_name": "3.5L J35 V6",
+    "engine_family": "J-Series",
+    "engine_code": [
+      "J35A",
+      "J35Z",
+      "J35Y"
+    ],
+    "make": "Honda",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "honda_37_j37a_v6": {
+    "engine_name": "3.7L J37A V6",
+    "engine_family": "J-Series",
+    "engine_code": [
+      "J37A"
+    ],
+    "make": "Honda",
+    "displacement_l": 3.7,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_10_kappa_i3": {
+    "engine_name": "1.0L Kappa I3",
+    "engine_family": "Kappa",
+    "engine_code": [
+      "G3LA"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 1.0,
+    "cylinders": 3,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_14_gamma_i4": {
+    "engine_name": "1.4L Gamma I4",
+    "engine_family": "Gamma",
+    "engine_code": [
+      "G4FA"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 1.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_16_gamma_i4": {
+    "engine_name": "1.6L Gamma I4",
+    "engine_family": "Gamma",
+    "engine_code": [
+      "G4FD",
+      "G4FG"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_16_gamma_turbo_i4": {
+    "engine_name": "1.6L Gamma Turbo I4",
+    "engine_family": "Gamma",
+    "engine_code": [
+      "G4FJ"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_18_nu_i4": {
+    "engine_name": "1.8L Nu I4",
+    "engine_family": "Nu",
+    "engine_code": [
+      "G4NB"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_20_nu_i4": {
+    "engine_name": "2.0L Nu I4",
+    "engine_family": "Nu",
+    "engine_code": [
+      "G4NC"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_20_theta_ii_i4": {
+    "engine_name": "2.0L Theta II I4",
+    "engine_family": "Theta II",
+    "engine_code": [
+      "G4KD",
+      "G4NA"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_20_theta_ii_turbo_i4": {
+    "engine_name": "2.0L Theta II Turbo I4",
+    "engine_family": "Theta II",
+    "engine_code": [
+      "G4KH"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_24_theta_ii_i4": {
+    "engine_name": "2.4L Theta II I4",
+    "engine_family": "Theta II",
+    "engine_code": [
+      "G4KE",
+      "G4KJ"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_25_smartstream_i4": {
+    "engine_name": "2.5L Smartstream I4",
+    "engine_family": "Smartstream",
+    "engine_code": [
+      "G4KM"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_25_smartstream_turbo_i4": {
+    "engine_name": "2.5L Smartstream Turbo I4",
+    "engine_family": "Smartstream",
+    "engine_code": [
+      "G4KP"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_33_lambda_v6": {
+    "engine_name": "3.3L Lambda V6",
+    "engine_family": "Lambda",
+    "engine_code": [
+      "G6DB",
+      "G6DF"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 3.3,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_38_lambda_ii_v6": {
+    "engine_name": "3.8L Lambda II V6",
+    "engine_family": "Lambda II",
+    "engine_code": [
+      "G6DJ"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_46_tau_v8": {
+    "engine_name": "4.6L Tau V8",
+    "engine_family": "Tau",
+    "engine_code": [
+      "G8BA"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "hyundai_50_tau_v8": {
+    "engine_name": "5.0L Tau V8",
+    "engine_family": "Tau",
+    "engine_code": [
+      "G8BE"
+    ],
+    "make": "Hyundai",
+    "displacement_l": 5.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "infiniti_20_mr20dd_i4": {
+    "engine_name": "2.0L MR20DD I4",
+    "engine_family": "MR",
+    "engine_code": [
+      "MR20DD"
+    ],
+    "make": "Infiniti",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "infiniti_20_vc_turbo_i4": {
+    "engine_name": "2.0L VC-Turbo I4",
+    "engine_family": "KR",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "make": "Infiniti",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "infiniti_30_vq30de_v6": {
+    "engine_name": "3.0L VQ30DE V6",
+    "engine_family": "VQ",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "make": "Infiniti",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "infiniti_30_vr30ddtt_v6": {
+    "engine_name": "3.0L VR30DDTT V6",
+    "engine_family": "VR",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "make": "Infiniti",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "infiniti_35_vq35de_v6": {
+    "engine_name": "3.5L VQ35DE V6",
+    "engine_family": "VQ",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "make": "Infiniti",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "infiniti_35_vq35hr_v6": {
+    "engine_name": "3.5L VQ35HR V6",
+    "engine_family": "VQ",
+    "engine_code": [
+      "VQ35HR"
+    ],
+    "make": "Infiniti",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "infiniti_37_vq37vhr_v6": {
+    "engine_name": "3.7L VQ37VHR V6",
+    "engine_family": "VQ",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "make": "Infiniti",
+    "displacement_l": 3.7,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "infiniti_45_vk45de_v8": {
+    "engine_name": "4.5L VK45DE V8",
+    "engine_family": "VK",
+    "engine_code": [
+      "VK45DE"
+    ],
+    "make": "Infiniti",
+    "displacement_l": 4.5,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "infiniti_56_vk56vd_v8": {
+    "engine_name": "5.6L VK56VD V8",
+    "engine_family": "VK",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "make": "Infiniti",
+    "displacement_l": 5.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "isuzu_23_4zd1_i4": {
+    "engine_name": "2.3L 4ZD1 I4",
+    "engine_family": "4Z",
+    "engine_code": [
+      "4ZD1"
+    ],
+    "make": "Isuzu",
+    "displacement_l": 2.3,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "isuzu_26_4ze1_i4": {
+    "engine_name": "2.6L 4ZE1 I4",
+    "engine_family": "4Z",
+    "engine_code": [
+      "4ZE1"
+    ],
+    "make": "Isuzu",
+    "displacement_l": 2.6,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "isuzu_32_6vd1_v6": {
+    "engine_name": "3.2L 6VD1 V6",
+    "engine_family": "6VD",
+    "engine_code": [
+      "6VD1"
+    ],
+    "make": "Isuzu",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "isuzu_32_6vd1w_v6": {
+    "engine_name": "3.2L 6VD1W V6",
+    "engine_family": "6VD",
+    "engine_code": [
+      "6VD1W"
+    ],
+    "make": "Isuzu",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "isuzu_35_6ve1_v6": {
+    "engine_name": "3.5L 6VE1 V6",
+    "engine_family": "6VE",
+    "engine_code": [
+      "6VE1"
+    ],
+    "make": "Isuzu",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jaguar_30_aj30_v6": {
+    "engine_name": "3.0L AJ30 V6",
+    "engine_family": "AJ-V6",
+    "engine_code": [
+      "AJ30"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jaguar_30_aj30_sc_v6": {
+    "engine_name": "3.0L AJ30 Supercharged V6",
+    "engine_family": "AJ-V6",
+    "engine_code": [
+      "AJ30S"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "jaguar_40_aj26_v8": {
+    "engine_name": "4.0L AJ26 V8",
+    "engine_family": "AJ-V8",
+    "engine_code": [
+      "AJ26"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jaguar_40_aj26_sc_v8": {
+    "engine_name": "4.0L AJ26 Supercharged V8",
+    "engine_family": "AJ-V8",
+    "engine_code": [
+      "AJ26S"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "jaguar_42_aj34_v8": {
+    "engine_name": "4.2L AJ34 V8",
+    "engine_family": "AJ-V8",
+    "engine_code": [
+      "AJ34"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 4.2,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jaguar_42_aj34_sc_v8": {
+    "engine_name": "4.2L AJ34 Supercharged V8",
+    "engine_family": "AJ-V8",
+    "engine_code": [
+      "AJ34S"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 4.2,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "jaguar_50_aj133_v8": {
+    "engine_name": "5.0L AJ133 V8",
+    "engine_family": "AJ-V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 5.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jaguar_50_aj133_sc_v8": {
+    "engine_name": "5.0L AJ133 Supercharged V8",
+    "engine_family": "AJ-V8",
+    "engine_code": [
+      "AJ133S"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 5.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "jaguar_20_ingenium_turbo_i4": {
+    "engine_name": "2.0L Ingenium Turbo I4",
+    "engine_family": "Ingenium",
+    "engine_code": [
+      "AJ200"
+    ],
+    "make": "Jaguar",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "jeep_25_amc_i4": {
+    "engine_name": "2.5L AMC I4",
+    "engine_family": "AMC",
+    "engine_code": [
+      "150"
+    ],
+    "make": "Jeep",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jeep_40_amc_i6": {
+    "engine_name": "4.0L AMC I6",
+    "engine_family": "AMC",
+    "engine_code": [
+      "242"
+    ],
+    "make": "Jeep",
+    "displacement_l": 4.0,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jeep_24_tigershark_i4": {
+    "engine_name": "2.4L Tigershark I4",
+    "engine_family": "Tigershark",
+    "engine_code": [
+      "ED6",
+      "ED8"
+    ],
+    "make": "Jeep",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jeep_20_hurricane_turbo_i4": {
+    "engine_name": "2.0L Hurricane Turbo I4",
+    "engine_family": "Hurricane",
+    "engine_code": [
+      "GME-T4"
+    ],
+    "make": "Jeep",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "jeep_37_powertech_v6": {
+    "engine_name": "3.7L PowerTech V6",
+    "engine_family": "PowerTech",
+    "engine_code": [
+      "EKK"
+    ],
+    "make": "Jeep",
+    "displacement_l": 3.7,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jeep_36_pentastar_v6": {
+    "engine_name": "3.6L Pentastar V6",
+    "engine_family": "Pentastar",
+    "engine_code": [
+      "ERB"
+    ],
+    "make": "Jeep",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jeep_47_powertech_v8": {
+    "engine_name": "4.7L PowerTech V8",
+    "engine_family": "PowerTech",
+    "engine_code": [
+      "EVA"
+    ],
+    "make": "Jeep",
+    "displacement_l": 4.7,
+    "cylinders": 8,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jeep_57_hemi_v8": {
+    "engine_name": "5.7L HEMI V8",
+    "engine_family": "HEMI",
+    "engine_code": [
+      "EZH"
+    ],
+    "make": "Jeep",
+    "displacement_l": 5.7,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "jeep_64_hemi_v8": {
+    "engine_name": "6.4L HEMI V8",
+    "engine_family": "HEMI",
+    "engine_code": [
+      "ESF"
+    ],
+    "make": "Jeep",
+    "displacement_l": 6.4,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_10_kappa_i3": {
+    "engine_name": "1.0L Kappa I3",
+    "engine_family": "Kappa",
+    "engine_code": [
+      "G3LA"
+    ],
+    "make": "Kia",
+    "displacement_l": 1.0,
+    "cylinders": 3,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_14_gamma_i4": {
+    "engine_name": "1.4L Gamma I4",
+    "engine_family": "Gamma",
+    "engine_code": [
+      "G4FA"
+    ],
+    "make": "Kia",
+    "displacement_l": 1.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_16_gamma_i4": {
+    "engine_name": "1.6L Gamma I4",
+    "engine_family": "Gamma",
+    "engine_code": [
+      "G4FG"
+    ],
+    "make": "Kia",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_16_gamma_turbo_i4": {
+    "engine_name": "1.6L Gamma Turbo I4",
+    "engine_family": "Gamma",
+    "engine_code": [
+      "G4FJ"
+    ],
+    "make": "Kia",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "kia_18_nu_i4": {
+    "engine_name": "1.8L Nu I4",
+    "engine_family": "Nu",
+    "engine_code": [
+      "G4NB"
+    ],
+    "make": "Kia",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_20_nu_i4": {
+    "engine_name": "2.0L Nu I4",
+    "engine_family": "Nu",
+    "engine_code": [
+      "G4NC"
+    ],
+    "make": "Kia",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_20_theta_ii_i4": {
+    "engine_name": "2.0L Theta II I4",
+    "engine_family": "Theta II",
+    "engine_code": [
+      "G4KD",
+      "G4NA"
+    ],
+    "make": "Kia",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_20_theta_ii_turbo_i4": {
+    "engine_name": "2.0L Theta II Turbo I4",
+    "engine_family": "Theta II",
+    "engine_code": [
+      "G4KH"
+    ],
+    "make": "Kia",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "kia_24_theta_ii_i4": {
+    "engine_name": "2.4L Theta II I4",
+    "engine_family": "Theta II",
+    "engine_code": [
+      "G4KE"
+    ],
+    "make": "Kia",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_16_smartstream_turbo_i4": {
+    "engine_name": "1.6L Smartstream Turbo I4",
+    "engine_family": "Smartstream",
+    "engine_code": [
+      "G4FP"
+    ],
+    "make": "Kia",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "kia_25_smartstream_i4": {
+    "engine_name": "2.5L Smartstream I4",
+    "engine_family": "Smartstream",
+    "engine_code": [
+      "G4KM"
+    ],
+    "make": "Kia",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_25_smartstream_turbo_i4": {
+    "engine_name": "2.5L Smartstream Turbo I4",
+    "engine_family": "Smartstream",
+    "engine_code": [
+      "G4KP"
+    ],
+    "make": "Kia",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "kia_33_lambda_v6": {
+    "engine_name": "3.3L Lambda V6",
+    "engine_family": "Lambda",
+    "engine_code": [
+      "G6DB"
+    ],
+    "make": "Kia",
+    "displacement_l": 3.3,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_38_lambda_ii_v6": {
+    "engine_name": "3.8L Lambda II V6",
+    "engine_family": "Lambda II",
+    "engine_code": [
+      "G6DJ"
+    ],
+    "make": "Kia",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "kia_50_tau_v8": {
+    "engine_name": "5.0L Tau V8",
+    "engine_family": "Tau",
+    "engine_code": [
+      "G8BE"
+    ],
+    "make": "Kia",
+    "displacement_l": 5.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "landrover_18_kseries_i4": {
+    "engine_name": "1.8L K-Series I4",
+    "engine_family": "K-Series",
+    "engine_code": [
+      "18K4F"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "landrover_35_rover_v8": {
+    "engine_name": "3.5L Rover V8",
+    "engine_family": "Rover V8",
+    "engine_code": [
+      "35D"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 3.5,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "landrover_39_rover_v8": {
+    "engine_name": "3.9L Rover V8",
+    "engine_family": "Rover V8",
+    "engine_code": [
+      "39D"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 3.9,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "landrover_46_rover_v8": {
+    "engine_name": "4.6L Rover V8",
+    "engine_family": "Rover V8",
+    "engine_code": [
+      "46D"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "landrover_30_aj30_v6": {
+    "engine_name": "3.0L AJ30 V6",
+    "engine_family": "AJ-V6",
+    "engine_code": [
+      "AJ30"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "landrover_30_aj126_sc_v6": {
+    "engine_name": "3.0L AJ126 Supercharged V6",
+    "engine_family": "AJ-V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "landrover_20_ingenium_turbo_i4": {
+    "engine_name": "2.0L Ingenium Turbo I4",
+    "engine_family": "Ingenium",
+    "engine_code": [
+      "AJ200"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "landrover_50_aj133_v8": {
+    "engine_name": "5.0L AJ133 V8",
+    "engine_family": "AJ-V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 5.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "landrover_50_aj133_sc_v8": {
+    "engine_name": "5.0L AJ133 Supercharged V8",
+    "engine_family": "AJ-V8",
+    "engine_code": [
+      "AJ133S"
+    ],
+    "make": "Land Rover",
+    "displacement_l": 5.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_20_8ar_ftS_i4": {
+    "engine_name": "2.0L 8AR-FTS I4",
+    "engine_family": "AR",
+    "engine_code": [
+      "8AR-FTS"
+    ],
+    "make": "Lexus",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_25_2ar_fe_i4": {
+    "engine_name": "2.5L 2AR-FE I4",
+    "engine_family": "AR",
+    "engine_code": [
+      "2AR-FE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_25_4gr_fse_v6": {
+    "engine_name": "2.5L 4GR-FSE V6",
+    "engine_family": "GR",
+    "engine_code": [
+      "4GR-FSE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 2.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_30_3gr_fse_v6": {
+    "engine_name": "3.0L 3GR-FSE V6",
+    "engine_family": "GR",
+    "engine_code": [
+      "3GR-FSE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_35_2gr_fe_v6": {
+    "engine_name": "3.5L 2GR-FE V6",
+    "engine_family": "GR",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_35_2gr_fse_v6": {
+    "engine_name": "3.5L 2GR-FSE V6",
+    "engine_family": "GR",
+    "engine_code": [
+      "2GR-FSE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_35_v35a_fts_v6": {
+    "engine_name": "3.5L V35A-FTS Twin-Turbo V6",
+    "engine_family": "V35A",
+    "engine_code": [
+      "V35A-FTS"
+    ],
+    "make": "Lexus",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_40_1uz_fe_v8": {
+    "engine_name": "4.0L 1UZ-FE V8",
+    "engine_family": "UZ",
+    "engine_code": [
+      "1UZ-FE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_47_2uz_fe_v8": {
+    "engine_name": "4.7L 2UZ-FE V8",
+    "engine_family": "UZ",
+    "engine_code": [
+      "2UZ-FE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 4.7,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_43_3uz_fe_v8": {
+    "engine_name": "4.3L 3UZ-FE V8",
+    "engine_family": "UZ",
+    "engine_code": [
+      "3UZ-FE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 4.3,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_46_1ur_fe_v8": {
+    "engine_name": "4.6L 1UR-FE V8",
+    "engine_family": "UR",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_50_2ur_gse_v8": {
+    "engine_name": "5.0L 2UR-GSE V8",
+    "engine_family": "UR",
+    "engine_code": [
+      "2UR-GSE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 5.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lexus_57_3ur_fe_v8": {
+    "engine_name": "5.7L 3UR-FE V8",
+    "engine_family": "UR",
+    "engine_code": [
+      "3UR-FE"
+    ],
+    "make": "Lexus",
+    "displacement_l": 5.7,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_20_ecoboost_i4": {
+    "engine_name": "2.0L EcoBoost I4",
+    "engine_family": "EcoBoost",
+    "engine_code": [
+      "2.0L"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_23_ecoboost_i4": {
+    "engine_name": "2.3L EcoBoost I4",
+    "engine_family": "EcoBoost",
+    "engine_code": [
+      "2.3L"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 2.3,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_27_ecoboost_v6": {
+    "engine_name": "2.7L EcoBoost V6",
+    "engine_family": "EcoBoost",
+    "engine_code": [
+      "2.7L"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 2.7,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_30_ecoboost_v6": {
+    "engine_name": "3.0L EcoBoost V6",
+    "engine_family": "EcoBoost",
+    "engine_code": [
+      "3.0L"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_35_ecoboost_v6": {
+    "engine_name": "3.5L EcoBoost V6",
+    "engine_family": "EcoBoost",
+    "engine_code": [
+      "3.5L"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_30_duratec_v6": {
+    "engine_name": "3.0L Duratec V6",
+    "engine_family": "Duratec",
+    "engine_code": [
+      "3.0L"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_35_cyclone_v6": {
+    "engine_name": "3.5L Cyclone V6",
+    "engine_family": "Cyclone",
+    "engine_code": [
+      "3.5L"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_37_cyclone_v6": {
+    "engine_name": "3.7L Cyclone V6",
+    "engine_family": "Cyclone",
+    "engine_code": [
+      "3.7L"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 3.7,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_46_modular_v8": {
+    "engine_name": "4.6L Modular V8",
+    "engine_family": "Modular",
+    "engine_code": [
+      "4.6L"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_46_intech_v8": {
+    "engine_name": "4.6L InTech V8",
+    "engine_family": "InTech",
+    "engine_code": [
+      "4.6L DOHC"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "lincoln_54_modular_v8": {
+    "engine_name": "5.4L Modular V8",
+    "engine_family": "Modular",
+    "engine_code": [
+      "5.4L"
+    ],
+    "make": "Lincoln",
+    "displacement_l": 5.4,
+    "cylinders": 8,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_16_b6_i4": {
+    "engine_name": "1.6L B6 I4",
+    "engine_family": "B-Series",
+    "engine_code": [
+      "B6"
+    ],
+    "make": "Mazda",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_18_bp_i4": {
+    "engine_name": "1.8L BP I4",
+    "engine_family": "B-Series",
+    "engine_code": [
+      "BP"
+    ],
+    "make": "Mazda",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_20_fe_i4": {
+    "engine_name": "2.0L FE I4",
+    "engine_family": "F-Series",
+    "engine_code": [
+      "FE"
+    ],
+    "make": "Mazda",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_20_fs_i4": {
+    "engine_name": "2.0L FS I4",
+    "engine_family": "F-Series",
+    "engine_code": [
+      "FS"
+    ],
+    "make": "Mazda",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_23_l3_i4": {
+    "engine_name": "2.3L L3 I4",
+    "engine_family": "MZR",
+    "engine_code": [
+      "L3-VE"
+    ],
+    "make": "Mazda",
+    "displacement_l": 2.3,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_23_l3_turbo_i4": {
+    "engine_name": "2.3L L3 Turbo I4",
+    "engine_family": "MZR",
+    "engine_code": [
+      "L3-VDT"
+    ],
+    "make": "Mazda",
+    "displacement_l": 2.3,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_25_l5_i4": {
+    "engine_name": "2.5L L5 I4",
+    "engine_family": "MZR",
+    "engine_code": [
+      "L5-VE"
+    ],
+    "make": "Mazda",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_15_skyactiv_g_i4": {
+    "engine_name": "1.5L Skyactiv-G I4",
+    "engine_family": "Skyactiv-G",
+    "engine_code": [
+      "P5-VPS"
+    ],
+    "make": "Mazda",
+    "displacement_l": 1.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_20_skyactiv_g_i4": {
+    "engine_name": "2.0L Skyactiv-G I4",
+    "engine_family": "Skyactiv-G",
+    "engine_code": [
+      "PE-VPS"
+    ],
+    "make": "Mazda",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_25_skyactiv_g_i4": {
+    "engine_name": "2.5L Skyactiv-G I4",
+    "engine_family": "Skyactiv-G",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "make": "Mazda",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_25_skyactiv_g_turbo_i4": {
+    "engine_name": "2.5L Skyactiv-G Turbo I4",
+    "engine_family": "Skyactiv-G",
+    "engine_code": [
+      "PY-VPTS"
+    ],
+    "make": "Mazda",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_20_skyactiv_x_i4": {
+    "engine_name": "2.0L Skyactiv-X I4",
+    "engine_family": "Skyactiv-X",
+    "engine_code": [
+      "P5-VP"
+    ],
+    "make": "Mazda",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_13b_rotary": {
+    "engine_name": "1.3L 13B Rotary",
+    "engine_family": "Rotary",
+    "engine_code": [
+      "13B"
+    ],
+    "make": "Mazda",
+    "displacement_l": 1.3,
+    "cylinders": 0,
+    "valvetrain": "Rotary",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_13b_rotary_turbo": {
+    "engine_name": "1.3L 13B Turbo Rotary",
+    "engine_family": "Rotary",
+    "engine_code": [
+      "13B-REW"
+    ],
+    "make": "Mazda",
+    "displacement_l": 1.3,
+    "cylinders": 0,
+    "valvetrain": "Rotary",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mazda_20b_rotary": {
+    "engine_name": "2.0L 20B Rotary",
+    "engine_family": "Rotary",
+    "engine_code": [
+      "20B-REW"
+    ],
+    "make": "Mazda",
+    "displacement_l": 2.0,
+    "cylinders": 0,
+    "valvetrain": "Rotary",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_18_m111_i4": {
+    "engine_name": "1.8L M111 I4",
+    "engine_family": "M111",
+    "engine_code": [
+      "M111.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_20_m274_i4": {
+    "engine_name": "2.0L M274 Turbo I4",
+    "engine_family": "M274",
+    "engine_code": [
+      "M274.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_20_m270_i4": {
+    "engine_name": "2.0L M270 Turbo I4",
+    "engine_family": "M270",
+    "engine_code": [
+      "M270.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_25_m112_v6": {
+    "engine_name": "2.5L M112 V6",
+    "engine_family": "M112",
+    "engine_code": [
+      "M112.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 2.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_30_m272_v6": {
+    "engine_name": "3.0L M272 V6",
+    "engine_family": "M272",
+    "engine_code": [
+      "M272.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_35_m272_v6": {
+    "engine_name": "3.5L M272 V6",
+    "engine_family": "M272",
+    "engine_code": [
+      "M272.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_30_m276_v6": {
+    "engine_name": "3.0L M276 Twin-Turbo V6",
+    "engine_family": "M276",
+    "engine_code": [
+      "M276.8xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_35_m276_v6": {
+    "engine_name": "3.5L M276 V6",
+    "engine_family": "M276",
+    "engine_code": [
+      "M276.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_46_m113_v8": {
+    "engine_name": "4.6L M113 V8",
+    "engine_family": "M113",
+    "engine_code": [
+      "M113.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_50_m113_v8": {
+    "engine_name": "5.0L M113 V8",
+    "engine_family": "M113",
+    "engine_code": [
+      "M113.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 5.0,
+    "cylinders": 8,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_55_m113k_v8": {
+    "engine_name": "5.5L M113K Supercharged V8",
+    "engine_family": "M113K",
+    "engine_code": [
+      "M113K"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 5.5,
+    "cylinders": 8,
+    "valvetrain": "SOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_46_m273_v8": {
+    "engine_name": "4.6L M273 V8",
+    "engine_family": "M273",
+    "engine_code": [
+      "M273.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_55_m273_v8": {
+    "engine_name": "5.5L M273 V8",
+    "engine_family": "M273",
+    "engine_code": [
+      "M273.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 5.5,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_46_m278_v8": {
+    "engine_name": "4.6L M278 Twin-Turbo V8",
+    "engine_family": "M278",
+    "engine_code": [
+      "M278.9xx"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_55_m157_v8": {
+    "engine_name": "5.5L M157 Twin-Turbo V8",
+    "engine_family": "M157",
+    "engine_code": [
+      "M157"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 5.5,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_40_m256_i6": {
+    "engine_name": "3.0L M256 Turbo I6",
+    "engine_family": "M256",
+    "engine_code": [
+      "M256"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_40_m256_e_turbo_i6": {
+    "engine_name": "3.0L M256 Electric Turbo I6",
+    "engine_family": "M256",
+    "engine_code": [
+      "M256E"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Electric Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_40_m176_v8": {
+    "engine_name": "4.0L M176 Twin-Turbo V8",
+    "engine_family": "M176",
+    "engine_code": [
+      "M176"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_40_m177_v8": {
+    "engine_name": "4.0L M177 Twin-Turbo V8",
+    "engine_family": "M177",
+    "engine_code": [
+      "M177"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercedes_40_m178_v8": {
+    "engine_name": "4.0L M178 Twin-Turbo V8",
+    "engine_family": "M178",
+    "engine_code": [
+      "M178"
+    ],
+    "make": "Mercedes-Benz",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercury_20_duratec_i4": {
+    "engine_name": "2.0L Duratec I4",
+    "engine_family": "Duratec",
+    "engine_code": [
+      "2.0L"
+    ],
+    "make": "Mercury",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercury_23_duratec_i4": {
+    "engine_name": "2.3L Duratec I4",
+    "engine_family": "Duratec",
+    "engine_code": [
+      "2.3L"
+    ],
+    "make": "Mercury",
+    "displacement_l": 2.3,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercury_20_ecoboost_i4": {
+    "engine_name": "2.0L EcoBoost I4",
+    "engine_family": "EcoBoost",
+    "engine_code": [
+      "2.0L"
+    ],
+    "make": "Mercury",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mercury_30_vulcan_v6": {
+    "engine_name": "3.0L Vulcan V6",
+    "engine_family": "Vulcan",
+    "engine_code": [
+      "3.0L"
+    ],
+    "make": "Mercury",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercury_30_duratec_v6": {
+    "engine_name": "3.0L Duratec V6",
+    "engine_family": "Duratec",
+    "engine_code": [
+      "3.0L"
+    ],
+    "make": "Mercury",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercury_38_essex_v6": {
+    "engine_name": "3.8L Essex V6",
+    "engine_family": "Essex",
+    "engine_code": [
+      "3.8L"
+    ],
+    "make": "Mercury",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercury_40_cologne_v6": {
+    "engine_name": "4.0L Cologne V6",
+    "engine_family": "Cologne",
+    "engine_code": [
+      "4.0L"
+    ],
+    "make": "Mercury",
+    "displacement_l": 4.0,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercury_46_modular_v8": {
+    "engine_name": "4.6L Modular V8",
+    "engine_family": "Modular",
+    "engine_code": [
+      "4.6L"
+    ],
+    "make": "Mercury",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mercury_46_modular_dohc_v8": {
+    "engine_name": "4.6L Modular DOHC V8",
+    "engine_family": "Modular",
+    "engine_code": [
+      "4.6L DOHC"
+    ],
+    "make": "Mercury",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mini_16_tritec_i4": {
+    "engine_name": "1.6L Tritec I4",
+    "engine_family": "Tritec",
+    "engine_code": [
+      "W10B16A"
+    ],
+    "make": "Mini",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mini_16_tritec_sc_i4": {
+    "engine_name": "1.6L Tritec Supercharged I4",
+    "engine_family": "Tritec",
+    "engine_code": [
+      "W11B16A"
+    ],
+    "make": "Mini",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "mini_16_n12_i4": {
+    "engine_name": "1.6L N12 I4",
+    "engine_family": "Prince",
+    "engine_code": [
+      "N12B16A"
+    ],
+    "make": "Mini",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mini_16_n14_turbo_i4": {
+    "engine_name": "1.6L N14 Turbo I4",
+    "engine_family": "Prince",
+    "engine_code": [
+      "N14B16A"
+    ],
+    "make": "Mini",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mini_16_n16_i4": {
+    "engine_name": "1.6L N16 I4",
+    "engine_family": "Prince",
+    "engine_code": [
+      "N16B16A"
+    ],
+    "make": "Mini",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mini_16_n18_turbo_i4": {
+    "engine_name": "1.6L N18 Turbo I4",
+    "engine_family": "Prince",
+    "engine_code": [
+      "N18B16A"
+    ],
+    "make": "Mini",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mini_15_b38_i3": {
+    "engine_name": "1.5L B38 I3",
+    "engine_family": "BMW B-Series",
+    "engine_code": [
+      "B38A15A"
+    ],
+    "make": "Mini",
+    "displacement_l": 1.5,
+    "cylinders": 3,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mini_20_b48_i4": {
+    "engine_name": "2.0L B48 Turbo I4",
+    "engine_family": "BMW B-Series",
+    "engine_code": [
+      "B48A20A"
+    ],
+    "make": "Mini",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_13_4g13_i4": {
+    "engine_name": "1.3L 4G13 I4",
+    "engine_family": "4G",
+    "engine_code": [
+      "4G13"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 1.3,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_15_4g15_i4": {
+    "engine_name": "1.5L 4G15 I4",
+    "engine_family": "4G",
+    "engine_code": [
+      "4G15"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 1.5,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_16_4a92_i4": {
+    "engine_name": "1.6L 4A92 I4",
+    "engine_family": "4A",
+    "engine_code": [
+      "4A92"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_18_4g93_i4": {
+    "engine_name": "1.8L 4G93 I4",
+    "engine_family": "4G",
+    "engine_code": [
+      "4G93"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_20_4g63_i4": {
+    "engine_name": "2.0L 4G63 I4",
+    "engine_family": "4G",
+    "engine_code": [
+      "4G63"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_20_4g63_turbo_i4": {
+    "engine_name": "2.0L 4G63 Turbo I4",
+    "engine_family": "4G",
+    "engine_code": [
+      "4G63T"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_24_4g64_i4": {
+    "engine_name": "2.4L 4G64 I4",
+    "engine_family": "4G",
+    "engine_code": [
+      "4G64"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_24_4b12_i4": {
+    "engine_name": "2.4L 4B12 I4",
+    "engine_family": "4B",
+    "engine_code": [
+      "4B12"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_20_4b11_i4": {
+    "engine_name": "2.0L 4B11 I4",
+    "engine_family": "4B",
+    "engine_code": [
+      "4B11"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_20_4b11_turbo_i4": {
+    "engine_name": "2.0L 4B11 Turbo I4",
+    "engine_family": "4B",
+    "engine_code": [
+      "4B11T"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_24_4g69_i4": {
+    "engine_name": "2.4L 4G69 I4",
+    "engine_family": "4G",
+    "engine_code": [
+      "4G69"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_30_6g72_v6": {
+    "engine_name": "3.0L 6G72 V6",
+    "engine_family": "6G",
+    "engine_code": [
+      "6G72"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_30_6g72_turbo_v6": {
+    "engine_name": "3.0L 6G72 Twin-Turbo V6",
+    "engine_family": "6G",
+    "engine_code": [
+      "6G72TT"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_35_6g74_v6": {
+    "engine_name": "3.5L 6G74 V6",
+    "engine_family": "6G",
+    "engine_code": [
+      "6G74"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "mitsubishi_38_6g75_v6": {
+    "engine_name": "3.8L 6G75 V6",
+    "engine_family": "6G",
+    "engine_code": [
+      "6G75"
+    ],
+    "make": "Mitsubishi",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_10_hr10ddt_i3": {
+    "engine_name": "1.0L HR10DDT I3",
+    "engine_family": "HR",
+    "engine_code": [
+      "HR10DDT"
+    ],
+    "make": "Nissan",
+    "displacement_l": 1.0,
+    "cylinders": 3,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_16_hr16de_i4": {
+    "engine_name": "1.6L HR16DE I4",
+    "engine_family": "HR",
+    "engine_code": [
+      "HR16DE"
+    ],
+    "make": "Nissan",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_20_mr20de_i4": {
+    "engine_name": "2.0L MR20DE I4",
+    "engine_family": "MR",
+    "engine_code": [
+      "MR20DE"
+    ],
+    "make": "Nissan",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_20_mr20dd_i4": {
+    "engine_name": "2.0L MR20DD I4",
+    "engine_family": "MR",
+    "engine_code": [
+      "MR20DD"
+    ],
+    "make": "Nissan",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Direct Injection",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_20_sr20de_i4": {
+    "engine_name": "2.0L SR20DE I4",
+    "engine_family": "SR",
+    "engine_code": [
+      "SR20DE"
+    ],
+    "make": "Nissan",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_20_sr20det_i4": {
+    "engine_name": "2.0L SR20DET Turbo I4",
+    "engine_family": "SR",
+    "engine_code": [
+      "SR20DET"
+    ],
+    "make": "Nissan",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_20_qr20de_i4": {
+    "engine_name": "2.0L QR20DE I4",
+    "engine_family": "QR",
+    "engine_code": [
+      "QR20DE"
+    ],
+    "make": "Nissan",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_25_qr25de_i4": {
+    "engine_name": "2.5L QR25DE I4",
+    "engine_family": "QR",
+    "engine_code": [
+      "QR25DE"
+    ],
+    "make": "Nissan",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_25_vq25de_v6": {
+    "engine_name": "2.5L VQ25DE V6",
+    "engine_family": "VQ",
+    "engine_code": [
+      "VQ25DE"
+    ],
+    "make": "Nissan",
+    "displacement_l": 2.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_30_vq30de_v6": {
+    "engine_name": "3.0L VQ30DE V6",
+    "engine_family": "VQ",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "make": "Nissan",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_35_vq35de_v6": {
+    "engine_name": "3.5L VQ35DE V6",
+    "engine_family": "VQ",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "make": "Nissan",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_35_vq35hr_v6": {
+    "engine_name": "3.5L VQ35HR V6",
+    "engine_family": "VQ",
+    "engine_code": [
+      "VQ35HR"
+    ],
+    "make": "Nissan",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_37_vq37vhr_v6": {
+    "engine_name": "3.7L VQ37VHR V6",
+    "engine_family": "VQ",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "make": "Nissan",
+    "displacement_l": 3.7,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_30_vr30ddtt_v6": {
+    "engine_name": "3.0L VR30DDTT V6",
+    "engine_family": "VR",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "make": "Nissan",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_38_vr38dett_v6": {
+    "engine_name": "3.8L VR38DETT V6",
+    "engine_family": "VR",
+    "engine_code": [
+      "VR38DETT"
+    ],
+    "make": "Nissan",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_45_vk45de_v8": {
+    "engine_name": "4.5L VK45DE V8",
+    "engine_family": "VK",
+    "engine_code": [
+      "VK45DE"
+    ],
+    "make": "Nissan",
+    "displacement_l": 4.5,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_56_vk56de_v8": {
+    "engine_name": "5.6L VK56DE V8",
+    "engine_family": "VK",
+    "engine_code": [
+      "VK56DE"
+    ],
+    "make": "Nissan",
+    "displacement_l": 5.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "nissan_56_vk56vd_v8": {
+    "engine_name": "5.6L VK56VD V8",
+    "engine_family": "VK",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "make": "Nissan",
+    "displacement_l": 5.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Direct Injection",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_25_iron_duke_i4": {
+    "engine_name": "2.5L Iron Duke I4",
+    "engine_family": "Iron Duke",
+    "engine_code": [
+      "L4",
+      "Tech IV"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_23_quad4_i4": {
+    "engine_name": "2.3L Quad 4 I4",
+    "engine_family": "Quad 4",
+    "engine_code": [
+      "LD2",
+      "LG0"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 2.3,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_24_twin_cam_i4": {
+    "engine_name": "2.4L Twin Cam I4",
+    "engine_family": "Twin Cam",
+    "engine_code": [
+      "LD9"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_22_ecotec_i4": {
+    "engine_name": "2.2L Ecotec I4",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "L61"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 2.2,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_24_ecotec_i4": {
+    "engine_name": "2.4L Ecotec I4",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LE5"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_20_ecotec_turbo_i4": {
+    "engine_name": "2.0L Ecotec Turbo I4",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LNF"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_28_60degree_v6": {
+    "engine_name": "2.8L 60-Degree V6",
+    "engine_family": "60-Degree V6",
+    "engine_code": [
+      "LB6"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 2.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_31_60degree_v6": {
+    "engine_name": "3.1L 60-Degree V6",
+    "engine_family": "60-Degree V6",
+    "engine_code": [
+      "LG8"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 3.1,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_34_60degree_v6": {
+    "engine_name": "3.4L 60-Degree V6",
+    "engine_family": "60-Degree V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 3.4,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_38_3800_v6": {
+    "engine_name": "3.8L 3800 Series II/III V6",
+    "engine_family": "3800",
+    "engine_code": [
+      "L36",
+      "L26"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_38_3800_sc_v6": {
+    "engine_name": "3.8L 3800 Supercharged V6",
+    "engine_family": "3800",
+    "engine_code": [
+      "L67"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 3.8,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_35_highvalue_v6": {
+    "engine_name": "3.5L High Value V6",
+    "engine_family": "High Value",
+    "engine_code": [
+      "LX9"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_39_highvalue_v6": {
+    "engine_name": "3.9L High Value V6",
+    "engine_family": "High Value",
+    "engine_code": [
+      "LZ9"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 3.9,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_53_ls4_v8": {
+    "engine_name": "5.3L LS4 V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS4"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 5.3,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_60_ls2_v8": {
+    "engine_name": "6.0L LS2 V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS2"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 6.0,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "pontiac_60_ls3_v8": {
+    "engine_name": "6.0L LS3/6.2L Variant V8",
+    "engine_family": "LS",
+    "engine_code": [
+      "LS3"
+    ],
+    "make": "Pontiac",
+    "displacement_l": 6.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "ram_36_pentastar_v6": {
+    "engine_name": "3.6L Pentastar V6",
+    "engine_family": "Pentastar",
+    "engine_code": [
+      "ERB"
+    ],
+    "make": "Ram",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "ram_39_magnum_v6": {
+    "engine_name": "3.9L Magnum V6",
+    "engine_family": "Magnum",
+    "engine_code": [
+      "3.9L"
+    ],
+    "make": "Ram",
+    "displacement_l": 3.9,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "ram_52_magnum_v8": {
+    "engine_name": "5.2L Magnum V8",
+    "engine_family": "Magnum",
+    "engine_code": [
+      "5.2L"
+    ],
+    "make": "Ram",
+    "displacement_l": 5.2,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "ram_59_magnum_v8": {
+    "engine_name": "5.9L Magnum V8",
+    "engine_family": "Magnum",
+    "engine_code": [
+      "5.9L"
+    ],
+    "make": "Ram",
+    "displacement_l": 5.9,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "ram_57_hemi_v8": {
+    "engine_name": "5.7L HEMI V8",
+    "engine_family": "HEMI",
+    "engine_code": [
+      "EZH"
+    ],
+    "make": "Ram",
+    "displacement_l": 5.7,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "ram_64_hemi_v8": {
+    "engine_name": "6.4L HEMI V8",
+    "engine_family": "HEMI",
+    "engine_code": [
+      "ESF"
+    ],
+    "make": "Ram",
+    "displacement_l": 6.4,
+    "cylinders": 8,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "ram_80_magnum_v10": {
+    "engine_name": "8.0L Magnum V10",
+    "engine_family": "Magnum",
+    "engine_code": [
+      "8.0L"
+    ],
+    "make": "Ram",
+    "displacement_l": 8.0,
+    "cylinders": 10,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "ram_30_hurricane_twin_turbo_i6": {
+    "engine_name": "3.0L Hurricane Twin-Turbo I6",
+    "engine_family": "Hurricane",
+    "engine_code": [
+      "GME-T6"
+    ],
+    "make": "Ram",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "saturn_19_l24_i4": {
+    "engine_name": "1.9L L24 SOHC I4",
+    "engine_family": "Saturn S-Series",
+    "engine_code": [
+      "L24"
+    ],
+    "make": "Saturn",
+    "displacement_l": 1.9,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "saturn_19_ll0_i4": {
+    "engine_name": "1.9L LL0 DOHC I4",
+    "engine_family": "Saturn S-Series",
+    "engine_code": [
+      "LL0"
+    ],
+    "make": "Saturn",
+    "displacement_l": 1.9,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "saturn_22_ecotec_i4": {
+    "engine_name": "2.2L Ecotec I4",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "L61"
+    ],
+    "make": "Saturn",
+    "displacement_l": 2.2,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "saturn_24_ecotec_i4": {
+    "engine_name": "2.4L Ecotec I4",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LE5"
+    ],
+    "make": "Saturn",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "saturn_20_ecotec_turbo_i4": {
+    "engine_name": "2.0L Ecotec Turbo I4",
+    "engine_family": "Ecotec",
+    "engine_code": [
+      "LNF"
+    ],
+    "make": "Saturn",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "saturn_30_l81_v6": {
+    "engine_name": "3.0L L81 V6",
+    "engine_family": "GM 54-Degree V6",
+    "engine_code": [
+      "L81"
+    ],
+    "make": "Saturn",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "saturn_35_honda_j35_v6": {
+    "engine_name": "3.5L Honda J35 V6",
+    "engine_family": "Honda J-Series",
+    "engine_code": [
+      "J35A3"
+    ],
+    "make": "Saturn",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "saturn_35_highvalue_v6": {
+    "engine_name": "3.5L High Value V6",
+    "engine_family": "High Value",
+    "engine_code": [
+      "LX9"
+    ],
+    "make": "Saturn",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "saturn_39_highvalue_v6": {
+    "engine_name": "3.9L High Value V6",
+    "engine_family": "High Value",
+    "engine_code": [
+      "LZ9"
+    ],
+    "make": "Saturn",
+    "displacement_l": 3.9,
+    "cylinders": 6,
+    "valvetrain": "OHV",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_18_ea82_flat4": {
+    "engine_name": "1.8L EA82 Flat-4",
+    "engine_family": "EA",
+    "engine_code": [
+      "EA82"
+    ],
+    "make": "Subaru",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_20_ej20_flat4": {
+    "engine_name": "2.0L EJ20 Flat-4",
+    "engine_family": "EJ",
+    "engine_code": [
+      "EJ20"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_20_ej205_turbo_flat4": {
+    "engine_name": "2.0L EJ205 Turbo Flat-4",
+    "engine_family": "EJ",
+    "engine_code": [
+      "EJ205"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_20_ej207_turbo_flat4": {
+    "engine_name": "2.0L EJ207 Turbo Flat-4",
+    "engine_family": "EJ",
+    "engine_code": [
+      "EJ207"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_22_ej22_flat4": {
+    "engine_name": "2.2L EJ22 Flat-4",
+    "engine_family": "EJ",
+    "engine_code": [
+      "EJ22"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.2,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_25_ej251_flat4": {
+    "engine_name": "2.5L EJ251 Flat-4",
+    "engine_family": "EJ",
+    "engine_code": [
+      "EJ251"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_25_ej253_flat4": {
+    "engine_name": "2.5L EJ253 Flat-4",
+    "engine_family": "EJ",
+    "engine_code": [
+      "EJ253"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_25_ej255_turbo_flat4": {
+    "engine_name": "2.5L EJ255 Turbo Flat-4",
+    "engine_family": "EJ",
+    "engine_code": [
+      "EJ255"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_25_ej257_turbo_flat4": {
+    "engine_name": "2.5L EJ257 Turbo Flat-4",
+    "engine_family": "EJ",
+    "engine_code": [
+      "EJ257"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_20_fb20_flat4": {
+    "engine_name": "2.0L FB20 Flat-4",
+    "engine_family": "FB",
+    "engine_code": [
+      "FB20"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_25_fb25_flat4": {
+    "engine_name": "2.5L FB25 Flat-4",
+    "engine_family": "FB",
+    "engine_code": [
+      "FB25"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_20_fa20_flat4": {
+    "engine_name": "2.0L FA20 Flat-4",
+    "engine_family": "FA",
+    "engine_code": [
+      "FA20"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_20_fa20dit_turbo_flat4": {
+    "engine_name": "2.0L FA20DIT Turbo Flat-4",
+    "engine_family": "FA",
+    "engine_code": [
+      "FA20DIT"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_24_fa24_flat4": {
+    "engine_name": "2.4L FA24 Flat-4",
+    "engine_family": "FA",
+    "engine_code": [
+      "FA24"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_24_fa24_turbo_flat4": {
+    "engine_name": "2.4L FA24 Turbo Flat-4",
+    "engine_family": "FA",
+    "engine_code": [
+      "FA24F"
+    ],
+    "make": "Subaru",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_30_ez30_flat6": {
+    "engine_name": "3.0L EZ30 Flat-6",
+    "engine_family": "EZ",
+    "engine_code": [
+      "EZ30"
+    ],
+    "make": "Subaru",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "subaru_36_ez36_flat6": {
+    "engine_name": "3.6L EZ36 Flat-6",
+    "engine_family": "EZ",
+    "engine_code": [
+      "EZ36"
+    ],
+    "make": "Subaru",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_10_g10_i3": {
+    "engine_name": "1.0L G10 I3",
+    "engine_family": "G-Series",
+    "engine_code": [
+      "G10"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.0,
+    "cylinders": 3,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_13_g13_i4": {
+    "engine_name": "1.3L G13 I4",
+    "engine_family": "G-Series",
+    "engine_code": [
+      "G13B",
+      "G13BA",
+      "G13BB"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.3,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_16_g16_i4": {
+    "engine_name": "1.6L G16 I4",
+    "engine_family": "G-Series",
+    "engine_code": [
+      "G16A",
+      "G16B"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_18_j18_i4": {
+    "engine_name": "1.8L J18 I4",
+    "engine_family": "J-Series",
+    "engine_code": [
+      "J18A"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_20_j20_i4": {
+    "engine_name": "2.0L J20 I4",
+    "engine_family": "J-Series",
+    "engine_code": [
+      "J20A"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_23_j23_i4": {
+    "engine_name": "2.3L J23 I4",
+    "engine_family": "J-Series",
+    "engine_code": [
+      "J23A"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 2.3,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_13_m13a_i4": {
+    "engine_name": "1.3L M13A I4",
+    "engine_family": "M-Series",
+    "engine_code": [
+      "M13A"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.3,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_15_m15a_i4": {
+    "engine_name": "1.5L M15A I4",
+    "engine_family": "M-Series",
+    "engine_code": [
+      "M15A"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_16_m16a_i4": {
+    "engine_name": "1.6L M16A I4",
+    "engine_family": "M-Series",
+    "engine_code": [
+      "M16A"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_10_k10b_i3": {
+    "engine_name": "1.0L K10B I3",
+    "engine_family": "K-Series",
+    "engine_code": [
+      "K10B"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.0,
+    "cylinders": 3,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_12_k12b_i4": {
+    "engine_name": "1.2L K12B I4",
+    "engine_family": "K-Series",
+    "engine_code": [
+      "K12B"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.2,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_14_k14b_i4": {
+    "engine_name": "1.4L K14B I4",
+    "engine_family": "K-Series",
+    "engine_code": [
+      "K14B"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_14_k14c_boostjet_i4": {
+    "engine_name": "1.4L K14C BoosterJet Turbo I4",
+    "engine_family": "K-Series",
+    "engine_code": [
+      "K14C"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 1.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "suzuki_66_r06a_i3": {
+    "engine_name": "0.66L R06A Turbo I3",
+    "engine_family": "R-Series",
+    "engine_code": [
+      "R06A"
+    ],
+    "make": "Suzuki",
+    "displacement_l": 0.66,
+    "cylinders": 3,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_13_1nr_fe_i4": {
+    "engine_name": "1.3L 1NR-FE I4",
+    "engine_family": "NR",
+    "engine_code": [
+      "1NR-FE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 1.3,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_15_1nz_fe_i4": {
+    "engine_name": "1.5L 1NZ-FE I4",
+    "engine_family": "NZ",
+    "engine_code": [
+      "1NZ-FE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 1.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_16_4a_fe_i4": {
+    "engine_name": "1.6L 4A-FE I4",
+    "engine_family": "A",
+    "engine_code": [
+      "4A-FE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_16_4a_ge_i4": {
+    "engine_name": "1.6L 4A-GE I4",
+    "engine_family": "A",
+    "engine_code": [
+      "4A-GE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_20_3s_fe_i4": {
+    "engine_name": "2.0L 3S-FE I4",
+    "engine_family": "S",
+    "engine_code": [
+      "3S-FE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_20_3s_gte_turbo_i4": {
+    "engine_name": "2.0L 3S-GTE Turbo I4",
+    "engine_family": "S",
+    "engine_code": [
+      "3S-GTE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_22_22re_i4": {
+    "engine_name": "2.2L 22RE I4",
+    "engine_family": "R",
+    "engine_code": [
+      "22RE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 2.2,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_24_2az_fe_i4": {
+    "engine_name": "2.4L 2AZ-FE I4",
+    "engine_family": "AZ",
+    "engine_code": [
+      "2AZ-FE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 2.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_25_a25a_fks_i4": {
+    "engine_name": "2.5L A25A-FKS I4",
+    "engine_family": "Dynamic Force",
+    "engine_code": [
+      "A25A-FKS"
+    ],
+    "make": "Toyota",
+    "displacement_l": 2.5,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_27_2tr_fe_i4": {
+    "engine_name": "2.7L 2TR-FE I4",
+    "engine_family": "TR",
+    "engine_code": [
+      "2TR-FE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 2.7,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_30_1mz_fe_v6": {
+    "engine_name": "3.0L 1MZ-FE V6",
+    "engine_family": "MZ",
+    "engine_code": [
+      "1MZ-FE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_35_2gr_fe_v6": {
+    "engine_name": "3.5L 2GR-FE V6",
+    "engine_family": "GR",
+    "engine_code": [
+      "2GR-FE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_35_2gr_fks_v6": {
+    "engine_name": "3.5L 2GR-FKS V6",
+    "engine_family": "GR",
+    "engine_code": [
+      "2GR-FKS"
+    ],
+    "make": "Toyota",
+    "displacement_l": 3.5,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Direct Injection",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_30_1jz_ge_i6": {
+    "engine_name": "3.0L 1JZ-GE I6",
+    "engine_family": "JZ",
+    "engine_code": [
+      "1JZ-GE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_30_1jz_gte_turbo_i6": {
+    "engine_name": "3.0L 1JZ-GTE Turbo I6",
+    "engine_family": "JZ",
+    "engine_code": [
+      "1JZ-GTE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_30_2jz_ge_i6": {
+    "engine_name": "3.0L 2JZ-GE I6",
+    "engine_family": "JZ",
+    "engine_code": [
+      "2JZ-GE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_30_2jz_gte_turbo_i6": {
+    "engine_name": "3.0L 2JZ-GTE Twin-Turbo I6",
+    "engine_family": "JZ",
+    "engine_code": [
+      "2JZ-GTE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Twin-Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_46_1ur_fe_v8": {
+    "engine_name": "4.6L 1UR-FE V8",
+    "engine_family": "UR",
+    "engine_code": [
+      "1UR-FE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 4.6,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_50_2ur_gse_v8": {
+    "engine_name": "5.0L 2UR-GSE V8",
+    "engine_family": "UR",
+    "engine_code": [
+      "2UR-GSE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 5.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "toyota_57_3ur_fe_v8": {
+    "engine_name": "5.7L 3UR-FE V8",
+    "engine_family": "UR",
+    "engine_code": [
+      "3UR-FE"
+    ],
+    "make": "Toyota",
+    "displacement_l": 5.7,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_14_ea111_i4": {
+    "engine_name": "1.4L EA111 I4",
+    "engine_family": "EA111",
+    "engine_code": [
+      "CGGB",
+      "CGGA"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 1.4,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_16_ea111_i4": {
+    "engine_name": "1.6L EA111 I4",
+    "engine_family": "EA111",
+    "engine_code": [
+      "CFNA",
+      "CFNB"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 1.6,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_18_ea113_turbo_i4": {
+    "engine_name": "1.8L EA113 Turbo I4",
+    "engine_family": "EA113",
+    "engine_code": [
+      "AWP",
+      "AWW",
+      "AEB"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_20_ea113_fsi_i4": {
+    "engine_name": "2.0L EA113 FSI I4",
+    "engine_family": "EA113",
+    "engine_code": [
+      "AXW",
+      "BLR"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Direct Injection",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_20_ea113_tfsi_i4": {
+    "engine_name": "2.0L EA113 Turbo FSI I4",
+    "engine_family": "EA113",
+    "engine_code": [
+      "BPY",
+      "BWA"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_18_ea888_tsi_i4": {
+    "engine_name": "1.8L EA888 TSI I4",
+    "engine_family": "EA888",
+    "engine_code": [
+      "CCTA",
+      "CCTB"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 1.8,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_20_ea888_tsi_i4": {
+    "engine_name": "2.0L EA888 TSI I4",
+    "engine_family": "EA888",
+    "engine_code": [
+      "CCTA",
+      "CAEB",
+      "DKFA"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_20_ea888_gen3_i4": {
+    "engine_name": "2.0L EA888 Gen 3 I4",
+    "engine_family": "EA888",
+    "engine_code": [
+      "IS20",
+      "IS38"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_28_vr6": {
+    "engine_name": "2.8L VR6",
+    "engine_family": "VR6",
+    "engine_code": [
+      "AAA",
+      "AFP"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 2.8,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_32_vr6": {
+    "engine_name": "3.2L VR6",
+    "engine_family": "VR6",
+    "engine_code": [
+      "BDF",
+      "BJS"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_36_vr6": {
+    "engine_name": "3.6L VR6",
+    "engine_family": "VR6",
+    "engine_code": [
+      "BLV",
+      "CDVA"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 3.6,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_40_w8": {
+    "engine_name": "4.0L W8",
+    "engine_family": "W",
+    "engine_code": [
+      "BDP"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 4.0,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volkswagen_60_w12": {
+    "engine_name": "6.0L W12",
+    "engine_family": "W",
+    "engine_code": [
+      "BJN",
+      "BAP"
+    ],
+    "make": "Volkswagen",
+    "displacement_l": 6.0,
+    "cylinders": 12,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_21_b21_i4": {
+    "engine_name": "2.1L B21 I4",
+    "engine_family": "Redblock",
+    "engine_code": [
+      "B21F",
+      "B21FT"
+    ],
+    "make": "Volvo",
+    "displacement_l": 2.1,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_23_b23_i4": {
+    "engine_name": "2.3L B23 I4",
+    "engine_family": "Redblock",
+    "engine_code": [
+      "B23F"
+    ],
+    "make": "Volvo",
+    "displacement_l": 2.3,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_23_b230_i4": {
+    "engine_name": "2.3L B230 I4",
+    "engine_family": "Redblock",
+    "engine_code": [
+      "B230F",
+      "B230FT"
+    ],
+    "make": "Volvo",
+    "displacement_l": 2.3,
+    "cylinders": 4,
+    "valvetrain": "SOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_23_b5234t5_i5": {
+    "engine_name": "2.3L B5234T5 I5",
+    "engine_family": "Whiteblock",
+    "engine_code": [
+      "B5234T5"
+    ],
+    "make": "Volvo",
+    "displacement_l": 2.3,
+    "cylinders": 5,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_25_b5254_i5": {
+    "engine_name": "2.5L B5254 I5",
+    "engine_family": "Whiteblock",
+    "engine_code": [
+      "B5254S",
+      "B5254T"
+    ],
+    "make": "Volvo",
+    "displacement_l": 2.5,
+    "cylinders": 5,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_25_b5254t2_i5": {
+    "engine_name": "2.5L B5254T2 Turbo I5",
+    "engine_family": "Whiteblock",
+    "engine_code": [
+      "B5254T2"
+    ],
+    "make": "Volvo",
+    "displacement_l": 2.5,
+    "cylinders": 5,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_30_b6304_i6": {
+    "engine_name": "3.0L B6304 I6",
+    "engine_family": "Whiteblock",
+    "engine_code": [
+      "B6304F"
+    ],
+    "make": "Volvo",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_32_b6324s_i6": {
+    "engine_name": "3.2L B6324S I6",
+    "engine_family": "SI6",
+    "engine_code": [
+      "B6324S"
+    ],
+    "make": "Volvo",
+    "displacement_l": 3.2,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_30_b6304t4_turbo_i6": {
+    "engine_name": "3.0L B6304T4 Turbo I6",
+    "engine_family": "SI6",
+    "engine_code": [
+      "B6304T4"
+    ],
+    "make": "Volvo",
+    "displacement_l": 3.0,
+    "cylinders": 6,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_20_b4204t5_i4": {
+    "engine_name": "2.0L B4204T5 Turbo I4",
+    "engine_family": "Drive-E",
+    "engine_code": [
+      "B4204T5"
+    ],
+    "make": "Volvo",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_20_b4204t11_twincharged_i4": {
+    "engine_name": "2.0L B4204T11 Twincharged I4",
+    "engine_family": "Drive-E",
+    "engine_code": [
+      "B4204T11"
+    ],
+    "make": "Volvo",
+    "displacement_l": 2.0,
+    "cylinders": 4,
+    "valvetrain": "DOHC",
+    "aspiration": "Turbocharged & Supercharged",
+    "fuel_type": "Gasoline"
+  },
+  "volvo_44_b8444s_v8": {
+    "engine_name": "4.4L B8444S V8",
+    "engine_family": "Yamaha V8",
+    "engine_code": [
+      "B8444S"
+    ],
+    "make": "Volvo",
+    "displacement_l": 4.4,
+    "cylinders": 8,
+    "valvetrain": "DOHC",
+    "aspiration": "Naturally Aspirated",
+    "fuel_type": "Gasoline"
+  }
+}

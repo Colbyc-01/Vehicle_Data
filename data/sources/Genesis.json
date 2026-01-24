@@ -1,0 +1,822 @@
+[
+  {
+    "year": 2009,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_53f49480f4"
+  },
+  {
+    "year": 2009,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_93a3149886"
+  },
+  {
+    "year": 2010,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_c6a24e6e36"
+  },
+  {
+    "year": 2010,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_156557262b"
+  },
+  {
+    "year": 2011,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_ec79bdf103"
+  },
+  {
+    "year": 2011,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_dfbbc6eb2b"
+  },
+  {
+    "year": 2012,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_dc920f7238"
+  },
+  {
+    "year": 2012,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_3c62cef2eb"
+  },
+  {
+    "year": 2013,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_74e2906180"
+  },
+  {
+    "year": 2013,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_32adab9b42"
+  },
+  {
+    "year": 2014,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_a888937d7f"
+  },
+  {
+    "year": 2014,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_cacc14655d"
+  },
+  {
+    "year": 2015,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_e7c9be3515"
+  },
+  {
+    "year": 2015,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_b1ac2f6181"
+  },
+  {
+    "year": 2016,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_8910b16c0b"
+  },
+  {
+    "year": 2016,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_9cd9e266cb"
+  },
+  {
+    "year": 2017,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_cfc0e248cd"
+  },
+  {
+    "year": 2017,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_f7b32e3445"
+  },
+  {
+    "year": 2017,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_0c41060563"
+  },
+  {
+    "year": 2017,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_28b32694f4"
+  },
+  {
+    "year": 2018,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_f40c50ff8d"
+  },
+  {
+    "year": 2018,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_10de65f009"
+  },
+  {
+    "year": 2018,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_81ae5dca0b"
+  },
+  {
+    "year": 2018,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_6dcce8d40c"
+  },
+  {
+    "year": 2019,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_db5f68dfa2"
+  },
+  {
+    "year": 2019,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_b050527ec4"
+  },
+  {
+    "year": 2019,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_e64355d31e"
+  },
+  {
+    "year": 2019,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_4a98e06e36"
+  },
+  {
+    "year": 2019,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_a981a6acb6"
+  },
+  {
+    "year": 2019,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_5f33901bda"
+  },
+  {
+    "year": 2019,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_33a19766a7"
+  },
+  {
+    "year": 2020,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_07c229dbb7"
+  },
+  {
+    "year": 2020,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_5d877226d7"
+  },
+  {
+    "year": 2020,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_991ec3cba2"
+  },
+  {
+    "year": 2020,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "LAMBDA38"
+    ],
+    "fitment_id": "f_077ea7dd30"
+  },
+  {
+    "year": 2020,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_5a24805fb8"
+  },
+  {
+    "year": 2020,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_bee26e3229"
+  },
+  {
+    "year": 2020,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_e6d8890a8f"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_ee53c15faa"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_476d609f81"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_a5c710b072"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_f3b0022739"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_6c9cba0199"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_1f835c6b69"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_fac90bbc0a"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "GV70",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_4277f6f023"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "GV70",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_d7255cd235"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "GV80",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_b6b948635b"
+  },
+  {
+    "year": 2021,
+    "make": "Genesis",
+    "model": "GV80",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_e49ec426eb"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_4755568eac"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_cbdda7b53e"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_ba7cafcbab"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_2c84896882"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_820306e9ad"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_f3ca5cf723"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_73b92b8b31"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "GV70",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_4b5a73aa07"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "GV70",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_403c07956f"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "GV80",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_ad202aa094"
+  },
+  {
+    "year": 2022,
+    "make": "Genesis",
+    "model": "GV80",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_320aa1a155"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_5ea86eb08e"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_a5d025f96a"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_f002513629"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_5d06019ef7"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_51edc5f0fb"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_3e8c951fd0"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_7c1a900021"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "GV70",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_6c2d7bc92e"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "GV70",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_c371d60a1a"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "GV80",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_cd320cdb1d"
+  },
+  {
+    "year": 2023,
+    "make": "Genesis",
+    "model": "GV80",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_a7a4eb6ce5"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "THETA20T"
+    ],
+    "fitment_id": "f_3fb285d741"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_4e1d417ad0"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "G70",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_3294768f5f"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_1be6fed346"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "G80",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_ab323a35da"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "3.3L Turbo V6",
+    "engine_code": [
+      "LAMBDA33T"
+    ],
+    "fitment_id": "f_13c3606281"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "G90",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "TAU50"
+    ],
+    "fitment_id": "f_674188710b"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "GV70",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_1e881bacd3"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "GV70",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_015d656236"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "GV80",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "SMARTSTREAM25T"
+    ],
+    "fitment_id": "f_b9340cdeba"
+  },
+  {
+    "year": 2024,
+    "make": "Genesis",
+    "model": "GV80",
+    "engine": "3.5L Turbo V6",
+    "engine_code": [
+      "SMARTSTREAM35T"
+    ],
+    "fitment_id": "f_9ad612f030"
+  }
+]

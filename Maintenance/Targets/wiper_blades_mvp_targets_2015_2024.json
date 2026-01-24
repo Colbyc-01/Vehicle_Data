@@ -1,0 +1,127 @@
+[
+  {
+    "make": "Ford",
+    "model": "F-150",
+    "segment": "Truck"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "segment": "Truck"
+  },
+  {
+    "make": "Ram",
+    "model": "1500",
+    "segment": "Truck"
+  },
+  {
+    "make": "Toyota",
+    "model": "RAV4",
+    "segment": "SUV"
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "segment": "SUV"
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue",
+    "segment": "SUV"
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "segment": "Sedan"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "segment": "Sedan"
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "segment": "Sedan"
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "segment": "Sedan"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "segment": "Sedan"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "segment": "SUV"
+  },
+  {
+    "make": "Kia",
+    "model": "Sportage",
+    "segment": "SUV"
+  },
+  {
+    "make": "Kia",
+    "model": "Telluride",
+    "segment": "SUV"
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "segment": "SUV"
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "segment": "SUV"
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "segment": "SUV"
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "segment": "SUV"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "segment": "SUV"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "segment": "SUV"
+  },
+  {
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "segment": "Truck"
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "segment": "Wagon/SUV"
+  },
+  {
+    "make": "Subaru",
+    "model": "Forester",
+    "segment": "SUV"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf",
+    "segment": "Hatchback"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "segment": "Sedan"
+  }
+]

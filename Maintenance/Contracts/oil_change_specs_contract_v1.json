@@ -1,0 +1,22 @@
+{
+  "item_id": "oil_change",
+  "layer": "fluids_specs",
+  "scope_priority": [
+    "engine_code (default)",
+    "fitment_id (override when capacity/spec differs by application)"
+  ],
+  "fields": {
+    "viscosity": "array[string] (e.g. ['0W-20'] or ['5W-30'])",
+    "spec": "array[string] (OEM oil standards/specs; optional)",
+    "capacity_with_filter_qt": "number (optional)",
+    "capacity_without_filter_qt": "number (optional)",
+    "capacity_notes": "string (optional)",
+    "temperature_notes": "string (optional)",
+    "sources": "array[{title, ref}] (optional)"
+  },
+  "rules": [
+    "Keep viscosity/spec consumer-friendly; detailed brand programs belong in parts catalog or UI copy",
+    "If capacity varies by configuration (oil cooler, chassis), use fitment overrides or capacity_notes",
+    "Never assume VW/Toyota/Honda/Ford specs across all years\u2014prefer VIN/fitment override when uncertain"
+  ]
+}

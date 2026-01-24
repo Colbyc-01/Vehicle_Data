@@ -1,0 +1,1187 @@
+{
+"1995": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] }
+    ],
+    "Avenger": [
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] },
+      { "engine": "2.5L V6 SOHC", "engine_code": ["EDZ"] }
+    ],
+    "Intrepid": [
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGC"] },
+      { "engine": "3.5L V6 SOHC", "engine_code": ["EGG"] }
+    ],
+    "Stratus": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.0L V6 SOHC", "engine_code": ["EGA"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGC"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.9L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "5.2L V8 OHV", "engine_code": ["EGH"] },
+      { "engine": "5.9L V8 OHV", "engine_code": ["EML"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["6BT", "6BT-P7100", "6BT5.9"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["6BT", "6BT-P7100", "6BT5.9"] }
+    ]
+  }
+},
+
+"1996": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] }
+    ],
+    "Avenger": [
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] },
+      { "engine": "2.5L V6 SOHC", "engine_code": ["EDZ"] }
+    ],
+    "Intrepid": [
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGC"] },
+      { "engine": "3.5L V6 SOHC", "engine_code": ["EGG"] }
+    ],
+    "Stratus": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.0L V6 SOHC", "engine_code": ["EGA"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGC"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.9L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "5.2L V8 OHV", "engine_code": ["EGH"] },
+      { "engine": "5.9L V8 OHV", "engine_code": ["EML"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["6BT", "6BT-P7100", "6BT5.9"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["6BT", "6BT-P7100", "6BT5.9"] }
+    ]
+  }
+},
+
+"1997": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] }
+    ],
+    "Avenger": [
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] },
+      { "engine": "2.5L V6 SOHC", "engine_code": ["EDZ"] }
+    ],
+    "Intrepid": [
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGC"] },
+      { "engine": "3.5L V6 SOHC", "engine_code": ["EGG"] }
+    ],
+    "Stratus": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.0L V6 SOHC", "engine_code": ["EGA"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGC"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.9L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "5.2L V8 OHV", "engine_code": ["EGH"] },
+      { "engine": "5.9L V8 OHV", "engine_code": ["EML"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["6BT", "6BT-P7100", "6BT5.9"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["6BT", "6BT-P7100", "6BT5.9"] }
+    ]
+  }
+},
+
+"1998": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] }
+    ],
+    "Avenger": [
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] },
+      { "engine": "2.5L V6 SOHC", "engine_code": ["EDZ"] }
+    ],
+    "Intrepid": [
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGC"] },
+      { "engine": "3.5L V6 SOHC", "engine_code": ["EGG"] }
+    ],
+    "Stratus": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.0L V6 SOHC", "engine_code": ["EGA"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGC"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.9L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "5.2L V8 OHV", "engine_code": ["EGH"] },
+      { "engine": "5.9L V8 OHV", "engine_code": ["EML"] }
+    ],
+    "Ram 2500": [
+      {
+        "engine": "5.9L L6 Cummins Diesel",
+        "engine_code": ["6BT", "6BT-P7100", "6BT5.9"]
+      }
+    ],
+    "Ram 3500": [
+      {
+        "engine": "5.9L L6 Cummins Diesel",
+        "engine_code": ["6BT", "6BT-P7100", "6BT5.9"]
+      }
+    ]
+  }
+},
+
+"1999": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] }
+    ],
+    "Avenger": [
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] },
+      { "engine": "2.5L V6 SOHC", "engine_code": ["EDZ"] }
+    ],
+    "Intrepid": [
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] },
+      { "engine": "3.2L V6 SOHC", "engine_code": ["EGH"] }
+    ],
+    "Stratus": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.0L V6 SOHC", "engine_code": ["EGA"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGC"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.9L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "5.2L V8 OHV", "engine_code": ["EGH"] },
+      { "engine": "5.9L V8 OHV", "engine_code": ["EML"] }
+    ],
+    "Ram 2500": [
+      {
+        "engine": "5.9L L6 Cummins Diesel",
+        "engine_code": ["ISB", "ISB24V", "ISB-VP44"]
+      }
+    ],
+    "Ram 3500": [
+      {
+        "engine": "5.9L L6 Cummins Diesel",
+        "engine_code": ["ISB", "ISB24V", "ISB-VP44"]
+      }
+    ]
+}
+  },
+"2000": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] }
+    ],
+    "Stratus": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "2.5L V6", "engine_code": ["EER"] }
+    ],
+    "Avenger": [
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] },
+      { "engine": "2.5L V6", "engine_code": ["EER"] }
+    ],
+    "Intrepid": [
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] },
+      { "engine": "3.2L V6 SOHC", "engine_code": ["EGH"] },
+      { "engine": "3.5L V6 SOHC", "engine_code": ["EGG"] }
+    ],
+    "Concorde": [
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] },
+      { "engine": "3.2L V6 SOHC", "engine_code": ["EGH"] }
+    ],
+    "LHS": [
+      { "engine": "3.5L V6 SOHC", "engine_code": ["EGG"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.0L V6", "engine_code": ["EF7"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6 OHV", "engine_code": ["EGH"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.0L V6", "engine_code": ["EF7"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6 OHV", "engine_code": ["EGH"] }
+    ],
+    "Dakota": [
+      { "engine": "2.5L L4", "engine_code": ["EPE"] },
+      { "engine": "3.9L V6 OHV", "engine_code": ["EHC"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.2L V8", "engine_code": ["ELF"] },
+      { "engine": "5.9L V8", "engine_code": ["EML"] }
+    ],
+    "Durango": [
+      { "engine": "3.9L V6 OHV", "engine_code": ["EHC"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.2L V8", "engine_code": ["ELF"] },
+      { "engine": "5.9L V8", "engine_code": ["EML"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.9L V6 OHV", "engine_code": ["EHC"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.2L V8", "engine_code": ["ELF"] },
+      { "engine": "5.9L V8", "engine_code": ["EML"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB", "ISB24V", "ISB-VP44"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB", "ISB24V", "ISB-VP44"] }
+    ],
+    "Viper": [
+      { "engine": "8.0L V10", "engine_code": ["EWA", "EWB"] }
+    ]
+  }
+},
+
+"2001": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] }
+    ],
+    "Stratus": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] }
+    ],
+    "Intrepid": [
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] },
+      { "engine": "3.2L V6 SOHC", "engine_code": ["EGH"] },
+      { "engine": "3.5L V6 SOHC", "engine_code": ["EGG"] }
+    ],
+    "Concorde": [
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] },
+      { "engine": "3.2L V6 SOHC", "engine_code": ["EGH"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6 OHV", "engine_code": ["EGH"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6 OHV", "engine_code": ["EGH"] }
+    ],
+    "Dakota": [
+      { "engine": "2.5L L4", "engine_code": ["EPE"] },
+      { "engine": "3.9L V6 OHV", "engine_code": ["EHC"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] }
+    ],
+    "Durango": [
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.9L V8", "engine_code": ["EML"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.9L V6 OHV", "engine_code": ["EHC"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.9L V8", "engine_code": ["EML"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB", "ISB24V", "ISB-VP44"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB", "ISB24V", "ISB-VP44"] }
+    ],
+    "Viper": [
+      { "engine": "8.0L V10", "engine_code": ["EWA", "EWB"] }
+    ]
+}
+  },
+  "2002": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.0L L4 DOHC", "engine_code": ["ECC"] }
+    ],
+    "Stratus": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] }
+    ],
+    "Intrepid": [
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] },
+      { "engine": "3.5L V6 SOHC", "engine_code": ["EGC"] },
+      { "engine": "3.5L V6 High Output", "engine_code": ["EGG"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6 OHV", "engine_code": ["EGH"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6 OHV", "engine_code": ["EGH"] }
+    ],
+    "Dakota": [
+      { "engine": "2.5L L4", "engine_code": ["EPE"] },
+      { "engine": "3.9L V6", "engine_code": ["EHC"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] }
+    ],
+    "Durango": [
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.9L V8", "engine_code": ["EML"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.9L V8", "engine_code": ["EML"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.9L V8", "engine_code": ["EML"] },
+      { "engine": "8.0L V10", "engine_code": ["EWA", "EWB"] },
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB", "ISB24V", "ISB-VP44"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.9L V8", "engine_code": ["EML"] },
+      { "engine": "8.0L V10", "engine_code": ["EWA", "EWB"] },
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB", "ISB24V", "ISB-VP44"] }
+    ],
+    "Viper": [
+      { "engine": "8.0L V10", "engine_code": ["EWA", "EWB"] }
+    ]
+  }
+},
+
+"2003": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4 Turbo", "engine_code": ["EDT", "EDV"] }
+    ],
+    "SX 2.0": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] }
+    ],
+    "Stratus": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] }
+    ],
+    "Intrepid": [
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] },
+      { "engine": "3.5L V6 SOHC", "engine_code": ["EGC"] },
+      { "engine": "3.5L V6 High Output", "engine_code": ["EGG"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6 OHV", "engine_code": ["EGH"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6 OHV", "engine_code": ["EGH"] }
+    ],
+    "Dakota": [
+      { "engine": "3.9L V6", "engine_code": ["EHC"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.9L V8", "engine_code": ["EML"] }
+    ],
+    "Durango": [
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "5.9L V8", "engine_code": ["EML"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB-CR", "ISB-CM849", "ISB-CM850", "ISB5.9-CR"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB-CR", "ISB-CM849", "ISB-CM850", "ISB5.9-CR"] }
+    ],
+    "Sprinter": [
+      { "engine": "2.7L I5 Turbo Diesel", "engine_code": ["ENF"] }
+    ],
+    "Viper": [
+      { "engine": "8.3L V10", "engine_code": ["EWC"] }
+    ]
+  }
+},
+"2004": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4 Turbo", "engine_code": ["EDT", "EDV"] }
+    ],
+    "SX 2.0": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] }
+    ],
+    "Stratus": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] }
+    ],
+    "Intrepid": [
+      { "engine": "2.7L V6 DOHC", "engine_code": ["EER"] },
+      { "engine": "3.5L V6 SOHC", "engine_code": ["EGC"] },
+      { "engine": "3.5L V6 High Output", "engine_code": ["EGG"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6 OHV", "engine_code": ["EGH"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "2.4L L4 DOHC", "engine_code": ["EDZ"] },
+      { "engine": "3.3L V6 OHV", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6 OHV", "engine_code": ["EGH"] }
+    ],
+    "Dakota": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] }
+    ],
+    "Durango": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB-CR", "ISB-CM849", "ISB-CM850", "ISB5.9-CR"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB-CR", "ISB-CM849", "ISB-CM850", "ISB5.9-CR"] }
+    ],
+    "Sprinter": [
+      { "engine": "2.7L I5 Turbo Diesel", "engine_code": ["ENF"] }
+    ],
+    "Viper": [
+      { "engine": "8.3L V10", "engine_code": ["EWC"] }
+    ]
+  }
+},
+"2005": {
+  "Dodge": {
+    "Neon": [
+      { "engine": "2.0L L4 SOHC", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] }
+    ],
+    "Stratus": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "2.7L V6", "engine_code": ["EER"] }
+    ],
+    "Magnum": [
+      { "engine": "2.7L V6", "engine_code": ["EER"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Caravan": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.3L V6", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6", "engine_code": ["EGH"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.3L V6", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6", "engine_code": ["EGH"] }
+    ],
+    "Dakota": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] }
+    ],
+    "Durango": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB-CR", "ISB-CM849", "ISB-CM850", "ISB5.9-CR"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB-CR", "ISB-CM849", "ISB-CM850", "ISB5.9-CR"] }
+    ],
+    "Viper": [
+      { "engine": "8.3L V10", "engine_code": ["EWC"] }
+    ]
+  }
+},
+
+"2006": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "2.7L V6", "engine_code": ["EER"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.1L V8 SRT", "engine_code": ["ESF"] }
+    ],
+    "Magnum": [
+      { "engine": "2.7L V6", "engine_code": ["EER"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.1L V8 SRT", "engine_code": ["ESF"] }
+    ],
+    "Durango": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB-CR", "ISB-CM849", "ISB-CM850", "ISB5.9-CR"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "5.9L L6 Cummins Diesel", "engine_code": ["ISB-CR", "ISB-CM849", "ISB-CM850", "ISB5.9-CR"] }
+    ],
+    "Viper": [
+      { "engine": "8.3L V10", "engine_code": ["EWC"] }
+    ]
+  }
+},
+
+"2007": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "2.7L V6", "engine_code": ["EER"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.1L V8 SRT", "engine_code": ["ESF"] }
+    ],
+    "Magnum": [
+      { "engine": "2.7L V6", "engine_code": ["EER"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.1L V8 SRT", "engine_code": ["ESF"] }
+    ],
+    "Caliber": [
+      { "engine": "1.8L L4", "engine_code": ["EBA"] },
+      { "engine": "2.0L L4", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] }
+    ],
+    "Nitro": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.0L V6", "engine_code": ["EGT"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.7L L6 Cummins Diesel", "engine_code": ["ISB6.7", "ISB-CM2100"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.7L L6 Cummins Diesel", "engine_code": ["ISB6.7", "ISB-CM2100"] }
+    ],
+    "Viper": [
+      { "engine": "8.4L V10", "engine_code": ["EWE"] }
+    ]
+  }
+},
+
+"2008": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "2.7L V6", "engine_code": ["EER"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.1L V8 SRT", "engine_code": ["ESF"] }
+    ],
+    "Challenger": [
+      { "engine": "6.1L V8 SRT", "engine_code": ["ESF"] }
+    ],
+    "Avenger": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "2.7L V6", "engine_code": ["EER"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] }
+    ],
+    "Caliber": [
+      { "engine": "1.8L L4", "engine_code": ["EBA"] },
+      { "engine": "2.0L L4", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] }
+    ],
+    "Nitro": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.0L V6", "engine_code": ["EGT"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.7L L6 Cummins Diesel", "engine_code": ["ISB6.7", "ISB-CM2100"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.7L L6 Cummins Diesel", "engine_code": ["ISB6.7", "ISB-CM2100"] }
+    ],
+    "Viper": [
+      { "engine": "8.4L V10", "engine_code": ["EWE"] }
+    ]
+  }
+},
+
+"2009": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "2.7L V6", "engine_code": ["EER"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.1L V8 SRT", "engine_code": ["ESF"] }
+    ],
+    "Challenger": [
+      { "engine": "3.5L V6", "engine_code": ["EGG"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.1L V8 SRT", "engine_code": ["ESF"] }
+    ],
+    "Avenger": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "2.7L V6", "engine_code": ["EER"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] }
+    ],
+    "Caliber": [
+      { "engine": "1.8L L4", "engine_code": ["EBA"] },
+      { "engine": "2.0L L4", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] }
+    ],
+    "Nitro": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.0L V6", "engine_code": ["EGT"] }
+    ],
+    "Ram 1500": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Ram 2500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.7L L6 Cummins Diesel", "engine_code": ["ISB6.7", "ISB-CM2100"] }
+    ],
+    "Ram 3500": [
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.7L L6 Cummins Diesel", "engine_code": ["ISB6.7", "ISB-CM2100"] }
+    ],
+    "Viper": [
+      { "engine": "8.4L V10", "engine_code": ["EWE"] }
+    ]
+  }
+},
+"2010": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "2.7L V6", "engine_code": ["EER"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.1L V8 SRT", "engine_code": ["ESF"] }
+    ],
+    "Challenger": [
+      { "engine": "3.5L V6", "engine_code": ["EGG"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.1L V8 SRT", "engine_code": ["ESF"] }
+    ],
+    "Avenger": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "2.7L V6", "engine_code": ["EER"] }
+    ],
+    "Caliber": [
+      { "engine": "1.8L L4", "engine_code": ["EBA"] },
+      { "engine": "2.0L L4", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.5L V6", "engine_code": ["EGG"] }
+    ],
+    "Nitro": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.0L V6", "engine_code": ["EGT"] }
+    ],
+    "Durango": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.7L V8", "engine_code": ["EVA"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.3L V6", "engine_code": ["EGA"] },
+      { "engine": "3.8L V6", "engine_code": ["EGH"] }
+    ],
+    "Viper": [
+      { "engine": "8.4L V10", "engine_code": ["EWE"] }
+    ]
+  }
+},
+
+"2011": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Avenger": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Caliber": [
+      { "engine": "1.8L L4", "engine_code": ["EBA"] },
+      { "engine": "2.0L L4", "engine_code": ["ECB"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Nitro": [
+      { "engine": "3.7L V6", "engine_code": ["EKG"] },
+      { "engine": "4.0L V6", "engine_code": ["EGT"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ]
+  }
+},
+
+"2012": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Avenger": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ]
+  }
+},
+
+"2013": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Avenger": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Dart": [
+      { "engine": "2.0L L4", "engine_code": ["ED6"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "1.4L L4 Turbo", "engine_code": ["EAF"] }
+    ],
+    "Viper": [
+      { "engine": "8.4L V10", "engine_code": ["EWE"] }
+    ]
+  }
+},
+
+"2014": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Dart": [
+      { "engine": "2.0L L4", "engine_code": ["ED6"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "1.4L L4 Turbo", "engine_code": ["EAF"] }
+    ],
+    "Viper": [
+      { "engine": "8.4L V10", "engine_code": ["EWE"] }
+    ]
+  }
+},
+"2015": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Dart": [
+      { "engine": "2.0L L4", "engine_code": ["ED6"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "1.4L L4 Turbo", "engine_code": ["EAF"] }
+    ],
+    "Viper": [
+      { "engine": "8.4L V10", "engine_code": ["EWE"] }
+    ]
+  }
+},
+
+"2016": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Dart": [
+      { "engine": "2.0L L4", "engine_code": ["ED6"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "1.4L L4 Turbo", "engine_code": ["EAF"] }
+    ],
+    "Viper": [
+      { "engine": "8.4L V10", "engine_code": ["EWE"] }
+    ]
+  }
+},
+
+"2017": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Dart": [
+      { "engine": "2.0L L4", "engine_code": ["ED6"] },
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "1.4L L4 Turbo", "engine_code": ["EAF"] }
+    ]
+  }
+},
+
+"2018": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] },
+      { "engine": "6.2L V8 Supercharged High Output", "engine_code": ["ESG-HO"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ]
+  }
+},
+
+"2019": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] },
+      { "engine": "6.2L V8 Supercharged High Output", "engine_code": ["ESG-HO"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ]
+  }
+},
+"2020": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] },
+      { "engine": "6.2L V8 Supercharged High Output", "engine_code": ["ESG-HO"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ],
+    "Journey": [
+      { "engine": "2.4L L4", "engine_code": ["EDZ"] },
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ],
+    "Grand Caravan": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] }
+    ]
+  }
+},
+
+"2021": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] },
+      { "engine": "6.2L V8 Supercharged High Output", "engine_code": ["ESG-HO"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ]
+  }
+},
+
+"2022": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] },
+      { "engine": "6.2L V8 Supercharged High Output", "engine_code": ["ESG-HO"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ]
+  }
+},
+
+"2023": {
+  "Dodge": {
+    "Charger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] }
+    ],
+    "Challenger": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] },
+      { "engine": "6.2L V8 Supercharged", "engine_code": ["ESG-HC"] },
+      { "engine": "6.2L V8 Supercharged High Output", "engine_code": ["ESG-HO"] }
+    ],
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ]
+  }
+},
+
+"2024": {
+  "Dodge": {
+    "Durango": [
+      { "engine": "3.6L V6", "engine_code": ["ERB"] },
+      { "engine": "5.7L V8 HEMI", "engine_code": ["EZA"] },
+      { "engine": "6.4L V8 SRT", "engine_code": ["ESG"] }
+    ]
+  }
+}
+
+}
+

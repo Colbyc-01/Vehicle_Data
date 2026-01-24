@@ -1,0 +1,1065 @@
+{
+  "version": "wiper_blades_parts_mvp_seed.v1",
+  "scope": "US-only",
+  "fitment_key": "vehicle_selector",
+  "units": {
+    "blade_length": "inches"
+  },
+  "notes": "MVP seed: wiper blade sizes by vehicle year/make/model. Rear wiper included only when applicable. Use vehicle/trim fitment to resolve edge cases.",
+  "generated_at": "2026-01-23T06:40:16.694201Z",
+  "items": [
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Ford",
+        "model": "F-150"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 22
+        },
+        {
+          "position": "passenger",
+          "length_in": 22
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Biener Ford size guide + Ford parts listing",
+      "source_refs": [
+        "turn2search11",
+        "turn0search4"
+      ],
+      "notes": "Most F-150 trims do not have a rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Silverado 1500"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 22
+        },
+        {
+          "position": "passenger",
+          "length_in": 22
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Aftermarket fitment listing (check vs exact trim)",
+      "source_refs": [
+        "turn1search8"
+      ],
+      "notes": "Most Silverado 1500 trims do not have a rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Toyota",
+        "model": "RAV4"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 20
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Toyota dealer blog size chart",
+      "source_refs": [
+        "turn0search11",
+        "turn0search1"
+      ],
+      "notes": "RAV4 2018\u20132025 commonly 26/20 front and 12 rear; verify for Prime/trim if needed."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Toyota",
+        "model": "Camry"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 20
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Fitment listing (confirm vs OEM)",
+      "source_refs": [
+        "turn3search4"
+      ],
+      "notes": "Camry generally no rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Honda",
+        "model": "CR-V"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 28
+        },
+        {
+          "position": "passenger",
+          "length_in": 20
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 13
+      },
+      "source": "AutoZone fitment page (front and rear shown)",
+      "source_refs": [
+        "turn3search1",
+        "turn0search6"
+      ],
+      "notes": "Rear length varies on some sources; verify by trim if mismatch observed."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Honda",
+        "model": "Civic"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 24
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": null
+      },
+      "source": "Wiper fitment listing (sedan vs hatch differs)",
+      "source_refs": [
+        "turn3search12"
+      ],
+      "notes": "Sedan has no rear wiper; hatchback has rear\u2014handled by trim/vehicle fitment."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Nissan",
+        "model": "Rogue"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": null
+      },
+      "source": "Fitment listing (passenger size differs across sources)",
+      "source_refs": [
+        "turn3search13",
+        "turn1search6",
+        "turn3search10"
+      ],
+      "notes": "Some sources list 17\" passenger; seed uses 16\". Rear length TBD\u2014verify from Nissan parts or OEM manual."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Nissan",
+        "model": "Altima"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Fitment listing",
+      "source_refs": [
+        "turn2search8",
+        "turn2search0"
+      ],
+      "notes": "Altima generally no rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "RAM",
+        "model": "1500"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 24
+        },
+        {
+          "position": "passenger",
+          "length_in": 24
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Fitment listing",
+      "source_refs": [
+        "turn1search11",
+        "turn2search10"
+      ],
+      "notes": "Most Ram 1500 trims do not have a rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Jeep",
+        "model": "Grand Cherokee"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 21
+        },
+        {
+          "position": "passenger",
+          "length_in": 21
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Aftermarket fitment listings (multiple)",
+      "notes": "Rear wiper common on SUV trims; verify L vs WL by fitment if needed."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Equinox"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 11
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Common sizes for 2018\u20132024 Equinox."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Ford",
+        "model": "Escape"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 11
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rear present on hatch models."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Ford",
+        "model": "Explorer"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 22
+        },
+        {
+          "position": "passenger",
+          "length_in": 22
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 13
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Explorer commonly uses matched front blades."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Honda",
+        "model": "Accord"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Sedan\u2014no rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Toyota",
+        "model": "Corolla"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": null
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Sedan no rear; hatch has rear\u2014handle via trim."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Toyota",
+        "model": "Highlander"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 20
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rear present on SUV trims."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Tesla",
+        "model": "Model Y"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 20
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Tesla owner/retailer listings",
+      "notes": "No rear wiper on Model Y."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Subaru",
+        "model": "Forester"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 17
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 14
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Forester commonly 26/17 front with rear; verify Wilderness trim if needed."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Subaru",
+        "model": "Outback"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 14
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Outback rear common on all trims."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Mazda",
+        "model": "CX-5"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 24
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 14
+      },
+      "source": "Retailer fitment listings",
+      "notes": "CX-5 rear common."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "GMC",
+        "model": "Terrain"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 11
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Terrain rear common on SUV trims."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Hyundai",
+        "model": "Tucson"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Tucson rear common."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Kia",
+        "model": "Sportage"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Sportage rear common."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Nissan",
+        "model": "Rogue Sport"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rogue Sport rear common."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Mazda",
+        "model": "CX-30"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 24
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 14
+      },
+      "source": "Retailer fitment listings",
+      "notes": "CX-30 rear common."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Hyundai",
+        "model": "Santa Fe"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Santa Fe rear common."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Kia",
+        "model": "Sorento"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Sorento rear common."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Volkswagen",
+        "model": "Tiguan"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 13
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Tiguan rear common."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Volkswagen",
+        "model": "Atlas"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 20
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 13
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Atlas rear common."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Malibu"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Sedan\u2014no rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Ford",
+        "model": "Fusion"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Sedan\u2014no rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Hyundai",
+        "model": "Elantra"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 14
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Sedan\u2014no rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Hyundai",
+        "model": "Sonata"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Sedan\u2014no rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Volkswagen",
+        "model": "Jetta"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Sedan\u2014no rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Volkswagen",
+        "model": "Passat"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Sedan\u2014no rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "GMC",
+        "model": "Sierra 1500"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 22
+        },
+        {
+          "position": "passenger",
+          "length_in": 22
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Most Sierra trims do not have a rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Toyota",
+        "model": "Tacoma"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 22
+        },
+        {
+          "position": "passenger",
+          "length_in": 21
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": false
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Pickup\u2014no rear wiper."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Toyota",
+        "model": "Corolla Cross"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rear present on crossover."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Subaru",
+        "model": "Crosstrek"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 14
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rear present on all trims."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Honda",
+        "model": "Pilot"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 20
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rear present on SUV."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Toyota",
+        "model": "4Runner"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 24
+        },
+        {
+          "position": "passenger",
+          "length_in": 20
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rear present on SUV."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Kia",
+        "model": "Telluride"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rear present on SUV."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Hyundai",
+        "model": "Palisade"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 18
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rear present on SUV."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Volkswagen",
+        "model": "Taos"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 16
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 13
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rear present on SUV."
+    },
+    {
+      "vehicle_selector": {
+        "year": 2023,
+        "make": "Chevrolet",
+        "model": "Traverse"
+      },
+      "positions": [
+        {
+          "position": "driver",
+          "length_in": 26
+        },
+        {
+          "position": "passenger",
+          "length_in": 20
+        }
+      ],
+      "rear": {
+        "has_rear_wiper": true,
+        "length_in": 12
+      },
+      "source": "Retailer fitment listings",
+      "notes": "Rear present on SUV."
+    }
+  ],
+  "items_checksum": "abae2d0c3af903a16bc269786cfa947102e97a47e36dd49ab117b1bff6f622bc"
+}

@@ -1,0 +1,382 @@
+[
+  {
+    "year": 1995,
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_9342503e4b"
+  },
+  {
+    "year": 1996,
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_ba4329d269"
+  },
+  {
+    "year": 1997,
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_263cfb3341"
+  },
+  {
+    "year": 1998,
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_f5fcccea52"
+  },
+  {
+    "year": 1999,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "H25A"
+    ],
+    "fitment_id": "f_5bf9d55439"
+  },
+  {
+    "year": 1999,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "H27A"
+    ],
+    "fitment_id": "f_db86b91bae"
+  },
+  {
+    "year": 1999,
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_c39362c2d7"
+  },
+  {
+    "year": 2000,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "H25A"
+    ],
+    "fitment_id": "f_1fc16736f1"
+  },
+  {
+    "year": 2000,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "H27A"
+    ],
+    "fitment_id": "f_d5bd4cc8d2"
+  },
+  {
+    "year": 2000,
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_ef4d05eec9"
+  },
+  {
+    "year": 2001,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "H25A"
+    ],
+    "fitment_id": "f_b22eafd550"
+  },
+  {
+    "year": 2001,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "H27A"
+    ],
+    "fitment_id": "f_19da26fbc0"
+  },
+  {
+    "year": 2001,
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_dd7b43417d"
+  },
+  {
+    "year": 2002,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "H25A"
+    ],
+    "fitment_id": "f_1577d5fc98"
+  },
+  {
+    "year": 2002,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "H27A"
+    ],
+    "fitment_id": "f_7fe491632c"
+  },
+  {
+    "year": 2002,
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_3e4e600b48"
+  },
+  {
+    "year": 2003,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "H25A"
+    ],
+    "fitment_id": "f_476c9d9c07"
+  },
+  {
+    "year": 2003,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "H27A"
+    ],
+    "fitment_id": "f_030a4f7a38"
+  },
+  {
+    "year": 2003,
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_9a1ffde90b"
+  },
+  {
+    "year": 2004,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "H25A"
+    ],
+    "fitment_id": "f_0cccd02cf0"
+  },
+  {
+    "year": 2004,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "H27A"
+    ],
+    "fitment_id": "f_fb48be97aa"
+  },
+  {
+    "year": 2004,
+    "make": "Suzuki",
+    "model": "Sidekick",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "G16"
+    ],
+    "fitment_id": "f_1595678552"
+  },
+  {
+    "year": 2005,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "H25A"
+    ],
+    "fitment_id": "f_e2bfa01955"
+  },
+  {
+    "year": 2005,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "H27A"
+    ],
+    "fitment_id": "f_c66ae77ab2"
+  },
+  {
+    "year": 2006,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "J24B"
+    ],
+    "fitment_id": "f_b2f503d613"
+  },
+  {
+    "year": 2006,
+    "make": "Suzuki",
+    "model": "SX4",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "J20A"
+    ],
+    "fitment_id": "f_81aac2506d"
+  },
+  {
+    "year": 2007,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "J24B"
+    ],
+    "fitment_id": "f_fcc868d447"
+  },
+  {
+    "year": 2007,
+    "make": "Suzuki",
+    "model": "SX4",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "J20A"
+    ],
+    "fitment_id": "f_d5acd47fcd"
+  },
+  {
+    "year": 2008,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "J24B"
+    ],
+    "fitment_id": "f_646352934f"
+  },
+  {
+    "year": 2008,
+    "make": "Suzuki",
+    "model": "SX4",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "J20A"
+    ],
+    "fitment_id": "f_cd640f7008"
+  },
+  {
+    "year": 2009,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "J24B"
+    ],
+    "fitment_id": "f_5e92748a29"
+  },
+  {
+    "year": 2009,
+    "make": "Suzuki",
+    "model": "SX4",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "J20A"
+    ],
+    "fitment_id": "f_eee01b71e6"
+  },
+  {
+    "year": 2010,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "J24B"
+    ],
+    "fitment_id": "f_8a5325b901"
+  },
+  {
+    "year": 2010,
+    "make": "Suzuki",
+    "model": "SX4",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "J20A"
+    ],
+    "fitment_id": "f_8dfe0904ba"
+  },
+  {
+    "year": 2011,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "J24B"
+    ],
+    "fitment_id": "f_61cffd0992"
+  },
+  {
+    "year": 2011,
+    "make": "Suzuki",
+    "model": "SX4",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "J20A"
+    ],
+    "fitment_id": "f_6bebd3c1c2"
+  },
+  {
+    "year": 2012,
+    "make": "Suzuki",
+    "model": "Grand Vitara",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "J24B"
+    ],
+    "fitment_id": "f_9d1e065fcd"
+  },
+  {
+    "year": 2012,
+    "make": "Suzuki",
+    "model": "SX4",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "J20A"
+    ],
+    "fitment_id": "f_ba0e0aa864"
+  }
+]

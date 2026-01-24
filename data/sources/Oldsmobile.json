@@ -1,0 +1,232 @@
+[
+  {
+    "year": 1995,
+    "make": "Oldsmobile",
+    "model": "Cutlass",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "LG8"
+    ],
+    "fitment_id": "f_a5d1bb8b3c"
+  },
+  {
+    "year": 1996,
+    "make": "Oldsmobile",
+    "model": "Cutlass",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "LG8"
+    ],
+    "fitment_id": "f_d43988fda2"
+  },
+  {
+    "year": 1997,
+    "make": "Oldsmobile",
+    "model": "Cutlass",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "LG8"
+    ],
+    "fitment_id": "f_01a7e39ccb"
+  },
+  {
+    "year": 1998,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LD9"
+    ],
+    "fitment_id": "f_73c4b72644"
+  },
+  {
+    "year": 1998,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_332f637587"
+  },
+  {
+    "year": 1998,
+    "make": "Oldsmobile",
+    "model": "Cutlass",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "LG8"
+    ],
+    "fitment_id": "f_62d566c53d"
+  },
+  {
+    "year": 1998,
+    "make": "Oldsmobile",
+    "model": "Silhouette",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_30f61eaed1"
+  },
+  {
+    "year": 1999,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LD9"
+    ],
+    "fitment_id": "f_0cf831cc2c"
+  },
+  {
+    "year": 1999,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_857c2012d0"
+  },
+  {
+    "year": 1999,
+    "make": "Oldsmobile",
+    "model": "Cutlass",
+    "engine": "3.1L V6",
+    "engine_code": [
+      "LG8"
+    ],
+    "fitment_id": "f_51d2d98a80"
+  },
+  {
+    "year": 1999,
+    "make": "Oldsmobile",
+    "model": "Silhouette",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_e76b774398"
+  },
+  {
+    "year": 2000,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LD9"
+    ],
+    "fitment_id": "f_73a8118d42"
+  },
+  {
+    "year": 2000,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_afac87464e"
+  },
+  {
+    "year": 2000,
+    "make": "Oldsmobile",
+    "model": "Silhouette",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_b2336c35f4"
+  },
+  {
+    "year": 2001,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LD9"
+    ],
+    "fitment_id": "f_696c4fdc78"
+  },
+  {
+    "year": 2001,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_5b69c57e1b"
+  },
+  {
+    "year": 2001,
+    "make": "Oldsmobile",
+    "model": "Silhouette",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_aeaee4d29e"
+  },
+  {
+    "year": 2002,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LD9"
+    ],
+    "fitment_id": "f_255c3fb686"
+  },
+  {
+    "year": 2002,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_0ea1699947"
+  },
+  {
+    "year": 2002,
+    "make": "Oldsmobile",
+    "model": "Silhouette",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_b60eb808a3"
+  },
+  {
+    "year": 2003,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "LD9"
+    ],
+    "fitment_id": "f_ab14400eb9"
+  },
+  {
+    "year": 2003,
+    "make": "Oldsmobile",
+    "model": "Alero",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_d79ac62524"
+  },
+  {
+    "year": 2003,
+    "make": "Oldsmobile",
+    "model": "Silhouette",
+    "engine": "3.4L V6",
+    "engine_code": [
+      "LA1"
+    ],
+    "fitment_id": "f_7e4eb1181a"
+  }
+]

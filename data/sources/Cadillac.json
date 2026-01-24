@@ -1,0 +1,3292 @@
+[
+  {
+    "year": 1995,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_c3a9e6a8e8"
+  },
+  {
+    "year": 1995,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_47e483d4d2"
+  },
+  {
+    "year": 1995,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.9L V8",
+    "engine_code": [
+      "L26"
+    ],
+    "fitment_id": "f_80ecd8d3f6"
+  },
+  {
+    "year": 1995,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_e7920ac09f"
+  },
+  {
+    "year": 1995,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_4bbbf59b87"
+  },
+  {
+    "year": 1995,
+    "make": "Cadillac",
+    "model": "Fleetwood",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "LT1"
+    ],
+    "fitment_id": "f_d5b997d1d8"
+  },
+  {
+    "year": 1995,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_5e38d781f7"
+  },
+  {
+    "year": 1995,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_8fb6113207"
+  },
+  {
+    "year": 1996,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_2af068e8b8"
+  },
+  {
+    "year": 1996,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_5a75744a23"
+  },
+  {
+    "year": 1996,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_a7bdab19ff"
+  },
+  {
+    "year": 1996,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_0518842cbc"
+  },
+  {
+    "year": 1996,
+    "make": "Cadillac",
+    "model": "Fleetwood",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "LT1"
+    ],
+    "fitment_id": "f_82a06c228f"
+  },
+  {
+    "year": 1996,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_befb03ebe6"
+  },
+  {
+    "year": 1996,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_79bbb0c950"
+  },
+  {
+    "year": 1997,
+    "make": "Cadillac",
+    "model": "Catera",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "L81"
+    ],
+    "fitment_id": "f_dbf9f7df5d"
+  },
+  {
+    "year": 1997,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_f4e331870f"
+  },
+  {
+    "year": 1997,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_8cbff7d49b"
+  },
+  {
+    "year": 1997,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_ba10a0b237"
+  },
+  {
+    "year": 1997,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_cd9873b3e0"
+  },
+  {
+    "year": 1997,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_17702abb37"
+  },
+  {
+    "year": 1997,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_3e1197bbcf"
+  },
+  {
+    "year": 1998,
+    "make": "Cadillac",
+    "model": "Catera",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "L81"
+    ],
+    "fitment_id": "f_d9f8a9cd88"
+  },
+  {
+    "year": 1998,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_25a6138d80"
+  },
+  {
+    "year": 1998,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_5eb433f0a2"
+  },
+  {
+    "year": 1998,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_767d7bf8f2"
+  },
+  {
+    "year": 1998,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_a22cd23532"
+  },
+  {
+    "year": 1998,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_9aab559c00"
+  },
+  {
+    "year": 1998,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_903cd6a7f1"
+  },
+  {
+    "year": 1999,
+    "make": "Cadillac",
+    "model": "Catera",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "L81"
+    ],
+    "fitment_id": "f_49326e4a06"
+  },
+  {
+    "year": 1999,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_8a87c851e4"
+  },
+  {
+    "year": 1999,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_8f469bc34c"
+  },
+  {
+    "year": 1999,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_361a196854"
+  },
+  {
+    "year": 1999,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_5a662c1471"
+  },
+  {
+    "year": 1999,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_2844c5ffaf"
+  },
+  {
+    "year": 1999,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_c3ba0a5239"
+  },
+  {
+    "year": 1999,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_19f8c2fe13"
+  },
+  {
+    "year": 2000,
+    "make": "Cadillac",
+    "model": "Catera",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "L81"
+    ],
+    "fitment_id": "f_d1f48320f2"
+  },
+  {
+    "year": 2000,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_247ae70c52"
+  },
+  {
+    "year": 2000,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_a726f945be"
+  },
+  {
+    "year": 2000,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_44c1d222b2"
+  },
+  {
+    "year": 2000,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "L31"
+    ],
+    "fitment_id": "f_a4bda568da"
+  },
+  {
+    "year": 2000,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_c17133e493"
+  },
+  {
+    "year": 2000,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_ce8c144581"
+  },
+  {
+    "year": 2001,
+    "make": "Cadillac",
+    "model": "Catera",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "L81"
+    ],
+    "fitment_id": "f_792fbe9e78"
+  },
+  {
+    "year": 2001,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_13df34c7a4"
+  },
+  {
+    "year": 2001,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_05111d07ac"
+  },
+  {
+    "year": 2001,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_cb97fdee2b"
+  },
+  {
+    "year": 2001,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_c2c1de28c6"
+  },
+  {
+    "year": 2001,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_622c3c3154"
+  },
+  {
+    "year": 2001,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_e913651754"
+  },
+  {
+    "year": 2002,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_4bfffd45a3"
+  },
+  {
+    "year": 2002,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_2b77e5a747"
+  },
+  {
+    "year": 2002,
+    "make": "Cadillac",
+    "model": "Eldorado",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_69d5598786"
+  },
+  {
+    "year": 2002,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_472e256778"
+  },
+  {
+    "year": 2002,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_f2b90c1440"
+  },
+  {
+    "year": 2002,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_1fcdce01a0"
+  },
+  {
+    "year": 2002,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_934fa9b5c6"
+  },
+  {
+    "year": 2003,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "LA3"
+    ],
+    "fitment_id": "f_827d99b5d9"
+  },
+  {
+    "year": 2003,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_e21d79898c"
+  },
+  {
+    "year": 2003,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_be9d32de98"
+  },
+  {
+    "year": 2003,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_09c318933c"
+  },
+  {
+    "year": 2003,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_1193a80d3c"
+  },
+  {
+    "year": 2003,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_6639ec9726"
+  },
+  {
+    "year": 2003,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_2affb840ec"
+  },
+  {
+    "year": 2004,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "LA3"
+    ],
+    "fitment_id": "f_3e42666e14"
+  },
+  {
+    "year": 2004,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_7a085b4fdf"
+  },
+  {
+    "year": 2004,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ9"
+    ],
+    "fitment_id": "f_e348fa10c3"
+  },
+  {
+    "year": 2004,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ9"
+    ],
+    "fitment_id": "f_4db6f385f6"
+  },
+  {
+    "year": 2004,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ9"
+    ],
+    "fitment_id": "f_06d837711a"
+  },
+  {
+    "year": 2004,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_2162e1ec58"
+  },
+  {
+    "year": 2004,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_d4c728513d"
+  },
+  {
+    "year": 2004,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_fa3140fc34"
+  },
+  {
+    "year": 2004,
+    "make": "Cadillac",
+    "model": "Seville",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_2d07c1dbb0"
+  },
+  {
+    "year": 2004,
+    "make": "Cadillac",
+    "model": "XLR",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_0ce47083c0"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "LAU"
+    ],
+    "fitment_id": "f_c3356e0508"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_2f41888064"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "DeVille",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_1c670de191"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ9"
+    ],
+    "fitment_id": "f_24be234aa7"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ9"
+    ],
+    "fitment_id": "f_b712d49f68"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ9"
+    ],
+    "fitment_id": "f_caeeba785c"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_bf1de048aa"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_bc7909589c"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_f9e2ab1e4c"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_152cde8881"
+  },
+  {
+    "year": 2005,
+    "make": "Cadillac",
+    "model": "XLR",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_8497a183ec"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "LAU"
+    ],
+    "fitment_id": "f_19e466b7a8"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_2fdd558305"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "DTS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_16bb8a3a5d"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_bb8cd8c16f"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_7f1a92a514"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_7ccc084dc1"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_ac2d914b09"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_9a24f7645b"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_7530aaff4a"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_1fc578493e"
+  },
+  {
+    "year": 2006,
+    "make": "Cadillac",
+    "model": "XLR",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_603a2adec7"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "2.8L V6",
+    "engine_code": [
+      "LAU"
+    ],
+    "fitment_id": "f_e85f0f938b"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_1ebd9c4512"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "DTS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_fbf28c5ffc"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_dd73b3b7e5"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_4247789545"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_524dc9751b"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_f3a1df93cc"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_d586e6aa62"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_a63b1a1e62"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_4fe4fe7f16"
+  },
+  {
+    "year": 2007,
+    "make": "Cadillac",
+    "model": "XLR",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_317ebf825b"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_334768227e"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_8e8ab97239"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "DTS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_8d2330875e"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_c6fb69d28b"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_e2c80b2446"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_d3345a0581"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_3229d84203"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_6ef208bc46"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_dc878af71a"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_4ab96d4f06"
+  },
+  {
+    "year": 2008,
+    "make": "Cadillac",
+    "model": "XLR",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_e91a77a585"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_dda9ae7124"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_3c882d38cb"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LSA"
+    ],
+    "fitment_id": "f_8aae56dd97"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "DTS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_0394243866"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_ea55741ab7"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_5d5cd0c3d8"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_3992bf6854"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_74c4ddf9e1"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_0f9b85ec78"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_83b7f3b549"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_3e68b56d02"
+  },
+  {
+    "year": 2009,
+    "make": "Cadillac",
+    "model": "XLR",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_25cf9f5cf3"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LF1"
+    ],
+    "fitment_id": "f_318133134f"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_2d81074d16"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_1bdb6a343e"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LSA"
+    ],
+    "fitment_id": "f_613c724c69"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "DTS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_1dd3706de6"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_629ec4c62a"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_b9da6519d0"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_341cb66acf"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LF1"
+    ],
+    "fitment_id": "f_ac45a81367"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_b9fed534f8"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LY7"
+    ],
+    "fitment_id": "f_a9b715a674"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LH2"
+    ],
+    "fitment_id": "f_ce826b2237"
+  },
+  {
+    "year": 2010,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_8808569ff2"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LF1"
+    ],
+    "fitment_id": "f_0057f844d6"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_f50ba01942"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LSA"
+    ],
+    "fitment_id": "f_74d0afc4ae"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "DTS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "L37"
+    ],
+    "fitment_id": "f_a888895830"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "DTS",
+    "engine": "4.6L V8",
+    "engine_code": [
+      "LD8"
+    ],
+    "fitment_id": "f_545329a6fe"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_75b9f351e5"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_7d0c0a916a"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_7eacd535ac"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LF1"
+    ],
+    "fitment_id": "f_3fbb0ca1a5"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_a10318a6ab"
+  },
+  {
+    "year": 2011,
+    "make": "Cadillac",
+    "model": "STS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_0aa3911109"
+  },
+  {
+    "year": 2012,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LF1"
+    ],
+    "fitment_id": "f_c22f1622e8"
+  },
+  {
+    "year": 2012,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_5d4c7811ec"
+  },
+  {
+    "year": 2012,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LSA"
+    ],
+    "fitment_id": "f_b73609cecb"
+  },
+  {
+    "year": 2012,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_346a8c4cd7"
+  },
+  {
+    "year": 2012,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_5906814f00"
+  },
+  {
+    "year": 2012,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_ba8f2a2d34"
+  },
+  {
+    "year": 2012,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_e72962b173"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_498955edda"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_69a69509b5"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_ebbfa0796b"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LF1"
+    ],
+    "fitment_id": "f_abac3e74d7"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LLT"
+    ],
+    "fitment_id": "f_bfc6c55073"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LSA"
+    ],
+    "fitment_id": "f_c08e7a58d8"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_6a5ec40109"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_734df7d8ef"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "Escalade EXT",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L94"
+    ],
+    "fitment_id": "f_5a47b30d55"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_e92b04fd65"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_7f5e3ec5c0"
+  },
+  {
+    "year": 2013,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_e11defa319"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_dbfe786ad8"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_7ab448feb5"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_5d5a1d3d4b"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_90cda8ee4e"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_8786da5a28"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_3919b3cab4"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LSA"
+    ],
+    "fitment_id": "f_1ca80b48d3"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_623b77e0d3"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_d7029c690b"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_637968e45c"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_fd11eb2926"
+  },
+  {
+    "year": 2014,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_04fe24d554"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_7ec7b64186"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_16c904b689"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_3fb7bf3b58"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_9df6bf4496"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_3d148fd858"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_bd9e23e4b2"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LT4"
+    ],
+    "fitment_id": "f_d4d4059594"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_8cc897f56e"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_355f149e45"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_d313cbd6f1"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_42b1229d30"
+  },
+  {
+    "year": 2015,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_88318bd0d9"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_535391fd65"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_34cb054481"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_40716ed6d7"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "ATS-V",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF4"
+    ],
+    "fitment_id": "f_c38b71ef6f"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_083c11aebd"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LGW"
+    ],
+    "fitment_id": "f_74b681044e"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_fe28c5a689"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_6a17592568"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_206a1d02ab"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_ac44633043"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LT4"
+    ],
+    "fitment_id": "f_3978d22e08"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "ELR",
+    "engine": "1.4L I4",
+    "engine_code": [
+      "LUU"
+    ],
+    "fitment_id": "f_2cf7fdffba"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_5355305449"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_22430aaeb0"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "SRX",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_747a5dc131"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_3beeec9106"
+  },
+  {
+    "year": 2016,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_5abc4c7add"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_6959bc29bc"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "LCV"
+    ],
+    "fitment_id": "f_458e63bb3a"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_f9f6fe34d0"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "ATS-V",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF4"
+    ],
+    "fitment_id": "f_e06f49900d"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_5f4abce402"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LGW"
+    ],
+    "fitment_id": "f_0fd538db80"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_7fe46f99b9"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_c6d173211a"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_2516d45914"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_b37f29b527"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LT4"
+    ],
+    "fitment_id": "f_3ae8bd1eee"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_c8c785b087"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_5c5a3e26f9"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_cb595ef6d8"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_e823aef1ff"
+  },
+  {
+    "year": 2017,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_822f95ecf3"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_c6b5b525f1"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_5c4df6ba3a"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "ATS-V",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF4"
+    ],
+    "fitment_id": "f_8f2ba3c3b6"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_dbcb6b2325"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LGW"
+    ],
+    "fitment_id": "f_27f7964056"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_d65563b29e"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_610bc50245"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_da88a8e94f"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_450f5760bf"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LT4"
+    ],
+    "fitment_id": "f_2136a97fe0"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_ee0d1a9d0e"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_b1059e61e9"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_c3f5c05ff4"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_56239f97ef"
+  },
+  {
+    "year": 2018,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_908e540aad"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_e2af950175"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "ATS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_bf376d1ae4"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "ATS-V",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF4"
+    ],
+    "fitment_id": "f_52e97c7cdd"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_8c154e1422"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LGW"
+    ],
+    "fitment_id": "f_6cbee4a40b"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_ae530b5767"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "LTA"
+    ],
+    "fitment_id": "f_f24e649ef2"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LTG"
+    ],
+    "fitment_id": "f_44719cea91"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_fca1b58477"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "CTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_8e187b9054"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "CTS-V",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LT4"
+    ],
+    "fitment_id": "f_963672f227"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_c4192f6285"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_e82806cedc"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "XT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_c8fecd7e71"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_22f293f59b"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "XT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_06341d6b5e"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF3"
+    ],
+    "fitment_id": "f_51cf0ae70e"
+  },
+  {
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "XTS",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LFX"
+    ],
+    "fitment_id": "f_6bb211b2f1"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_8bdc81e3a9"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT4",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_ca0ce6330e"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_a8fef98e27"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LGY"
+    ],
+    "fitment_id": "f_7382eb8180"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LGW"
+    ],
+    "fitment_id": "f_423b660843"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_827d220fbe"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "CT6",
+    "engine": "4.2L V8",
+    "engine_code": [
+      "LTA"
+    ],
+    "fitment_id": "f_1819f6360f"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_0b1d9ca3dc"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L86"
+    ],
+    "fitment_id": "f_dfd167b59e"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "XT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_2d39194f5b"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_67d017b5a2"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_e6cb23b456"
+  },
+  {
+    "year": 2020,
+    "make": "Cadillac",
+    "model": "XT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_a22e7043bf"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "CT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_f08dc340f1"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "CT4",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_449fd5fd24"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "CT4-V Blackwing",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF4"
+    ],
+    "fitment_id": "f_9a7e494dda"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "CT5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_f740a1c14f"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "CT5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LGY"
+    ],
+    "fitment_id": "f_e8503c7aa6"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "CT5-V Blackwing",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LT4"
+    ],
+    "fitment_id": "f_5be4dc11e3"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_bc697e5803"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_c0f2cfe319"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_f9ab53ebc5"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_0016fed471"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "XT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_17442faeaa"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_0f54875f77"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_ce8b3dda20"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "XT6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_28f6fa44cc"
+  },
+  {
+    "year": 2021,
+    "make": "Cadillac",
+    "model": "XT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_de47766fe7"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "CT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_2358fb9ca3"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "CT4",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_e93d649fee"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "CT4-V Blackwing",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF4"
+    ],
+    "fitment_id": "f_987de6fc5e"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "CT5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_110af902d2"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "CT5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LGY"
+    ],
+    "fitment_id": "f_247ff96572"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "CT5-V Blackwing",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LT4"
+    ],
+    "fitment_id": "f_93b9a7d296"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_fd0ddaf322"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_aaef1d27d7"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "XT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_666ce4cbc6"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_a202c76376"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "XT6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_ccf5052e4f"
+  },
+  {
+    "year": 2022,
+    "make": "Cadillac",
+    "model": "XT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_8f9ab17d33"
+  },
+  {
+    "year": 2023,
+    "make": "Cadillac",
+    "model": "CT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_61b69897e2"
+  },
+  {
+    "year": 2023,
+    "make": "Cadillac",
+    "model": "CT4",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_75d7c7991e"
+  },
+  {
+    "year": 2023,
+    "make": "Cadillac",
+    "model": "CT4-V Blackwing",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF4"
+    ],
+    "fitment_id": "f_0947d30280"
+  },
+  {
+    "year": 2023,
+    "make": "Cadillac",
+    "model": "CT5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_2e36dd15de"
+  },
+  {
+    "year": 2023,
+    "make": "Cadillac",
+    "model": "CT5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LGY"
+    ],
+    "fitment_id": "f_6778d42ca6"
+  },
+  {
+    "year": 2023,
+    "make": "Cadillac",
+    "model": "CT5-V Blackwing",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LT4"
+    ],
+    "fitment_id": "f_d8a574c1c0"
+  },
+  {
+    "year": 2023,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_72b93674d9"
+  },
+  {
+    "year": 2023,
+    "make": "Cadillac",
+    "model": "XT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_c277060c53"
+  },
+  {
+    "year": 2023,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_4a3abb23cc"
+  },
+  {
+    "year": 2023,
+    "make": "Cadillac",
+    "model": "XT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_42af4f0a91"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "CT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_47b67ffd80"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "CT4",
+    "engine": "2.7L Turbo I4",
+    "engine_code": [
+      "L3B"
+    ],
+    "fitment_id": "f_922d2730cc"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "CT4-V Blackwing",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LF4"
+    ],
+    "fitment_id": "f_ff1246f96e"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "CT5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_4c8c0057d3"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "CT5",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "LGY"
+    ],
+    "fitment_id": "f_6327e8e4a8"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "CT5-V Blackwing",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "LT4"
+    ],
+    "fitment_id": "f_3126281860"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_74665a6255"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "Escalade",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_523c19f3ac"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "3.0L Turbo Diesel I6",
+    "engine_code": [
+      "LM2"
+    ],
+    "fitment_id": "f_188194150e"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "Escalade ESV",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L87"
+    ],
+    "fitment_id": "f_1d32268069"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "XT4",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_bd1374f803"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_33f2bd9e19"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "XT5",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_56416091c5"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "XT6",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "LSY"
+    ],
+    "fitment_id": "f_deb1f8de18"
+  },
+  {
+    "year": 2024,
+    "make": "Cadillac",
+    "model": "XT6",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "LGX"
+    ],
+    "fitment_id": "f_ed4a4a96c4"
+  }
+]

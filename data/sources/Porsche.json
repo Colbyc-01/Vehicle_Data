@@ -1,0 +1,1522 @@
+[
+  {
+    "year": 1995,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M64"
+    ],
+    "fitment_id": "f_fa1323ed79"
+  },
+  {
+    "year": 1996,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M64"
+    ],
+    "fitment_id": "f_b167518367"
+  },
+  {
+    "year": 1997,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M64"
+    ],
+    "fitment_id": "f_25ed9f5cb8"
+  },
+  {
+    "year": 1997,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_991ac50a78"
+  },
+  {
+    "year": 1997,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_8a45f254c1"
+  },
+  {
+    "year": 1998,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M64"
+    ],
+    "fitment_id": "f_af4540320f"
+  },
+  {
+    "year": 1998,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_fd00e97e94"
+  },
+  {
+    "year": 1998,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_2103d2988f"
+  },
+  {
+    "year": 1999,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_2b64d0801f"
+  },
+  {
+    "year": 1999,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_f19571cc6c"
+  },
+  {
+    "year": 1999,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_7684fbecf8"
+  },
+  {
+    "year": 1999,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_a0e3045ed5"
+  },
+  {
+    "year": 2000,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_7a735c4a6e"
+  },
+  {
+    "year": 2000,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_dde5a2d32a"
+  },
+  {
+    "year": 2000,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_fad2b5b9ee"
+  },
+  {
+    "year": 2000,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_082598a5e1"
+  },
+  {
+    "year": 2001,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_2e4deb8848"
+  },
+  {
+    "year": 2001,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_d3a2904492"
+  },
+  {
+    "year": 2001,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_787d161ad9"
+  },
+  {
+    "year": 2001,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_31e760e1ad"
+  },
+  {
+    "year": 2002,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_c17e8938ca"
+  },
+  {
+    "year": 2002,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_16e62e7003"
+  },
+  {
+    "year": 2002,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_17fcacff6a"
+  },
+  {
+    "year": 2002,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_c7c3a1a87c"
+  },
+  {
+    "year": 2003,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_829d73d661"
+  },
+  {
+    "year": 2003,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_21f1366eda"
+  },
+  {
+    "year": 2003,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_ce37e4ae12"
+  },
+  {
+    "year": 2003,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_7f31863ba6"
+  },
+  {
+    "year": 2003,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "M55"
+    ],
+    "fitment_id": "f_3dc6e118c1"
+  },
+  {
+    "year": 2003,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "M48"
+    ],
+    "fitment_id": "f_13c648b91f"
+  },
+  {
+    "year": 2004,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_43211fd843"
+  },
+  {
+    "year": 2004,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_c3f90f37e6"
+  },
+  {
+    "year": 2004,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_d2439b963c"
+  },
+  {
+    "year": 2004,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.2L I6",
+    "engine_code": [
+      "M96"
+    ],
+    "fitment_id": "f_e93af838f9"
+  },
+  {
+    "year": 2004,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "M55"
+    ],
+    "fitment_id": "f_f36e96f0bc"
+  },
+  {
+    "year": 2004,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "M48"
+    ],
+    "fitment_id": "f_23572225d8"
+  },
+  {
+    "year": 2005,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_d19cd8f1f5"
+  },
+  {
+    "year": 2005,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.8L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_f82f00887e"
+  },
+  {
+    "year": 2005,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.7L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_49ebe446e7"
+  },
+  {
+    "year": 2005,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_3fd5620341"
+  },
+  {
+    "year": 2005,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "M55"
+    ],
+    "fitment_id": "f_1e85b072e8"
+  },
+  {
+    "year": 2005,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "M48"
+    ],
+    "fitment_id": "f_589e4dc267"
+  },
+  {
+    "year": 2006,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_0e0a087884"
+  },
+  {
+    "year": 2006,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.8L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_00088cc16b"
+  },
+  {
+    "year": 2006,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.7L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_6a37a8e3b2"
+  },
+  {
+    "year": 2006,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_6e79a89edb"
+  },
+  {
+    "year": 2006,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "M55"
+    ],
+    "fitment_id": "f_26676014ff"
+  },
+  {
+    "year": 2006,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "M48"
+    ],
+    "fitment_id": "f_f616e2f533"
+  },
+  {
+    "year": 2007,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_8bba01d8fa"
+  },
+  {
+    "year": 2007,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.8L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_11a7f153bd"
+  },
+  {
+    "year": 2007,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.7L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_69afeebdbb"
+  },
+  {
+    "year": 2007,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_fdd4db450c"
+  },
+  {
+    "year": 2007,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "M55"
+    ],
+    "fitment_id": "f_195a4b8905"
+  },
+  {
+    "year": 2007,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "M48"
+    ],
+    "fitment_id": "f_c0e64f69cc"
+  },
+  {
+    "year": 2008,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_cfeba3b161"
+  },
+  {
+    "year": 2008,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.8L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_3c650487f9"
+  },
+  {
+    "year": 2008,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.7L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_822aab9556"
+  },
+  {
+    "year": 2008,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_9151f22d74"
+  },
+  {
+    "year": 2008,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "M55"
+    ],
+    "fitment_id": "f_92c7ad94d7"
+  },
+  {
+    "year": 2008,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "M48"
+    ],
+    "fitment_id": "f_0b64e26fd4"
+  },
+  {
+    "year": 2009,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_9da8c747a7"
+  },
+  {
+    "year": 2009,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.8L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_fda1c91d76"
+  },
+  {
+    "year": 2009,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.7L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_2977ee8194"
+  },
+  {
+    "year": 2009,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_2f5a6d64ed"
+  },
+  {
+    "year": 2009,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "M55"
+    ],
+    "fitment_id": "f_472d63b588"
+  },
+  {
+    "year": 2009,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "M48"
+    ],
+    "fitment_id": "f_5186ff1ba4"
+  },
+  {
+    "year": 2010,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_216bcb855f"
+  },
+  {
+    "year": 2010,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.8L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_a902d0550e"
+  },
+  {
+    "year": 2010,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.7L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_6f02112e07"
+  },
+  {
+    "year": 2010,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_0d7cd90168"
+  },
+  {
+    "year": 2010,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "M55"
+    ],
+    "fitment_id": "f_d1a12fc5f6"
+  },
+  {
+    "year": 2010,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "M48"
+    ],
+    "fitment_id": "f_213397fbbe"
+  },
+  {
+    "year": 2011,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_80312db6e8"
+  },
+  {
+    "year": 2011,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.8L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_b44768a723"
+  },
+  {
+    "year": 2011,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.7L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_a833445149"
+  },
+  {
+    "year": 2011,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "3.4L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_30bc5d4171"
+  },
+  {
+    "year": 2011,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "M55"
+    ],
+    "fitment_id": "f_5c3a4b37d0"
+  },
+  {
+    "year": 2011,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "M48"
+    ],
+    "fitment_id": "f_3c902c698b"
+  },
+  {
+    "year": 2012,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.6L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_bf0c35715f"
+  },
+  {
+    "year": 2012,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.8L I6",
+    "engine_code": [
+      "M97"
+    ],
+    "fitment_id": "f_a8130cbac6"
+  },
+  {
+    "year": 2012,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "M55"
+    ],
+    "fitment_id": "f_b3128e192d"
+  },
+  {
+    "year": 2012,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.8L V8",
+    "engine_code": [
+      "M48"
+    ],
+    "fitment_id": "f_dfeb33eadd"
+  },
+  {
+    "year": 2013,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_6aaeeb6bc1"
+  },
+  {
+    "year": 2013,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_5ad375085f"
+  },
+  {
+    "year": 2013,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_370cb9935f"
+  },
+  {
+    "year": 2013,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_fc4c6ba714"
+  },
+  {
+    "year": 2014,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_f875c8346f"
+  },
+  {
+    "year": 2014,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_d4f7b9c028"
+  },
+  {
+    "year": 2014,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_d55e6e3ac7"
+  },
+  {
+    "year": 2014,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_c2abce9be2"
+  },
+  {
+    "year": 2014,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_d49efe18e4"
+  },
+  {
+    "year": 2014,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_f6f260e61f"
+  },
+  {
+    "year": 2015,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_dda798c634"
+  },
+  {
+    "year": 2015,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_0e09c1f52a"
+  },
+  {
+    "year": 2015,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_fb3ff214ae"
+  },
+  {
+    "year": 2015,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_ef1cb49134"
+  },
+  {
+    "year": 2015,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_fef955bbc0"
+  },
+  {
+    "year": 2015,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_648f6fb6e4"
+  },
+  {
+    "year": 2016,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_d54e22ce7c"
+  },
+  {
+    "year": 2016,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_54b0aeaeb2"
+  },
+  {
+    "year": 2016,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_43b2bfd4a5"
+  },
+  {
+    "year": 2016,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_36b42d85ad"
+  },
+  {
+    "year": 2016,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_02916b4df9"
+  },
+  {
+    "year": 2016,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_31379a54e7"
+  },
+  {
+    "year": 2017,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_ebd17514d9"
+  },
+  {
+    "year": 2017,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_e23017e00c"
+  },
+  {
+    "year": 2017,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_8408c0e06d"
+  },
+  {
+    "year": 2017,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_c0cf37e60a"
+  },
+  {
+    "year": 2017,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_cac7f57b28"
+  },
+  {
+    "year": 2017,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_4a8242f466"
+  },
+  {
+    "year": 2018,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_724ec11fe1"
+  },
+  {
+    "year": 2018,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_40169d0c62"
+  },
+  {
+    "year": 2018,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_cdb629cf47"
+  },
+  {
+    "year": 2018,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_a96e0482b5"
+  },
+  {
+    "year": 2018,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_813ee76f67"
+  },
+  {
+    "year": 2018,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_f65afebc4b"
+  },
+  {
+    "year": 2019,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_33e692a3d0"
+  },
+  {
+    "year": 2019,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_ff073cf756"
+  },
+  {
+    "year": 2019,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_4db8bc6cc3"
+  },
+  {
+    "year": 2019,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_68d60a05ef"
+  },
+  {
+    "year": 2019,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_07b9b190a5"
+  },
+  {
+    "year": 2019,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_2a830e0c1e"
+  },
+  {
+    "year": 2020,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_209346be14"
+  },
+  {
+    "year": 2020,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_4830ca18f1"
+  },
+  {
+    "year": 2020,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_8cbeeb57c7"
+  },
+  {
+    "year": 2020,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_13cd87ca4a"
+  },
+  {
+    "year": 2020,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_c6cb6b22ce"
+  },
+  {
+    "year": 2020,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_10e14a7b8d"
+  },
+  {
+    "year": 2021,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_6bd5124908"
+  },
+  {
+    "year": 2021,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_f270543a15"
+  },
+  {
+    "year": 2021,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_0115b1013d"
+  },
+  {
+    "year": 2021,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_3912827e1e"
+  },
+  {
+    "year": 2021,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_13b516716a"
+  },
+  {
+    "year": 2021,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_e29d5dbf68"
+  },
+  {
+    "year": 2022,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_bfc9aa3f5a"
+  },
+  {
+    "year": 2022,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_5bb0b07e89"
+  },
+  {
+    "year": 2022,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_61939ad6ab"
+  },
+  {
+    "year": 2022,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_921a13ad99"
+  },
+  {
+    "year": 2022,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_3d8553ded6"
+  },
+  {
+    "year": 2022,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_ee83340e03"
+  },
+  {
+    "year": 2023,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_06ca0066fd"
+  },
+  {
+    "year": 2023,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_fede2ee80f"
+  },
+  {
+    "year": 2023,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_2428ae6477"
+  },
+  {
+    "year": 2023,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_d2d1cc6b86"
+  },
+  {
+    "year": 2023,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_6ef70f9300"
+  },
+  {
+    "year": 2023,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_95705f246c"
+  },
+  {
+    "year": 2024,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "3.0L Turbo I6",
+    "engine_code": [
+      "MA2T"
+    ],
+    "fitment_id": "f_87cbc480da"
+  },
+  {
+    "year": 2024,
+    "make": "Porsche",
+    "model": "911",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "MA2"
+    ],
+    "fitment_id": "f_995e6222dd"
+  },
+  {
+    "year": 2024,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_7b7b579a44"
+  },
+  {
+    "year": 2024,
+    "make": "Porsche",
+    "model": "Boxster",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_c4dd98d443"
+  },
+  {
+    "year": 2024,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "EA839"
+    ],
+    "fitment_id": "f_6ee40cff5a"
+  },
+  {
+    "year": 2024,
+    "make": "Porsche",
+    "model": "Cayenne",
+    "engine": "4.0L Turbo V8",
+    "engine_code": [
+      "EA825"
+    ],
+    "fitment_id": "f_6788956dea"
+  }
+]

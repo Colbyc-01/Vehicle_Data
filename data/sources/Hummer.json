@@ -1,0 +1,382 @@
+[
+  {
+    "year": 1995,
+    "make": "Hummer",
+    "model": "H1",
+    "engine": "6.5L Diesel V8",
+    "engine_code": [
+      "DETROIT65"
+    ],
+    "fitment_id": "f_e5ea770d7c"
+  },
+  {
+    "year": 1996,
+    "make": "Hummer",
+    "model": "H1",
+    "engine": "6.5L Diesel V8",
+    "engine_code": [
+      "DETROIT65"
+    ],
+    "fitment_id": "f_5cbcfd0a90"
+  },
+  {
+    "year": 1997,
+    "make": "Hummer",
+    "model": "H1",
+    "engine": "6.5L Diesel V8",
+    "engine_code": [
+      "DETROIT65"
+    ],
+    "fitment_id": "f_aabaad3fa9"
+  },
+  {
+    "year": 1998,
+    "make": "Hummer",
+    "model": "H1",
+    "engine": "6.5L Diesel V8",
+    "engine_code": [
+      "DETROIT65"
+    ],
+    "fitment_id": "f_b34a55afbd"
+  },
+  {
+    "year": 1999,
+    "make": "Hummer",
+    "model": "H1",
+    "engine": "6.5L Diesel V8",
+    "engine_code": [
+      "DETROIT65"
+    ],
+    "fitment_id": "f_22b4f91130"
+  },
+  {
+    "year": 2000,
+    "make": "Hummer",
+    "model": "H1",
+    "engine": "6.5L Diesel V8",
+    "engine_code": [
+      "DETROIT65"
+    ],
+    "fitment_id": "f_ecbf1f393f"
+  },
+  {
+    "year": 2001,
+    "make": "Hummer",
+    "model": "H1",
+    "engine": "6.5L Diesel V8",
+    "engine_code": [
+      "DETROIT65"
+    ],
+    "fitment_id": "f_d8d3d02ee4"
+  },
+  {
+    "year": 2002,
+    "make": "Hummer",
+    "model": "H1",
+    "engine": "6.5L Diesel V8",
+    "engine_code": [
+      "DETROIT65"
+    ],
+    "fitment_id": "f_53bf391389"
+  },
+  {
+    "year": 2003,
+    "make": "Hummer",
+    "model": "H1",
+    "engine": "6.5L Diesel V8",
+    "engine_code": [
+      "DETROIT65"
+    ],
+    "fitment_id": "f_c2cb1b5c7d"
+  },
+  {
+    "year": 2003,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_0c0386e963"
+  },
+  {
+    "year": 2003,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_c31011cd49"
+  },
+  {
+    "year": 2004,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_6b691f8048"
+  },
+  {
+    "year": 2004,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_dc95e20da1"
+  },
+  {
+    "year": 2005,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_a676d70912"
+  },
+  {
+    "year": 2005,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_7af36bf6ae"
+  },
+  {
+    "year": 2006,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_904a48add0"
+  },
+  {
+    "year": 2006,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_a71270efe3"
+  },
+  {
+    "year": 2006,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "3.5L I5",
+    "engine_code": [
+      "L52"
+    ],
+    "fitment_id": "f_c3f47f7cdd"
+  },
+  {
+    "year": 2006,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "LLR"
+    ],
+    "fitment_id": "f_e295b47bed"
+  },
+  {
+    "year": 2006,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LH8"
+    ],
+    "fitment_id": "f_d3efe8dff3"
+  },
+  {
+    "year": 2007,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_d2dd6c9d32"
+  },
+  {
+    "year": 2007,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_d66f49eb1b"
+  },
+  {
+    "year": 2007,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "3.5L I5",
+    "engine_code": [
+      "L52"
+    ],
+    "fitment_id": "f_b41cc72bd1"
+  },
+  {
+    "year": 2007,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "LLR"
+    ],
+    "fitment_id": "f_37f5f679e5"
+  },
+  {
+    "year": 2007,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LH8"
+    ],
+    "fitment_id": "f_88c9295fce"
+  },
+  {
+    "year": 2008,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_fcbaf0044b"
+  },
+  {
+    "year": 2008,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_fb29f50411"
+  },
+  {
+    "year": 2008,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "3.5L I5",
+    "engine_code": [
+      "L52"
+    ],
+    "fitment_id": "f_b49a1e5b50"
+  },
+  {
+    "year": 2008,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "LLR"
+    ],
+    "fitment_id": "f_567a8d5409"
+  },
+  {
+    "year": 2008,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LH8"
+    ],
+    "fitment_id": "f_9733a21a25"
+  },
+  {
+    "year": 2009,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.0L V8",
+    "engine_code": [
+      "LQ4"
+    ],
+    "fitment_id": "f_b1ce80e9c3"
+  },
+  {
+    "year": 2009,
+    "make": "Hummer",
+    "model": "H2",
+    "engine": "6.2L V8",
+    "engine_code": [
+      "L92"
+    ],
+    "fitment_id": "f_c8f4770e39"
+  },
+  {
+    "year": 2009,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "3.5L I5",
+    "engine_code": [
+      "L52"
+    ],
+    "fitment_id": "f_f70f9af5d4"
+  },
+  {
+    "year": 2009,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "LLR"
+    ],
+    "fitment_id": "f_2c10506b98"
+  },
+  {
+    "year": 2009,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LH8"
+    ],
+    "fitment_id": "f_555cfc16a2"
+  },
+  {
+    "year": 2010,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "3.5L I5",
+    "engine_code": [
+      "L52"
+    ],
+    "fitment_id": "f_771176efa7"
+  },
+  {
+    "year": 2010,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "LLR"
+    ],
+    "fitment_id": "f_d2d2db51e2"
+  },
+  {
+    "year": 2010,
+    "make": "Hummer",
+    "model": "H3",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LH8"
+    ],
+    "fitment_id": "f_1a74e71605"
+  }
+]

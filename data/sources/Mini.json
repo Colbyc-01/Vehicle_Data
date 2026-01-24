@@ -1,0 +1,412 @@
+[
+  {
+    "year": 2002,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "W10"
+    ],
+    "fitment_id": "f_790e7a7db5"
+  },
+  {
+    "year": 2003,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "W10"
+    ],
+    "fitment_id": "f_12d33218f9"
+  },
+  {
+    "year": 2004,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "W10"
+    ],
+    "fitment_id": "f_811925e30d"
+  },
+  {
+    "year": 2005,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "W10"
+    ],
+    "fitment_id": "f_dc2e097708"
+  },
+  {
+    "year": 2006,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "W10"
+    ],
+    "fitment_id": "f_cf81186723"
+  },
+  {
+    "year": 2007,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "N12"
+    ],
+    "fitment_id": "f_3292fe12ec"
+  },
+  {
+    "year": 2007,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "N14"
+    ],
+    "fitment_id": "f_8f5fa783f6"
+  },
+  {
+    "year": 2008,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "N12"
+    ],
+    "fitment_id": "f_322c612021"
+  },
+  {
+    "year": 2008,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "N14"
+    ],
+    "fitment_id": "f_42e0631cd3"
+  },
+  {
+    "year": 2009,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "N12"
+    ],
+    "fitment_id": "f_d6cb97e7a1"
+  },
+  {
+    "year": 2009,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "N14"
+    ],
+    "fitment_id": "f_9101f14da8"
+  },
+  {
+    "year": 2010,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "N12"
+    ],
+    "fitment_id": "f_6860aca87f"
+  },
+  {
+    "year": 2010,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "N14"
+    ],
+    "fitment_id": "f_d7bb91c22a"
+  },
+  {
+    "year": 2011,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "N12"
+    ],
+    "fitment_id": "f_17ba149469"
+  },
+  {
+    "year": 2011,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "N14"
+    ],
+    "fitment_id": "f_a3e3da5db7"
+  },
+  {
+    "year": 2012,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L I4",
+    "engine_code": [
+      "N12"
+    ],
+    "fitment_id": "f_0be8e8c4c4"
+  },
+  {
+    "year": 2012,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.6L Turbo I4",
+    "engine_code": [
+      "N14"
+    ],
+    "fitment_id": "f_cae84d9516"
+  },
+  {
+    "year": 2013,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_e81cc496ec"
+  },
+  {
+    "year": 2013,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_213b1da820"
+  },
+  {
+    "year": 2014,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_133685b96e"
+  },
+  {
+    "year": 2014,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_6d85720f4d"
+  },
+  {
+    "year": 2015,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_5c8170f30c"
+  },
+  {
+    "year": 2015,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_132b5bfdad"
+  },
+  {
+    "year": 2016,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_2776d69c86"
+  },
+  {
+    "year": 2016,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_dd65226e32"
+  },
+  {
+    "year": 2017,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_838b74450e"
+  },
+  {
+    "year": 2017,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_2590e91e2c"
+  },
+  {
+    "year": 2018,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_557187c215"
+  },
+  {
+    "year": 2018,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_17daa633b1"
+  },
+  {
+    "year": 2019,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_53a4f30d5b"
+  },
+  {
+    "year": 2019,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_16ff3a49e5"
+  },
+  {
+    "year": 2020,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_1812e39354"
+  },
+  {
+    "year": 2020,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_bdb6480fd1"
+  },
+  {
+    "year": 2021,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_fcab7d2327"
+  },
+  {
+    "year": 2021,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_d1afd0dc1b"
+  },
+  {
+    "year": 2022,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_9882c4ce28"
+  },
+  {
+    "year": 2022,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_440ee5dbcc"
+  },
+  {
+    "year": 2023,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_ac08e1cbed"
+  },
+  {
+    "year": 2023,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_64c1a60ddc"
+  },
+  {
+    "year": 2024,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "1.5L Turbo I3",
+    "engine_code": [
+      "B38"
+    ],
+    "fitment_id": "f_33d73f7863"
+  },
+  {
+    "year": 2024,
+    "make": "Mini",
+    "model": "Cooper",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B48"
+    ],
+    "fitment_id": "f_d881180f31"
+  }
+]

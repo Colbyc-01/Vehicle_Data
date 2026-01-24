@@ -1,0 +1,382 @@
+[
+  {
+    "year": 1995,
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "4G63T"
+    ],
+    "fitment_id": "f_0f714b281e"
+  },
+  {
+    "year": 1995,
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_c38451e1d7"
+  },
+  {
+    "year": 1996,
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "4G63T"
+    ],
+    "fitment_id": "f_e9d2492e2c"
+  },
+  {
+    "year": 1996,
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_c93853eb8b"
+  },
+  {
+    "year": 1997,
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "4G63T"
+    ],
+    "fitment_id": "f_4ef974df7b"
+  },
+  {
+    "year": 1997,
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_a9e9387f9b"
+  },
+  {
+    "year": 1998,
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "4G63T"
+    ],
+    "fitment_id": "f_cab3cef11f"
+  },
+  {
+    "year": 1998,
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_8c0a29f9b6"
+  },
+  {
+    "year": 1999,
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "4G63T"
+    ],
+    "fitment_id": "f_9378e4717f"
+  },
+  {
+    "year": 1999,
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_796a8262fe"
+  },
+  {
+    "year": 2000,
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "4G63T"
+    ],
+    "fitment_id": "f_7b9d3a1ccb"
+  },
+  {
+    "year": 2000,
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_d092139183"
+  },
+  {
+    "year": 2001,
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "4G63T"
+    ],
+    "fitment_id": "f_8320c5fe0d"
+  },
+  {
+    "year": 2001,
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_bdc5c1de40"
+  },
+  {
+    "year": 2002,
+    "make": "Mitsubishi",
+    "model": "Eclipse",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "4G63T"
+    ],
+    "fitment_id": "f_b591bad05a"
+  },
+  {
+    "year": 2002,
+    "make": "Mitsubishi",
+    "model": "Galant",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_609d2dbb66"
+  },
+  {
+    "year": 2003,
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "4G94"
+    ],
+    "fitment_id": "f_5cf73a2101"
+  },
+  {
+    "year": 2004,
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "4G94"
+    ],
+    "fitment_id": "f_71bef37996"
+  },
+  {
+    "year": 2005,
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "4G94"
+    ],
+    "fitment_id": "f_3be09157bc"
+  },
+  {
+    "year": 2006,
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "4G94"
+    ],
+    "fitment_id": "f_34b34001f1"
+  },
+  {
+    "year": 2007,
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "4G94"
+    ],
+    "fitment_id": "f_ffd816208c"
+  },
+  {
+    "year": 2008,
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "4G94"
+    ],
+    "fitment_id": "f_6b951b8f99"
+  },
+  {
+    "year": 2009,
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "4G94"
+    ],
+    "fitment_id": "f_8a418ef043"
+  },
+  {
+    "year": 2010,
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "4G94"
+    ],
+    "fitment_id": "f_6143948c26"
+  },
+  {
+    "year": 2011,
+    "make": "Mitsubishi",
+    "model": "Lancer",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "4G94"
+    ],
+    "fitment_id": "f_64862e1488"
+  },
+  {
+    "year": 2012,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_adf1b17782"
+  },
+  {
+    "year": 2013,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_7c2261a783"
+  },
+  {
+    "year": 2014,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_a9e8796eae"
+  },
+  {
+    "year": 2015,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_c04a150162"
+  },
+  {
+    "year": 2016,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_a6293c6723"
+  },
+  {
+    "year": 2017,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_2f9640170b"
+  },
+  {
+    "year": 2018,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_4e03a1b72f"
+  },
+  {
+    "year": 2019,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_cd9d852dec"
+  },
+  {
+    "year": 2020,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_a9f60031f9"
+  },
+  {
+    "year": 2021,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_fe9a3abdd8"
+  },
+  {
+    "year": 2022,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_632bd30eab"
+  },
+  {
+    "year": 2023,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_df4ad0419f"
+  },
+  {
+    "year": 2024,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4B12"
+    ],
+    "fitment_id": "f_b1cde72b9c"
+  }
+]

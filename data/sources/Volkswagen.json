@@ -1,0 +1,702 @@
+[
+  {
+    "year": 1995,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "EA113"
+    ],
+    "fitment_id": "f_0ba9ccd055"
+  },
+  {
+    "year": 1995,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "ABA"
+    ],
+    "fitment_id": "f_dd39f89504"
+  },
+  {
+    "year": 1996,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "EA113"
+    ],
+    "fitment_id": "f_98db752ab9"
+  },
+  {
+    "year": 1996,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "ABA"
+    ],
+    "fitment_id": "f_efab742f2d"
+  },
+  {
+    "year": 1997,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "EA113"
+    ],
+    "fitment_id": "f_f7828d70ff"
+  },
+  {
+    "year": 1997,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "ABA"
+    ],
+    "fitment_id": "f_a2c1e82458"
+  },
+  {
+    "year": 1998,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "EA113"
+    ],
+    "fitment_id": "f_df2fb3211f"
+  },
+  {
+    "year": 1998,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "ABA"
+    ],
+    "fitment_id": "f_202e709e6c"
+  },
+  {
+    "year": 1999,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "EA113"
+    ],
+    "fitment_id": "f_e749e6dbd6"
+  },
+  {
+    "year": 1999,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "ABA"
+    ],
+    "fitment_id": "f_c37f3e6e91"
+  },
+  {
+    "year": 2000,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "EA113"
+    ],
+    "fitment_id": "f_f77b586168"
+  },
+  {
+    "year": 2000,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "ABA"
+    ],
+    "fitment_id": "f_c0f07ab4b4"
+  },
+  {
+    "year": 2001,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "EA113"
+    ],
+    "fitment_id": "f_dba3653ef9"
+  },
+  {
+    "year": 2001,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "ABA"
+    ],
+    "fitment_id": "f_9ab746d0d9"
+  },
+  {
+    "year": 2002,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "EA113"
+    ],
+    "fitment_id": "f_1b20f6e0c8"
+  },
+  {
+    "year": 2002,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "ABA"
+    ],
+    "fitment_id": "f_10c023760d"
+  },
+  {
+    "year": 2003,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "EA113"
+    ],
+    "fitment_id": "f_1a18e928ee"
+  },
+  {
+    "year": 2003,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "ABA"
+    ],
+    "fitment_id": "f_47d2182df2"
+  },
+  {
+    "year": 2004,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "1.8L Turbo I4",
+    "engine_code": [
+      "EA113"
+    ],
+    "fitment_id": "f_68436d1c5f"
+  },
+  {
+    "year": 2004,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "ABA"
+    ],
+    "fitment_id": "f_420d9e7752"
+  },
+  {
+    "year": 2005,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_f5ef07544c"
+  },
+  {
+    "year": 2005,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "07K"
+    ],
+    "fitment_id": "f_01e8b51a99"
+  },
+  {
+    "year": 2006,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_bafde5b1d8"
+  },
+  {
+    "year": 2006,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "07K"
+    ],
+    "fitment_id": "f_4a3f363a09"
+  },
+  {
+    "year": 2007,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_22764f5c7e"
+  },
+  {
+    "year": 2007,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "07K"
+    ],
+    "fitment_id": "f_ee927a9328"
+  },
+  {
+    "year": 2008,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_914f07ce4d"
+  },
+  {
+    "year": 2008,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "07K"
+    ],
+    "fitment_id": "f_db04745bc3"
+  },
+  {
+    "year": 2009,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_7e054b204b"
+  },
+  {
+    "year": 2009,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "07K"
+    ],
+    "fitment_id": "f_648765d565"
+  },
+  {
+    "year": 2010,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_1acfda67e8"
+  },
+  {
+    "year": 2010,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "07K"
+    ],
+    "fitment_id": "f_986a8f053a"
+  },
+  {
+    "year": 2011,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_6e8eba3cde"
+  },
+  {
+    "year": 2011,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "07K"
+    ],
+    "fitment_id": "f_a95a52b484"
+  },
+  {
+    "year": 2012,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_de6779a4d3"
+  },
+  {
+    "year": 2012,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "07K"
+    ],
+    "fitment_id": "f_d0190904d3"
+  },
+  {
+    "year": 2013,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_f2e82fd0d6"
+  },
+  {
+    "year": 2013,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "07K"
+    ],
+    "fitment_id": "f_780f19023f"
+  },
+  {
+    "year": 2014,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_c2afe86ecc"
+  },
+  {
+    "year": 2014,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.5L I5",
+    "engine_code": [
+      "07K"
+    ],
+    "fitment_id": "f_400a64ce84"
+  },
+  {
+    "year": 2015,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "EA211"
+    ],
+    "fitment_id": "f_8e3aa79689"
+  },
+  {
+    "year": 2015,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_c6efd9f203"
+  },
+  {
+    "year": 2015,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_09fa5682e7"
+  },
+  {
+    "year": 2016,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "EA211"
+    ],
+    "fitment_id": "f_c690a16ac8"
+  },
+  {
+    "year": 2016,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_ab306bbdc2"
+  },
+  {
+    "year": 2016,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_8106ef94c5"
+  },
+  {
+    "year": 2017,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "EA211"
+    ],
+    "fitment_id": "f_5cce87fd99"
+  },
+  {
+    "year": 2017,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_4c842a9047"
+  },
+  {
+    "year": 2017,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_1325a3fb41"
+  },
+  {
+    "year": 2018,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "EA211"
+    ],
+    "fitment_id": "f_c4d834bb71"
+  },
+  {
+    "year": 2018,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_6301f46900"
+  },
+  {
+    "year": 2018,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_9398616416"
+  },
+  {
+    "year": 2019,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "EA211"
+    ],
+    "fitment_id": "f_53bab0efef"
+  },
+  {
+    "year": 2019,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_627a8eaa0b"
+  },
+  {
+    "year": 2019,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_fe052a6e89"
+  },
+  {
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "EA211"
+    ],
+    "fitment_id": "f_b013f85b4a"
+  },
+  {
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_6d6997cc79"
+  },
+  {
+    "year": 2020,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_223e27355b"
+  },
+  {
+    "year": 2021,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "EA211"
+    ],
+    "fitment_id": "f_1c4ab43e2f"
+  },
+  {
+    "year": 2021,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_58e9c04d47"
+  },
+  {
+    "year": 2021,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_6ae64c2df2"
+  },
+  {
+    "year": 2022,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "EA211"
+    ],
+    "fitment_id": "f_0da4469769"
+  },
+  {
+    "year": 2022,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_97477571e8"
+  },
+  {
+    "year": 2022,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_e7f1133335"
+  },
+  {
+    "year": 2023,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "EA211"
+    ],
+    "fitment_id": "f_3b970788ea"
+  },
+  {
+    "year": 2023,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_37f9507971"
+  },
+  {
+    "year": 2023,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_f8e624823c"
+  },
+  {
+    "year": 2024,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "1.4L Turbo I4",
+    "engine_code": [
+      "EA211"
+    ],
+    "fitment_id": "f_eceb4f11b8"
+  },
+  {
+    "year": 2024,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_b97fb5a98b"
+  },
+  {
+    "year": 2024,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EA888"
+    ],
+    "fitment_id": "f_04739192e2"
+  }
+]

@@ -1,0 +1,2392 @@
+[
+  {
+    "year": 1995,
+    "make": "Chrysler",
+    "model": "Cirrus",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_bd07e7811e"
+  },
+  {
+    "year": 1995,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_00250520c2"
+  },
+  {
+    "year": 1995,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_561ca7130e"
+  },
+  {
+    "year": 1995,
+    "make": "Chrysler",
+    "model": "LHS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_a2270e599b"
+  },
+  {
+    "year": 1995,
+    "make": "Chrysler",
+    "model": "New Yorker",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_19daf8ecdb"
+  },
+  {
+    "year": 1995,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "420A"
+    ],
+    "fitment_id": "f_f9824d32c5"
+  },
+  {
+    "year": 1995,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_9999737610"
+  },
+  {
+    "year": 1995,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_742dc5e80f"
+  },
+  {
+    "year": 1995,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_f56300035f"
+  },
+  {
+    "year": 1996,
+    "make": "Chrysler",
+    "model": "Cirrus",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_2541727c6a"
+  },
+  {
+    "year": 1996,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_12c3a9eb78"
+  },
+  {
+    "year": 1996,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_6a210a9269"
+  },
+  {
+    "year": 1996,
+    "make": "Chrysler",
+    "model": "LHS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_85f6b6969f"
+  },
+  {
+    "year": 1996,
+    "make": "Chrysler",
+    "model": "New Yorker",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_1e4ade61fc"
+  },
+  {
+    "year": 1996,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "420A"
+    ],
+    "fitment_id": "f_59c56340c1"
+  },
+  {
+    "year": 1996,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_58cdd6f905"
+  },
+  {
+    "year": 1996,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_bd2a542679"
+  },
+  {
+    "year": 1996,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_cc5953b2ca"
+  },
+  {
+    "year": 1997,
+    "make": "Chrysler",
+    "model": "Cirrus",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_002b04fe04"
+  },
+  {
+    "year": 1997,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_947c74eeb7"
+  },
+  {
+    "year": 1997,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_ce7f4c6a98"
+  },
+  {
+    "year": 1997,
+    "make": "Chrysler",
+    "model": "LHS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_453c0e427f"
+  },
+  {
+    "year": 1997,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "420A"
+    ],
+    "fitment_id": "f_8031002701"
+  },
+  {
+    "year": 1997,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_f72c51dc49"
+  },
+  {
+    "year": 1997,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_e3b89b77f3"
+  },
+  {
+    "year": 1997,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_57a1654cad"
+  },
+  {
+    "year": 1998,
+    "make": "Chrysler",
+    "model": "Cirrus",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_c06ec19cf1"
+  },
+  {
+    "year": 1998,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_07d5ed20b9"
+  },
+  {
+    "year": 1998,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EGP"
+    ],
+    "fitment_id": "f_2b32ad6e55"
+  },
+  {
+    "year": 1998,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_6fed8770cd"
+  },
+  {
+    "year": 1998,
+    "make": "Chrysler",
+    "model": "LHS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_4354380528"
+  },
+  {
+    "year": 1998,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "420A"
+    ],
+    "fitment_id": "f_14e4a6c635"
+  },
+  {
+    "year": 1998,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_4dd43f3a7b"
+  },
+  {
+    "year": 1998,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_df9214d796"
+  },
+  {
+    "year": 1998,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_517f48f685"
+  },
+  {
+    "year": 1999,
+    "make": "Chrysler",
+    "model": "300M",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_fddecefa8e"
+  },
+  {
+    "year": 1999,
+    "make": "Chrysler",
+    "model": "Cirrus",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_8af3f6bdc1"
+  },
+  {
+    "year": 1999,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_4978a8995c"
+  },
+  {
+    "year": 1999,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EGP"
+    ],
+    "fitment_id": "f_4f4ba8d64d"
+  },
+  {
+    "year": 1999,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_4149ad02e9"
+  },
+  {
+    "year": 1999,
+    "make": "Chrysler",
+    "model": "LHS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_6dad1fe0d6"
+  },
+  {
+    "year": 1999,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "420A"
+    ],
+    "fitment_id": "f_23676d55a9"
+  },
+  {
+    "year": 1999,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_27fa83c4b4"
+  },
+  {
+    "year": 1999,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_6449e5a6df"
+  },
+  {
+    "year": 1999,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_3138486568"
+  },
+  {
+    "year": 2000,
+    "make": "Chrysler",
+    "model": "300M",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_9a150beccf"
+  },
+  {
+    "year": 2000,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_54ce4feac8"
+  },
+  {
+    "year": 2000,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EGP"
+    ],
+    "fitment_id": "f_d2adc36b3e"
+  },
+  {
+    "year": 2000,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_da09c49aa7"
+  },
+  {
+    "year": 2000,
+    "make": "Chrysler",
+    "model": "LHS",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_1b212304bd"
+  },
+  {
+    "year": 2000,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_5569245a0f"
+  },
+  {
+    "year": 2000,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.5L V6",
+    "engine_code": [
+      "6G73"
+    ],
+    "fitment_id": "f_5700a85f70"
+  },
+  {
+    "year": 2000,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_252b04bb7a"
+  },
+  {
+    "year": 2000,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_b4bdf68af8"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "300M",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_e4602c30ab"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_faa66e5bfe"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EGP"
+    ],
+    "fitment_id": "f_f64eea369f"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_1703710a1d"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_6a33b2c4f8"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_a89d01b393"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_2f03ec67c6"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_2a1a28fa4f"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "6G72"
+    ],
+    "fitment_id": "f_47d13c8006"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_4f1ad2d316"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_a0acb6bf21"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_b01fc47425"
+  },
+  {
+    "year": 2001,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_953be27e4b"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "300M",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_068c3d41ad"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_3cc711946d"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_9c0ed96449"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_aceded89aa"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_3544e59dc8"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_9566c982fe"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_b7f61169f8"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "6G72"
+    ],
+    "fitment_id": "f_13d37fe59f"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_1833da9ec8"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_9f621b5937"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_48a8a55af8"
+  },
+  {
+    "year": 2002,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_0e011e363d"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "300M",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_e45401b583"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_54f7542b49"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_6c745b8b02"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_717f4cec4c"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_351d287ea8"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_2933e3e329"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "4G64"
+    ],
+    "fitment_id": "f_ae6f2bf607"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "Sebring Coupe",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "6G72"
+    ],
+    "fitment_id": "f_6f330ebaf4"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_b64d01b15e"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_2ec8339630"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_3789f99e12"
+  },
+  {
+    "year": 2003,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_ab4c7466dc"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "300M",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_0fc2adf59e"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_81e6a3c662"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "Concorde",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_b1adef5730"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_ebcc6a3bdd"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_8a0b483ef0"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_765784f0e5"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_0e0d33fee5"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_531dcb1d2a"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_cbde4085e5"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_4514d8e4df"
+  },
+  {
+    "year": 2004,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_bfea2da470"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_52b266d3cd"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_6fc13ec5fb"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_dc37e9bbee"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_74a6cb47a2"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_c0b05a4fc1"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_f8a22cc1d0"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_6a0b21cb51"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_daa6749bcb"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_7a81c99c34"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_e84eb54d91"
+  },
+  {
+    "year": 2005,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_34e0c94abb"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_edac53ef48"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_b4fbf8c534"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_b0da13efb0"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "6.1L V8",
+    "engine_code": [
+      "ESF"
+    ],
+    "fitment_id": "f_9409843342"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_085ab7b7d8"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_f18a709904"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_ff38aff959"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_df4522d993"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_1bc3e77746"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_24ec2d70ec"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_f5b453b503"
+  },
+  {
+    "year": 2006,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_fdaf36adad"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_4d522198c5"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_debdfdf6a6"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_0861e3fb4b"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "6.1L V8",
+    "engine_code": [
+      "ESF"
+    ],
+    "fitment_id": "f_f650502271"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_a689070c20"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_8abeed4a0c"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "4.0L V6",
+    "engine_code": [
+      "EGT"
+    ],
+    "fitment_id": "f_e0ac378897"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_d68f3ddda7"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_53580eeef6"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_6c3cf2904f"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_94f7d837ba"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_64c7762f5b"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_f62e8bb372"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_b4ceb1b37d"
+  },
+  {
+    "year": 2007,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_d52009b1b9"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_077f061e2c"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_c5374ec249"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_3cef99b67d"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "6.1L V8",
+    "engine_code": [
+      "ESF"
+    ],
+    "fitment_id": "f_3c472e5094"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Aspen",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVA"
+    ],
+    "fitment_id": "f_455c2456a3"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Aspen",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_3df1e855bd"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_5d6da004a5"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "4.0L V6",
+    "engine_code": [
+      "EGT"
+    ],
+    "fitment_id": "f_cfeaa88e61"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_23c9df76fd"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_1675a97e76"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_22cd7f56ef"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_cb028f6567"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_be0ddfc7d8"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_a1882b1559"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_1651f666b1"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_35eb5675c3"
+  },
+  {
+    "year": 2008,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "4.0L V6",
+    "engine_code": [
+      "EGT"
+    ],
+    "fitment_id": "f_e6edef03b0"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_fb02895540"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_4a3d951b79"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_2d88ddfe45"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "6.1L V8",
+    "engine_code": [
+      "ESF"
+    ],
+    "fitment_id": "f_64957afb08"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Aspen",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVA"
+    ],
+    "fitment_id": "f_b3dec8d2ed"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Aspen",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_43fbf892f1"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_85892a792a"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_25882a613a"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_e143a77a35"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_499c857c40"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_ce039faf65"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_94ac7358cc"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_52747499de"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_23e6e54d8e"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_1880c07dca"
+  },
+  {
+    "year": 2009,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "4.0L V6",
+    "engine_code": [
+      "EGT"
+    ],
+    "fitment_id": "f_107a51a94c"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_6b64938c9f"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "EGG"
+    ],
+    "fitment_id": "f_2a8d8855e2"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_7fcb79bdce"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "PT Cruiser",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "EDZ"
+    ],
+    "fitment_id": "f_349a0409b0"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_7601b07a09"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "Sebring Convertible",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_f4fc1bf060"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_c22dfffd68"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "Sebring Sedan",
+    "engine": "2.7L V6",
+    "engine_code": [
+      "EER"
+    ],
+    "fitment_id": "f_fd5d027342"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.3L V6",
+    "engine_code": [
+      "EGW"
+    ],
+    "fitment_id": "f_799592cd43"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_0e39740d25"
+  },
+  {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "4.0L V6",
+    "engine_code": [
+      "EGT"
+    ],
+    "fitment_id": "f_4f6560574a"
+  },
+  {
+    "year": 2011,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_5ed3e3d0c6"
+  },
+  {
+    "year": 2011,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_6f9da0611f"
+  },
+  {
+    "year": 2011,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_8928f255a4"
+  },
+  {
+    "year": 2011,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_58197767b4"
+  },
+  {
+    "year": 2011,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_12407f3c2c"
+  },
+  {
+    "year": 2012,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_873ef8b09e"
+  },
+  {
+    "year": 2012,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_f18bf21c23"
+  },
+  {
+    "year": 2012,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_6c84f6b79e"
+  },
+  {
+    "year": 2012,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_5eb2f0fa9f"
+  },
+  {
+    "year": 2012,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_1d85bb1322"
+  },
+  {
+    "year": 2013,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_4f0dcb381c"
+  },
+  {
+    "year": 2013,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_e48602df97"
+  },
+  {
+    "year": 2013,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_d6848f13ed"
+  },
+  {
+    "year": 2013,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_9077580733"
+  },
+  {
+    "year": 2013,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_cea4cffda7"
+  },
+  {
+    "year": 2014,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_f5add919cb"
+  },
+  {
+    "year": 2014,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_751e0ecc34"
+  },
+  {
+    "year": 2014,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_febcaeb6e4"
+  },
+  {
+    "year": 2014,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_656f1801dc"
+  },
+  {
+    "year": 2014,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_f4dd8d192e"
+  },
+  {
+    "year": 2015,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_41f94f7012"
+  },
+  {
+    "year": 2015,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_c7d258fe81"
+  },
+  {
+    "year": 2015,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_c4505efef2"
+  },
+  {
+    "year": 2015,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_f80b62ae62"
+  },
+  {
+    "year": 2015,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_f1bb951333"
+  },
+  {
+    "year": 2016,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_eaa2820810"
+  },
+  {
+    "year": 2016,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_a1f4b2892b"
+  },
+  {
+    "year": 2016,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_3f229c96da"
+  },
+  {
+    "year": 2016,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_44f545d0b6"
+  },
+  {
+    "year": 2016,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_a152b3fda3"
+  },
+  {
+    "year": 2017,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED3"
+    ],
+    "fitment_id": "f_3e055f8c76"
+  },
+  {
+    "year": 2017,
+    "make": "Chrysler",
+    "model": "200",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_bfacb41108"
+  },
+  {
+    "year": 2017,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_409a1e3e59"
+  },
+  {
+    "year": 2017,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_e28773d2ec"
+  },
+  {
+    "year": 2017,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_57b6f9cc57"
+  },
+  {
+    "year": 2018,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_38f58cd17a"
+  },
+  {
+    "year": 2018,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_aa77893214"
+  },
+  {
+    "year": 2018,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_cb35841c14"
+  },
+  {
+    "year": 2019,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_36ba8771b6"
+  },
+  {
+    "year": 2019,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_8e0feeae68"
+  },
+  {
+    "year": 2019,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_0b125371df"
+  },
+  {
+    "year": 2020,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_b589d4a862"
+  },
+  {
+    "year": 2020,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_427264e283"
+  },
+  {
+    "year": 2020,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_b61a95ee6e"
+  },
+  {
+    "year": 2021,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_7310610979"
+  },
+  {
+    "year": 2021,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_0d073921f2"
+  },
+  {
+    "year": 2021,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_009ed73dbd"
+  },
+  {
+    "year": 2022,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_02c5c2073b"
+  },
+  {
+    "year": 2022,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_14a17c74c1"
+  },
+  {
+    "year": 2022,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_80925af696"
+  },
+  {
+    "year": 2023,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_0799b2e7f2"
+  },
+  {
+    "year": 2023,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_950757be9c"
+  },
+  {
+    "year": 2023,
+    "make": "Chrysler",
+    "model": "300",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESA"
+    ],
+    "fitment_id": "f_1642c77a3a"
+  },
+  {
+    "year": 2023,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_b82309240c"
+  },
+  {
+    "year": 2024,
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_663079b1d3"
+  }
+]

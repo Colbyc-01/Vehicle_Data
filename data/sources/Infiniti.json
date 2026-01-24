@@ -1,0 +1,902 @@
+[
+  {
+    "year": 1995,
+    "make": "Infiniti",
+    "model": "G20",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "SR20DE"
+    ],
+    "fitment_id": "f_b85ba24878"
+  },
+  {
+    "year": 1995,
+    "make": "Infiniti",
+    "model": "I30",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_b21c285c5a"
+  },
+  {
+    "year": 1995,
+    "make": "Infiniti",
+    "model": "Q45",
+    "engine": "4.1L V8",
+    "engine_code": [
+      "VH41DE"
+    ],
+    "fitment_id": "f_0e87989307"
+  },
+  {
+    "year": 1996,
+    "make": "Infiniti",
+    "model": "G20",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "SR20DE"
+    ],
+    "fitment_id": "f_7ed49634ab"
+  },
+  {
+    "year": 1996,
+    "make": "Infiniti",
+    "model": "I30",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_f5eb9d5381"
+  },
+  {
+    "year": 1996,
+    "make": "Infiniti",
+    "model": "Q45",
+    "engine": "4.1L V8",
+    "engine_code": [
+      "VH41DE"
+    ],
+    "fitment_id": "f_8b2a4bb2ee"
+  },
+  {
+    "year": 1997,
+    "make": "Infiniti",
+    "model": "G20",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "SR20DE"
+    ],
+    "fitment_id": "f_14f99d8075"
+  },
+  {
+    "year": 1997,
+    "make": "Infiniti",
+    "model": "I30",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_046bbdf293"
+  },
+  {
+    "year": 1997,
+    "make": "Infiniti",
+    "model": "Q45",
+    "engine": "4.1L V8",
+    "engine_code": [
+      "VH41DE"
+    ],
+    "fitment_id": "f_86a9ecf9f7"
+  },
+  {
+    "year": 1998,
+    "make": "Infiniti",
+    "model": "G20",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "SR20DE"
+    ],
+    "fitment_id": "f_12187cfe75"
+  },
+  {
+    "year": 1998,
+    "make": "Infiniti",
+    "model": "I30",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_2c09c66c4b"
+  },
+  {
+    "year": 1998,
+    "make": "Infiniti",
+    "model": "Q45",
+    "engine": "4.1L V8",
+    "engine_code": [
+      "VH41DE"
+    ],
+    "fitment_id": "f_f7bbb4b901"
+  },
+  {
+    "year": 1999,
+    "make": "Infiniti",
+    "model": "G20",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "SR20DE"
+    ],
+    "fitment_id": "f_a0f59259ce"
+  },
+  {
+    "year": 1999,
+    "make": "Infiniti",
+    "model": "I30",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_eaa56b4b5b"
+  },
+  {
+    "year": 1999,
+    "make": "Infiniti",
+    "model": "Q45",
+    "engine": "4.1L V8",
+    "engine_code": [
+      "VH41DE"
+    ],
+    "fitment_id": "f_09c9a59773"
+  },
+  {
+    "year": 2000,
+    "make": "Infiniti",
+    "model": "G20",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "SR20DE"
+    ],
+    "fitment_id": "f_ce8f97053d"
+  },
+  {
+    "year": 2000,
+    "make": "Infiniti",
+    "model": "I30",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "VQ30DE"
+    ],
+    "fitment_id": "f_08789f0b0a"
+  },
+  {
+    "year": 2000,
+    "make": "Infiniti",
+    "model": "Q45",
+    "engine": "4.1L V8",
+    "engine_code": [
+      "VH41DE"
+    ],
+    "fitment_id": "f_e60e676684"
+  },
+  {
+    "year": 2001,
+    "make": "Infiniti",
+    "model": "I35",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_56ce677b7b"
+  },
+  {
+    "year": 2001,
+    "make": "Infiniti",
+    "model": "Q45",
+    "engine": "4.5L V8",
+    "engine_code": [
+      "VK45DE"
+    ],
+    "fitment_id": "f_8831aceac6"
+  },
+  {
+    "year": 2002,
+    "make": "Infiniti",
+    "model": "I35",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_47e2251db4"
+  },
+  {
+    "year": 2002,
+    "make": "Infiniti",
+    "model": "Q45",
+    "engine": "4.5L V8",
+    "engine_code": [
+      "VK45DE"
+    ],
+    "fitment_id": "f_69c8e3f2ce"
+  },
+  {
+    "year": 2003,
+    "make": "Infiniti",
+    "model": "G35",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_21a3554087"
+  },
+  {
+    "year": 2003,
+    "make": "Infiniti",
+    "model": "I35",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_50d1e6d198"
+  },
+  {
+    "year": 2003,
+    "make": "Infiniti",
+    "model": "Q45",
+    "engine": "4.5L V8",
+    "engine_code": [
+      "VK45DE"
+    ],
+    "fitment_id": "f_c2c4a337f3"
+  },
+  {
+    "year": 2004,
+    "make": "Infiniti",
+    "model": "G35",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_fcb901f9e9"
+  },
+  {
+    "year": 2005,
+    "make": "Infiniti",
+    "model": "G35",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_cb27e8128e"
+  },
+  {
+    "year": 2006,
+    "make": "Infiniti",
+    "model": "G35",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_654ce348a9"
+  },
+  {
+    "year": 2007,
+    "make": "Infiniti",
+    "model": "G35",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_169785eabc"
+  },
+  {
+    "year": 2008,
+    "make": "Infiniti",
+    "model": "G37",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_09fc1995d3"
+  },
+  {
+    "year": 2009,
+    "make": "Infiniti",
+    "model": "G37",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_ea78bfe1e0"
+  },
+  {
+    "year": 2010,
+    "make": "Infiniti",
+    "model": "G37",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_34310e4c40"
+  },
+  {
+    "year": 2011,
+    "make": "Infiniti",
+    "model": "G37",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_453006e051"
+  },
+  {
+    "year": 2012,
+    "make": "Infiniti",
+    "model": "G37",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_1c5221b148"
+  },
+  {
+    "year": 2013,
+    "make": "Infiniti",
+    "model": "G37",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_e3b2c2af6a"
+  },
+  {
+    "year": 2014,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_eacb5ec06e"
+  },
+  {
+    "year": 2014,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_fca0ccd551"
+  },
+  {
+    "year": 2014,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_e71eaf7e62"
+  },
+  {
+    "year": 2014,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_11fdd658e7"
+  },
+  {
+    "year": 2014,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_b44f8fdf3b"
+  },
+  {
+    "year": 2015,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_2673b0bc16"
+  },
+  {
+    "year": 2015,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_b2690f7e82"
+  },
+  {
+    "year": 2015,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_0d21221baa"
+  },
+  {
+    "year": 2015,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_b872dca663"
+  },
+  {
+    "year": 2015,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_3fd705fd09"
+  },
+  {
+    "year": 2016,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_6e8abe831f"
+  },
+  {
+    "year": 2016,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_1d46932282"
+  },
+  {
+    "year": 2016,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_8cd89e0913"
+  },
+  {
+    "year": 2016,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_ffab19d9b1"
+  },
+  {
+    "year": 2016,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_9b30a0ae04"
+  },
+  {
+    "year": 2017,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_f968f9018b"
+  },
+  {
+    "year": 2017,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_363b8c5c95"
+  },
+  {
+    "year": 2017,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_08dae42ba2"
+  },
+  {
+    "year": 2017,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_cb15ba2f6f"
+  },
+  {
+    "year": 2017,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_5d808ec218"
+  },
+  {
+    "year": 2018,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_7096cbcc50"
+  },
+  {
+    "year": 2018,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_900787b091"
+  },
+  {
+    "year": 2018,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_f4ddea79cd"
+  },
+  {
+    "year": 2018,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_99ba868096"
+  },
+  {
+    "year": 2018,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_f510fee63b"
+  },
+  {
+    "year": 2019,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_57960c202b"
+  },
+  {
+    "year": 2019,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_38877a9398"
+  },
+  {
+    "year": 2019,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_441fede3dd"
+  },
+  {
+    "year": 2019,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_3b86a00563"
+  },
+  {
+    "year": 2019,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_e6d65e5980"
+  },
+  {
+    "year": 2020,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_adda498293"
+  },
+  {
+    "year": 2020,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_6ec10e04a3"
+  },
+  {
+    "year": 2020,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_80dcabafe8"
+  },
+  {
+    "year": 2020,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_87fb3e5c8e"
+  },
+  {
+    "year": 2020,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_bc149573b6"
+  },
+  {
+    "year": 2021,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_056a422315"
+  },
+  {
+    "year": 2021,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_4deacdd502"
+  },
+  {
+    "year": 2021,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_f8cd4e5467"
+  },
+  {
+    "year": 2021,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_4867d89d94"
+  },
+  {
+    "year": 2021,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_08751e5473"
+  },
+  {
+    "year": 2022,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_12eeae5715"
+  },
+  {
+    "year": 2022,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_270611f3c1"
+  },
+  {
+    "year": 2022,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_1c298433cb"
+  },
+  {
+    "year": 2022,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_2adc7c57d7"
+  },
+  {
+    "year": 2022,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_35e35371d1"
+  },
+  {
+    "year": 2023,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_e019102188"
+  },
+  {
+    "year": 2023,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_80565eee0a"
+  },
+  {
+    "year": 2023,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_c67e462238"
+  },
+  {
+    "year": 2023,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_de78267ec5"
+  },
+  {
+    "year": 2023,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_803e812119"
+  },
+  {
+    "year": 2024,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.0L Turbo V6",
+    "engine_code": [
+      "VR30DDTT"
+    ],
+    "fitment_id": "f_5b3f0cb3cd"
+  },
+  {
+    "year": 2024,
+    "make": "Infiniti",
+    "model": "Q50",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "VQ37VHR"
+    ],
+    "fitment_id": "f_7077a67463"
+  },
+  {
+    "year": 2024,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "KR20DDET"
+    ],
+    "fitment_id": "f_2526b48ba0"
+  },
+  {
+    "year": 2024,
+    "make": "Infiniti",
+    "model": "QX60",
+    "engine": "3.5L V6",
+    "engine_code": [
+      "VQ35DE"
+    ],
+    "fitment_id": "f_3e98af378d"
+  },
+  {
+    "year": 2024,
+    "make": "Infiniti",
+    "model": "QX80",
+    "engine": "5.6L V8",
+    "engine_code": [
+      "VK56VD"
+    ],
+    "fitment_id": "f_3062423202"
+  }
+]

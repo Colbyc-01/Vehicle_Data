@@ -1,0 +1,542 @@
+[
+  {
+    "year": 1995,
+    "make": "Volvo",
+    "model": "850",
+    "engine": "2.4L I5",
+    "engine_code": [
+      "B5254"
+    ],
+    "fitment_id": "f_d26bd83cde"
+  },
+  {
+    "year": 1996,
+    "make": "Volvo",
+    "model": "850",
+    "engine": "2.4L I5",
+    "engine_code": [
+      "B5254"
+    ],
+    "fitment_id": "f_5463c51af9"
+  },
+  {
+    "year": 1997,
+    "make": "Volvo",
+    "model": "850",
+    "engine": "2.4L I5",
+    "engine_code": [
+      "B5254"
+    ],
+    "fitment_id": "f_1f8367fd14"
+  },
+  {
+    "year": 1998,
+    "make": "Volvo",
+    "model": "850",
+    "engine": "2.4L I5",
+    "engine_code": [
+      "B5254"
+    ],
+    "fitment_id": "f_83f8483f61"
+  },
+  {
+    "year": 1999,
+    "make": "Volvo",
+    "model": "850",
+    "engine": "2.4L I5",
+    "engine_code": [
+      "B5254"
+    ],
+    "fitment_id": "f_cbabc00dfc"
+  },
+  {
+    "year": 2000,
+    "make": "Volvo",
+    "model": "850",
+    "engine": "2.4L I5",
+    "engine_code": [
+      "B5254"
+    ],
+    "fitment_id": "f_9e84c3cbce"
+  },
+  {
+    "year": 2001,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "B5254T"
+    ],
+    "fitment_id": "f_94fe3c7d84"
+  },
+  {
+    "year": 2001,
+    "make": "Volvo",
+    "model": "XC90",
+    "engine": "2.9L Turbo I6",
+    "engine_code": [
+      "B6294T"
+    ],
+    "fitment_id": "f_e5b5a754f7"
+  },
+  {
+    "year": 2002,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "B5254T"
+    ],
+    "fitment_id": "f_e66c3acfc4"
+  },
+  {
+    "year": 2002,
+    "make": "Volvo",
+    "model": "XC90",
+    "engine": "2.9L Turbo I6",
+    "engine_code": [
+      "B6294T"
+    ],
+    "fitment_id": "f_67a0b278d6"
+  },
+  {
+    "year": 2003,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "B5254T"
+    ],
+    "fitment_id": "f_b652b31940"
+  },
+  {
+    "year": 2003,
+    "make": "Volvo",
+    "model": "XC90",
+    "engine": "2.9L Turbo I6",
+    "engine_code": [
+      "B6294T"
+    ],
+    "fitment_id": "f_0e59cc50b0"
+  },
+  {
+    "year": 2004,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "B5254T"
+    ],
+    "fitment_id": "f_e3fcc54822"
+  },
+  {
+    "year": 2004,
+    "make": "Volvo",
+    "model": "XC90",
+    "engine": "2.9L Turbo I6",
+    "engine_code": [
+      "B6294T"
+    ],
+    "fitment_id": "f_cec8026cb1"
+  },
+  {
+    "year": 2005,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "B5254T"
+    ],
+    "fitment_id": "f_61df1ea248"
+  },
+  {
+    "year": 2005,
+    "make": "Volvo",
+    "model": "XC90",
+    "engine": "2.9L Turbo I6",
+    "engine_code": [
+      "B6294T"
+    ],
+    "fitment_id": "f_73cd310a55"
+  },
+  {
+    "year": 2006,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "B5254T"
+    ],
+    "fitment_id": "f_87bb8224db"
+  },
+  {
+    "year": 2006,
+    "make": "Volvo",
+    "model": "XC90",
+    "engine": "2.9L Turbo I6",
+    "engine_code": [
+      "B6294T"
+    ],
+    "fitment_id": "f_da18300b69"
+  },
+  {
+    "year": 2007,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "B5254T"
+    ],
+    "fitment_id": "f_c6daf649e2"
+  },
+  {
+    "year": 2007,
+    "make": "Volvo",
+    "model": "XC90",
+    "engine": "2.9L Turbo I6",
+    "engine_code": [
+      "B6294T"
+    ],
+    "fitment_id": "f_575d494aff"
+  },
+  {
+    "year": 2008,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "B5254T"
+    ],
+    "fitment_id": "f_1e7cd00e91"
+  },
+  {
+    "year": 2008,
+    "make": "Volvo",
+    "model": "XC90",
+    "engine": "2.9L Turbo I6",
+    "engine_code": [
+      "B6294T"
+    ],
+    "fitment_id": "f_ad142157fa"
+  },
+  {
+    "year": 2009,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "B5254T"
+    ],
+    "fitment_id": "f_a09381d75d"
+  },
+  {
+    "year": 2009,
+    "make": "Volvo",
+    "model": "XC90",
+    "engine": "2.9L Turbo I6",
+    "engine_code": [
+      "B6294T"
+    ],
+    "fitment_id": "f_37df4a3f44"
+  },
+  {
+    "year": 2010,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.5L Turbo I5",
+    "engine_code": [
+      "B5254T"
+    ],
+    "fitment_id": "f_a51e554d9f"
+  },
+  {
+    "year": 2010,
+    "make": "Volvo",
+    "model": "XC90",
+    "engine": "2.9L Turbo I6",
+    "engine_code": [
+      "B6294T"
+    ],
+    "fitment_id": "f_c2870efddd"
+  },
+  {
+    "year": 2011,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_c2f0567b03"
+  },
+  {
+    "year": 2011,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_1f9810bc06"
+  },
+  {
+    "year": 2012,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_a11f81b5db"
+  },
+  {
+    "year": 2012,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_a10cd5d176"
+  },
+  {
+    "year": 2013,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_148a5499d3"
+  },
+  {
+    "year": 2013,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_589b98a037"
+  },
+  {
+    "year": 2014,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_a1c7d0dc2d"
+  },
+  {
+    "year": 2014,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_44afc80ddf"
+  },
+  {
+    "year": 2015,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_193a981e4e"
+  },
+  {
+    "year": 2015,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_9328292b5e"
+  },
+  {
+    "year": 2016,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_51b9478ab0"
+  },
+  {
+    "year": 2016,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_5db39e95a3"
+  },
+  {
+    "year": 2017,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_675fecc608"
+  },
+  {
+    "year": 2017,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_d53ac56a83"
+  },
+  {
+    "year": 2018,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_8d9f05f9af"
+  },
+  {
+    "year": 2018,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_46496f03fc"
+  },
+  {
+    "year": 2019,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_6d7ab93efe"
+  },
+  {
+    "year": 2019,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_c980c3516f"
+  },
+  {
+    "year": 2020,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_ef49b5fb86"
+  },
+  {
+    "year": 2020,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_6f0321ec98"
+  },
+  {
+    "year": 2021,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_07a814ced5"
+  },
+  {
+    "year": 2021,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_f2eaab9570"
+  },
+  {
+    "year": 2022,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_c422e6eec7"
+  },
+  {
+    "year": 2022,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_c5f9c83d7d"
+  },
+  {
+    "year": 2023,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_db2a93e169"
+  },
+  {
+    "year": 2023,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_b6e9601a93"
+  },
+  {
+    "year": 2024,
+    "make": "Volvo",
+    "model": "S60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_083ee3eace"
+  },
+  {
+    "year": 2024,
+    "make": "Volvo",
+    "model": "XC60",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "B4204T"
+    ],
+    "fitment_id": "f_0124b4d366"
+  }
+]

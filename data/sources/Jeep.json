@@ -1,0 +1,1372 @@
+[
+  {
+    "year": 1995,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_bea419f04b"
+  },
+  {
+    "year": 1995,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_d910804847"
+  },
+  {
+    "year": 1995,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.2L V8",
+    "engine_code": [
+      "318"
+    ],
+    "fitment_id": "f_6225eed098"
+  },
+  {
+    "year": 1995,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "AMC150"
+    ],
+    "fitment_id": "f_3ba04b8976"
+  },
+  {
+    "year": 1995,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_bd418430dc"
+  },
+  {
+    "year": 1996,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_4e60537c07"
+  },
+  {
+    "year": 1996,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_2a3fbe7cd5"
+  },
+  {
+    "year": 1996,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.2L V8",
+    "engine_code": [
+      "318"
+    ],
+    "fitment_id": "f_314572fe56"
+  },
+  {
+    "year": 1996,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "AMC150"
+    ],
+    "fitment_id": "f_be6f906046"
+  },
+  {
+    "year": 1996,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_35bd907a91"
+  },
+  {
+    "year": 1997,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_94bb74ad69"
+  },
+  {
+    "year": 1997,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_be296bea64"
+  },
+  {
+    "year": 1997,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.2L V8",
+    "engine_code": [
+      "318"
+    ],
+    "fitment_id": "f_d75116889a"
+  },
+  {
+    "year": 1997,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "AMC150"
+    ],
+    "fitment_id": "f_46df094c96"
+  },
+  {
+    "year": 1997,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_f420b067d7"
+  },
+  {
+    "year": 1998,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_4ea25d1a07"
+  },
+  {
+    "year": 1998,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_48494d8ee0"
+  },
+  {
+    "year": 1998,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.2L V8",
+    "engine_code": [
+      "318"
+    ],
+    "fitment_id": "f_80530ed098"
+  },
+  {
+    "year": 1998,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "AMC150"
+    ],
+    "fitment_id": "f_1790cb3eeb"
+  },
+  {
+    "year": 1998,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_8c701fd125"
+  },
+  {
+    "year": 1999,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_87568b1f54"
+  },
+  {
+    "year": 1999,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_788fdc9667"
+  },
+  {
+    "year": 1999,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.2L V8",
+    "engine_code": [
+      "318"
+    ],
+    "fitment_id": "f_4885d6592c"
+  },
+  {
+    "year": 1999,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "AMC150"
+    ],
+    "fitment_id": "f_e268aa27ed"
+  },
+  {
+    "year": 1999,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_065f23bc30"
+  },
+  {
+    "year": 2000,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_2bbcc47735"
+  },
+  {
+    "year": 2000,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_25de776956"
+  },
+  {
+    "year": 2000,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.2L V8",
+    "engine_code": [
+      "318"
+    ],
+    "fitment_id": "f_3ec429ae50"
+  },
+  {
+    "year": 2000,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "AMC150"
+    ],
+    "fitment_id": "f_1f0c23bc14"
+  },
+  {
+    "year": 2000,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_5d4e30390e"
+  },
+  {
+    "year": 2001,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_8dca64e11b"
+  },
+  {
+    "year": 2001,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_b4876efb4a"
+  },
+  {
+    "year": 2001,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.2L V8",
+    "engine_code": [
+      "318"
+    ],
+    "fitment_id": "f_aa6e2f3e9b"
+  },
+  {
+    "year": 2001,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "AMC150"
+    ],
+    "fitment_id": "f_42a749f809"
+  },
+  {
+    "year": 2001,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_d82a75efd1"
+  },
+  {
+    "year": 2002,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVE"
+    ],
+    "fitment_id": "f_58a624022b"
+  },
+  {
+    "year": 2002,
+    "make": "Jeep",
+    "model": "Liberty",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "EKG"
+    ],
+    "fitment_id": "f_13a031c7e2"
+  },
+  {
+    "year": 2002,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_2487261762"
+  },
+  {
+    "year": 2003,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVE"
+    ],
+    "fitment_id": "f_2c521f36b2"
+  },
+  {
+    "year": 2003,
+    "make": "Jeep",
+    "model": "Liberty",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "EKG"
+    ],
+    "fitment_id": "f_ce3938f404"
+  },
+  {
+    "year": 2003,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_d56322bdf7"
+  },
+  {
+    "year": 2004,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVE"
+    ],
+    "fitment_id": "f_7333214bcf"
+  },
+  {
+    "year": 2004,
+    "make": "Jeep",
+    "model": "Liberty",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "EKG"
+    ],
+    "fitment_id": "f_d476b4d563"
+  },
+  {
+    "year": 2004,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_cf5bc4e347"
+  },
+  {
+    "year": 2005,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVE"
+    ],
+    "fitment_id": "f_5da4de5e5b"
+  },
+  {
+    "year": 2005,
+    "make": "Jeep",
+    "model": "Liberty",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "EKG"
+    ],
+    "fitment_id": "f_4caa0c4e85"
+  },
+  {
+    "year": 2005,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "4.0L I6",
+    "engine_code": [
+      "ERH"
+    ],
+    "fitment_id": "f_60bcf02149"
+  },
+  {
+    "year": 2006,
+    "make": "Jeep",
+    "model": "Commander",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVE"
+    ],
+    "fitment_id": "f_18d4378151"
+  },
+  {
+    "year": 2006,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "EKG"
+    ],
+    "fitment_id": "f_074f5736a6"
+  },
+  {
+    "year": 2006,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_1c07a43c2d"
+  },
+  {
+    "year": 2006,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_5e299d597d"
+  },
+  {
+    "year": 2007,
+    "make": "Jeep",
+    "model": "Commander",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVE"
+    ],
+    "fitment_id": "f_0117f5a68c"
+  },
+  {
+    "year": 2007,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "EKG"
+    ],
+    "fitment_id": "f_6414234e09"
+  },
+  {
+    "year": 2007,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_0ad488f84a"
+  },
+  {
+    "year": 2007,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_bb443b8428"
+  },
+  {
+    "year": 2008,
+    "make": "Jeep",
+    "model": "Commander",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVE"
+    ],
+    "fitment_id": "f_ea41adba82"
+  },
+  {
+    "year": 2008,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "EKG"
+    ],
+    "fitment_id": "f_017c6c7fe4"
+  },
+  {
+    "year": 2008,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_cda594f8cd"
+  },
+  {
+    "year": 2008,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_5e1ea29ae3"
+  },
+  {
+    "year": 2009,
+    "make": "Jeep",
+    "model": "Commander",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVE"
+    ],
+    "fitment_id": "f_e122d43f8e"
+  },
+  {
+    "year": 2009,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "EKG"
+    ],
+    "fitment_id": "f_47a3d2a26e"
+  },
+  {
+    "year": 2009,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_b823c0a3f3"
+  },
+  {
+    "year": 2009,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_91a55dd253"
+  },
+  {
+    "year": 2010,
+    "make": "Jeep",
+    "model": "Commander",
+    "engine": "4.7L V8",
+    "engine_code": [
+      "EVE"
+    ],
+    "fitment_id": "f_337725019d"
+  },
+  {
+    "year": 2010,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.7L V6",
+    "engine_code": [
+      "EKG"
+    ],
+    "fitment_id": "f_ed20930611"
+  },
+  {
+    "year": 2010,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZB"
+    ],
+    "fitment_id": "f_75fd186f4b"
+  },
+  {
+    "year": 2010,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.8L V6",
+    "engine_code": [
+      "EGH"
+    ],
+    "fitment_id": "f_190288f83d"
+  },
+  {
+    "year": 2011,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_980735d4c9"
+  },
+  {
+    "year": 2011,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EHK"
+    ],
+    "fitment_id": "f_dcc7e79e02"
+  },
+  {
+    "year": 2011,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_6c206117fe"
+  },
+  {
+    "year": 2011,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_015ab8dd46"
+  },
+  {
+    "year": 2011,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_c42a9c0e5f"
+  },
+  {
+    "year": 2012,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_387e6e82d5"
+  },
+  {
+    "year": 2012,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EHK"
+    ],
+    "fitment_id": "f_1b85167993"
+  },
+  {
+    "year": 2012,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_cdc4abc72b"
+  },
+  {
+    "year": 2012,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_7852ad3a75"
+  },
+  {
+    "year": 2012,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_eb05d8eb5e"
+  },
+  {
+    "year": 2013,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_9ca9ad464f"
+  },
+  {
+    "year": 2013,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EHK"
+    ],
+    "fitment_id": "f_259bec188c"
+  },
+  {
+    "year": 2013,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_c816823efc"
+  },
+  {
+    "year": 2013,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_5c5afc43af"
+  },
+  {
+    "year": 2013,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_2dfc57a099"
+  },
+  {
+    "year": 2014,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_6d5577c50e"
+  },
+  {
+    "year": 2014,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EHK"
+    ],
+    "fitment_id": "f_712a073b32"
+  },
+  {
+    "year": 2014,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_44a39762d9"
+  },
+  {
+    "year": 2014,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_e26d6c27f7"
+  },
+  {
+    "year": 2014,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_5da380dfcd"
+  },
+  {
+    "year": 2015,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_e0eba59c51"
+  },
+  {
+    "year": 2015,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EHK"
+    ],
+    "fitment_id": "f_85d5237114"
+  },
+  {
+    "year": 2015,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_3e7b02ae45"
+  },
+  {
+    "year": 2015,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_0b275bdbd9"
+  },
+  {
+    "year": 2015,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_925e2fd54d"
+  },
+  {
+    "year": 2016,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_bfa78bcf1e"
+  },
+  {
+    "year": 2016,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EHK"
+    ],
+    "fitment_id": "f_c16c7db27c"
+  },
+  {
+    "year": 2016,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_22fbfb1e03"
+  },
+  {
+    "year": 2016,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_613ed27acc"
+  },
+  {
+    "year": 2016,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_a47cfd5cca"
+  },
+  {
+    "year": 2017,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_93c9aee801"
+  },
+  {
+    "year": 2017,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "EHK"
+    ],
+    "fitment_id": "f_42d8c882b0"
+  },
+  {
+    "year": 2017,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_733ba688ad"
+  },
+  {
+    "year": 2017,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_8ffe417d43"
+  },
+  {
+    "year": 2017,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_a97a031e1f"
+  },
+  {
+    "year": 2018,
+    "make": "Jeep",
+    "model": "Gladiator",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_5300890b82"
+  },
+  {
+    "year": 2018,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_f4609af543"
+  },
+  {
+    "year": 2018,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_1617edf022"
+  },
+  {
+    "year": 2018,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EC1"
+    ],
+    "fitment_id": "f_706e47e03f"
+  },
+  {
+    "year": 2018,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_d7c85e5de6"
+  },
+  {
+    "year": 2019,
+    "make": "Jeep",
+    "model": "Gladiator",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_b42bf8f999"
+  },
+  {
+    "year": 2019,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_dd841f31e9"
+  },
+  {
+    "year": 2019,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_0ad353513a"
+  },
+  {
+    "year": 2019,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EC1"
+    ],
+    "fitment_id": "f_514b27eee7"
+  },
+  {
+    "year": 2019,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_003d96c448"
+  },
+  {
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Gladiator",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_dfb0cf25b3"
+  },
+  {
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_50709e7c8e"
+  },
+  {
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_c99ff89d82"
+  },
+  {
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EC1"
+    ],
+    "fitment_id": "f_5daa5f2401"
+  },
+  {
+    "year": 2020,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_256a24e6fa"
+  },
+  {
+    "year": 2021,
+    "make": "Jeep",
+    "model": "Gladiator",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_11ddc44dc1"
+  },
+  {
+    "year": 2021,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_1b2db99bb6"
+  },
+  {
+    "year": 2021,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_60e1d945e3"
+  },
+  {
+    "year": 2021,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EC1"
+    ],
+    "fitment_id": "f_7962edff92"
+  },
+  {
+    "year": 2021,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_9ad133ab38"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Gladiator",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_5037bb824d"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_f123e9be78"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_4099bd2b45"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EC1"
+    ],
+    "fitment_id": "f_58e1799e4e"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_80d6e42dc4"
+  },
+  {
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Gladiator",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_64e6e7531a"
+  },
+  {
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_7b46e2db4c"
+  },
+  {
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_53fc18c38a"
+  },
+  {
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EC1"
+    ],
+    "fitment_id": "f_bec2a75fcc"
+  },
+  {
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_e4c1b1ac93"
+  },
+  {
+    "year": 2024,
+    "make": "Jeep",
+    "model": "Gladiator",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_2779f1e080"
+  },
+  {
+    "year": 2024,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_260d964223"
+  },
+  {
+    "year": 2024,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_a08cbd7e7c"
+  },
+  {
+    "year": 2024,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "2.0L Turbo I4",
+    "engine_code": [
+      "EC1"
+    ],
+    "fitment_id": "f_5f2ffcbbb1"
+  },
+  {
+    "year": 2024,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_63a223d29b"
+  }
+]

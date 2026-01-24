@@ -1,0 +1,452 @@
+[
+  {
+    "year": 1995,
+    "make": "Land Rover",
+    "model": "Discovery",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "ROVER40"
+    ],
+    "fitment_id": "f_16e9aa384f"
+  },
+  {
+    "year": 1996,
+    "make": "Land Rover",
+    "model": "Discovery",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "ROVER40"
+    ],
+    "fitment_id": "f_edf0c7ade6"
+  },
+  {
+    "year": 1997,
+    "make": "Land Rover",
+    "model": "Discovery",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "ROVER40"
+    ],
+    "fitment_id": "f_f33a14521f"
+  },
+  {
+    "year": 1998,
+    "make": "Land Rover",
+    "model": "Discovery",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "ROVER40"
+    ],
+    "fitment_id": "f_f0890a0a71"
+  },
+  {
+    "year": 1999,
+    "make": "Land Rover",
+    "model": "Discovery",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "ROVER40"
+    ],
+    "fitment_id": "f_c54bfc4398"
+  },
+  {
+    "year": 2000,
+    "make": "Land Rover",
+    "model": "Discovery",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "ROVER40"
+    ],
+    "fitment_id": "f_e2337def02"
+  },
+  {
+    "year": 2001,
+    "make": "Land Rover",
+    "model": "Discovery",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "ROVER40"
+    ],
+    "fitment_id": "f_3fd80fb2ae"
+  },
+  {
+    "year": 2002,
+    "make": "Land Rover",
+    "model": "Discovery",
+    "engine": "4.0L V8",
+    "engine_code": [
+      "ROVER40"
+    ],
+    "fitment_id": "f_1cc790e8d5"
+  },
+  {
+    "year": 2003,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "BMWM62"
+    ],
+    "fitment_id": "f_010a83d770"
+  },
+  {
+    "year": 2004,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "BMWM62"
+    ],
+    "fitment_id": "f_f709c14396"
+  },
+  {
+    "year": 2005,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "BMWM62"
+    ],
+    "fitment_id": "f_21fbf2c3da"
+  },
+  {
+    "year": 2006,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "BMWM62"
+    ],
+    "fitment_id": "f_bb8c1f13bb"
+  },
+  {
+    "year": 2007,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "BMWM62"
+    ],
+    "fitment_id": "f_b0a238c170"
+  },
+  {
+    "year": 2008,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "BMWM62"
+    ],
+    "fitment_id": "f_c9a9abd495"
+  },
+  {
+    "year": 2009,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "4.4L V8",
+    "engine_code": [
+      "BMWM62"
+    ],
+    "fitment_id": "f_eaaa37f831"
+  },
+  {
+    "year": 2010,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_98863a1104"
+  },
+  {
+    "year": 2010,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_3f14810c94"
+  },
+  {
+    "year": 2011,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_e720824418"
+  },
+  {
+    "year": 2011,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_28a4e0cccf"
+  },
+  {
+    "year": 2012,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_399ac8deba"
+  },
+  {
+    "year": 2012,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_937183ba67"
+  },
+  {
+    "year": 2013,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_7a355418ea"
+  },
+  {
+    "year": 2013,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_4a9cb60020"
+  },
+  {
+    "year": 2014,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_39f83121b7"
+  },
+  {
+    "year": 2014,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_3edcdb5f75"
+  },
+  {
+    "year": 2015,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_0ea82aae2a"
+  },
+  {
+    "year": 2015,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_844dd568a7"
+  },
+  {
+    "year": 2016,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_7b42555bd1"
+  },
+  {
+    "year": 2016,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_5426891649"
+  },
+  {
+    "year": 2017,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_94c13a4c05"
+  },
+  {
+    "year": 2017,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_c8748601df"
+  },
+  {
+    "year": 2018,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_e1ccdce1da"
+  },
+  {
+    "year": 2018,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_0898ff3d65"
+  },
+  {
+    "year": 2019,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_5399e6c949"
+  },
+  {
+    "year": 2019,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_bf1a7c6fd0"
+  },
+  {
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_a39571452e"
+  },
+  {
+    "year": 2020,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_6c986b08c3"
+  },
+  {
+    "year": 2021,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_e791356afe"
+  },
+  {
+    "year": 2021,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_c9f8882480"
+  },
+  {
+    "year": 2022,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_f0b2c72aae"
+  },
+  {
+    "year": 2022,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_865bf2e74d"
+  },
+  {
+    "year": 2023,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_d60b3363ba"
+  },
+  {
+    "year": 2023,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_7623a299aa"
+  },
+  {
+    "year": 2024,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ126"
+    ],
+    "fitment_id": "f_0006842dac"
+  },
+  {
+    "year": 2024,
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "engine": "5.0L V8",
+    "engine_code": [
+      "AJ133"
+    ],
+    "fitment_id": "f_4589a8d8f1"
+  }
+]

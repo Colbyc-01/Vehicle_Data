@@ -1,0 +1,1182 @@
+[
+  {
+    "year": 2011,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_e23bc2e408"
+  },
+  {
+    "year": 2011,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_a8f178e04b"
+  },
+  {
+    "year": 2011,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_5bfb94a812"
+  },
+  {
+    "year": 2011,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_65d9c13f77"
+  },
+  {
+    "year": 2011,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_b04c9f8911"
+  },
+  {
+    "year": 2011,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_8bfdb85753"
+  },
+  {
+    "year": 2012,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_03285eacda"
+  },
+  {
+    "year": 2012,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_66e5b81656"
+  },
+  {
+    "year": 2012,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_ad5c2be337"
+  },
+  {
+    "year": 2012,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_3b6ba49b4f"
+  },
+  {
+    "year": 2012,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_5ecf34c8bc"
+  },
+  {
+    "year": 2012,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_5a4daedcba"
+  },
+  {
+    "year": 2012,
+    "make": "Ram",
+    "model": "C/V",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_60b77d8e31"
+  },
+  {
+    "year": 2013,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_799e00d8f6"
+  },
+  {
+    "year": 2013,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_13d2ec0f75"
+  },
+  {
+    "year": 2013,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_5c536a07bc"
+  },
+  {
+    "year": 2013,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_bce35bbcde"
+  },
+  {
+    "year": 2013,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_a24160a705"
+  },
+  {
+    "year": 2013,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_ea3512c855"
+  },
+  {
+    "year": 2013,
+    "make": "Ram",
+    "model": "C/V",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_c2dd62726e"
+  },
+  {
+    "year": 2014,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_c710286fc2"
+  },
+  {
+    "year": 2014,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_ddb305f829"
+  },
+  {
+    "year": 2014,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_f55084dfe8"
+  },
+  {
+    "year": 2014,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_8f24e3a645"
+  },
+  {
+    "year": 2014,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_83967ac6e7"
+  },
+  {
+    "year": 2014,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_f496263556"
+  },
+  {
+    "year": 2014,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_a69d54b510"
+  },
+  {
+    "year": 2014,
+    "make": "Ram",
+    "model": "C/V",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_c0156dab64"
+  },
+  {
+    "year": 2014,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_c0a1503f13"
+  },
+  {
+    "year": 2015,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_5ec1590af3"
+  },
+  {
+    "year": 2015,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_0cc5f94959"
+  },
+  {
+    "year": 2015,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_110099a2a0"
+  },
+  {
+    "year": 2015,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_b6ad84ca7a"
+  },
+  {
+    "year": 2015,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_15be28a97c"
+  },
+  {
+    "year": 2015,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_7fed1c1e71"
+  },
+  {
+    "year": 2015,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_059b7ddab5"
+  },
+  {
+    "year": 2015,
+    "make": "Ram",
+    "model": "C/V",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_9d18e6e388"
+  },
+  {
+    "year": 2015,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_eb3b32e1b2"
+  },
+  {
+    "year": 2015,
+    "make": "Ram",
+    "model": "ProMaster City",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_410e21390c"
+  },
+  {
+    "year": 2016,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_86d2b5684b"
+  },
+  {
+    "year": 2016,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_ffb5fb8d1e"
+  },
+  {
+    "year": 2016,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_6c6f28a197"
+  },
+  {
+    "year": 2016,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_a4873e2b64"
+  },
+  {
+    "year": 2016,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_08121a2594"
+  },
+  {
+    "year": 2016,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_d00e5645cb"
+  },
+  {
+    "year": 2016,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_7b4ece966b"
+  },
+  {
+    "year": 2016,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_3c27e07df2"
+  },
+  {
+    "year": 2016,
+    "make": "Ram",
+    "model": "ProMaster City",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_3178aba515"
+  },
+  {
+    "year": 2017,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_c59224a1f0"
+  },
+  {
+    "year": 2017,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_e10ba97463"
+  },
+  {
+    "year": 2017,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_4ac5da0d69"
+  },
+  {
+    "year": 2017,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_96f8ae3f49"
+  },
+  {
+    "year": 2017,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_40c47c556a"
+  },
+  {
+    "year": 2017,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_18f3dcca1a"
+  },
+  {
+    "year": 2017,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_02e7aa02aa"
+  },
+  {
+    "year": 2017,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_9e5952d4a0"
+  },
+  {
+    "year": 2017,
+    "make": "Ram",
+    "model": "ProMaster City",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_9c4bfb2eda"
+  },
+  {
+    "year": 2018,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_29bc0bcd9c"
+  },
+  {
+    "year": 2018,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_0178cebc8a"
+  },
+  {
+    "year": 2018,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_6b3d0e7a37"
+  },
+  {
+    "year": 2018,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_330f9654d3"
+  },
+  {
+    "year": 2018,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_517fb8f4a0"
+  },
+  {
+    "year": 2018,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_9e96ab8a5e"
+  },
+  {
+    "year": 2018,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_33af0a22e1"
+  },
+  {
+    "year": 2018,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_dd65a5516a"
+  },
+  {
+    "year": 2018,
+    "make": "Ram",
+    "model": "ProMaster City",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_a976678c33"
+  },
+  {
+    "year": 2019,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_34e90711ca"
+  },
+  {
+    "year": 2019,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_9266969a21"
+  },
+  {
+    "year": 2019,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_9ea0ebc062"
+  },
+  {
+    "year": 2019,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_3da396a40c"
+  },
+  {
+    "year": 2019,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_6c956223d1"
+  },
+  {
+    "year": 2019,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_01c652cc9c"
+  },
+  {
+    "year": 2019,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_041069c153"
+  },
+  {
+    "year": 2019,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_2934f8ae64"
+  },
+  {
+    "year": 2019,
+    "make": "Ram",
+    "model": "ProMaster City",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_085715e3eb"
+  },
+  {
+    "year": 2020,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_3101103890"
+  },
+  {
+    "year": 2020,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_b46b87fd68"
+  },
+  {
+    "year": 2020,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_8c8d16b272"
+  },
+  {
+    "year": 2020,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_02b32d9585"
+  },
+  {
+    "year": 2020,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_4bd9de443c"
+  },
+  {
+    "year": 2020,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_8b14a35469"
+  },
+  {
+    "year": 2020,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_558da32d6c"
+  },
+  {
+    "year": 2020,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_2caf508e52"
+  },
+  {
+    "year": 2020,
+    "make": "Ram",
+    "model": "ProMaster City",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_31b3919a68"
+  },
+  {
+    "year": 2021,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_f46650af90"
+  },
+  {
+    "year": 2021,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_0cae474c5b"
+  },
+  {
+    "year": 2021,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_2dba5f8bdd"
+  },
+  {
+    "year": 2021,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_b1852f014b"
+  },
+  {
+    "year": 2021,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_3c0f0fcf20"
+  },
+  {
+    "year": 2021,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_ea7dd6c977"
+  },
+  {
+    "year": 2021,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_ddbb839321"
+  },
+  {
+    "year": 2021,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_6d14e76b54"
+  },
+  {
+    "year": 2021,
+    "make": "Ram",
+    "model": "ProMaster City",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_71b6e2ddbd"
+  },
+  {
+    "year": 2022,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_ed6287ec31"
+  },
+  {
+    "year": 2022,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_f26a61836c"
+  },
+  {
+    "year": 2022,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_1013cface2"
+  },
+  {
+    "year": 2022,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_a7ea3384b4"
+  },
+  {
+    "year": 2022,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_db6cbe39bf"
+  },
+  {
+    "year": 2022,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_a38b45f1c2"
+  },
+  {
+    "year": 2022,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_77f3ee0a01"
+  },
+  {
+    "year": 2022,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_c929db7bc7"
+  },
+  {
+    "year": 2022,
+    "make": "Ram",
+    "model": "ProMaster City",
+    "engine": "2.4L I4",
+    "engine_code": [
+      "ED6"
+    ],
+    "fitment_id": "f_571c9e1bf6"
+  },
+  {
+    "year": 2023,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_87be3449cb"
+  },
+  {
+    "year": 2023,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_fece6ecb0f"
+  },
+  {
+    "year": 2023,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_cf2c9cbe99"
+  },
+  {
+    "year": 2023,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_7f5c6702f9"
+  },
+  {
+    "year": 2023,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_b74eae1f8f"
+  },
+  {
+    "year": 2023,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_d1acbb4ca2"
+  },
+  {
+    "year": 2023,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_b766c92f7f"
+  },
+  {
+    "year": 2023,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_546d035882"
+  },
+  {
+    "year": 2024,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.0L Turbo Diesel V6",
+    "engine_code": [
+      "EXF"
+    ],
+    "fitment_id": "f_2caae05fbe"
+  },
+  {
+    "year": 2024,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_f94d6b07d3"
+  },
+  {
+    "year": 2024,
+    "make": "Ram",
+    "model": "1500",
+    "engine": "5.7L V8",
+    "engine_code": [
+      "EZH"
+    ],
+    "fitment_id": "f_7a830e9bf0"
+  },
+  {
+    "year": 2024,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_5500b0fad6"
+  },
+  {
+    "year": 2024,
+    "make": "Ram",
+    "model": "2500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_5e140ae5dc"
+  },
+  {
+    "year": 2024,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.4L V8",
+    "engine_code": [
+      "ESG"
+    ],
+    "fitment_id": "f_ce3ab252d0"
+  },
+  {
+    "year": 2024,
+    "make": "Ram",
+    "model": "3500",
+    "engine": "6.7L Turbo Diesel I6",
+    "engine_code": [
+      "ETK"
+    ],
+    "fitment_id": "f_f806c4225a"
+  },
+  {
+    "year": 2024,
+    "make": "Ram",
+    "model": "ProMaster",
+    "engine": "3.6L V6",
+    "engine_code": [
+      "ERB"
+    ],
+    "fitment_id": "f_11b9f0aca1"
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "oil_change": {
+    "name": "Engine oil & filter",
+    "category": "Engine",
+    "difficulty": "Easy",
+    "description": "Replace engine oil and oil filter.",
+    "record_fields": [
+      "odometer_miles",
+      "date",
+      "oil_brand",
+      "oil_viscosity",
+      "oil_spec",
+      "oil_qty_qt",
+      "filter_brand",
+      "filter_part_number",
+      "labor_cost",
+      "parts_cost",
+      "notes"
+    ]
+  },
+  "engine_air_filter": {
+    "name": "Engine air filter",
+    "category": "Engine",
+    "difficulty": "Easy",
+    "description": "Replace engine intake air filter element.",
+    "record_fields": [
+      "odometer_miles",
+      "date",
+      "filter_brand",
+      "filter_part_number",
+      "labor_cost",
+      "parts_cost",
+      "notes"
+    ]
+  },
+  "cabin_air_filter": {
+    "name": "Cabin air filter",
+    "category": "HVAC",
+    "difficulty": "Easy",
+    "description": "Replace cabin air filter element.",
+    "record_fields": [
+      "odometer_miles",
+      "date",
+      "filter_brand",
+      "filter_part_number",
+      "labor_cost",
+      "parts_cost",
+      "notes"
+    ]
+  },
+  "spark_plugs": {
+    "name": "Spark plugs",
+    "category": "Ignition",
+    "difficulty": "Medium",
+    "description": "Replace spark plugs; verify gap and torque per service info.",
+    "record_fields": [
+      "odometer_miles",
+      "date",
+      "plug_brand",
+      "plug_part_number",
+      "quantity",
+      "labor_cost",
+      "parts_cost",
+      "notes"
+    ]
+  },
+  "coolant": {
+    "name": "Engine coolant",
+    "category": "Cooling",
+    "difficulty": "Medium",
+    "description": "Drain/fill or flush coolant per OEM procedure.",
+    "record_fields": [
+      "odometer_miles",
+      "date",
+      "coolant_type",
+      "qty_qt",
+      "labor_cost",
+      "parts_cost",
+      "notes"
+    ]
+  },
+  "brake_fluid": {
+    "name": "Brake fluid",
+    "category": "Brakes",
+    "difficulty": "Medium",
+    "description": "Flush brake hydraulic system with correct DOT spec fluid.",
+    "record_fields": [
+      "odometer_miles",
+      "date",
+      "fluid_spec",
+      "qty_qt",
+      "labor_cost",
+      "parts_cost",
+      "notes"
+    ]
+  },
+  "transmission_fluid": {
+    "name": "Transmission fluid",
+    "category": "Drivetrain",
+    "difficulty": "Hard",
+    "description": "Service transmission fluid per OEM procedure (drain/fill or exchange).",
+    "record_fields": [
+      "odometer_miles",
+      "date",
+      "fluid_spec",
+      "qty_qt",
+      "labor_cost",
+      "parts_cost",
+      "notes"
+    ]
+  }
+}

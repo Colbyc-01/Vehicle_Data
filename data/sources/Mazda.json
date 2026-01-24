@@ -1,0 +1,752 @@
+[
+  {
+    "year": 1995,
+    "make": "Mazda",
+    "model": "626",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FS-DE"
+    ],
+    "fitment_id": "f_2d0630a07c"
+  },
+  {
+    "year": 1995,
+    "make": "Mazda",
+    "model": "Protege",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BP"
+    ],
+    "fitment_id": "f_cf28794c22"
+  },
+  {
+    "year": 1996,
+    "make": "Mazda",
+    "model": "626",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FS-DE"
+    ],
+    "fitment_id": "f_b283d6d98a"
+  },
+  {
+    "year": 1996,
+    "make": "Mazda",
+    "model": "Protege",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BP"
+    ],
+    "fitment_id": "f_1b9d25807d"
+  },
+  {
+    "year": 1997,
+    "make": "Mazda",
+    "model": "626",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FS-DE"
+    ],
+    "fitment_id": "f_c36f8966d7"
+  },
+  {
+    "year": 1997,
+    "make": "Mazda",
+    "model": "Protege",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BP"
+    ],
+    "fitment_id": "f_bd1e7a7f7c"
+  },
+  {
+    "year": 1998,
+    "make": "Mazda",
+    "model": "626",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FS-DE"
+    ],
+    "fitment_id": "f_9b9e2a4a24"
+  },
+  {
+    "year": 1998,
+    "make": "Mazda",
+    "model": "Protege",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BP"
+    ],
+    "fitment_id": "f_ac7ca1b478"
+  },
+  {
+    "year": 1999,
+    "make": "Mazda",
+    "model": "626",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FS-DE"
+    ],
+    "fitment_id": "f_af97d83562"
+  },
+  {
+    "year": 1999,
+    "make": "Mazda",
+    "model": "Protege",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BP"
+    ],
+    "fitment_id": "f_888ff7a0b3"
+  },
+  {
+    "year": 2000,
+    "make": "Mazda",
+    "model": "626",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FS-DE"
+    ],
+    "fitment_id": "f_62c78e4adf"
+  },
+  {
+    "year": 2000,
+    "make": "Mazda",
+    "model": "Protege",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BP"
+    ],
+    "fitment_id": "f_51bca64715"
+  },
+  {
+    "year": 2001,
+    "make": "Mazda",
+    "model": "626",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FS-DE"
+    ],
+    "fitment_id": "f_17600ca2ff"
+  },
+  {
+    "year": 2001,
+    "make": "Mazda",
+    "model": "Protege",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BP"
+    ],
+    "fitment_id": "f_0367d7f399"
+  },
+  {
+    "year": 2002,
+    "make": "Mazda",
+    "model": "626",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FS-DE"
+    ],
+    "fitment_id": "f_28a747fd60"
+  },
+  {
+    "year": 2002,
+    "make": "Mazda",
+    "model": "Protege",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "BP"
+    ],
+    "fitment_id": "f_25143ee95f"
+  },
+  {
+    "year": 2003,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "LF-DE"
+    ],
+    "fitment_id": "f_8e8ec1d43f"
+  },
+  {
+    "year": 2003,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "L3-VE"
+    ],
+    "fitment_id": "f_a4763294e6"
+  },
+  {
+    "year": 2003,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ30"
+    ],
+    "fitment_id": "f_fb01246c6e"
+  },
+  {
+    "year": 2004,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "LF-DE"
+    ],
+    "fitment_id": "f_ee34f45242"
+  },
+  {
+    "year": 2004,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "L3-VE"
+    ],
+    "fitment_id": "f_a7cdbe0e16"
+  },
+  {
+    "year": 2004,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ30"
+    ],
+    "fitment_id": "f_16559c1625"
+  },
+  {
+    "year": 2005,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "LF-DE"
+    ],
+    "fitment_id": "f_764e38d6d3"
+  },
+  {
+    "year": 2005,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "L3-VE"
+    ],
+    "fitment_id": "f_8573afe7ce"
+  },
+  {
+    "year": 2005,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ30"
+    ],
+    "fitment_id": "f_54a538c4d9"
+  },
+  {
+    "year": 2006,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "LF-DE"
+    ],
+    "fitment_id": "f_05c7ade178"
+  },
+  {
+    "year": 2006,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "L3-VE"
+    ],
+    "fitment_id": "f_0cb0b4963c"
+  },
+  {
+    "year": 2006,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ30"
+    ],
+    "fitment_id": "f_799580438c"
+  },
+  {
+    "year": 2007,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "LF-DE"
+    ],
+    "fitment_id": "f_5d3e6e4c32"
+  },
+  {
+    "year": 2007,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "L3-VE"
+    ],
+    "fitment_id": "f_ddfd9a1252"
+  },
+  {
+    "year": 2007,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ30"
+    ],
+    "fitment_id": "f_44e640afc5"
+  },
+  {
+    "year": 2008,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "LF-DE"
+    ],
+    "fitment_id": "f_de2ae6584f"
+  },
+  {
+    "year": 2008,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "L3-VE"
+    ],
+    "fitment_id": "f_0e061dee96"
+  },
+  {
+    "year": 2008,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ30"
+    ],
+    "fitment_id": "f_9b4c3fda05"
+  },
+  {
+    "year": 2009,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "LF-DE"
+    ],
+    "fitment_id": "f_aa03700a35"
+  },
+  {
+    "year": 2009,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.3L I4",
+    "engine_code": [
+      "L3-VE"
+    ],
+    "fitment_id": "f_674bdd2a91"
+  },
+  {
+    "year": 2009,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "3.0L V6",
+    "engine_code": [
+      "AJ30"
+    ],
+    "fitment_id": "f_d9d4523257"
+  },
+  {
+    "year": 2010,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_10c58e904a"
+  },
+  {
+    "year": 2010,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "PE-VPS"
+    ],
+    "fitment_id": "f_e787c3dcd8"
+  },
+  {
+    "year": 2010,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_7f3d9fc21e"
+  },
+  {
+    "year": 2011,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_5a349d243e"
+  },
+  {
+    "year": 2011,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "PE-VPS"
+    ],
+    "fitment_id": "f_e5cda8ddd2"
+  },
+  {
+    "year": 2011,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_34c1d34caf"
+  },
+  {
+    "year": 2012,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_93eb867f8d"
+  },
+  {
+    "year": 2012,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "PE-VPS"
+    ],
+    "fitment_id": "f_fea9800dd9"
+  },
+  {
+    "year": 2012,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_d68452b343"
+  },
+  {
+    "year": 2013,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_2bed416edd"
+  },
+  {
+    "year": 2013,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "PE-VPS"
+    ],
+    "fitment_id": "f_8ca06f7494"
+  },
+  {
+    "year": 2013,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_11992d78a1"
+  },
+  {
+    "year": 2014,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_5e7751ddcf"
+  },
+  {
+    "year": 2014,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "PE-VPS"
+    ],
+    "fitment_id": "f_0244a4b2e5"
+  },
+  {
+    "year": 2014,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_0a508fecb5"
+  },
+  {
+    "year": 2015,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_6a0c801b88"
+  },
+  {
+    "year": 2015,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "PE-VPS"
+    ],
+    "fitment_id": "f_872379028e"
+  },
+  {
+    "year": 2015,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_2d66be839a"
+  },
+  {
+    "year": 2016,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_f0098ef88a"
+  },
+  {
+    "year": 2016,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "PE-VPS"
+    ],
+    "fitment_id": "f_7f9df897a1"
+  },
+  {
+    "year": 2016,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_0ed5547afa"
+  },
+  {
+    "year": 2017,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_8d1b8a9104"
+  },
+  {
+    "year": 2017,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "PE-VPS"
+    ],
+    "fitment_id": "f_234935cf4a"
+  },
+  {
+    "year": 2017,
+    "make": "Mazda",
+    "model": "Mazda6",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_92034fe4d1"
+  },
+  {
+    "year": 2018,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "PY-VPT"
+    ],
+    "fitment_id": "f_5ddc1125b3"
+  },
+  {
+    "year": 2018,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_f86c1cf566"
+  },
+  {
+    "year": 2019,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "PY-VPT"
+    ],
+    "fitment_id": "f_5ffe4c3f8e"
+  },
+  {
+    "year": 2019,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_3197794ad9"
+  },
+  {
+    "year": 2020,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "PY-VPT"
+    ],
+    "fitment_id": "f_e466d20ec6"
+  },
+  {
+    "year": 2020,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_54bd730cf9"
+  },
+  {
+    "year": 2021,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "PY-VPT"
+    ],
+    "fitment_id": "f_08d06e63cb"
+  },
+  {
+    "year": 2021,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_278b83f659"
+  },
+  {
+    "year": 2022,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "PY-VPT"
+    ],
+    "fitment_id": "f_39ad5e7a04"
+  },
+  {
+    "year": 2022,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_360506d109"
+  },
+  {
+    "year": 2023,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "PY-VPT"
+    ],
+    "fitment_id": "f_0952b2c5ac"
+  },
+  {
+    "year": 2023,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_7960101a00"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "CX-5",
+    "engine": "2.5L Turbo I4",
+    "engine_code": [
+      "PY-VPT"
+    ],
+    "fitment_id": "f_8904435a51"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "PY-VPS"
+    ],
+    "fitment_id": "f_f17f6b27f3"
+  }
+]

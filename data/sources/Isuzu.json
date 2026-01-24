@@ -1,0 +1,312 @@
+[
+  {
+    "year": 1995,
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_a8877b13cf"
+  },
+  {
+    "year": 1995,
+    "make": "Isuzu",
+    "model": "Trooper",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_cc802a1e7b"
+  },
+  {
+    "year": 1996,
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_12511bc018"
+  },
+  {
+    "year": 1996,
+    "make": "Isuzu",
+    "model": "Trooper",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_734db1de28"
+  },
+  {
+    "year": 1997,
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_af2766bc4b"
+  },
+  {
+    "year": 1997,
+    "make": "Isuzu",
+    "model": "Trooper",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_025b20a876"
+  },
+  {
+    "year": 1998,
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_4a9df6f225"
+  },
+  {
+    "year": 1998,
+    "make": "Isuzu",
+    "model": "Trooper",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_d1d1bd797f"
+  },
+  {
+    "year": 1999,
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_cc0ea6edbb"
+  },
+  {
+    "year": 1999,
+    "make": "Isuzu",
+    "model": "Trooper",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_b03c8804b8"
+  },
+  {
+    "year": 2000,
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_ea97aa2392"
+  },
+  {
+    "year": 2000,
+    "make": "Isuzu",
+    "model": "Trooper",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_9813f6fbfb"
+  },
+  {
+    "year": 2001,
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_090b89a6cf"
+  },
+  {
+    "year": 2001,
+    "make": "Isuzu",
+    "model": "Trooper",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_e23e314522"
+  },
+  {
+    "year": 2002,
+    "make": "Isuzu",
+    "model": "Rodeo",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_4849f9bbc7"
+  },
+  {
+    "year": 2002,
+    "make": "Isuzu",
+    "model": "Trooper",
+    "engine": "3.2L V6",
+    "engine_code": [
+      "6VD1"
+    ],
+    "fitment_id": "f_f06442cb32"
+  },
+  {
+    "year": 2003,
+    "make": "Isuzu",
+    "model": "Ascender",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_b2baea2aed"
+  },
+  {
+    "year": 2003,
+    "make": "Isuzu",
+    "model": "Ascender",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_cf8ebbd0b1"
+  },
+  {
+    "year": 2004,
+    "make": "Isuzu",
+    "model": "Ascender",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_99a379ff43"
+  },
+  {
+    "year": 2004,
+    "make": "Isuzu",
+    "model": "Ascender",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_4a621720f2"
+  },
+  {
+    "year": 2005,
+    "make": "Isuzu",
+    "model": "Ascender",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_43a75fc93a"
+  },
+  {
+    "year": 2005,
+    "make": "Isuzu",
+    "model": "Ascender",
+    "engine": "5.3L V8",
+    "engine_code": [
+      "LM4"
+    ],
+    "fitment_id": "f_f34183deaf"
+  },
+  {
+    "year": 2006,
+    "make": "Isuzu",
+    "model": "Ascender",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_8ce5c461c9"
+  },
+  {
+    "year": 2006,
+    "make": "Isuzu",
+    "model": "i-290",
+    "engine": "2.9L I4",
+    "engine_code": [
+      "LLV"
+    ],
+    "fitment_id": "f_1ece2b2863"
+  },
+  {
+    "year": 2006,
+    "make": "Isuzu",
+    "model": "i-370",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "LLR"
+    ],
+    "fitment_id": "f_de1582d3eb"
+  },
+  {
+    "year": 2007,
+    "make": "Isuzu",
+    "model": "Ascender",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_6d9badc30e"
+  },
+  {
+    "year": 2007,
+    "make": "Isuzu",
+    "model": "i-290",
+    "engine": "2.9L I4",
+    "engine_code": [
+      "LLV"
+    ],
+    "fitment_id": "f_ce6e42f692"
+  },
+  {
+    "year": 2007,
+    "make": "Isuzu",
+    "model": "i-370",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "LLR"
+    ],
+    "fitment_id": "f_22c562f532"
+  },
+  {
+    "year": 2008,
+    "make": "Isuzu",
+    "model": "Ascender",
+    "engine": "4.2L I6",
+    "engine_code": [
+      "LL8"
+    ],
+    "fitment_id": "f_9fcda306a2"
+  },
+  {
+    "year": 2008,
+    "make": "Isuzu",
+    "model": "i-290",
+    "engine": "2.9L I4",
+    "engine_code": [
+      "LLV"
+    ],
+    "fitment_id": "f_891df0a79c"
+  },
+  {
+    "year": 2008,
+    "make": "Isuzu",
+    "model": "i-370",
+    "engine": "3.7L I5",
+    "engine_code": [
+      "LLR"
+    ],
+    "fitment_id": "f_1495c94be1"
+  }
+]

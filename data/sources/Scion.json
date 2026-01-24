@@ -1,0 +1,262 @@
+[
+  {
+    "year": 2004,
+    "make": "Scion",
+    "model": "xB",
+    "engine": "1.5L I4",
+    "engine_code": [
+      "1NZ-FE"
+    ],
+    "fitment_id": "f_5361d5def9"
+  },
+  {
+    "year": 2004,
+    "make": "Scion",
+    "model": "xD",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "2ZR-FE"
+    ],
+    "fitment_id": "f_7f24dc9715"
+  },
+  {
+    "year": 2005,
+    "make": "Scion",
+    "model": "xB",
+    "engine": "1.5L I4",
+    "engine_code": [
+      "1NZ-FE"
+    ],
+    "fitment_id": "f_f576865f27"
+  },
+  {
+    "year": 2005,
+    "make": "Scion",
+    "model": "xD",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "2ZR-FE"
+    ],
+    "fitment_id": "f_ae95b63c1f"
+  },
+  {
+    "year": 2006,
+    "make": "Scion",
+    "model": "xB",
+    "engine": "1.5L I4",
+    "engine_code": [
+      "1NZ-FE"
+    ],
+    "fitment_id": "f_865a2b8b50"
+  },
+  {
+    "year": 2006,
+    "make": "Scion",
+    "model": "xD",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "2ZR-FE"
+    ],
+    "fitment_id": "f_acd557c3ca"
+  },
+  {
+    "year": 2007,
+    "make": "Scion",
+    "model": "xB",
+    "engine": "1.5L I4",
+    "engine_code": [
+      "1NZ-FE"
+    ],
+    "fitment_id": "f_6dbff52989"
+  },
+  {
+    "year": 2007,
+    "make": "Scion",
+    "model": "xD",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "2ZR-FE"
+    ],
+    "fitment_id": "f_f213010298"
+  },
+  {
+    "year": 2008,
+    "make": "Scion",
+    "model": "xB",
+    "engine": "1.5L I4",
+    "engine_code": [
+      "1NZ-FE"
+    ],
+    "fitment_id": "f_d557be3e31"
+  },
+  {
+    "year": 2008,
+    "make": "Scion",
+    "model": "xD",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "2ZR-FE"
+    ],
+    "fitment_id": "f_c79c8c093b"
+  },
+  {
+    "year": 2009,
+    "make": "Scion",
+    "model": "xB",
+    "engine": "1.5L I4",
+    "engine_code": [
+      "1NZ-FE"
+    ],
+    "fitment_id": "f_2b75d2dea2"
+  },
+  {
+    "year": 2009,
+    "make": "Scion",
+    "model": "xD",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "2ZR-FE"
+    ],
+    "fitment_id": "f_6ee78dc363"
+  },
+  {
+    "year": 2010,
+    "make": "Scion",
+    "model": "xB",
+    "engine": "1.5L I4",
+    "engine_code": [
+      "1NZ-FE"
+    ],
+    "fitment_id": "f_b373cb771b"
+  },
+  {
+    "year": 2010,
+    "make": "Scion",
+    "model": "xD",
+    "engine": "1.8L I4",
+    "engine_code": [
+      "2ZR-FE"
+    ],
+    "fitment_id": "f_65199021d4"
+  },
+  {
+    "year": 2011,
+    "make": "Scion",
+    "model": "FR-S",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FA20"
+    ],
+    "fitment_id": "f_dfae82892f"
+  },
+  {
+    "year": 2011,
+    "make": "Scion",
+    "model": "tC",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "2AR-FE"
+    ],
+    "fitment_id": "f_8b8ff4dc17"
+  },
+  {
+    "year": 2012,
+    "make": "Scion",
+    "model": "FR-S",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FA20"
+    ],
+    "fitment_id": "f_bb8e282a1c"
+  },
+  {
+    "year": 2012,
+    "make": "Scion",
+    "model": "tC",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "2AR-FE"
+    ],
+    "fitment_id": "f_243566c1de"
+  },
+  {
+    "year": 2013,
+    "make": "Scion",
+    "model": "FR-S",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FA20"
+    ],
+    "fitment_id": "f_f0b74de83f"
+  },
+  {
+    "year": 2013,
+    "make": "Scion",
+    "model": "tC",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "2AR-FE"
+    ],
+    "fitment_id": "f_0eb11217da"
+  },
+  {
+    "year": 2014,
+    "make": "Scion",
+    "model": "FR-S",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FA20"
+    ],
+    "fitment_id": "f_99de016e25"
+  },
+  {
+    "year": 2014,
+    "make": "Scion",
+    "model": "tC",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "2AR-FE"
+    ],
+    "fitment_id": "f_7ef05b5453"
+  },
+  {
+    "year": 2015,
+    "make": "Scion",
+    "model": "FR-S",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FA20"
+    ],
+    "fitment_id": "f_6dd8b07b84"
+  },
+  {
+    "year": 2015,
+    "make": "Scion",
+    "model": "tC",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "2AR-FE"
+    ],
+    "fitment_id": "f_16f5254e17"
+  },
+  {
+    "year": 2016,
+    "make": "Scion",
+    "model": "FR-S",
+    "engine": "2.0L I4",
+    "engine_code": [
+      "FA20"
+    ],
+    "fitment_id": "f_ec869789fa"
+  },
+  {
+    "year": 2016,
+    "make": "Scion",
+    "model": "tC",
+    "engine": "2.5L I4",
+    "engine_code": [
+      "2AR-FE"
+    ],
+    "fitment_id": "f_37f356be57"
+  }
+]
