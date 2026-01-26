@@ -331,12 +331,6 @@ def _search_impl(year, make, model):
 def vehicles_search(year: int, make: str, model: str):
     matches = _search_impl(year, make, model)
     vehicle0 = matches[0] if matches else None
-    
-    # Canonicalize engine codes using alias/context
-    for v in matches:
-        lbl = v.get("engine_label")
-        v["engine_codes"] = [resolve_engine_code(c, lbl, year=year, make=v.get("make")) for c in v.get("engine_codes", [])]
-
     return {
         "query": {"year": year, "make": make, "model": model},
         "count": len(matches),
@@ -344,7 +338,6 @@ def vehicles_search(year: int, make: str, model: str):
         "vehicles": matches,
         "vehicle": vehicle0,
     }
-
 
 
 def _utc_now_iso() -> str:
@@ -616,48 +609,3 @@ def coverage():
         "missing_engine_codes": len(missing),
         "missing_engine_codes_list": sorted(missing),
     }
-
-
-ENGINE_ALIAS_PATH = SEEDS / "engine_alias_map.json"
-
-def load_engine_alias_map():
-    try:
-        with open(ENGINE_ALIAS_PATH, "r", encoding="utf-8") as f:
-            return json.load(f).get("engine_alias_map", {})
-    except Exception:
-        return {}
-
-ENGINE_ALIAS_MAP = load_engine_alias_map()
-
-def resolve_engine_code(raw: str, engine_label: str | None = None, *, year: int | None = None, make: str | None = None) -> str:
-    """Resolve a possibly-ambiguous raw engine code to a canonical engine_code used by oil seeds.
-
-    Rules:
-    - Prefer explicit disambiguation for known-collision codes (e.g., LT1 old vs modern).
-    - Then apply ENGINE_ALIAS_MAP for simple prefixing (L83 -> GM_L83, etc).
-    - Otherwise return raw unchanged.
-    """
-    if not raw:
-        return raw
-
-    r = raw.strip()
-
-    # --- Disambiguation for LT1 (1990s 5.7L vs modern 6.2L) ---
-    if r == "LT1":
-        # If label explicitly mentions 6.2L, treat as modern LT1 (Gen V, 6.2L)
-        if engine_label and "6.2" in engine_label:
-            return "GM_6.2_LT1"
-
-        # If we have a year, split older LT1 into a distinct canonical code
-        # so it won't collide with the modern LT1.
-        if isinstance(year, int) and year <= 1997:
-            return "GM_5.7_LT1_GEN2"
-
-        # Fallback legacy bucket (kept for compatibility)
-        return "GM_LT1"
-
-    # Generic alias map
-    if r in ENGINE_ALIAS_MAP:
-        return ENGINE_ALIAS_MAP[r]
-
-    return r
