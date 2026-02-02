@@ -1,0 +1,1563 @@
+{
+  "version": "0.1",
+  "generated_at": "2026-02-01T08:13:07Z",
+  "items": [
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Honda",
+        "part_number": "15400-PLM-A02"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51334",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1334",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH7317",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3323",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-110A",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-1004",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "PL14610",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "BMW",
+        "part_number": "11428583898"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU816X",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX187D",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "E822HD264",
+          "verified": true
+        },
+        {
+          "brand": "WIX",
+          "part_number": "57082",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7082",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "CH11258",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3330",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-103A",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Mopar",
+        "part_number": "M05281090"
+      },
+      "alternatives": [
+        {
+          "brand": "Bosch",
+          "part_number": "P2003",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "0986452003",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH16",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "H10W15",
+          "verified": true
+        },
+        {
+          "brand": "UFI",
+          "part_number": "23.127.00",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "FL-820-S"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51372",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1372",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH2",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3500",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-210A",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-2017",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "PL24651",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "PF1218"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51060",
+          "verified": true
+        },
+        {
+          "brand": "FRAM",
+          "part_number": "PH5",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "L34631",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "SO-3002",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "PF52E"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51036",
+          "verified": true
+        },
+        {
+          "brand": "FRAM",
+          "part_number": "PH3980",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3430",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "SO-2001",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "L24011",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "12735608"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "WL10351",
+          "verified": true
+        },
+        {
+          "brand": "FRAM",
+          "part_number": "PH12447",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-1021",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "L11424",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "12735811"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57045",
+          "verified": true
+        },
+        {
+          "brand": "FRAM",
+          "part_number": "PH10575",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3973",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "SO-2011",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "L22500",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "PF46E"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51042",
+          "verified": true
+        },
+        {
+          "brand": "FRAM",
+          "part_number": "PH3506",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "L14006",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "SO-1007",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Mitsubishi",
+        "part_number": "MD352626"
+      },
+      "alternatives": []
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Nissan",
+        "part_number": "15208-9E01A"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51334",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1334",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH7317",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3323",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-110A",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-1004",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Nissan",
+        "part_number": "15208-65F0E"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57055",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7055",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH6607",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3323",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-110A",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-1004",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "PL14610",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Subaru",
+        "part_number": "15208AA15A"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57712",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7712",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH9715",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3323",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-110A",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-1004",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Toyota",
+        "part_number": "90915-YZZD3"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51515",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1515",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH8A",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3500",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-301",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-3001",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Toyota",
+        "part_number": "90915-YZZF2"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51348",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1348",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH3614",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3330",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-102A",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-1002",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "PL14612",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Toyota",
+        "part_number": "04152-YZZA1"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57047",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7047",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "CH10358",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3331",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-103A",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Toyota",
+        "part_number": "04152-YZZA6"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57047",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7047",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "CH10358",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3331",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-103A",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "PF63"
+      },
+      "alternatives": [
+        {
+          "brand": "ACDelco",
+          "part_number": "PF63E",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "PF63E"
+      },
+      "alternatives": [
+        {
+          "brand": "ACDelco",
+          "part_number": "PF63",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "PF2232"
+      },
+      "alternatives": []
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "UPF63R"
+      },
+      "alternatives": []
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "PF48E"
+      },
+      "alternatives": []
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "PF64"
+      },
+      "alternatives": []
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "PF66"
+      },
+      "alternatives": []
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Mopar",
+        "part_number": "05281090AB"
+      },
+      "alternatives": [
+        {
+          "brand": "Bosch",
+          "part_number": "P2003",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "0986452003",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH16",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "H10W15",
+          "verified": true
+        },
+        {
+          "brand": "UFI",
+          "part_number": "23.127.00",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Mopar",
+        "part_number": "05083285AA"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57620",
+          "verified": true
+        },
+        {
+          "brand": "CARQUEST",
+          "part_number": "84620",
+          "verified": true
+        },
+        {
+          "brand": "UFI",
+          "part_number": "23.497.00",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Mopar",
+        "part_number": "4892339BE"
+      },
+      "alternatives": [
+        {
+          "brand": "Bosch",
+          "part_number": "P7378",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "F026407378",
+          "verified": true
+        },
+        {
+          "brand": "COOPERS-FIAAM",
+          "part_number": "FT6105",
+          "verified": true
+        },
+        {
+          "brand": "PURFLUX",
+          "part_number": "LS979",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Mopar",
+        "part_number": "68102241AA"
+      },
+      "alternatives": [
+        {
+          "brand": "CARQUEST",
+          "part_number": "84341",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "CH9713",
+          "verified": true
+        },
+        {
+          "brand": "HENGST",
+          "part_number": "E60HD110",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "FL-500-S"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57502",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7502",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH3614",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3330",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-212A",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-2010",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "PL14612",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "FL-910-S"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51356",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1356",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH3593A",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3323",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-102A",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-1002",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "PL14610",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "FL-400-S"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51515",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1515",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH8A",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3500",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-301",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-3001",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "FL-1A"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51515",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1515",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH8A",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3500",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-301",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-3001",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "FL-2016"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57202",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7202",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH8170",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "FL-2124-S"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57502XP",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7502",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "FL-2081"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57151",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7151",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Hyundai",
+        "part_number": "26300-35504"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51334",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1334",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH7317",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3323",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-110A",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-1004",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "PL14610",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Hyundai",
+        "part_number": "26350-35503"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57047",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7047",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "CH10358",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3331",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-103A",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Subaru",
+        "part_number": "15208AA21A"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "57712",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7712",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH9715",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3323",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-110A",
+          "verified": true
+        },
+        {
+          "brand": "K&N",
+          "part_number": "HP-1004",
+          "verified": true
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "PL14610",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Mercedes-Benz",
+        "part_number": "A0001803009"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU718/5X",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX183D",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "E11HD194",
+          "verified": true
+        },
+        {
+          "brand": "WIX",
+          "part_number": "57090",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7090",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "CH9643",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3330",
+          "verified": true
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "M1-103A",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Volkswagen",
+        "part_number": "06D115562"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU719/7X",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX404D",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "E620HD185",
+          "verified": true
+        },
+        {
+          "brand": "WIX",
+          "part_number": "57055",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7055",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "CH10590",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3331",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Audi",
+        "part_number": "06E115562C"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU719/6X",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX404D",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "E620HD185",
+          "verified": true
+        },
+        {
+          "brand": "WIX",
+          "part_number": "57090",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7090",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "CH9643",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Audi",
+        "part_number": "079198405E"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU8005Z",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX404D",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "E620HD185",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Audi",
+        "part_number": "078115561J"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU719/7X",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX404D",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "E620HD185",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Audi",
+        "part_number": "06M198405F"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU8005Z",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX404D",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "E620HD185",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Volkswagen",
+        "part_number": "06A115561B"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51348",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1348",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH3614",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3330",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Audi",
+        "part_number": "079198405D"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU8005Z",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX404D",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Jaguar",
+        "part_number": "AJ812202"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU719/7X",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX404D",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "E620HD185",
+          "verified": true
+        },
+        {
+          "brand": "WIX",
+          "part_number": "57090",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "7090",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Porsche",
+        "part_number": "99710722501"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU719/7X",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX404D",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "E620HD185",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Porsche",
+        "part_number": "99610722552"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51348",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1348",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH3614",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "cartridge",
+      "oem": {
+        "brand": "Volvo",
+        "part_number": "30788490"
+      },
+      "alternatives": [
+        {
+          "brand": "MANN",
+          "part_number": "HU719/7X",
+          "verified": true
+        },
+        {
+          "brand": "Mahle",
+          "part_number": "OX404D",
+          "verified": true
+        },
+        {
+          "brand": "Hengst",
+          "part_number": "E620HD185",
+          "verified": true
+        },
+        {
+          "brand": "WIX",
+          "part_number": "57090",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Mazda",
+        "part_number": "LF10-14-302"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51356",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1356",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH3593A",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3323",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "filter_type": "spin_on",
+      "oem": {
+        "brand": "Suzuki",
+        "part_number": "16510-61A31"
+      },
+      "alternatives": [
+        {
+          "brand": "WIX",
+          "part_number": "51334",
+          "verified": true
+        },
+        {
+          "brand": "NAPA Gold",
+          "part_number": "1334",
+          "verified": true
+        },
+        {
+          "brand": "Fram",
+          "part_number": "PH7317",
+          "verified": true
+        },
+        {
+          "brand": "Bosch",
+          "part_number": "3323",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

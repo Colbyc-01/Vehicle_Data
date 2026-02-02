@@ -1,0 +1,5 @@
+Maintenance/Data/*.db
+__pycache__/
+.venv/
+.vscode/
+*.pyc

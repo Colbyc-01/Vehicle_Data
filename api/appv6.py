@@ -298,72 +298,6 @@ def resolve_engine_code(
     return r
 
 
-
-def engine_display_name(engine_code: str, *, vehicle_engine_label: str | None = None, engines_doc: dict | None = None) -> str:
-    """Return a human-friendly engine label for UI.
-
-    Priority:
-      1) engines.json entry engine_name (if present)
-      2) compose from engines.json metadata (displacement/config/cyl/aspiration/fuel)
-      3) vehicle_engine_label (from vehicles.json) if provided
-      4) fallback to engine_code
-    """
-    if not engine_code:
-        return ""
-    engines_doc = engines_doc or {}
-    e = engines_doc.get(engine_code) or {}
-
-    name = e.get("engine_name")
-    if isinstance(name, str) and name.strip():
-        return name.strip()
-
-    # Compose from metadata when available
-    disp = e.get("displacement_l")
-    cyl = e.get("cylinders")
-    config = e.get("configuration")
-    asp = e.get("aspiration")
-    fuel = e.get("fuel_type")
-
-    parts = []
-    if isinstance(disp, (int, float)):
-        # avoid 5.699999 -> 5.7
-        disp_s = f"{disp:.1f}".rstrip("0").rstrip(".")
-        parts.append(f"{disp_s}L")
-    if isinstance(asp, str) and asp.strip():
-        asp_u = asp.strip().upper()
-        if asp_u in {"NA", "N/A"}:
-            parts.append("NA")
-        else:
-            parts.append(asp_u)
-    if isinstance(config, str) and config.strip():
-        parts.append(config.strip().upper())
-    elif isinstance(cyl, int):
-        # fallback cylinder-based config
-        if cyl == 4:
-            parts.append("I4")
-        elif cyl == 6:
-            parts.append("V6")
-        elif cyl == 8:
-            parts.append("V8")
-
-    if isinstance(fuel, str) and fuel.strip():
-        # normalize common fuels
-        fu = fuel.strip()
-        if fu.lower() in {"gasoline", "gas"}:
-            parts.append("Gas")
-        elif fu.lower() in {"diesel"}:
-            parts.append("Diesel")
-        else:
-            parts.append(fu.title())
-
-    composed = " ".join([p for p in parts if p])
-    if composed:
-        return composed
-
-    if vehicle_engine_label and str(vehicle_engine_label).strip():
-        return str(vehicle_engine_label).strip()
-
-    return engine_code
 # ---------------- Oil spec labeling / verification ----------------
 
 _BRAND_LABELS = {
@@ -1007,7 +941,6 @@ def vin_resolve(payload: Dict[str, Any] = Body(...)):
     # If still multiple possible canonical vehicles, ask user to choose (keep list short)
     if len(matches) > 1:
         _sqlite_upsert_rollup(signature, decoded, "AMBIGUOUS", seed_version, app_version)
-        engines_doc = load_json(DATA / "engines.json")
         candidates = []
         for v in matches[:8]:
             if not isinstance(v, dict):
@@ -1028,7 +961,6 @@ def vin_resolve(payload: Dict[str, Any] = Body(...)):
                     "year_max": v.get("year_max"),
                     "engine_label": v.get("engine_label"),
                     "engine_codes": v_eng,
-                    "engine_names": [engine_display_name(ec, vehicle_engine_label=v.get("engine_label"), engines_doc=engines_doc) for ec in v_eng],
                 }
             )
         return {
@@ -1117,7 +1049,7 @@ def vin_resolve(payload: Dict[str, Any] = Body(...)):
             engine_choices.append(
                 {
                     "engine_code": c,
-                    "engine_name": engine_display_name(c, vehicle_engine_label=vehicle.get("engine_label") if isinstance(vehicle, dict) else None, engines_doc=engines_doc),
+                    "engine_name": e.get("engine_name") or c,
                     "displacement_l": e.get("displacement_l"),
                     "cylinders": e.get("cylinders"),
                     "fuel_type": e.get("fuel_type"),

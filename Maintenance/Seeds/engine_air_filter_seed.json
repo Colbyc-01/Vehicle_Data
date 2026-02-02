@@ -1,0 +1,3046 @@
+{
+  "contract": "engine_air_filter_seed",
+  "version": "v1-placeholder",
+  "items": [
+    {
+      "engine_code": "GM_LQ4",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L31",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_B48B20",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EDZ",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_B58B30",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EGG",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ERB",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LFX",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N20B20",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LM7",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L29",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N55B30",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EER",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L36",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L35",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L61",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_M54B30",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EGH",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LSY",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LTG",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_42V8",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N52B30",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L65",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LLT",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LM2",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LR4",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_M54B25",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L56",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L87",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LGX",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_20T",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "DODGE_EZA",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LY7",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_S63B44",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EKG",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EML",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "DODGE_EGA",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L18",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L86",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L92",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LA1",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LB4",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LCV",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_30V6",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_CEUA",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_CEUC",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N62B44",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GENESIS_SMARTSTREAM25T",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L26",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L30",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L5P",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L82_V6_GEN3_31",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L83",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L84",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LB7",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LBZ",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LL8",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LLY",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LML",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LMM",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LW2",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_J35",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_DLZA",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N54B30",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N63B44",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_S58B30",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ESG",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "DODGE_EVA",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_MODULAR_46",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L3B",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L8T",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L9H",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LD8",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LE5",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LEA",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LMG",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LZ9",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "NISSAN_VQ35DE",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FKS",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_30TDI",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_CAEB",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_CALB",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N62B48",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ECB",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ESF",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_MAGNUM_39",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_MAGNUM_52",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FIAT_A14T",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_Cyclone35",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_23",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_35",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_EcoBoost20",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_Triton54",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L37",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L3T",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L66",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LD9",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LIH",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LKW",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LM4",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LT1_GEN2_57",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LU3",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LZ0",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "HYUNDAI_THETA24",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "JAGUAR_AJ200P",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "PORSCHE_M96",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "PORSCHE_M97",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FE",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "VW_EA888",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "ALFA_ROMEO_GMET4",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_18T",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_27TT",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_28V6",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_AAH",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_AHA",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_BVJ",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_DECA",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_M52B28",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_M60B40",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N47D20",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_S55B30",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_6G72",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_6G73",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ED3",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ED6",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EGC",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EGT",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ERH",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EWA",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EWB",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EZB",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_HELLCAT_62",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_Cologne40",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_Cyclone37",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_27",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_MOD46",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_Windsor50",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_Windsor58",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GENESIS_SMARTSTREAM35T",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L32",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L59",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L67",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L94",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LFV",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LH2",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LLR",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LQ9",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LS1",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LS2",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LS4",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LT4_GEN5_62",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LUJ",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LWC",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LX9",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_F22",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_L15T",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_LAMBDA33",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "ISUZU_6VD1",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "JAGUAR_AJ133",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "KIA_THETA20T",
+      "engine_air_filter": [
+        {
+          "filter_type": "panel",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified engine air filter for this engine_code.",
+          "label": "TBD engine air filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; intake housings vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    }
+  ]
+}

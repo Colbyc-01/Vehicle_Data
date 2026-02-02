@@ -1,0 +1,1768 @@
+{
+  "items": [
+    {
+      "engine_code": "GM_L83",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_L84",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_L87",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_L3B",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "TOYOTA_A25A-FKS",
+      "oil_spec_key": "ilsac_gf6a_0w16"
+    },
+    {
+      "engine_code": "TOYOTA_M20A-FKS",
+      "oil_spec_key": "ilsac_gf6a_0w16"
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FKS",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "HONDA_K24A",
+      "oil_spec_key": "ilsac_gf5_5w20"
+    },
+    {
+      "engine_code": "HONDA_J35",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "NISSAN_QR25DE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "NISSAN_VQ35DE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "NISSAN_VQ37VHR",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "NISSAN_KR20DDET",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SUBARU_FB20",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SUBARU_FB25",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SUBARU_EJ25",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_1GR-FE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_5VZ-FE",
+      "oil_spec_key": "ilsac_gf4_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_2AZ-FE",
+      "oil_spec_key": "ilsac_gf4_5w20"
+    },
+    {
+      "engine_code": "TOYOTA_1NZ-FE",
+      "oil_spec_key": "ilsac_gf4_5w20"
+    },
+    {
+      "engine_code": "NISSAN_HR16DE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "NISSAN_KA24DE",
+      "oil_spec_key": "ilsac_gf4_5w30"
+    },
+    {
+      "engine_code": "NISSAN_VG33E",
+      "oil_spec_key": "ilsac_gf4_5w30"
+    },
+    {
+      "engine_code": "MITSUBISHI_4G63",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "MITSUBISHI_4G63T",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "HONDA_R18A",
+      "oil_spec_key": "ilsac_gf4_5w20"
+    },
+    {
+      "engine_code": "TOYOTA_2AR-FE",
+      "oil_spec_key": "ilsac_gf5_0w20"
+    },
+    {
+      "engine_code": "TOYOTA_2TR-FE",
+      "oil_spec_key": "ilsac_gf5_0w20"
+    },
+    {
+      "engine_code": "LS1",
+      "oil_spec_key": "gm_6094m_5w30"
+    },
+    {
+      "engine_code": "GM_L36",
+      "oil_spec_key": "gm_6094m_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_1UR-FE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_1UZ-FE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FSE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_2ZR-FE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_3UR-FE",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "TOYOTA_FA20",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "07K",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "1750TBI",
+      "oil_spec_key": "fiat_9.55535_ds1_0w30"
+    },
+    {
+      "engine_code": "1MZ-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "1ZZ-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "3MZ-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "3RZ-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "4A-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "4B12",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "4G64",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "4G94",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "5S-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "690T",
+      "oil_spec_key": "fiat_9.55535_ds1_0w30"
+    },
+    {
+      "engine_code": "6BT",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "6BT-P7100",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "6BT5.9",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "6G72",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "6VD1",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "8AR-FTS",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "A14T",
+      "oil_spec_key": "fiat_9.55535_m2_5w40"
+    },
+    {
+      "engine_code": "ABA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "AEB",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "AHA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "AJ126",
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20"
+    },
+    {
+      "engine_code": "AJ126S",
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20"
+    },
+    {
+      "engine_code": "AJ133",
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20"
+    },
+    {
+      "engine_code": "AJ133S",
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20"
+    },
+    {
+      "engine_code": "AJ16",
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20"
+    },
+    {
+      "engine_code": "AJ200P",
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20"
+    },
+    {
+      "engine_code": "AJ26",
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20"
+    },
+    {
+      "engine_code": "AJ30",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "AJ34",
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20"
+    },
+    {
+      "engine_code": "AMB",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "B18B1",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "B18C1",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "B18C5",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "B20",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "B207",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "B234",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "B235",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "B38",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20"
+    },
+    {
+      "engine_code": "B4204T",
+      "oil_spec_key": "volvo_vcc_rbs0_2ae_0w20"
+    },
+    {
+      "engine_code": "B5254",
+      "oil_spec_key": "volvo_vcc_rbs0_2ae_0w20"
+    },
+    {
+      "engine_code": "B5254T",
+      "oil_spec_key": "volvo_vcc_rbs0_2ae_0w20"
+    },
+    {
+      "engine_code": "B6294T",
+      "oil_spec_key": "volvo_vcc_rbs0_2ae_0w20"
+    },
+    {
+      "engine_code": "BETA18",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "BETA20",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "BKH",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "BMWM62",
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20"
+    },
+    {
+      "engine_code": "BP",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "BPY",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "BWA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "C32A",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "C35A",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "CAEB",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "CATA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "CBEA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "CCTA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "CEUC",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "CFSA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "CGWA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "CNRB",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "CPMA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "CRUA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "CYC37",
+      "oil_spec_key": "ford_wss_m2c962_a1_0w20"
+    },
+    {
+      "engine_code": "D16",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "DAZA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "DECA",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "DELTA25",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "DELTA27",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "DETROIT65",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "EA113",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "EA211",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "EA825",
+      "oil_spec_key": "porsche_a40_0w40"
+    },
+    {
+      "engine_code": "EA839",
+      "oil_spec_key": "porsche_a40_0w40"
+    },
+    {
+      "engine_code": "EA888",
+      "oil_spec_key": "vw_50200_0w20"
+    },
+    {
+      "engine_code": "EB35",
+      "oil_spec_key": "ford_wss_m2c962_a1_0w20"
+    },
+    {
+      "engine_code": "EBA",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ED3",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ED6",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EDV",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EDZ",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EER",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EGA",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EGC",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EGG",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EGH",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EGP",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EGT",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EGW",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EJ22",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "EKG",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ERB",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ESF",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ESG",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EVA",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EVE",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EWB",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EWC",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EZ30",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "EZ36",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "EZA",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EZB",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "EZH",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "F22",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "FE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "FIRE14",
+      "oil_spec_key": "fiat_9.55535_m2_5w40"
+    },
+    {
+      "engine_code": "FS-DE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "G10",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "G13",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "G16",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "G16A",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "G16B",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "G4FJ",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "G4JS",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "GMET4",
+      "oil_spec_key": "fiat_9.55535_ds1_0w30"
+    },
+    {
+      "engine_code": "H25A",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "H27A",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "ISB",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ISB-CM2100",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ISB-CM849",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ISB-CM850",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ISB-CR",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ISB-VP44",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ISB24V",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ISB5.9-CR",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "ISB6.7",
+      "oil_spec_key": "ms_6395_5w20"
+    },
+    {
+      "engine_code": "J20A",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "J24B",
+      "oil_spec_key": "ilsac_gf5_5w30"
+    },
+    {
+      "engine_code": "J30",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "J32A1",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "J32A2",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "J35A",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "J35A3",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "J35A5",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "J35Y1",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "J35Y2",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "J37A1",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "J37A2",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "J37A4",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "JNC1",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "K20",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "K20A2",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "K20C",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "K20C1",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "K20C4",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "K20Z1",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "K24",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "K24A2",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "K24W7",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "K24Z7",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "L15T",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "L26",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_L29",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L3-VE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "GM_L30",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "GM_L31",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L32",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L35",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L37",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L3T",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L52",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L56",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "L59",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L5P",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "L61",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L65",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "L67",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L76",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L81",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L82",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L86",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L8T",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L92",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L94",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "L99",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LA1",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LAMBDA33",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "LAMBDA33T",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "LAMBDA38",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "LB7",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "LBZ",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "LCV",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LD2",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LD8",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LD9",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LE5",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LEA",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LF-DE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "LF4",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LFV",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LFW",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LFX",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LG8",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LGX",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LH2",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LH6",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LH8",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LHU",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LL0",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LL8",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LLR",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LLT",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LLV",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LLY",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "LM2",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "LM4",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LM7",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LML",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "LMM",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "LNF",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LQ4",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LQ9",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LS2",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LS3",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LS4",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LS6",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LS7",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LS9",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LSA",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LSY",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LT1",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LT4",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LTA",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LTG",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LUJ",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LV3",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LWN",
+      "oil_spec_key": "gm_dexosd_5w30"
+    },
+    {
+      "engine_code": "LX9",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LY7",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LZ0",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "LZ9",
+      "oil_spec_key": "dexos1_gen3_0w20"
+    },
+    {
+      "engine_code": "M111",
+      "oil_spec_key": "mb_22971_0w20"
+    },
+    {
+      "engine_code": "M112",
+      "oil_spec_key": "mb_22971_0w20"
+    },
+    {
+      "engine_code": "M272",
+      "oil_spec_key": "mb_22971_0w20"
+    },
+    {
+      "engine_code": "M274",
+      "oil_spec_key": "mb_22971_0w20"
+    },
+    {
+      "engine_code": "M276",
+      "oil_spec_key": "mb_22971_0w20"
+    },
+    {
+      "engine_code": "M48",
+      "oil_spec_key": "porsche_a40_0w40"
+    },
+    {
+      "engine_code": "M55",
+      "oil_spec_key": "porsche_a40_0w40"
+    },
+    {
+      "engine_code": "M57",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20"
+    },
+    {
+      "engine_code": "M64",
+      "oil_spec_key": "porsche_a40_0w40"
+    },
+    {
+      "engine_code": "M96",
+      "oil_spec_key": "porsche_a40_0w40"
+    },
+    {
+      "engine_code": "M97",
+      "oil_spec_key": "porsche_a40_0w40"
+    },
+    {
+      "engine_code": "MA2",
+      "oil_spec_key": "porsche_a40_0w40"
+    },
+    {
+      "engine_code": "MA2T",
+      "oil_spec_key": "porsche_a40_0w40"
+    },
+    {
+      "engine_code": "MOD46",
+      "oil_spec_key": "ford_wss_m2c962_a1_0w20"
+    },
+    {
+      "engine_code": "N12",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20"
+    },
+    {
+      "engine_code": "N14",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20"
+    },
+    {
+      "engine_code": "N57",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20"
+    },
+    {
+      "engine_code": "NU18",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "NU20",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "PE-VPS",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "PR25DD",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "PSD67",
+      "oil_spec_key": "ford_wss_m2c962_a1_0w20"
+    },
+    {
+      "engine_code": "PY-VPS",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "PY-VPT",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "R18",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "R20A3",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "ROVER40",
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20"
+    },
+    {
+      "engine_code": "SIRIUS24",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SMARTSTREAM16T",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SMARTSTREAM25",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SMARTSTREAM25T",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SMARTSTREAM35T",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "SR20DE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "TAU50",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "THETA20T",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "THETA24",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "TRITON54",
+      "oil_spec_key": "ford_wss_m2c962_a1_0w20"
+    },
+    {
+      "engine_code": "VH41DE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "VK45DE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "VK56DE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "VK56VD",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "VQ30DE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "VQ38DD",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "VQ40DE",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "VR30DDTT",
+      "oil_spec_key": "ilsac_gf6a_0w20"
+    },
+    {
+      "engine_code": "W10",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20"
+    },
+    {
+      "engine_code": "BMW_B48B20",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "BMW_B58B30",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J35Y1",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J35Y6",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J35Z2",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J35Z6",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_J35A3",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_J35A5",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_J35Y2",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_L15B7",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_J30T",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_J32A1",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_J32A2",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_K20A2",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_K20C4",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_K23A1",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_K24A2",
+      "oil_spec_key": "ilsac_gf5_5w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_K24W7",
+      "oil_spec_key": "ilsac_gf5_5w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_L15",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_15I3",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_16",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_23",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_27",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_30",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_35",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "FORD_EcoBoost20",
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_DETROIT65",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_G13",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L26",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L32",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L35",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L37",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L52",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L56",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L59",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L5P",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L61",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L65",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L67",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L76",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L81",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L86",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L92",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L94",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_L99",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_LB7",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_LBZ",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_LFX",
+      "oil_spec_key": "dexos1_gen3_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_LGX",
+      "oil_spec_key": "dexos1_gen3_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_LLY",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_LM2",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": "GM TechLink capacities list LM2 with dexosD 0W-20."
+    },
+    {
+      "engine_code": "GM_LML",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_LMM",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_LWN",
+      "oil_spec_key": "dexos_d_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J30",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J32A2",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J37A1",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J37A2",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J37A4",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J37A5",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_JNC1",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_K20",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_K20C",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_K20C1",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_K20Z1",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_K24",
+      "oil_spec_key": "ilsac_gf5_5w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_K24Z7",
+      "oil_spec_key": "ilsac_gf5_5w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_L15T",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "LEXUS_3MZ-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "LEXUS_8AR-FTS",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "NISSAN_VQ30DE",
+      "oil_spec_key": "ilsac_gf5_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "NISSAN_VQ38DD",
+      "oil_spec_key": "ilsac_gf5_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "NISSAN_VQ40DE",
+      "oil_spec_key": "ilsac_gf5_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "SUBARU_EJ22",
+      "oil_spec_key": "ilsac_gf5_5w30",
+      "notes": ""
+    },
+    {
+      "engine_code": "TOYOTA_1MZ-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "TOYOTA_1ZZ-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "TOYOTA_3RZ-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "TOYOTA_4A-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "TOYOTA_5S-FE",
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "notes": ""
+    },
+    {
+      "engine_code": "GM_LQ4",
+      "oil_spec_key": "gm_6094m_5w30"
+    },
+    {
+      "engine_code": "GM_LM7",
+      "oil_spec_key": "gm_6094m_5w30"
+    },
+    {
+      "engine_code": "BMW_N20B20",
+      "oil_spec_key": "bmw_ll17fe_plus_0w20"
+    },
+    {
+      "engine_code": "CHRYSLER_EDZ",
+      "oil_spec_key": "ilsac_gf4_5w30",
+      "notes": "AMSOIL lookup for 2.4L EDZ indicates 5W-30."
+    },
+    {
+      "engine_code": "BMW_M54B30",
+      "oil_spec_key": "bmw_ll01_5w30"
+    },
+    {
+      "engine_code": "BMW_N52B30",
+      "oil_spec_key": "bmw_ll01_5w30"
+    },
+    {
+      "engine_code": "BMW_N55B30",
+      "oil_spec_key": "bmw_ll01_5w30"
+    },
+    {
+      "engine_code": "GM_LCV",
+      "oil_spec_key": "ilsac_gf5_0w20",
+      "notes": "GM TechLink capacities list LCV often as 0W-20 or 5W-20 depending on year/application; using 0W-20 ILSAC as canonical."
+    },
+    {
+      "engine_code": "GM_LR4",
+      "oil_spec_key": "gm_6094m_5w30",
+      "notes": "AMSOIL lookup for 4.8L lists 5W-30 as preferred."
+    },
+    {
+      "engine_code": "DODGE_EZA",
+      "oil_spec_key": "ms_6395_5w20",
+      "notes": "AMSOIL lookup notes 5.7L MDS requires SAE 5W-20."
+    },
+    {
+      "engine_code": "DODGE_EVA",
+      "oil_spec_key": "ms_6395_5w20",
+      "notes": "AMSOIL lookup for 4.7L indicates 5W-20 for many applications."
+    },
+    {
+      "engine_code": "DODGE_EGA",
+      "oil_spec_key": "ilsac_gf3_10w30",
+      "notes": "AMSOIL lookup for 3.9L indicates 10W-30 above -18C and 5W-30 all temps; 10W-30 preferred."
+    },
+    {
+      "engine_code": "CHRYSLER_EER",
+      "oil_spec_key": "ilsac_gf4_5w30",
+      "notes": "AMSOIL lookup for 3.7L indicates 5W-30."
+    },
+    {
+      "engine_code": "CHRYSLER_ERB",
+      "oil_spec_key": "ms_6395_5w20",
+      "notes": "AMSOIL lookup for 3.6L ERB indicates 5W-20."
+    },
+    {
+      "engine_code": "BMW_M54B25",
+      "oil_spec_key": "bmw_ll01_5w30",
+      "notes": "Copied from BMW_M54B30; verify by VIN/model-year."
+    },
+    {
+      "engine_code": "GM_L3T",
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "notes": "Copied from GM_L3B; verify by VIN/model-year."
+    },
+    {
+      "engine_code": "HONDA_R18",
+      "oil_spec_key": "ilsac_gf4_5w20",
+      "notes": "Copied from HONDA_R18A; verify by VIN/model-year."
+    }
+  ],
+  "verified_spec_keys": [
+    "bmw_ll17fe_plus_0w20",
+    "dexos1_gen2_5w30",
+    "dexos1_gen3_0w20",
+    "dexos1_gen3_5w30",
+    "dexos_d_0w20",
+    "fiat_9.55535_ds1_0w30",
+    "fiat_9.55535_m2_5w40",
+    "ford_wss_m2c930_a_5w20",
+    "ford_wss_m2c930_a_5w30",
+    "ford_wss_m2c946_b1_5w20",
+    "ford_wss_m2c946_b1_5w30",
+    "ford_wss_m2c961_a1_5w30",
+    "ford_wss_m2c962_a1_0w20",
+    "gm_6094m_5w30",
+    "gm_dexosd_5w30",
+    "ilsac_gf3_10w30",
+    "ilsac_gf4_5w20",
+    "ilsac_gf4_5w30",
+    "ilsac_gf5_0w20",
+    "ilsac_gf5_5w20",
+    "ilsac_gf5_5w30",
+    "ilsac_gf6a_0w16",
+    "ilsac_gf6a_0w20",
+    "jlr_stjlr_03_5005_0w20",
+    "mb_22971_0w20",
+    "ms_6395_5w20",
+    "porsche_a40_0w40",
+    "volvo_vcc_rbs0_2ae_0w20",
+    "vw_50200_0w20",
+    "vw_508_509_0w20",
+    "bmw_ll01_5w30"
+  ],
+  "generated_at": "2026-01-27T00:00:00Z"
+}

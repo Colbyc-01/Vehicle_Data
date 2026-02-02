@@ -1,0 +1,4326 @@
+{
+  "version": "oil_change_parts_seed.v1",
+  "scope": "US-only",
+  "parts_included": [
+    "oil_filter"
+  ],
+  "items": [
+    {
+      "engine_code": "BMW_B48",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "BMW",
+          "oem_part_number": "11428583898",
+          "service_part_number": "11428583898",
+          "notes": "BMW OE cartridge oil filter",
+          "label": "BMW 11428583898 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_B58",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "BMW",
+          "oem_part_number": "11428583898",
+          "service_part_number": "11428583898",
+          "notes": "Shared BMW OE cartridge filter with B48 in many US applications",
+          "label": "BMW 11428583898 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_3.6_PENTASTAR",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Mopar",
+          "oem_part_number": "68191349AC",
+          "service_part_number": "68191349AC",
+          "notes": "Replaces 68191349AB and 68191349AA",
+          "label": "Mopar 68191349AC • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_1.5_ECOBOOST",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-910-S",
+          "service_part_number": "FL910S",
+          "notes": "Ford OE oil filter for 1.5L EcoBoost",
+          "label": "Motorcraft FL-910-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_2.0_DURATEC_I4",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-910-S",
+          "service_part_number": "FL910S",
+          "notes": "Ford 2.0L Duratec I4 oil filter",
+          "label": "Motorcraft FL-910-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_2.3_ECOBOOST",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-910-S",
+          "service_part_number": "FL910S",
+          "notes": "Ford OE oil filter for many 2.3L EcoBoost applications",
+          "label": "Motorcraft FL-910-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_2.5_DURATEC_I4",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-910-S",
+          "service_part_number": "FL910S",
+          "notes": "Ford Duratec 2.5L I4 oil filter",
+          "label": "Motorcraft FL-910-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_2.7_ECOBOOST",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-2062-A",
+          "service_part_number": "FL2062A",
+          "notes": "Ford/Motorcraft OE oil filter kit element (Ford SKU KU2Z-6731-A)",
+          "label": "Motorcraft FL-2062-A • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_3.0_DURATEC_V6",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-820-S",
+          "service_part_number": "FL820S",
+          "notes": "Ford Duratec 3.0L V6 oil filter",
+          "label": "Motorcraft FL-820-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_3.0_ECOBOOST",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-500-S",
+          "service_part_number": "FL500S",
+          "notes": "Ford OE oil filter for 3.0L EcoBoost",
+          "label": "Motorcraft FL-500-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_3.5_ECOBOOST",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-500-S",
+          "service_part_number": "FL500S",
+          "notes": "Ford OE oil filter",
+          "label": "Motorcraft FL-500-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_3.7_CYCLONE_V6",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-500-S",
+          "service_part_number": "FL500S",
+          "notes": "Ford 3.7L Cyclone V6 oil filter",
+          "label": "Motorcraft FL-500-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_4.0_SOHC_V6",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-820-S",
+          "service_part_number": "FL820S",
+          "notes": "Ford 4.0L SOHC V6 oil filter",
+          "label": "Motorcraft FL-820-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_4.6_MODULAR_2V_3V",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-820-S",
+          "service_part_number": "FL820S",
+          "notes": "Ford Modular 4.6L V8 oil filter",
+          "label": "Motorcraft FL-820-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_5.0_COYOTE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-500-S",
+          "service_part_number": "FL500S",
+          "notes": "Shared with other modern Ford V6/V8 engines",
+          "label": "Motorcraft FL-500-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_5.4_MODULAR_3V",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-820-S",
+          "service_part_number": "FL820S",
+          "notes": "Ford Modular 5.4L oil filter",
+          "label": "Motorcraft FL-820-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_6.7_POWERSTROKE_GAS",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-2051-S",
+          "service_part_number": "FL2051S",
+          "notes": "Ford OE oil filter for 6.7L gas V8",
+          "label": "Motorcraft FL-2051-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_Godzilla73",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Motorcraft",
+          "oem_part_number": "FL-820-S",
+          "service_part_number": "FL820S",
+          "notes": "Ford OE oil filter for 7.3L gas V8",
+          "label": "Motorcraft FL-820-S • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_1.5_LYX",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735608",
+          "service_part_number": "PF66",
+          "notes": "GM OE PF66 oil filter",
+          "label": "ACDelco 12735608 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_2.2_ECOTEC_L61",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "PF52E",
+          "service_part_number": "PF52E",
+          "notes": "GM 2.2L Ecotec legacy oil filter",
+          "label": "ACDelco PF52E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_2.5_LCV",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735811",
+          "service_part_number": "PF63",
+          "notes": "GM OE PF63 oil filter",
+          "label": "ACDelco 12735811 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_3.0_DURAMAX_LM2",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735811",
+          "service_part_number": "PF63",
+          "notes": "GM OE oil filter for LM2 Duramax (oil filter only; fuel filters handled elsewhere)",
+          "label": "ACDelco 12735811 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_3.6_LGX",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12640445",
+          "service_part_number": "12640445",
+          "notes": "GM OE cartridge oil filter",
+          "label": "ACDelco 12640445 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_3.8_3800_SERIES_II",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "PF52E",
+          "service_part_number": "PF52E",
+          "notes": "GM 3800 Series II oil filter",
+          "label": "ACDelco PF52E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_4.3_VORTEC_V6",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "PF52E",
+          "service_part_number": "PF52E",
+          "notes": "GM 4.3L Vortec V6 oil filter",
+          "label": "ACDelco PF52E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_4.8_L20",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735811",
+          "service_part_number": "PF63",
+          "notes": "GM Gen V 4.8L oil filter",
+          "label": "ACDelco 12735811 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_5.3_L83",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735811",
+          "service_part_number": "PF63",
+          "notes": "GM OE PF63 oil filter for 5.3L Gen V",
+          "label": "ACDelco 12735811 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_5.3_L84",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735811",
+          "service_part_number": "PF63",
+          "notes": "Same PF63 as other Gen V 5.3 applications",
+          "label": "ACDelco 12735811 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_5.3_LM7_GEN4",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "PF52E",
+          "service_part_number": "PF52E",
+          "notes": "Legacy GM Gen IV LS 5.3L oil filter",
+          "label": "ACDelco PF52E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_6.0_LQ4_LQ9",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "PF52E",
+          "service_part_number": "PF52E",
+          "notes": "Legacy GM Gen IV LS 6.0L oil filter",
+          "label": "ACDelco PF52E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_6.2_LT1",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735811",
+          "service_part_number": "PF63",
+          "notes": "GM OE PF63 oil filter for LT-series V8",
+          "label": "ACDelco 12735811 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_6.2_LT2",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735811",
+          "service_part_number": "PF63",
+          "notes": "Shared GM OE PF63 oil filter with LT1",
+          "label": "ACDelco 12735811 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L36",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "PF52E",
+          "service_part_number": "PF52E",
+          "notes": "Common GM V6 application; some platforms use PF47E (short) vs PF52E (long).",
+          "label": "ACDelco PF52E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L3B",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735608",
+          "service_part_number": "PF66",
+          "notes": "GM OE service filter",
+          "label": "ACDelco 12735608 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L83",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735811",
+          "service_part_number": "PF63",
+          "notes": "GM OE oil filter",
+          "label": "ACDelco 12735811 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L84",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735811",
+          "service_part_number": "PF63",
+          "notes": "Same PF63 as other Gen V V8 engines",
+          "label": "ACDelco 12735811 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L87",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12735811",
+          "service_part_number": "PF63",
+          "notes": "Canonical GM service filter PF63",
+          "label": "ACDelco 12735811 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LE2_2.0_TURBO",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "12699847",
+          "service_part_number": "UPF64R",
+          "notes": "ACDelco Ultraguard (GM OE) oil filter UPF64R / GM# 12699847",
+          "label": "ACDelco 12699847 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_B_SERIES",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda B-series engines (B16/B18 variants)",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_D17",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Older Honda D-series oil filter",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_D_SERIES_LEGACY",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda D-series engines (D15/D16 variants)",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_F_SERIES",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda F-series engines (F22/F23 variants)",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_J35",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda OE oil filter",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_K20C2",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda OE oil filter",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_K24A",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda K24 oil filter",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_K_SERIES_LEGACY",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda K-series legacy engines (K20/K24 variants consolidated)",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_L15B7",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda OE oil filter",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HONDA_R18A",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda OE oil filter for R-series engines",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_2.0_NU",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Hyundai/Kia",
+          "oem_part_number": "26300-35505",
+          "service_part_number": "26300-35505",
+          "notes": "Hyundai/Kia OE oil filter for Nu engines",
+          "label": "Hyundai/Kia 26300-35505 • spin_on",
+          "verified": false,
+          "warning": "Unverified oil filter fitment – confirm by VIN/model-year or parts counter.",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "Best available match in seed; confirm by VIN/model-year."
+        }
+      ]
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_2.5_SMARTSTREAM",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Hyundai/Kia",
+          "oem_part_number": "26300-35505",
+          "service_part_number": "26300-35505",
+          "notes": "Hyundai/Kia OE oil filter",
+          "label": "Hyundai/Kia 26300-35505 • spin_on",
+          "verified": false,
+          "warning": "Unverified oil filter fitment – confirm by VIN/model-year or parts counter.",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "Best available match in seed; confirm by VIN/model-year."
+        }
+      ]
+    },
+    {
+      "engine_code": "JEEP_2.0_TURBO_GME",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Mopar",
+          "oem_part_number": "68229402AA",
+          "service_part_number": "68229402AA",
+          "notes": "Mopar OE cartridge oil filter for GME 2.0T",
+          "label": "Mopar 68229402AA • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "KIA_1.6_GDI",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Hyundai/Kia",
+          "oem_part_number": "26300-35505",
+          "service_part_number": "26300-35505",
+          "notes": "Hyundai/Kia OE oil filter for 1.6L GDI engines",
+          "label": "Hyundai/Kia 26300-35505 • spin_on",
+          "verified": false,
+          "warning": "Unverified oil filter fitment – confirm by VIN/model-year or parts counter.",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "Best available match in seed; confirm by VIN/model-year."
+        }
+      ]
+    },
+    {
+      "engine_code": "L20",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "PF48E",
+          "service_part_number": "PF48E",
+          "notes": "ACDelco PF48E (GM 12737086) supersedes PF48; common on 2007+ GM LS-family truck V8s.",
+          "label": "ACDelco PF48E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "L9H",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "PF48E",
+          "service_part_number": "PF48E",
+          "notes": "ACDelco PF48E (GM 12737086) supersedes PF48; common on 2007+ GM LS-family truck V8s.",
+          "label": "ACDelco PF48E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "LC9",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "PF48E",
+          "service_part_number": "PF48E",
+          "notes": "ACDelco PF48E (GM 12737086) supersedes PF48; common on 2007+ GM LS-family truck V8s.",
+          "label": "ACDelco PF48E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "LS1",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "ACDelco",
+          "oem_part_number": "PF46",
+          "service_part_number": "PF46",
+          "notes": "Common OE-style filter for LS1 F-body applications.",
+          "label": "ACDelco PF46 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        },
+        {
+          "filter_type": "spin_on",
+          "aftermarket_brand": "WIX",
+          "aftermarket_part_number": "51042",
+          "notes": "Common cross reference for PF46-style LS1 filters.",
+          "label": "spin_on",
+          "verified": false,
+          "warning": "Unverified oil filter fitment – confirm by VIN/model-year or parts counter.",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 2,
+          "recommendation_reason": "Acceptable alternative; confirm by VIN/model-year."
+        }
+      ]
+    },
+    {
+      "engine_code": "MAZDA_2.0_SKYACTIV-G",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Mazda",
+          "oem_part_number": "1WPE-14-302",
+          "service_part_number": "1WPE-14-302",
+          "notes": "Mazda OE cartridge oil filter",
+          "label": "Mazda 1WPE-14-302 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "MAZDA_2.5_SKYACTIV-G",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Mazda",
+          "oem_part_number": "1WPE-14-302",
+          "service_part_number": "1WPE-14-302",
+          "notes": "Mazda OE cartridge oil filter",
+          "label": "Mazda 1WPE-14-302 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "MITSUBISHI_4G63",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Mitsubishi",
+          "oem_part_number": "MD352626",
+          "service_part_number": "MD352626",
+          "notes": "Mitsubishi OE oil filter for 4G63 non-turbo applications",
+          "label": "Mitsubishi MD352626 • spin_on",
+          "verified": false,
+          "warning": "Unverified oil filter fitment – confirm by VIN/model-year or parts counter.",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "Best available match in seed; confirm by VIN/model-year."
+        }
+      ]
+    },
+    {
+      "engine_code": "MITSUBISHI_4G63T",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Mitsubishi",
+          "oem_part_number": "MD352626",
+          "service_part_number": "MD352626",
+          "notes": "Mitsubishi OE oil filter for 4G63 turbo applications (Eclipse/Evo)",
+          "label": "Mitsubishi MD352626 • spin_on",
+          "verified": false,
+          "warning": "Unverified oil filter fitment – confirm by VIN/model-year or parts counter.",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "Best available match in seed; confirm by VIN/model-year."
+        }
+      ]
+    },
+    {
+      "engine_code": "NISSAN_HR16DE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Nissan",
+          "oem_part_number": "15208-65F0E",
+          "service_part_number": "15208-65F0E",
+          "notes": "Nissan OE oil filter used across many modern Nissan gas engines (incl. HR16DE vehicle applications)",
+          "label": "Nissan 15208-65F0E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "NISSAN_KA24DE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Nissan",
+          "oem_part_number": "15208-9E01A",
+          "service_part_number": "15208-9E01A",
+          "notes": "Nissan KA24DE oil filter",
+          "label": "Nissan 15208-9E01A • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "NISSAN_KR20DDET",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Nissan",
+          "oem_part_number": "15208-65F0E",
+          "service_part_number": "15208-65F0E",
+          "notes": "Nissan OE oil filter for VC-Turbo engines",
+          "label": "Nissan 15208-65F0E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "NISSAN_MR20DD",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Nissan",
+          "oem_part_number": "15208-65F0E",
+          "service_part_number": "15208-65F0E",
+          "notes": "Nissan OE oil filter for MR-series engines",
+          "label": "Nissan 15208-65F0E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "NISSAN_QR25DE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Nissan",
+          "oem_part_number": "15208-65F0E",
+          "service_part_number": "15208-65F0E",
+          "notes": "Nissan OE oil filter",
+          "label": "Nissan 15208-65F0E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "NISSAN_QR25DE_OLD",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Nissan",
+          "oem_part_number": "15208-9E01A",
+          "service_part_number": "15208-9E01A",
+          "notes": "Older QR25DE applications",
+          "label": "Nissan 15208-9E01A • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "NISSAN_VG33E",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Nissan",
+          "oem_part_number": "15208-9E01A",
+          "service_part_number": "15208-9E01A",
+          "notes": "Nissan VG33E V6 oil filter",
+          "label": "Nissan 15208-9E01A • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "NISSAN_VQ35DE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Nissan",
+          "oem_part_number": "15208-65F0E",
+          "service_part_number": "15208-65F0E",
+          "notes": "Nissan OE oil filter for VQ-series engines",
+          "label": "Nissan 15208-65F0E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "NISSAN_VQ37VHR",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Nissan",
+          "oem_part_number": "15208-65F0E",
+          "service_part_number": "15208-65F0E",
+          "notes": "Nissan OE oil filter for VQ37 engines",
+          "label": "Nissan 15208-65F0E • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "RAM_5.7_HEMI",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Mopar",
+          "oem_part_number": "05038041AA",
+          "service_part_number": "05038041AA",
+          "notes": "Mopar OE oil filter for 5.7L HEMI",
+          "label": "Mopar 05038041AA • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "SUBARU_EJ25",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Subaru",
+          "oem_part_number": "15208AA15A",
+          "service_part_number": "15208AA15A",
+          "notes": "Subaru OE oil filter for EJ-series engines",
+          "label": "Subaru 15208AA15A • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "SUBARU_FB20",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Subaru",
+          "oem_part_number": "15208AA15A",
+          "service_part_number": "15208AA15A",
+          "notes": "Subaru OE blue oil filter",
+          "label": "Subaru 15208AA15A • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "SUBARU_FB25",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Subaru",
+          "oem_part_number": "15208AA15A",
+          "service_part_number": "15208AA15A",
+          "notes": "Subaru OE blue oil filter",
+          "label": "Subaru 15208AA15A • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_1GR-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZD3",
+          "service_part_number": "90915-YZZD3",
+          "notes": "Genuine Toyota oil filter (commonly used on 4.0L 1GR-FE applications)",
+          "label": "Toyota 90915-YZZD3 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_1NZ-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915-YZZF2",
+          "notes": "Legacy Toyota 1.5L oil filter",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_1UR-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915YZZF2",
+          "notes": "Common Toyota spin-on filter (verify later)",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_1UZ-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915YZZF2",
+          "notes": "Common Toyota spin-on filter (verify later)",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_22R_22RE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZD3",
+          "service_part_number": "90915-YZZD3",
+          "notes": "Toyota 22R / 22RE legacy truck engines",
+          "label": "Toyota 90915-YZZD3 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2AR-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915-YZZF2",
+          "notes": "Toyota OE spin-on oil filter for 2.5L 2AR-FE",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2AZ-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915-YZZF2",
+          "notes": "Legacy Toyota 2.4L oil filter",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915-YZZF2",
+          "notes": "Toyota OE spin-on oil filter for 3.5L 2GR-FE",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FKS",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Toyota",
+          "oem_part_number": "04152-YZZA1",
+          "service_part_number": "04152-YZZA1",
+          "notes": "Toyota replaceable element",
+          "label": "Toyota 04152-YZZA1 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FSE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915YZZF2",
+          "notes": "Common Toyota spin-on filter (verify later)",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FXS",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Toyota",
+          "oem_part_number": "04152-YZZA6",
+          "service_part_number": "04152-YZZA6",
+          "notes": "Toyota 3.5L hybrid cartridge oil filter",
+          "label": "Toyota 04152-YZZA6 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2TR-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZD1",
+          "service_part_number": "90915-YZZD1",
+          "notes": "Genuine Toyota oil filter (commonly used on 2.7L 2TR-FE applications)",
+          "label": "Toyota 90915-YZZD1 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2ZR-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915YZZF2",
+          "notes": "Common Toyota spin-on filter (verify later)",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_2ZR-FXE",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Toyota",
+          "oem_part_number": "04152-YZZA6",
+          "service_part_number": "04152-YZZA6",
+          "notes": "Toyota hybrid 1.8L cartridge oil filter",
+          "label": "Toyota 04152-YZZA6 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_3UR-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915YZZF2",
+          "notes": "Common Toyota spin-on filter (verify later)",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_4RUNNER_4.0_1GR_FE_OLD",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZD3",
+          "service_part_number": "90915-YZZD3",
+          "notes": "Older 1GR-FE applications (spin-on housing)",
+          "label": "Toyota 90915-YZZD3 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_5.7_3UR-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915-YZZF2",
+          "notes": "Toyota OE spin-on oil filter for 5.7L V8",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_5VZ-FE",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZD3",
+          "service_part_number": "90915-YZZD3",
+          "notes": "Toyota 3.4L V6 (5VZ-FE) oil filter",
+          "label": "Toyota 90915-YZZD3 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_A25A-FKS",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Toyota",
+          "oem_part_number": "04152-YZZA6",
+          "service_part_number": "04152-YZZA6",
+          "notes": "Toyota replaceable element",
+          "label": "Toyota 04152-YZZA6 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        },
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Toyota",
+          "oem_part_number": "04152-YZZA1",
+          "service_part_number": "04152-YZZA1",
+          "notes": "Toyota replaceable element (alternate by year/vehicle)",
+          "label": "Toyota 04152-YZZA1 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 2,
+          "recommendation_reason": "Acceptable alternative; confirm by VIN/model-year."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_FA20",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Toyota",
+          "oem_part_number": "90915-YZZF2",
+          "service_part_number": "90915YZZF2",
+          "notes": "Common Toyota spin-on filter (verify later)",
+          "label": "Toyota 90915-YZZF2 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "TOYOTA_M20A-FKS",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Toyota",
+          "oem_part_number": "04152-YZZA6",
+          "service_part_number": "04152-YZZA6",
+          "notes": "Toyota Dynamic Force 2.0L cartridge oil filter",
+          "label": "Toyota 04152-YZZA6 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "VW_2.0_TSI",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "Volkswagen",
+          "oem_part_number": "06L115562",
+          "service_part_number": "06L115562",
+          "notes": "VW OE cartridge oil filter for EA888 Gen 3/4 US vehicles",
+          "label": "Volkswagen 06L115562 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_420A",
+      "oil_filter": {
+        "oem_part_number": "M05281090",
+        "verified": true,
+        "source_quality": "OEM_PARTS_CATALOG",
+        "notes": "Genuine Mitsubishi oil filter part number listing."
+      }
+    },
+    {
+      "engine_code": "BMW_B48B20",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "BMW",
+          "oem_part_number": "11428583898",
+          "service_part_number": "11428583898",
+          "notes": "BMW OE cartridge oil filter",
+          "label": "BMW 11428583898 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "engine_code": "BMW_B58B30",
+      "oil_filter": [
+        {
+          "filter_type": "cartridge_element",
+          "oem_brand": "BMW",
+          "oem_part_number": "11428583898",
+          "service_part_number": "11428583898",
+          "notes": "Shared BMW OE cartridge filter with B48 in many US applications",
+          "label": "BMW 11428583898 • cartridge_element",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J35Y1",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda OE oil filter",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J35Y6",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda OE oil filter",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J35Z2",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda OE oil filter",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "engine_code": "HONDA_J35Z6",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "Honda OE oil filter",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "engine_code": "ACURA_J35A3",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "ACURA_J35A5",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "ACURA_J35Y2",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "ACURA_L15B7",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": "Honda",
+          "oem_part_number": "15400-PLM-A02",
+          "service_part_number": "15400-PLM-A02",
+          "notes": "",
+          "label": "Honda 15400-PLM-A02 • spin_on",
+          "verified": true,
+          "warning": null,
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "recommended",
+          "recommendation_rank": 1,
+          "recommendation_reason": "OEM-approved fitment/spec."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LQ4",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L31",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EDZ",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EGG",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ERB",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LFX",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N20B20",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LM7",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L29",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N55B30",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EER",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L35",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L61",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_M54B30",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EGH",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LSY",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LTG",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_42V8",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N52B30",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L65",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LLT",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LM2",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LR4",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_M54B25",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L56",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LGX",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_20T",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "DODGE_EZA",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LY7",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_S63B44",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EKG",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EML",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "DODGE_EGA",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L18",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L86",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L92",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LA1",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LB4",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LCV",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_30V6",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_CEUA",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_CEUC",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N62B44",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GENESIS_SMARTSTREAM25T",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L26",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L30",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L5P",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L82_V6_GEN3_31",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LB7",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LBZ",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LL8",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LLY",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LML",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LMM",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LW2",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_DLZA",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N54B30",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N63B44",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_S58B30",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ESG",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "DODGE_EVA",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_MODULAR_46",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L8T",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L9H",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LD8",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LE5",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LEA",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LMG",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LZ9",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_30TDI",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_CAEB",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_CALB",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N62B48",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ECB",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ESF",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_MAGNUM_39",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_MAGNUM_52",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FIAT_A14T",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_Cyclone35",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_23",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_35",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_EcoBoost20",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "FORD_Triton54",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L37",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L3T",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_L66",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LD9",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LIH",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LKW",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LM4",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LT1_GEN2_57",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LU3",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "GM_LZ0",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "HYUNDAI_THETA24",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "JAGUAR_AJ200P",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "PORSCHE_M96",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "PORSCHE_M97",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "VW_EA888",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "ALFA_ROMEO_GMET4",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_18T",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_27TT",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_28V6",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_AAH",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_AHA",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_BVJ",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "AUDI_DECA",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_M52B28",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_M60B40",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_N47D20",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "BMW_S55B30",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_6G72",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_6G73",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ED3",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ED6",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EGC",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EGT",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_ERH",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EWA",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EWB",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    },
+    {
+      "engine_code": "CHRYSLER_EZB",
+      "oil_filter": [
+        {
+          "filter_type": "spin_on",
+          "oem_brand": null,
+          "oem_part_number": "TBD",
+          "service_part_number": "TBD",
+          "notes": "Placeholder entry. Needs OEM-verified oil filter part number for this engine_code.",
+          "label": "TBD oil filter • verify by VIN",
+          "verified": false,
+          "warning": "UNVERIFIED — placeholder",
+          "fitment_note": "Confirm by VIN/model-year; housings and bypass specs can vary.",
+          "recommendation": "alternative",
+          "recommendation_rank": 99,
+          "recommendation_reason": "Placeholder to enable UI coverage list; replace with verified OEM fitment."
+        }
+      ]
+    }
+  ]
+}

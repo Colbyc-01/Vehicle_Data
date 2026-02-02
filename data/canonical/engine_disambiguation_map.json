@@ -1,0 +1,320 @@
+{
+  "version": 2,
+  "market": "US",
+  "generated_at": "2026-01-27T05:27:53.566409Z",
+  "notes": [
+    "Data-driven resolver for ambiguous/raw engine codes that are reused across eras or makes (e.g., LT1).",
+    "Rules are evaluated in order; first match wins. Prefer matching by make + year range; optionally model.",
+    "If a rule resolves to a canonical_engine_code that is not yet present in oil seeds, API should return nulls rather than mismatching to a different engine.",
+    "v2: Updated LT1/LT4/LL0/L82 to generation-based canonical engine codes.",
+    "v2: Normalized 1ZZ-FE/6VD1/J20A canonical targets."
+  ],
+  "disambiguation": {
+    "LT1": [
+      {
+        "canonical_engine_code": "GM_LT1_GEN5_62",
+        "make": "Chevrolet",
+        "year_min": 2014,
+        "year_max": 2024
+      },
+      {
+        "canonical_engine_code": "GM_LT1_GEN2_57",
+        "make": "Chevrolet",
+        "year_min": 1992,
+        "year_max": 1997
+      },
+      {
+        "canonical_engine_code": "GM_LT1_GEN2_57",
+        "make": "Cadillac",
+        "year_min": 1992,
+        "year_max": 1996
+      },
+      {
+        "canonical_engine_code": "GM_LT1_GEN2_57",
+        "make": "Buick",
+        "year_min": 1992,
+        "year_max": 1996
+      }
+    ],
+    "LT4": [
+      {
+        "canonical_engine_code": "GM_LT4_GEN5_62",
+        "make": "Chevrolet",
+        "model": "Corvette",
+        "year_min": 2015,
+        "year_max": 2024
+      },
+      {
+        "canonical_engine_code": "GM_LT4_GEN5_62",
+        "make": "Cadillac",
+        "year_min": 2015,
+        "year_max": 2024
+      },
+      {
+        "canonical_engine_code": "GM_LT4_GEN2_57",
+        "make": "Chevrolet",
+        "model": "Corvette",
+        "year_min": 1995,
+        "year_max": 1995
+      }
+    ],
+    "L82": [
+      {
+        "canonical_engine_code": "GM_L82_V8_GEN5_53",
+        "make": "Chevrolet",
+        "model": "Silverado 1500",
+        "year_min": 2019,
+        "year_max": 2021
+      },
+      {
+        "canonical_engine_code": "GM_L82_V6_GEN3_31",
+        "make": "Chevrolet",
+        "year_min": 1990,
+        "year_max": 2005
+      },
+      {
+        "canonical_engine_code": "GM_L82_V6_GEN3_31",
+        "make": "Buick",
+        "year_min": 1990,
+        "year_max": 2005
+      }
+    ],
+    "LL0": [
+      {
+        "canonical_engine_code": "GM_LL0_SPARK_GEN1_12",
+        "make": "Chevrolet",
+        "model": "Spark",
+        "year_min": 2013,
+        "year_max": 2015
+      },
+      {
+        "canonical_engine_code": "GM_LL0_SATURN_GEN1_19",
+        "make": "Saturn",
+        "model": "SL",
+        "year_min": 1991,
+        "year_max": 2002
+      }
+    ],
+    "J20A": [
+      {
+        "canonical_engine_code": "SUZUKI_J20A",
+        "make": "Suzuki",
+        "year_min": 2000,
+        "year_max": 2024
+      },
+      {
+        "canonical_engine_code": "GM_J20A",
+        "make": "Chevrolet",
+        "model": "Tracker",
+        "year_min": 1998,
+        "year_max": 2004
+      }
+    ],
+    "6VD1": [
+      {
+        "canonical_engine_code": "ISUZU_6VD1",
+        "make": "Isuzu",
+        "year_min": 1995,
+        "year_max": 2004
+      },
+      {
+        "canonical_engine_code": "ISUZU_6VD1",
+        "make": "Acura",
+        "model": "SLX",
+        "year_min": 1996,
+        "year_max": 1999
+      }
+    ],
+    "1ZZ-FE": [
+      {
+        "canonical_engine_code": "TOYOTA_1ZZ-FE",
+        "make": "Toyota",
+        "year_min": 1995,
+        "year_max": 2011
+      },
+      {
+        "canonical_engine_code": "TOYOTA_1ZZ-FE",
+        "make": "Pontiac",
+        "model": "Vibe",
+        "year_min": 2003,
+        "year_max": 2009
+      }
+    ],
+    "N62": [
+      {
+        "when": {
+          "engine_label_contains": "4.8"
+        },
+        "engine_code": "BMW_N62B48"
+      },
+      {
+        "when": {
+          "engine_label_contains": "4.4"
+        },
+        "engine_code": "BMW_N62B44"
+      },
+      {
+        "when": {},
+        "engine_code": "BMW_N62B44"
+      }
+    ],
+    "N63": [
+      {
+        "when": {
+          "year_min_gte": 2014
+        },
+        "engine_code": "BMW_N63B44T2"
+      },
+      {
+        "when": {},
+        "engine_code": "BMW_N63B44"
+      }
+    ],
+    "M54": [
+      {
+        "when": {
+          "engine_label_contains": "3.0"
+        },
+        "engine_code": "BMW_M54B30"
+      },
+      {
+        "when": {
+          "engine_label_contains": "2.5"
+        },
+        "engine_code": "BMW_M54B25"
+      },
+      {
+        "when": {},
+        "engine_code": "BMW_M54B30"
+      }
+    ],
+    "M52": [
+      {
+        "when": {
+          "engine_label_contains": "2.8"
+        },
+        "engine_code": "BMW_M52B28"
+      },
+      {
+        "when": {
+          "engine_label_contains": "2.5"
+        },
+        "engine_code": "BMW_M52B25"
+      },
+      {
+        "when": {},
+        "engine_code": "BMW_M52B28"
+      }
+    ],
+    "4G63T": [
+      {
+        "canonical_engine_code": "MITSUBISHI_4G63T_DSM",
+        "make": "Mitsubishi",
+        "model": "Eclipse",
+        "year_min": 1990,
+        "year_max": 1999
+      },
+      {
+        "canonical_engine_code": "MITSUBISHI_4G63T_EVO8_9",
+        "make": "Mitsubishi",
+        "model": "Lancer",
+        "year_min": 2001,
+        "year_max": 2006
+      },
+      {
+        "canonical_engine_code": "MITSUBISHI_4G63T_EVO8_9",
+        "make": "Mitsubishi",
+        "model": "Lancer",
+        "year_min": 2007,
+        "year_max": 2007
+      },
+      {
+        "canonical_engine_code": "MITSUBISHI_4G63T_EVO8_9",
+        "make": "Mitsubishi",
+        "year_min": 2000,
+        "year_max": 2024
+      }
+    ],
+    "MITSUBISHI_4G63T": [
+      {
+        "canonical_engine_code": "MITSUBISHI_4G63T_DSM",
+        "make": "Mitsubishi",
+        "model": "Eclipse",
+        "year_min": 1990,
+        "year_max": 1999
+      },
+      {
+        "canonical_engine_code": "MITSUBISHI_4G63T_EVO8_9",
+        "make": "Mitsubishi",
+        "model": "Lancer",
+        "year_min": 2001,
+        "year_max": 2006
+      },
+      {
+        "canonical_engine_code": "MITSUBISHI_4G63T_EVO8_9",
+        "make": "Mitsubishi",
+        "model": "Lancer",
+        "year_min": 2007,
+        "year_max": 2007
+      },
+      {
+        "canonical_engine_code": "MITSUBISHI_4G63T_EVO8_9",
+        "make": "Mitsubishi",
+        "year_min": 2000,
+        "year_max": 2024
+      }
+    ],
+    "20T": [
+      {
+        "canonical_engine_code": "AUDI_20T",
+        "make": "Audi",
+        "year_min": 1980,
+        "year_max": 2035
+      },
+      {
+        "canonical_engine_code": "CHRYSLER_HURRICANE_20T",
+        "make": "Chrysler",
+        "year_min": 1980,
+        "year_max": 2035
+      },
+      {
+        "canonical_engine_code": "CHRYSLER_HURRICANE_20T",
+        "make": "Dodge",
+        "year_min": 1980,
+        "year_max": 2035
+      },
+      {
+        "canonical_engine_code": "CHRYSLER_HURRICANE_20T",
+        "make": "Jeep",
+        "year_min": 1980,
+        "year_max": 2035
+      },
+      {
+        "canonical_engine_code": "CHRYSLER_HURRICANE_20T",
+        "make": "Ram",
+        "year_min": 1980,
+        "year_max": 2035
+      }
+    ],
+    "30T": [
+      {
+        "canonical_engine_code": "AUDI_30T",
+        "make": "Audi",
+        "year_min": 1980,
+        "year_max": 2035
+      },
+      {
+        "canonical_engine_code": "FORD_ECOBOOST_30TT",
+        "make": "Ford",
+        "year_min": 1980,
+        "year_max": 2035
+      },
+      {
+        "canonical_engine_code": "FORD_ECOBOOST_30TT",
+        "make": "Lincoln",
+        "year_min": 1980,
+        "year_max": 2035
+      }
+    ]
+  }
+}
