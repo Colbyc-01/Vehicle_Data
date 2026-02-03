@@ -60,11 +60,13 @@ DATA = ROOT / "data" / "canonical"
 SEEDS = ROOT / "Maintenance" / "Seeds"
 
 VEHICLES_PATH = DATA / "vehicles.json"
+ENGINES_PATH = DATA / "engines.json"
 OIL_SPECS_PATH = SEEDS / "oil_specs_seed.json"
 OIL_CAPACITY_PATH = SEEDS / "oil_capacity_seed.json"
 OIL_PARTS_PATH = SEEDS / "oil_change_parts_seed.json"
 
 
+OIL_FILTER_GROUPS_PATH = SEEDS / "oil_filter_groups.json"
 ENGINE_AIR_FILTER_PATH = SEEDS / "engine_air_filter_seed.json"
 CABIN_AIR_FILTER_PATH = SEEDS / "cabin_air_filter_seed.json"
 WIPER_BLADES_PATH = SEEDS / "wiper_blades_seed.json"
@@ -102,7 +104,7 @@ def _find_by_vehicle_key(items, vehicle_key):
 
 @app.get("/maintenance/bundle")
 def maintenance_bundle(vehicle_id: str, year: int, engine_code: Optional[str] = None):
-    vehicles_doc, oil_specs, oil_capacity, oil_parts = reload_all()
+    vehicles_doc, _, oil_specs, oil_capacity, oil_parts, _, _ = reload_all()
 
     # locate vehicle
     vehicle = None
@@ -300,6 +302,10 @@ def resolve_engine_code(
 
 
 def engine_display_name(engine_code: str, *, vehicle_engine_label: str | None = None, engines_doc: dict | None = None) -> str:
+        # 1) Always prefer vehicle-facing label (from vehicles.json)
+    if vehicle_engine_label and str(vehicle_engine_label).strip():
+        return str(vehicle_engine_label).strip()
+
     """Return a human-friendly engine label for UI.
 
     Priority:
@@ -315,7 +321,11 @@ def engine_display_name(engine_code: str, *, vehicle_engine_label: str | None = 
 
     name = e.get("engine_name")
     if isinstance(name, str) and name.strip():
-        return name.strip()
+        # Some engines.json entries accidentally include the engine_code in parentheses,
+        # e.g. "Coyote50 (FORD_Coyote50)". Strip that suffix for cleaner UI labels.
+        cleaned = name.strip()
+        cleaned = re.sub(rf"\s*\(\s*{re.escape(engine_code)}\s*\)\s*$", "", cleaned)
+        return cleaned
 
     # Compose from metadata when available
     disp = e.get("displacement_l")
@@ -509,10 +519,16 @@ def resolve_oil_spec_item(spec_item: Optional[Dict[str, Any]], oil_specs_doc: Di
 
 def reload_all():
     vehicles_doc = load_json(VEHICLES_PATH)
+    engines_doc = _load_optional(ENGINES_PATH) if 'ENGINES_PATH' in globals() else {"items": []}
     oil_specs = load_json(OIL_SPECS_PATH)
     oil_capacity = load_json(OIL_CAPACITY_PATH)
     oil_parts = load_json(OIL_PARTS_PATH)
-    return vehicles_doc, oil_specs, oil_capacity, oil_parts
+    try:
+        oil_filter_groups = load_json(OIL_FILTER_GROUPS_PATH)
+    except Exception:
+        oil_filter_groups = {}
+    # Return a stable 7-tuple for backward compatibility across call sites.
+    return vehicles_doc, engines_doc, oil_specs, oil_capacity, oil_parts, oil_filter_groups, {}
 
 
 
@@ -536,12 +552,15 @@ def vin_resolve_and_bundle(payload: Dict[str, Any] = Body(...)):
         vehicle_id = vehicle.get("vehicle_id")
         year = decoded.get("year")
         bundle = maintenance_bundle(vehicle_id=vehicle_id, year=year, engine_code=engine_code)
+        _, engines_doc, _, _, _, _, _ = reload_all()
+        engine_name = engine_display_name(engine_code, vehicle_engine_label=vehicle.get("engine_label"), engines_doc=engines_doc)
         return {
             "status": "READY",
             "vin_hash": vin_result.get("vin_hash"),
             "decoded": decoded,
             "vehicle": vehicle,
             "engine_code": engine_code,
+            "engine_name": engine_name,
             "bundle": bundle,
         }
 
@@ -598,7 +617,7 @@ def health():
 
 @app.get("/years")
 def get_years():
-    vehicles_doc, _, _, _ = reload_all()
+    vehicles_doc, *_ = reload_all()
     years = set()
     for v in vehicles_doc.get("vehicles", []):
         y0 = v.get("year_min")
@@ -610,7 +629,7 @@ def get_years():
 
 @app.get("/makes")
 def get_makes(year: int):
-    vehicles_doc, _, _, _ = reload_all()
+    vehicles_doc, *_ = reload_all()
 
     makes = set()
     for v in vehicles_doc.get("vehicles", []):
@@ -631,7 +650,7 @@ def get_makes(year: int):
 
 @app.get("/models")
 def get_models(year: int, make: str):
-    vehicles_doc, _, _, _ = reload_all()
+    vehicles_doc, *_ = reload_all()
     make_n = norm(make)
 
     models = set()
@@ -651,7 +670,7 @@ def get_models(year: int, make: str):
 
 
 def _search_impl(year, make, model):
-    vehicles_doc, _, _, _ = reload_all()
+    vehicles_doc, *_ = reload_all()
 
     make_n = norm(make)
     model_n = norm(model)
@@ -689,7 +708,7 @@ def _fuzzy_model_candidates(year: int, make: str, model: str, limit: int = 8) ->
     - Handles family names (Silverado -> Silverado 1500/2500HD/3500HD)
     - Returns sorted candidates with a simple score.
     """
-    vehicles_doc, _, _, _ = reload_all()
+    vehicles_doc, *_ = reload_all()
 
     make_n = norm(make)
     want_norm = norm(model)
@@ -1248,7 +1267,7 @@ def oil_change_by_engine(
       - oil_spec must be an object with a non-empty string field `label`
       - oil_capacity must be an object with a non-empty string field `capacity_label_with_filter`
     """
-    _, oil_specs, oil_capacity, oil_parts = reload_all()
+    _, _, oil_specs, oil_capacity, oil_parts, oil_filter_groups, _ = reload_all()
 
     resolved_engine_code = resolve_engine_code(
         engine_code,
@@ -1263,15 +1282,32 @@ def oil_change_by_engine(
 
     cap_item = _find_seed_item(oil_capacity.get("items", []), resolved_engine_code)
     parts_item = _find_seed_item(oil_parts.get("items", []), resolved_engine_code)
-    if isinstance(parts_item, dict):
-        oil_filter = parts_item.get("oil_filter") or {}
 
-    # OEM filter
+    # --- Oil filter hydration (supports both legacy inline schema and v2 oil_filter_group schema) ---
+    oil_filter: Dict[str, Any] = {}
+    parts_item_out = parts_item
+    if isinstance(parts_item, dict):
+        # Prefer new schema: oil_filter_group -> lookup in oil_filter_groups.json
+        group_key = parts_item.get("oil_filter_group")
+        if isinstance(group_key, str) and group_key.strip() and isinstance(oil_filter_groups, dict):
+            grp = oil_filter_groups.get(group_key.strip())
+            if isinstance(grp, dict):
+                oil_filter = json.loads(json.dumps(grp))  # deep copy (avoid mutating loaded doc)
+        # Fallback to legacy inline oil_filter blob
+        if not oil_filter:
+            legacy = parts_item.get("oil_filter")
+            if isinstance(legacy, dict):
+                oil_filter = json.loads(json.dumps(legacy))
+
+        # Attach hydrated filter back onto returned parts object (keeps Flutter happy)
+        parts_item_out = dict(parts_item)
+        if oil_filter:
+            parts_item_out["oil_filter"] = oil_filter
+
+    # Add buy links when we have filter data
     oem = oil_filter.get("oem")
     if isinstance(oem, dict):
         oem["buy_links"] = build_buy_links(oem)
-
-    # Alternatives
     alts = oil_filter.get("alternatives")
     if isinstance(alts, list):
         for alt in alts:
@@ -1291,13 +1327,13 @@ def oil_change_by_engine(
         },
         "oil_spec": oil_spec_out,
         "oil_capacity": oil_capacity_out,
-        "oil_parts": parts_item,
+        "oil_parts": parts_item_out,
     }
 
 
 @app.get("/oil-change/coverage/missing-engine-codes")
 def coverage():
-    vehicles_doc, oil_specs, oil_capacity, oil_parts = reload_all()
+    vehicles_doc, _, oil_specs, oil_capacity, oil_parts, _, _ = reload_all()
 
     vehicle_codes = set()
     for v in vehicles_doc.get("vehicles", []):

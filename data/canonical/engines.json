@@ -9661,24 +9661,6 @@
       "variant_policy": "A"
     }
   },
-  "FORD_5.0_COYOTE": {
-    "aspiration": null,
-    "configuration": null,
-    "cylinders": null,
-    "displacement_l": null,
-    "engine_name": null,
-    "family": null,
-    "fuel_type": null,
-    "make": "FORD",
-    "notes": "STUB: referenced by oil_change_parts_seed (filters) but not present in engines.json. Prefer canonicalize to a real engine_code later.",
-    "observed_in_fitment": null,
-    "valvetrain": null,
-    "verification": {
-      "basis": "seed_reference_only",
-      "level": "stub",
-      "variant_policy": "A"
-    }
-  },
   "FORD_5.4_MODULAR_3V": {
     "aspiration": null,
     "configuration": null,
