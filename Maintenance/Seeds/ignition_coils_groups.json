@@ -1,0 +1,16 @@
+{
+  "contract": "ignition_coils_groups",
+  "version": "v1-template",
+  "schema": "Group keyed by coil style. Include qty_per_engine.",
+  "groups": {
+    "COIL_EXAMPLE": {
+      "qty_per_engine": 4,
+      "primary": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "alternatives": []
+    }
+  }
+}

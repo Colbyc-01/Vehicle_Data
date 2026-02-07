@@ -1,0 +1,21 @@
+{
+  "contract": "coolant_groups",
+  "version": "v1-template",
+  "schema": "Groups can represent coolant spec (type/standard) and optionally capacity. Prefer engine_code mapping for spec; capacity may be engine or vehicle depending on your data.",
+  "groups": {
+    "COOLANT_EXAMPLE_HONDA_TYPE2": {
+      "primary": {
+        "brand": "Honda/Acura",
+        "part_number": "OL999-9011",
+        "verified": false
+      },
+      "spec": {
+        "type": "P-OAT",
+        "color": "blue",
+        "standard": "Honda Type 2",
+        "mix": "premix 50/50"
+      },
+      "alternatives": []
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "contract": "brake_rotors_seed",
+  "version": "v1-template",
+  "fitment_key_type": "vehicle_key",
+  "mapping": "Map vehicle_key -> {front_group, rear_group}.",
+  "items": [
+    {
+      "vehicle_key": "EXAMPLE_2006_ACURA_TSX_BASE",
+      "front_group": "BRAKEROTOR_EXAMPLE_FRONT",
+      "rear_group": "BRAKEROTOR_EXAMPLE_REAR",
+      "verified": false
+    }
+  ]
+}

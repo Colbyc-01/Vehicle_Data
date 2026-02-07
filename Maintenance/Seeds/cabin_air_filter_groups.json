@@ -1,0 +1,37 @@
+{
+  "contract": "cabin_air_filter_groups",
+  "version": "v1",
+  "generated_at": "2026-02-04",
+  "groups": {
+    "CABIN_FILTER_GROUP_EXAMPLE": {
+      "primary": {
+        "brand": null,
+        "part_number": null
+      },
+      "alternatives": [],
+      "spec": {
+        "filter_type": "cabin"
+      }
+    },
+    "CABIN_GM_FULLSIZE_TEST": {
+      "primary": {
+        "brand": "ACDelco",
+        "part_number": "CF188"
+      },
+      "alternatives": [],
+      "spec": {
+        "filter_type": "cabin"
+      }
+    },
+    "CABIN_GM_FULLSIZE_CF188": {
+      "primary": {
+        "brand": "ACDelco",
+        "part_number": "CF188"
+      },
+      "alternatives": [],
+      "spec": {
+        "filter_type": "cabin"
+      }
+    }
+  }
+}

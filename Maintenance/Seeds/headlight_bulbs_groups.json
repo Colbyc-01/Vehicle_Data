@@ -1,0 +1,56 @@
+{
+  "contract": "headlight_bulbs_groups",
+  "version": "v1",
+  "generated_at": "2026-02-04",
+  "groups": {
+    "BULB_GROUP_EXAMPLE": {
+      "positions": {
+        "drl": {
+          "primary": {
+            "brand": null,
+            "part_number": null
+          },
+          "alternatives": [],
+          "spec": {
+            "bulb_type": null,
+            "technology": null
+          }
+        },
+        "fog": {
+          "primary": {
+            "brand": null,
+            "part_number": null
+          },
+          "alternatives": [],
+          "spec": {
+            "bulb_type": null,
+            "technology": null
+          }
+        },
+        "high_beam": {
+          "primary": {
+            "brand": null,
+            "part_number": null
+          },
+          "alternatives": [],
+          "spec": {
+            "bulb_type": null,
+            "technology": null
+          }
+        },
+        "low_beam": {
+          "primary": {
+            "brand": null,
+            "part_number": null
+          },
+          "alternatives": [],
+          "spec": {
+            "bulb_type": null,
+            "technology": null
+          }
+        }
+      }
+    }
+  },
+  "note": "Fill groups with real parts. Seeds map vehicle_key->group_key. Backend injects buy_links."
+}

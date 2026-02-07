@@ -1,0 +1,33 @@
+{
+  "contract": "brake_rotors_groups",
+  "version": "v1-template",
+  "schema": "Group keyed by rotor size/package. Store position-specific rotors. Include diameter_mm optional.",
+  "groups": {
+    "BRAKEROTOR_EXAMPLE_FRONT": {
+      "position": "front",
+      "spec": {
+        "diameter_mm": null,
+        "vented": true
+      },
+      "primary": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "alternatives": []
+    },
+    "BRAKEROTOR_EXAMPLE_REAR": {
+      "position": "rear",
+      "spec": {
+        "diameter_mm": null,
+        "vented": false
+      },
+      "primary": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "alternatives": []
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "contract": "wiper_blades_seed",
+  "contract": "headlight_bulbs_seed",
   "version": "v2-mapping",
   "generated_at": "2026-02-04",
   "items": [
@@ -9,12 +9,13 @@
       "model": "3 Series",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -23,12 +24,13 @@
       "model": "5 Series",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -37,12 +39,13 @@
       "model": "Sierra 1500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -51,12 +54,13 @@
       "model": "A6",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -65,12 +69,13 @@
       "model": "Suburban",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -79,12 +84,13 @@
       "model": "Express 2500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -93,12 +99,13 @@
       "model": "Express 3500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -107,12 +114,13 @@
       "model": "Yukon",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -121,12 +129,13 @@
       "model": "Yukon XL",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -135,12 +144,13 @@
       "model": "Z4",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -149,12 +159,13 @@
       "model": "Silverado 1500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -163,12 +174,13 @@
       "model": "F-150",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -177,12 +189,13 @@
       "model": "Savana",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -191,12 +204,13 @@
       "model": "X3",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -205,12 +219,13 @@
       "model": "Camaro",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -219,12 +234,13 @@
       "model": "Durango",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -233,12 +249,13 @@
       "model": "A4",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -247,12 +264,13 @@
       "model": "X5",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -261,12 +279,13 @@
       "model": "Corvette",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -275,12 +294,13 @@
       "model": "Malibu",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -289,12 +309,13 @@
       "model": "Silverado 2500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -303,12 +324,13 @@
       "model": "Silverado 3500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -317,12 +339,13 @@
       "model": "Tahoe",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -331,12 +354,13 @@
       "model": "7 Series",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -345,12 +369,13 @@
       "model": "Grand Caravan",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -359,12 +384,13 @@
       "model": "Sierra 2500 HD",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -373,12 +399,13 @@
       "model": "Sierra 3500 HD",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -387,12 +414,13 @@
       "model": "A8",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -401,12 +429,13 @@
       "model": "LaCrosse",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -415,12 +444,13 @@
       "model": "Regal",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -429,12 +459,13 @@
       "model": "CTS",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -443,12 +474,13 @@
       "model": "Escalade",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -457,12 +489,13 @@
       "model": "Escalade ESV",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -471,12 +504,13 @@
       "model": "Express 1500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -485,12 +519,13 @@
       "model": "Caravan",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -499,12 +534,13 @@
       "model": "Ram 1500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -513,12 +549,13 @@
       "model": "F-250",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -527,12 +564,13 @@
       "model": "Canyon",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -541,12 +579,13 @@
       "model": "TL",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -555,12 +594,13 @@
       "model": "A3",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -569,12 +609,13 @@
       "model": "Impala",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -583,12 +624,13 @@
       "model": "Dakota",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -597,12 +639,13 @@
       "model": "Terrain",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -611,12 +654,13 @@
       "model": "S6",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -625,12 +669,13 @@
       "model": "TT",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -639,12 +684,13 @@
       "model": "X4",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -653,12 +699,13 @@
       "model": "Equinox",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -667,12 +714,13 @@
       "model": "Monte Carlo",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -681,12 +729,13 @@
       "model": "Avenger",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -695,12 +744,13 @@
       "model": "Challenger",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -709,12 +759,13 @@
       "model": "Charger",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -723,12 +774,13 @@
       "model": "Intrepid",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -737,12 +789,13 @@
       "model": "Ram 2500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -751,12 +804,13 @@
       "model": "Ram 3500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -765,12 +819,13 @@
       "model": "Escape",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -779,12 +834,13 @@
       "model": "Acadia",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -793,12 +849,13 @@
       "model": "Sonata",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -807,12 +864,13 @@
       "model": "Grand Cherokee",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -821,12 +879,13 @@
       "model": "911",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -835,12 +894,13 @@
       "model": "Q7",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -849,12 +909,13 @@
       "model": "2 Series",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -863,12 +924,13 @@
       "model": "4 Series",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -877,12 +939,13 @@
       "model": "Z3",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -891,12 +954,13 @@
       "model": "C2500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -905,12 +969,13 @@
       "model": "300",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -919,12 +984,13 @@
       "model": "Stratus",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -933,12 +999,13 @@
       "model": "Explorer",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -947,12 +1014,13 @@
       "model": "Mustang",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -961,12 +1029,13 @@
       "model": "Accord",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -975,12 +1044,13 @@
       "model": "Boxster",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -989,12 +1059,13 @@
       "model": "Camry",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1003,12 +1074,13 @@
       "model": "Integra",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1017,12 +1089,13 @@
       "model": "Q5",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1031,12 +1104,13 @@
       "model": "S8",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1045,12 +1119,13 @@
       "model": "X1",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1059,12 +1134,13 @@
       "model": "Enclave",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1073,12 +1149,13 @@
       "model": "Park Avenue",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1087,12 +1164,13 @@
       "model": "SRX",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1101,12 +1179,13 @@
       "model": "C1500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1115,12 +1194,13 @@
       "model": "C3500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1129,12 +1209,13 @@
       "model": "Cobalt",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1143,12 +1224,13 @@
       "model": "Colorado",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1157,12 +1239,13 @@
       "model": "Cruze",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1171,12 +1254,13 @@
       "model": "K1500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1185,12 +1269,13 @@
       "model": "K2500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1199,12 +1284,13 @@
       "model": "K3500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1213,12 +1299,13 @@
       "model": "Sebring Convertible",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1227,12 +1314,13 @@
       "model": "Sierra 2500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1241,12 +1329,13 @@
       "model": "Sierra 3500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1255,12 +1344,13 @@
       "model": "Elantra",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1269,12 +1359,13 @@
       "model": "Wrangler",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1283,12 +1374,13 @@
       "model": "Cooper",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1297,12 +1389,13 @@
       "model": "CL",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1311,12 +1404,13 @@
       "model": "ILX",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1325,12 +1419,13 @@
       "model": "MDX",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1339,12 +1434,13 @@
       "model": "NSX",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1353,12 +1449,13 @@
       "model": "TLX",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1367,12 +1464,13 @@
       "model": "A7",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1381,12 +1479,13 @@
       "model": "S4",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1395,12 +1494,13 @@
       "model": "1 Series",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1409,12 +1509,13 @@
       "model": "6 Series",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1423,12 +1524,13 @@
       "model": "8 Series",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1437,12 +1539,13 @@
       "model": "M3",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1451,12 +1554,13 @@
       "model": "Envision",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1465,12 +1569,13 @@
       "model": "ATS",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1479,12 +1584,13 @@
       "model": "CT6",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1493,12 +1599,13 @@
       "model": "Escalade EXT",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1507,12 +1614,13 @@
       "model": "Cavalier",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1521,12 +1629,13 @@
       "model": "Concorde",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1535,12 +1644,13 @@
       "model": "Pacifica",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1549,12 +1659,13 @@
       "model": "Sebring Coupe",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1563,12 +1674,13 @@
       "model": "Sebring Sedan",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1577,12 +1689,13 @@
       "model": "Town & Country",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1591,12 +1704,13 @@
       "model": "Journey",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1605,12 +1719,13 @@
       "model": "Magnum",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1619,12 +1734,13 @@
       "model": "Neon",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1633,12 +1749,13 @@
       "model": "Viper",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1647,12 +1764,13 @@
       "model": "Bronco",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1661,12 +1779,13 @@
       "model": "Expedition",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1675,12 +1794,13 @@
       "model": "Ranger",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1689,12 +1809,13 @@
       "model": "G80",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1703,12 +1824,13 @@
       "model": "Civic",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1717,12 +1839,13 @@
       "model": "Santa Fe",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1731,12 +1854,13 @@
       "model": "XJ",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1745,12 +1869,13 @@
       "model": "Optima",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1759,12 +1884,13 @@
       "model": "ES",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1773,12 +1899,13 @@
       "model": "E-Class",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1787,12 +1914,13 @@
       "model": "Altima",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1801,12 +1929,13 @@
       "model": "Cayenne",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1815,12 +1944,13 @@
       "model": "Tacoma",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1829,12 +1959,13 @@
       "model": "RDX",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1843,12 +1974,13 @@
       "model": "RL",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1857,12 +1989,13 @@
       "model": "RSX",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1871,12 +2004,13 @@
       "model": "TSX",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1885,12 +2019,13 @@
       "model": "A5",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1899,12 +2034,13 @@
       "model": "Cabriolet",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1913,12 +2049,13 @@
       "model": "R8",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1927,12 +2064,13 @@
       "model": "S5",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1941,12 +2079,13 @@
       "model": "S7",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1955,12 +2094,13 @@
       "model": "M5",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1969,12 +2109,13 @@
       "model": "Encore GX",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1983,12 +2124,13 @@
       "model": "LeSabre",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -1997,12 +2139,13 @@
       "model": "Lucerne",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2011,12 +2154,13 @@
       "model": "Rendezvous",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2025,12 +2169,13 @@
       "model": "Riviera",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2039,12 +2184,13 @@
       "model": "DeVille",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2053,12 +2199,13 @@
       "model": "STS",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2067,12 +2214,13 @@
       "model": "XT5",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2081,12 +2229,13 @@
       "model": "XT6",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2095,12 +2244,13 @@
       "model": "XTS",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2109,12 +2259,13 @@
       "model": "Astro",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2123,12 +2274,13 @@
       "model": "Blazer",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2137,12 +2289,13 @@
       "model": "HHR",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2151,12 +2304,13 @@
       "model": "S10",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2165,12 +2319,13 @@
       "model": "Tracker",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2179,12 +2334,13 @@
       "model": "TrailBlazer",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2193,12 +2349,13 @@
       "model": "Traverse",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2207,12 +2364,13 @@
       "model": "Caliber",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2221,12 +2379,13 @@
       "model": "Dart",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2235,12 +2394,13 @@
       "model": "E-Series",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2249,12 +2409,13 @@
       "model": "Edge",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2263,12 +2424,13 @@
       "model": "Transit",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2277,12 +2439,13 @@
       "model": "Envoy XL",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2291,12 +2454,13 @@
       "model": "G70",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2305,12 +2469,13 @@
       "model": "CR-V",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2319,12 +2484,13 @@
       "model": "H3",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2333,12 +2499,13 @@
       "model": "Tucson",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2347,12 +2514,13 @@
       "model": "XF",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2361,12 +2529,13 @@
       "model": "Cherokee",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2375,12 +2544,13 @@
       "model": "Range Rover",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2389,12 +2559,13 @@
       "model": "IS",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2403,12 +2574,13 @@
       "model": "RX",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2417,12 +2589,13 @@
       "model": "Mazda3",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2431,12 +2604,13 @@
       "model": "Mazda6",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2445,12 +2619,13 @@
       "model": "C-Class",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2459,12 +2634,13 @@
       "model": "1500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2473,12 +2649,13 @@
       "model": "Impreza",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2487,12 +2664,13 @@
       "model": "Outback",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2501,12 +2679,13 @@
       "model": "Grand Vitara",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2515,12 +2694,13 @@
       "model": "Jetta",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2529,12 +2709,13 @@
       "model": "Giulia",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2543,12 +2724,13 @@
       "model": "Stelvio",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2557,12 +2739,13 @@
       "model": "Tonale",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2571,12 +2754,13 @@
       "model": "Q3",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2585,12 +2769,13 @@
       "model": "RS5",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2599,12 +2784,13 @@
       "model": "S3",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2613,12 +2799,13 @@
       "model": "allroad",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2627,12 +2814,13 @@
       "model": "M2",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2641,12 +2829,13 @@
       "model": "M4",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2655,12 +2844,13 @@
       "model": "M6",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2669,12 +2859,13 @@
       "model": "X2",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2683,12 +2874,13 @@
       "model": "X5 M",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2697,12 +2889,13 @@
       "model": "X6",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2711,12 +2904,13 @@
       "model": "X6 M",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2725,12 +2919,13 @@
       "model": "X7",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2739,12 +2934,13 @@
       "model": "Rainier",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2753,12 +2949,13 @@
       "model": "Verano",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2767,12 +2964,13 @@
       "model": "CT4",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2781,12 +2979,13 @@
       "model": "CT5",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2795,12 +2994,13 @@
       "model": "CTS-V",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2809,12 +3009,13 @@
       "model": "DTS",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2823,12 +3024,13 @@
       "model": "Eldorado",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2837,12 +3039,13 @@
       "model": "Seville",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2851,12 +3054,13 @@
       "model": "Avalanche 1500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2865,12 +3069,13 @@
       "model": "Avalanche 2500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2879,12 +3084,13 @@
       "model": "Aveo",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2893,12 +3099,13 @@
       "model": "Beretta",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2907,12 +3114,13 @@
       "model": "Corsica",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2921,12 +3129,13 @@
       "model": "Lumina",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2935,12 +3144,13 @@
       "model": "S10 Blazer",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2949,12 +3159,13 @@
       "model": "Sonic",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2963,12 +3174,13 @@
       "model": "Spark",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2977,12 +3189,13 @@
       "model": "Trailblazer",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -2991,12 +3204,13 @@
       "model": "Trax",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -3005,12 +3219,13 @@
       "model": "Uplander",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -3019,12 +3234,13 @@
       "model": "200",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -3033,12 +3249,13 @@
       "model": "Aspen",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -3047,12 +3264,13 @@
       "model": "Concorde",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -3061,12 +3279,13 @@
       "model": "Nitro",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     },
     {
@@ -3075,12 +3294,13 @@
       "model": "500",
       "years": null,
       "body_style": null,
-      "wiper_group_key": null,
+      "bulb_group_key": null,
       "coverage": "not_covered",
       "required_positions": [
-        "front_driver",
-        "front_passenger",
-        "rear"
+        "drl",
+        "fog",
+        "high_beam",
+        "low_beam"
       ]
     }
   ]

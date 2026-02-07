@@ -1,0 +1,20 @@
+{
+  "contract": "serpentine_belt_groups",
+  "version": "v1-template",
+  "schema": "Group keyed by belt length/rib count/package. Include spec: {ribs, length_mm? length_in?}.",
+  "groups": {
+    "BELT_EXAMPLE_6RIB": {
+      "spec": {
+        "ribs": 6,
+        "length_in": null,
+        "length_mm": null
+      },
+      "primary": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "alternatives": []
+    }
+  }
+}

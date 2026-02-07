@@ -1,0 +1,15 @@
+{
+  "contract": "pcv_valve_groups",
+  "version": "v1-template",
+  "schema": "Group keyed by PCV design. Typically one part per engine.",
+  "groups": {
+    "PCV_EXAMPLE": {
+      "primary": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "alternatives": []
+    }
+  }
+}

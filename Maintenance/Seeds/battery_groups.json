@@ -1,0 +1,23 @@
+{
+  "contract": "battery_groups",
+  "version": "v1",
+  "generated_at": "2026-02-04",
+  "groups": {
+    "BATTERY_GROUP_EXAMPLE": {
+      "primary": {
+        "brand": null,
+        "part_number": null
+      },
+      "alternatives": [],
+      "spec": {
+        "group_size": null,
+        "cca": null,
+        "ah": null,
+        "voltage": 12,
+        "agm_required": null,
+        "start_stop_supported": null
+      }
+    }
+  },
+  "note": "Fill groups with real parts. Seeds map vehicle_key->group_key. Backend injects buy_links."
+}

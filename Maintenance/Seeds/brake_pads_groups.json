@@ -1,0 +1,25 @@
+{
+  "contract": "brake_pads_groups",
+  "version": "v1-template",
+  "schema": "Group keyed by brake package. Store position-specific pad sets. Each part item: {brand, part_number, notes?, verified?, buy_links?}.",
+  "groups": {
+    "BRAKEPAD_EXAMPLE_FRONT": {
+      "position": "front",
+      "primary": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "alternatives": []
+    },
+    "BRAKEPAD_EXAMPLE_REAR": {
+      "position": "rear",
+      "primary": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "alternatives": []
+    }
+  }
+}

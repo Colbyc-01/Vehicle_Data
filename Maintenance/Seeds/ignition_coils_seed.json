@@ -1,0 +1,13 @@
+{
+  "contract": "ignition_coils_seed",
+  "version": "v1-template",
+  "fitment_key_type": "engine_code",
+  "mapping": "Map engine_code -> coil_group.",
+  "items": [
+    {
+      "engine_code": "ACURA_K24A2",
+      "coil_group": "COIL_EXAMPLE",
+      "verified": false
+    }
+  ]
+}

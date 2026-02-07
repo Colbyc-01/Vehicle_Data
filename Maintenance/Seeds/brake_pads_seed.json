@@ -1,0 +1,15 @@
+{
+  "contract": "brake_pads_seed",
+  "version": "v1-template",
+  "fitment_key_type": "vehicle_key",
+  "mapping": "Map vehicle_key -> {front_group, rear_group}. vehicle_key should match your canonical vehicle identifier string used in other seeds.",
+  "items": [
+    {
+      "vehicle_key": "EXAMPLE_2006_ACURA_TSX_BASE",
+      "front_group": "BRAKEPAD_EXAMPLE_FRONT",
+      "rear_group": "BRAKEPAD_EXAMPLE_REAR",
+      "notes": "Template only",
+      "verified": false
+    }
+  ]
+}

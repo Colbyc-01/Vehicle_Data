@@ -1,0 +1,14 @@
+{
+  "contract": "coolant_seed",
+  "version": "v1-template",
+  "fitment_key_type": "engine_code",
+  "mapping": "Map engine_code -> coolant_group. Optionally include capacity fields if you decide they belong here.",
+  "items": [
+    {
+      "engine_code": "ACURA_K24A2",
+      "coolant_group": "COOLANT_EXAMPLE_HONDA_TYPE2",
+      "capacity_liters": null,
+      "verified": false
+    }
+  ]
+}

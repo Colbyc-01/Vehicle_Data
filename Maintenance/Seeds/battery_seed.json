@@ -1,5 +1,5 @@
 {
-  "contract": "cabin_air_filter_seed",
+  "contract": "battery_seed",
   "version": "v2-mapping",
   "generated_at": "2026-02-04",
   "items": [
@@ -9,7 +9,7 @@
       "model": "3 Series",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -18,7 +18,7 @@
       "model": "5 Series",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -27,8 +27,8 @@
       "model": "Sierra 1500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": "CABIN_GM_FULLSIZE_CF188",
-      "coverage": "covered"
+      "battery_group_key": null,
+      "coverage": "not_covered"
     },
     {
       "vehicle_key": "Audi_A6_None_None",
@@ -36,7 +36,7 @@
       "model": "A6",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -45,8 +45,8 @@
       "model": "Suburban",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": "CABIN_GM_FULLSIZE_CF188",
-      "coverage": "covered"
+      "battery_group_key": null,
+      "coverage": "not_covered"
     },
     {
       "vehicle_key": "Chevrolet_Express 2500_None_None",
@@ -54,7 +54,7 @@
       "model": "Express 2500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -63,7 +63,7 @@
       "model": "Express 3500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -72,8 +72,8 @@
       "model": "Yukon",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": "CABIN_GM_FULLSIZE_CF188",
-      "coverage": "covered"
+      "battery_group_key": null,
+      "coverage": "not_covered"
     },
     {
       "vehicle_key": "GMC_Yukon XL_None_None",
@@ -81,8 +81,8 @@
       "model": "Yukon XL",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": "CABIN_GM_FULLSIZE_CF188",
-      "coverage": "covered"
+      "battery_group_key": null,
+      "coverage": "not_covered"
     },
     {
       "vehicle_key": "BMW_Z4_None_None",
@@ -90,7 +90,7 @@
       "model": "Z4",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -99,8 +99,8 @@
       "model": "Silverado 1500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": "CABIN_GM_FULLSIZE_CF188",
-      "coverage": "covered"
+      "battery_group_key": null,
+      "coverage": "not_covered"
     },
     {
       "vehicle_key": "Ford_F-150_None_None",
@@ -108,7 +108,7 @@
       "model": "F-150",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -117,7 +117,7 @@
       "model": "Savana",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -126,7 +126,7 @@
       "model": "X3",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -135,7 +135,7 @@
       "model": "Camaro",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -144,7 +144,7 @@
       "model": "Durango",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -153,7 +153,7 @@
       "model": "A4",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -162,7 +162,7 @@
       "model": "X5",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -171,7 +171,7 @@
       "model": "Corvette",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -180,7 +180,7 @@
       "model": "Malibu",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -189,7 +189,7 @@
       "model": "Silverado 2500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -198,15 +198,17 @@
       "model": "Silverado 3500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
-      "vehicle_key": "chevrolet_tahoe",
+      "vehicle_key": "Chevrolet_Tahoe_None_None",
       "make": "Chevrolet",
       "model": "Tahoe",
-      "cabin_filter_group_key": "CABIN_GM_FULLSIZE_CF188",
-      "coverage": "covered"
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
     },
     {
       "vehicle_key": "BMW_7 Series_None_None",
@@ -214,7 +216,7 @@
       "model": "7 Series",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -223,7 +225,7 @@
       "model": "Grand Caravan",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -232,7 +234,7 @@
       "model": "Sierra 2500 HD",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -241,7 +243,7 @@
       "model": "Sierra 3500 HD",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -250,7 +252,7 @@
       "model": "A8",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -259,7 +261,7 @@
       "model": "LaCrosse",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -268,7 +270,7 @@
       "model": "Regal",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -277,7 +279,7 @@
       "model": "CTS",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -286,8 +288,8 @@
       "model": "Escalade",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": "CABIN_GM_FULLSIZE_CF188",
-      "coverage": "covered"
+      "battery_group_key": null,
+      "coverage": "not_covered"
     },
     {
       "vehicle_key": "Cadillac_Escalade ESV_None_None",
@@ -295,8 +297,8 @@
       "model": "Escalade ESV",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": "CABIN_GM_FULLSIZE_CF188",
-      "coverage": "covered"
+      "battery_group_key": null,
+      "coverage": "not_covered"
     },
     {
       "vehicle_key": "Chevrolet_Express 1500_None_None",
@@ -304,7 +306,7 @@
       "model": "Express 1500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -313,7 +315,7 @@
       "model": "Caravan",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -322,7 +324,7 @@
       "model": "Ram 1500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -331,7 +333,7 @@
       "model": "F-250",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -340,7 +342,7 @@
       "model": "Canyon",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -349,7 +351,7 @@
       "model": "TL",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -358,7 +360,7 @@
       "model": "A3",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -367,7 +369,7 @@
       "model": "Impala",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -376,7 +378,7 @@
       "model": "Dakota",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -385,7 +387,7 @@
       "model": "Terrain",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -394,7 +396,7 @@
       "model": "S6",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -403,7 +405,7 @@
       "model": "TT",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -412,7 +414,7 @@
       "model": "X4",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -421,7 +423,7 @@
       "model": "Equinox",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -430,7 +432,7 @@
       "model": "Monte Carlo",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -439,7 +441,7 @@
       "model": "Avenger",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -448,7 +450,7 @@
       "model": "Challenger",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -457,7 +459,7 @@
       "model": "Charger",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -466,7 +468,7 @@
       "model": "Intrepid",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -475,7 +477,7 @@
       "model": "Ram 2500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -484,7 +486,7 @@
       "model": "Ram 3500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -493,7 +495,7 @@
       "model": "Escape",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -502,7 +504,7 @@
       "model": "Acadia",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -511,7 +513,7 @@
       "model": "Sonata",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -520,7 +522,7 @@
       "model": "Grand Cherokee",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -529,7 +531,7 @@
       "model": "911",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -538,7 +540,7 @@
       "model": "Q7",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -547,7 +549,7 @@
       "model": "2 Series",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -556,7 +558,7 @@
       "model": "4 Series",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -565,7 +567,7 @@
       "model": "Z3",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -574,7 +576,7 @@
       "model": "C2500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -583,7 +585,7 @@
       "model": "300",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -592,7 +594,7 @@
       "model": "Stratus",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -601,7 +603,7 @@
       "model": "Explorer",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -610,7 +612,7 @@
       "model": "Mustang",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -619,7 +621,7 @@
       "model": "Accord",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -628,7 +630,7 @@
       "model": "Boxster",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -637,7 +639,7 @@
       "model": "Camry",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -646,7 +648,7 @@
       "model": "Integra",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -655,7 +657,7 @@
       "model": "Q5",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -664,7 +666,7 @@
       "model": "S8",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -673,7 +675,7 @@
       "model": "X1",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -682,7 +684,7 @@
       "model": "Enclave",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -691,7 +693,7 @@
       "model": "Park Avenue",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -700,7 +702,7 @@
       "model": "SRX",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -709,7 +711,7 @@
       "model": "C1500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -718,7 +720,7 @@
       "model": "C3500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -727,7 +729,7 @@
       "model": "Cobalt",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -736,7 +738,7 @@
       "model": "Colorado",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -745,7 +747,7 @@
       "model": "Cruze",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -754,7 +756,7 @@
       "model": "K1500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -763,7 +765,7 @@
       "model": "K2500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -772,7 +774,7 @@
       "model": "K3500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -781,7 +783,7 @@
       "model": "Sebring Convertible",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -790,7 +792,7 @@
       "model": "Sierra 2500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -799,7 +801,7 @@
       "model": "Sierra 3500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -808,7 +810,7 @@
       "model": "Elantra",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -817,7 +819,7 @@
       "model": "Wrangler",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -826,7 +828,7 @@
       "model": "Cooper",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -835,7 +837,7 @@
       "model": "CL",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -844,7 +846,7 @@
       "model": "ILX",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -853,7 +855,7 @@
       "model": "MDX",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -862,7 +864,7 @@
       "model": "NSX",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -871,7 +873,7 @@
       "model": "TLX",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -880,7 +882,7 @@
       "model": "A7",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -889,7 +891,7 @@
       "model": "S4",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -898,7 +900,7 @@
       "model": "1 Series",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -907,7 +909,7 @@
       "model": "6 Series",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -916,7 +918,7 @@
       "model": "8 Series",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -925,7 +927,7 @@
       "model": "M3",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -934,7 +936,7 @@
       "model": "Envision",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -943,7 +945,7 @@
       "model": "ATS",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -952,7 +954,7 @@
       "model": "CT6",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -961,7 +963,7 @@
       "model": "Escalade EXT",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -970,7 +972,7 @@
       "model": "Cavalier",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -979,7 +981,7 @@
       "model": "Concorde",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -988,7 +990,7 @@
       "model": "Pacifica",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -997,7 +999,7 @@
       "model": "Sebring Coupe",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1006,7 +1008,7 @@
       "model": "Sebring Sedan",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1015,7 +1017,7 @@
       "model": "Town & Country",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1024,7 +1026,7 @@
       "model": "Journey",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1033,7 +1035,7 @@
       "model": "Magnum",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1042,7 +1044,7 @@
       "model": "Neon",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1051,7 +1053,7 @@
       "model": "Viper",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1060,7 +1062,7 @@
       "model": "Bronco",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1069,7 +1071,7 @@
       "model": "Expedition",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1078,7 +1080,7 @@
       "model": "Ranger",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1087,7 +1089,7 @@
       "model": "G80",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1096,7 +1098,7 @@
       "model": "Civic",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1105,7 +1107,7 @@
       "model": "Santa Fe",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1114,7 +1116,7 @@
       "model": "XJ",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1123,7 +1125,7 @@
       "model": "Optima",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1132,7 +1134,7 @@
       "model": "ES",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1141,7 +1143,7 @@
       "model": "E-Class",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1150,7 +1152,7 @@
       "model": "Altima",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1159,7 +1161,7 @@
       "model": "Cayenne",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1168,7 +1170,7 @@
       "model": "Tacoma",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1177,7 +1179,7 @@
       "model": "RDX",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1186,7 +1188,7 @@
       "model": "RL",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1195,7 +1197,7 @@
       "model": "RSX",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1204,7 +1206,7 @@
       "model": "TSX",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1213,7 +1215,7 @@
       "model": "A5",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1222,7 +1224,7 @@
       "model": "Cabriolet",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1231,7 +1233,7 @@
       "model": "R8",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1240,7 +1242,7 @@
       "model": "S5",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1249,7 +1251,7 @@
       "model": "S7",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1258,7 +1260,7 @@
       "model": "M5",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1267,7 +1269,7 @@
       "model": "Encore GX",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1276,7 +1278,7 @@
       "model": "LeSabre",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1285,7 +1287,7 @@
       "model": "Lucerne",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1294,7 +1296,7 @@
       "model": "Rendezvous",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1303,7 +1305,7 @@
       "model": "Riviera",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1312,7 +1314,7 @@
       "model": "DeVille",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1321,7 +1323,7 @@
       "model": "STS",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1330,7 +1332,7 @@
       "model": "XT5",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1339,7 +1341,7 @@
       "model": "XT6",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1348,7 +1350,7 @@
       "model": "XTS",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1357,7 +1359,7 @@
       "model": "Astro",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1366,7 +1368,7 @@
       "model": "Blazer",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1375,7 +1377,7 @@
       "model": "HHR",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1384,7 +1386,7 @@
       "model": "S10",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1393,7 +1395,7 @@
       "model": "Tracker",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1402,7 +1404,7 @@
       "model": "TrailBlazer",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1411,7 +1413,7 @@
       "model": "Traverse",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1420,7 +1422,7 @@
       "model": "Caliber",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1429,7 +1431,7 @@
       "model": "Dart",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1438,7 +1440,7 @@
       "model": "E-Series",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1447,7 +1449,7 @@
       "model": "Edge",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1456,7 +1458,7 @@
       "model": "Transit",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1465,7 +1467,7 @@
       "model": "Envoy XL",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1474,7 +1476,7 @@
       "model": "G70",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1483,7 +1485,7 @@
       "model": "CR-V",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1492,7 +1494,7 @@
       "model": "H3",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1501,7 +1503,7 @@
       "model": "Tucson",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1510,7 +1512,7 @@
       "model": "XF",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1519,7 +1521,7 @@
       "model": "Cherokee",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1528,7 +1530,7 @@
       "model": "Range Rover",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1537,7 +1539,7 @@
       "model": "IS",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1546,7 +1548,7 @@
       "model": "RX",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1555,7 +1557,7 @@
       "model": "Mazda3",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1564,7 +1566,7 @@
       "model": "Mazda6",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1573,7 +1575,7 @@
       "model": "C-Class",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1582,7 +1584,7 @@
       "model": "1500",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1591,7 +1593,7 @@
       "model": "Impreza",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1600,7 +1602,7 @@
       "model": "Outback",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1609,7 +1611,7 @@
       "model": "Grand Vitara",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     },
     {
@@ -1618,7 +1620,367 @@
       "model": "Jetta",
       "years": null,
       "body_style": null,
-      "cabin_filter_group_key": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Alfa Romeo_Giulia_None_None",
+      "make": "Alfa Romeo",
+      "model": "Giulia",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Alfa Romeo_Stelvio_None_None",
+      "make": "Alfa Romeo",
+      "model": "Stelvio",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Alfa Romeo_Tonale_None_None",
+      "make": "Alfa Romeo",
+      "model": "Tonale",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Audi_Q3_None_None",
+      "make": "Audi",
+      "model": "Q3",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Audi_RS5_None_None",
+      "make": "Audi",
+      "model": "RS5",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Audi_S3_None_None",
+      "make": "Audi",
+      "model": "S3",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Audi_allroad_None_None",
+      "make": "Audi",
+      "model": "allroad",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "BMW_M2_None_None",
+      "make": "BMW",
+      "model": "M2",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "BMW_M4_None_None",
+      "make": "BMW",
+      "model": "M4",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "BMW_M6_None_None",
+      "make": "BMW",
+      "model": "M6",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "BMW_X2_None_None",
+      "make": "BMW",
+      "model": "X2",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "BMW_X5 M_None_None",
+      "make": "BMW",
+      "model": "X5 M",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "BMW_X6_None_None",
+      "make": "BMW",
+      "model": "X6",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "BMW_X6 M_None_None",
+      "make": "BMW",
+      "model": "X6 M",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "BMW_X7_None_None",
+      "make": "BMW",
+      "model": "X7",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Buick_Rainier_None_None",
+      "make": "Buick",
+      "model": "Rainier",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Buick_Verano_None_None",
+      "make": "Buick",
+      "model": "Verano",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Cadillac_CT4_None_None",
+      "make": "Cadillac",
+      "model": "CT4",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Cadillac_CT5_None_None",
+      "make": "Cadillac",
+      "model": "CT5",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Cadillac_CTS-V_None_None",
+      "make": "Cadillac",
+      "model": "CTS-V",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Cadillac_DTS_None_None",
+      "make": "Cadillac",
+      "model": "DTS",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Cadillac_Eldorado_None_None",
+      "make": "Cadillac",
+      "model": "Eldorado",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Cadillac_Seville_None_None",
+      "make": "Cadillac",
+      "model": "Seville",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Avalanche 1500_None_None",
+      "make": "Chevrolet",
+      "model": "Avalanche 1500",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Avalanche 2500_None_None",
+      "make": "Chevrolet",
+      "model": "Avalanche 2500",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Aveo_None_None",
+      "make": "Chevrolet",
+      "model": "Aveo",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Beretta_None_None",
+      "make": "Chevrolet",
+      "model": "Beretta",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Corsica_None_None",
+      "make": "Chevrolet",
+      "model": "Corsica",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Lumina_None_None",
+      "make": "Chevrolet",
+      "model": "Lumina",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_S10 Blazer_None_None",
+      "make": "Chevrolet",
+      "model": "S10 Blazer",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Sonic_None_None",
+      "make": "Chevrolet",
+      "model": "Sonic",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Spark_None_None",
+      "make": "Chevrolet",
+      "model": "Spark",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Trailblazer_None_None",
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Trax_None_None",
+      "make": "Chevrolet",
+      "model": "Trax",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chevrolet_Uplander_None_None",
+      "make": "Chevrolet",
+      "model": "Uplander",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chrysler_200_None_None",
+      "make": "Chrysler",
+      "model": "200",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Chrysler_Aspen_None_None",
+      "make": "Chrysler",
+      "model": "Aspen",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Dodge_Concorde_None_None",
+      "make": "Dodge",
+      "model": "Concorde",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Dodge_Nitro_None_None",
+      "make": "Dodge",
+      "model": "Nitro",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
+      "coverage": "not_covered"
+    },
+    {
+      "vehicle_key": "Fiat_500_None_None",
+      "make": "Fiat",
+      "model": "500",
+      "years": null,
+      "body_style": null,
+      "battery_group_key": null,
       "coverage": "not_covered"
     }
   ]

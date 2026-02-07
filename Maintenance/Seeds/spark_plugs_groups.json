@@ -1,0 +1,22 @@
+{
+  "contract": "spark_plugs_groups",
+  "version": "v1-template",
+  "schema": "Group keyed by plug spec. Include qty_per_engine and optional spec fields (gap_in, material, thread).",
+  "groups": {
+    "PLUG_EXAMPLE": {
+      "qty_per_engine": 4,
+      "spec": {
+        "gap_in": null,
+        "material": null,
+        "thread": "M14x1.25",
+        "reach_mm": null
+      },
+      "primary": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "alternatives": []
+    }
+  }
+}

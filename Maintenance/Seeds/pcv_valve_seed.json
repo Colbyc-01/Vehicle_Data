@@ -1,0 +1,13 @@
+{
+  "contract": "pcv_valve_seed",
+  "version": "v1-template",
+  "fitment_key_type": "engine_code",
+  "mapping": "Map engine_code -> pcv_group.",
+  "items": [
+    {
+      "engine_code": "ACURA_K24A2",
+      "pcv_group": "PCV_EXAMPLE",
+      "verified": false
+    }
+  ]
+}

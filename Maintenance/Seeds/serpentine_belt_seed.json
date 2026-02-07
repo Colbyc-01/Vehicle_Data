@@ -1,0 +1,14 @@
+{
+  "contract": "serpentine_belt_seed",
+  "version": "v1-template",
+  "fitment_key_type": "engine_code",
+  "mapping": "Map engine_code -> belt_group. Add notes if multiple belts (AC + PS) exist.",
+  "items": [
+    {
+      "engine_code": "ACURA_K24A2",
+      "belt_group": "BELT_EXAMPLE_6RIB",
+      "notes": "Template only",
+      "verified": false
+    }
+  ]
+}
