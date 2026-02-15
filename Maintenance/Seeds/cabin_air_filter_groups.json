@@ -1,37 +1,171 @@
 {
   "contract": "cabin_air_filter_groups",
   "version": "v1",
-  "generated_at": "2026-02-04",
+  "generated_at": "2026-02-10T04:12:47Z",
   "groups": {
     "CABIN_FILTER_GROUP_EXAMPLE": {
-      "primary": {
+      "oem": {
         "brand": null,
         "part_number": null
       },
-      "alternatives": [],
       "spec": {
         "filter_type": "cabin"
-      }
+      },
+      "alternatives": []
     },
     "CABIN_GM_FULLSIZE_TEST": {
-      "primary": {
+      "oem": {
         "brand": "ACDelco",
-        "part_number": "CF188"
+        "part_number": "CF188",
+        "verified": false
       },
-      "alternatives": [],
       "spec": {
         "filter_type": "cabin"
-      }
+      },
+      "alternatives": [
+        {
+          "brand": "FRAM",
+          "part_number": "CF188"
+        },
+        {
+          "brand": "WIX",
+          "part_number": "WP10010"
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "C35519"
+        }
+      ],
+      "warning": "Verify by year/trim; some GM platforms use different cabin filter shapes/options."
     },
     "CABIN_GM_FULLSIZE_CF188": {
-      "primary": {
+      "oem": {
         "brand": "ACDelco",
-        "part_number": "CF188"
+        "part_number": "CF188",
+        "verified": false
       },
-      "alternatives": [],
       "spec": {
         "filter_type": "cabin"
-      }
+      },
+      "alternatives": [
+        {
+          "brand": "FRAM",
+          "part_number": "CF188"
+        },
+        {
+          "brand": "WIX",
+          "part_number": "WP10010"
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "C35519"
+        }
+      ],
+      "warning": "Verify by year/trim; some GM platforms use different cabin filter shapes/options."
+    },
+    "CABIN_FORD_F150_KL3Z19N619AA": {
+      "oem": {
+        "brand": "Ford",
+        "part_number": "KL3Z-19N619-AA",
+        "verified": false
+      },
+      "spec": {
+        "filter_type": "cabin"
+      },
+      "alternatives": [
+        {
+          "brand": "Motorcraft",
+          "part_number": "FP-92"
+        },
+        {
+          "brand": "FRAM",
+          "part_number": "CF12150"
+        },
+        {
+          "brand": "WIX",
+          "part_number": "WP10266"
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "C38214"
+        }
+      ],
+      "warning": "Verify exact fitment by year/trim if VIN decode indicates different HVAC option."
+    },
+    "CABIN_TOYOTA_TACOMA_8850804010": {
+      "oem": {
+        "brand": "Toyota",
+        "part_number": "88508-04010",
+        "verified": false
+      },
+      "spec": {
+        "filter_type": "cabin"
+      },
+      "alternatives": [
+        {
+          "brand": "FRAM",
+          "part_number": "CF10374"
+        },
+        {
+          "brand": "WIX",
+          "part_number": "24871"
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "PBC35644"
+        }
+      ],
+      "warning": "Verify by year (Tacoma uses multiple OEM numbers across generations)."
+    },
+    "CABIN_TOYOTA_CAMRY_871390E040": {
+      "oem": {
+        "brand": "Toyota",
+        "part_number": "87139-0E040",
+        "verified": false
+      },
+      "spec": {
+        "filter_type": "cabin"
+      },
+      "alternatives": [
+        {
+          "brand": "FRAM",
+          "part_number": "CF12157"
+        },
+        {
+          "brand": "WIX",
+          "part_number": "WP10322"
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "TC21471"
+        }
+      ],
+      "warning": "Verify by year/trim; Toyota may supersede part numbers."
+    },
+    "CABIN_TOYOTA_4RUNNER_8713907020": {
+      "oem": {
+        "brand": "Toyota",
+        "part_number": "87139-07020",
+        "verified": false
+      },
+      "spec": {
+        "filter_type": "cabin"
+      },
+      "alternatives": [
+        {
+          "brand": "FRAM",
+          "part_number": "CF10285"
+        },
+        {
+          "brand": "WIX",
+          "part_number": "24483"
+        },
+        {
+          "brand": "Purolator",
+          "part_number": "C35667"
+        }
+      ],
+      "warning": "Verify by year; Toyota supersessions exist (some catalogs list 87139-50100/52040)."
     }
   }
 }

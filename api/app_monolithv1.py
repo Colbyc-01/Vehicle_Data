@@ -1,13 +1,7 @@
 from __future__ import annotations
 from dotenv import load_dotenv
-from pathlib import Path
-
-load_dotenv(Path(__file__).with_name(".env"))
-from urllib.parse import quote_plus
-import math
-from appv6 import load_json
-from api.data.paths import ENGINE_AIR_FILTER_GROUPS_PATH
-from api.core.purchase_links import build_buy_links
+load_dotenv()
+from purchase_links import build_buy_links
 
 
 
@@ -59,38 +53,24 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-ROOT = Path(__file__).resolve().parent.parent
+BASE = Path(__file__).parent
+ROOT = BASE.parent
 
 DATA = ROOT / "data" / "canonical"
 SEEDS = ROOT / "Maintenance" / "Seeds"
 
 VEHICLES_PATH = DATA / "vehicles.json"
 ENGINES_PATH = DATA / "engines.json"
-
-print("ROOT =", ROOT)
-print("VEHICLES_PATH =", VEHICLES_PATH)
-print("VEHICLES_PATH exists =", VEHICLES_PATH.exists())
-
-
 OIL_SPECS_PATH = SEEDS / "oil_specs_seed.json"
 OIL_CAPACITY_PATH = SEEDS / "oil_capacity_seed.json"
 OIL_PARTS_PATH = SEEDS / "oil_change_parts_seed.json"
-OIL_PRODUCT_GROUPS_PATH = SEEDS / "oil_product_groups.json"
+
+
 OIL_FILTER_GROUPS_PATH = SEEDS / "oil_filter_groups.json"
-
 ENGINE_AIR_FILTER_PATH = SEEDS / "engine_air_filter_seed.json"
-ENGINE_AIR_FILTER_GROUPS_PATH = SEEDS / "engine_air_filter_groups.json"
-
-CABIN_AIR_FILTER_GROUPS_PATH = SEEDS / "cabin_air_filter_groups.json"   
 CABIN_AIR_FILTER_PATH = SEEDS / "cabin_air_filter_seed.json"
-
-SPARK_PLUG_SEED_PATH = SEEDS / "spark_plug_seed.json"
-SPARK_PLUG_GROUPS_PATH = SEEDS / "spark_plug_groups.json"
-
-WIPER_GROUP_PATH = SEEDS / "wiper_group.json"
-WIPER_SEED_PATH = SEEDS / "wiper_seed.json"
-WIPER_MATRIX_PATH = SEEDS / "wiper_matrix.json"
-
+CABIN_AIR_FILTER_GROUPS_PATH = SEEDS / "cabin_air_filter_groups.json"
+WIPER_BLADES_PATH = SEEDS / "wiper_blades_seed.json"
 HEADLIGHT_BULBS_PATH = SEEDS / "headlight_bulbs_parts_seed.json"
 BATTERY_PARTS_PATH = SEEDS / "battery_parts_seed.json"
 
@@ -102,24 +82,10 @@ def _load_optional(path: Path) -> Dict[str, Any]:
         return {"items": []}
 
 
-def _vehicle_key_base(v: Dict[str, Any]) -> str:
+def _vehicle_key_from(v: Dict[str, Any]) -> str:
     make = (v.get("make") or "").strip().lower()
     model = (v.get("model") or "").strip().lower()
     return f"{make}_{model}".replace(" ", "_")
-
-
-def _vehicle_key_from(v: Dict[str, Any], year: Optional[int] = None) -> str:
-    """Return a vehicle_key used for maintenance seed lookups.
-
-    Backward compatible base key:
-      - <make>_<model>
-    Optional year-aware key:
-      - <make>_<model>_<year>
-    """
-    base = _vehicle_key_base(v)
-    if isinstance(year, int) and year > 1900:
-        return f"{base}_{year}"
-    return base
 
 
 def _find_by_engine(items, engine_code):
@@ -131,48 +97,34 @@ def _find_by_engine(items, engine_code):
 
 
 
-def _find_by_vehicle_key(items, vehicle_key, year: Optional[int] = None):
+def _find_by_vehicle_key(items, vehicle_key):
     """Find a seed item by vehicle_key with tolerance for schema differences.
 
-    Supports keys such as:
-      - "chevrolet_tahoe"
-      - "Chevrolet_Tahoe_None_None" (legacy)
-      - "chevrolet_tahoe_2018" (year-specific)
-      - "chevrolet_tahoe_2015_2019" (year-range)
+    Some seeds use:
+      - "ford_f-150"
+    Others use:
+      - "Ford_F-150_None_None"
+      - "ford_f-150_some_trim_etc"
 
-    Match order:
-      1) exact match (case-insensitive)
-      2) prefix tolerance
-      3) year-range match when year is available
+    We match if:
+      - exact match (case-insensitive)
+      - seed_key starts with vehicle_key + "_"
+      - vehicle_key starts with seed_key + "_"
     """
     vk = (vehicle_key or "").strip().lower()
     if not vk:
         return None
 
-    m_vk = re.match(r"^(?P<base>.+)_(?P<year>\d{4})$", vk)
-    vk_base = m_vk.group("base") if m_vk else vk
-    vk_year = int(m_vk.group("year")) if m_vk else (year if isinstance(year, int) else None)
-
     for it in items or []:
         sk = (it.get("vehicle_key") or "").strip().lower()
         if not sk:
             continue
-
         if sk == vk:
             return it
         if sk.startswith(vk + "_"):
             return it
         if vk.startswith(sk + "_"):
             return it
-
-        m = re.match(r"^(?P<base>.+)_(?P<y0>\d{4})_(?P<y1>\d{4})$", sk)
-        if m and vk_year:
-            base = m.group("base")
-            y0 = int(m.group("y0"))
-            y1 = int(m.group("y1"))
-            if base == vk_base and y0 <= vk_year <= y1:
-                return it
-
     return None
 
 
@@ -218,19 +170,17 @@ def _hydrate_engine_air_filter(item: dict) -> dict:
     group_key = item.get("engine_air_filter_group") or item.get("group_key")
     if isinstance(group_key, str) and group_key.strip():
         try:
-            groups_doc = load_json(ENGINE_AIR_FILTER_GROUPS_PATH)
-            groups = groups_doc.get("groups") if isinstance(groups_doc, dict) else None
-            if not isinstance(groups, dict):
-                groups = groups_doc
-            grp = groups.get(group_key.strip()) if isinstance(groups, dict) else None
+            groups_doc = load_json(Path(__file__).parent.parent / "Maintenance" / "Seeds" / "engine_air_filter_groups.json")
+            grp = groups_doc.get(group_key.strip())
             if isinstance(grp, dict):
                 out = dict(item)
                 out["air_filter"] = _attach_buy_links(grp)
                 return out
-        except Exception as e:
+        except Exception:
+            pass
 
     # 3) Legacy list schema: try to pull OEM + alternatives if present
-            legacy = item.get("engine_air_filter")
+    legacy = item.get("engine_air_filter")
     if isinstance(legacy, list) and legacy:
         row0 = legacy[0] if isinstance(legacy[0], dict) else None
         if isinstance(row0, dict):
@@ -248,40 +198,6 @@ def _hydrate_engine_air_filter(item: dict) -> dict:
                 return out
 
     return item
-
-def _hydrate_spark_plugs(item: dict) -> dict:
-    if not isinstance(item, dict):
-        return {"items": [], "warning": "not covered"}
-
-    def _attach_buy_links(sp: dict) -> dict:
-        out = json.loads(json.dumps(sp))
-        primary = out.get("primary")
-        if isinstance(primary, dict):
-            primary["buy_links"] = build_buy_links(primary)
-        alts = out.get("alternatives")
-        if isinstance(alts, list):
-            for alt in alts:
-                if isinstance(alt, dict):
-                    alt["buy_links"] = build_buy_links(alt)
-        return out
-
-    group_key = item.get("plug_group") or item.get("group_key")
-    if isinstance(group_key, str) and group_key.strip():
-        try:
-            groups_doc = load_json(SPARK_PLUG_GROUPS_PATH)
-            groups = groups_doc.get("groups")
-            grp = groups.get(group_key.strip()) if isinstance(groups, dict) else None
-            if isinstance(grp, dict):
-                out = dict(item)
-                out["spark_plugs"] = _attach_buy_links(grp)
-                return out
-        except Exception:
-            pass
-
-    out = dict(item)
-    out["spark_plugs"] = {"primary": None, "alternatives": [], "spec": {}, "qty_per_engine": None}
-    out["warning"] = out.get("warning") or "not covered"
-    return out
 
 
 
@@ -306,8 +222,7 @@ def _hydrate_cabin_air_filter(item: dict) -> dict:
         primary = out_cf.get("primary") or out_cf.get("oem")  # tolerate alternate naming
         if isinstance(primary, dict):
             primary["buy_links"] = build_buy_links(primary)
-            out_cf["oem"] = primary
-            out_cf.pop("primary", None)
+            out_cf["primary"] = primary
         alts = out_cf.get("alternatives")
         if isinstance(alts, list):
             for alt in alts:
@@ -347,109 +262,11 @@ def _hydrate_cabin_air_filter(item: dict) -> dict:
 
     return item
 
-def _resolve_by_selector(group: dict, vin_attrs: dict | None):
-    if not isinstance(group, dict):
-        return group
 
-    if not vin_attrs:
-        return group.get("fallback", group)
-    
-    selectors = group.get("selectors")
-    if not isinstance(selectors, dict):
-        return group
 
-    for key, options in selectors.items():
-        val = vin_attrs.get(key)
-        if val and isinstance(options, dict) and val in options:
-            return options[val]
-
-    return group.get("fallback", group)
-
-def _hydrate_wiper(seed_item: dict | None, groups_doc: dict, matrix_doc: dict) -> dict:
-    if not isinstance(seed_item, dict):
-        return {"items": [], "warning": "not covered"}
-
-    group_key = seed_item.get("wiper_group_key")
-    groups = (groups_doc or {}).get("groups", {})
-    grp = groups.get(group_key) if isinstance(groups, dict) else None
-    if not isinstance(grp, dict):
-        return {"items": [], "warning": "group not found"}
-
-    matrix = (matrix_doc or {}).get("items", {}) or {}
-    out_positions = {}
-
-    for pos_name, pos in (grp.get("positions") or {}).items():
-        spec = (pos or {}).get("spec") or {}
-        length = spec.get("length_in")
-        connector = spec.get("connector_type")
-        blade_type = spec.get("blade_type")
-
-        key = f"{length}_{connector}_{blade_type}".lower() if (length and connector and blade_type) else None
-        alts = matrix.get(key, []) if key else []
-
-        # --- buy links ---
-        oem_out = (pos or {}).get("oem")
-        if isinstance(oem_out, dict):
-            oem_out = dict(oem_out)
-
-            length = spec.get("length_in")
-            connector = spec.get("connector_type")
-            blade_type = spec.get("blade_type")
-
-            q = f'{length} inch {blade_type} wiper blade {connector}'.replace("_", " ") if (length and connector and blade_type) else "wiper blade"
-
-            q_encoded = quote_plus(q)
-
-            oem_out["buy_links"] = {
-                "amazon": f"https://www.amazon.com/s?k={q_encoded}&tag=SpecLabs-20",
-                "ebay": f"https://www.ebay.com/sch/i.html?_nkw={q_encoded}&campid=5339141163",
-                "walmart": f"https://www.walmart.com/search/?query={q_encoded}"
-            }
-
-        alts_out = []
-        if isinstance(alts, list):
-            for alt in alts:
-                if isinstance(alt, dict):
-                    alt_out = dict(alt)
-                    if "part_number" not in alt_out and "sku" in alt_out:
-                        alt_out["part_number"] = alt_out["sku"]
-                    alt_out["buy_links"] = build_buy_links(alt_out)
-                    alts_out.append(alt_out)
-                else:
-                    alts_out.append(alt)
-        else:
-            alts_out = alts
-
-        out_positions[pos_name] = {
-            "oem": oem_out,
-            "spec": spec,
-            "alternatives": alts_out,
-        }
-
-    return {
-        "vehicle_key": seed_item.get("vehicle_key"),
-        "coverage": seed_item.get("coverage"),
-        "wiper_group_key": group_key,
-        "positions": out_positions,
-    }
-
-from pydantic import BaseModel
-from typing import Optional, Dict, Any
-
-class MaintenanceBundleRequest(BaseModel):
-    vehicle_id: str
-    year: int
-    engine_code: Optional[str] = None
-    vin_attrs: Optional[Dict[str, Any]] = None
-
-@app.post("/maintenance/bundle")
-def maintenance_bundle(req: MaintenanceBundleRequest):
-    vehicle_id = req.vehicle_id
-    year = req.year
-    engine_code = req.engine_code
-    vin_attrs = req.vin_attrs or {}
+@app.get("/maintenance/bundle")
+def maintenance_bundle(vehicle_id: str, year: int, engine_code: Optional[str] = None):
     vehicles_doc, _, oil_specs, oil_capacity, oil_parts, _, _ = reload_all()
-
 
     # locate vehicle
     vehicle = None
@@ -469,70 +286,36 @@ def maintenance_bundle(req: MaintenanceBundleRequest):
     # load other seeds
     engine_air = _load_optional(ENGINE_AIR_FILTER_PATH)
     cabin = _load_optional(CABIN_AIR_FILTER_PATH)
-    wiper_seed = _load_optional(WIPER_SEED_PATH)
-    wiper_matrix = _load_optional(WIPER_MATRIX_PATH)    
-    wiper_group = _load_optional(WIPER_GROUP_PATH)    
+    wipers = _load_optional(WIPER_BLADES_PATH)
     headlights = _load_optional(HEADLIGHT_BULBS_PATH)
     battery = _load_optional(BATTERY_PARTS_PATH)
-    spark_plugs = _load_optional(SPARK_PLUG_SEED_PATH)  
 
-    vkey = _vehicle_key_from(vehicle, year=year)
+    vkey = _vehicle_key_from(vehicle)
 
-# ================================
-# ENGINE AIR FILTER
-# ================================
-
-# 1. Find engine seed entry
     engine_air_item = _find_by_engine(engine_air.get("items", []), chosen_engine)
     engine_air_item = engine_air_item or {"items": [], "warning": "not covered"}
-
-# 2. Hydrate group
     engine_air_item = _hydrate_engine_air_filter(engine_air_item)
-
-# 3. Resolve selector and FLATTEN structure
-    if isinstance(engine_air_item, dict) and "air_filter" in engine_air_item:
-        resolved = _resolve_by_selector(
-            engine_air_item["air_filter"],
-            vin_attrs
-        )
-
-    # Force flatten to resolved node
-        engine_air_item["air_filter"] = resolved
-
-# 4. Re-hydrate so buy_links attach to resolved node
-    engine_air_item = _hydrate_engine_air_filter(engine_air_item)
-
-    cabin_item = _find_by_vehicle_key(cabin.get("items", []), vkey, year=year)
+    cabin_item = _find_by_vehicle_key(cabin.get("items", []), vkey)
     cabin_item = cabin_item or {"items": [], "warning": "not covered"}
     cabin_item = _hydrate_cabin_air_filter(cabin_item)
-    cabin_item = _resolve_by_selector(cabin_item, vin_attrs)    
-    wiper_item = _find_by_vehicle_key(wiper_seed.get("items", []), vkey, year=year)
-    wiper_item = _hydrate_wiper(wiper_item, wiper_group, wiper_matrix) if wiper_item else {"items": [], "warning": "not covered"}
-    headlight_item = _find_by_vehicle_key(headlights.get("items", []), vkey, year=year)
-    battery_item = _find_by_vehicle_key(battery.get("items", []), vkey, year=year)
-    spark_plug_item = _find_by_engine(spark_plugs.get("items", []), chosen_engine)
-    spark_plug_item = spark_plug_item or {"items": [], "warning": "not covered"}
-    spark_plug_item = _hydrate_spark_plugs(spark_plug_item) 
-    vehicle_out = dict(vehicle)
-    if isinstance(vin_attrs, dict) and vin_attrs.get("body_style"):
-        vehicle_out["body_style"] = vin_attrs["body_style"]
+    wiper_item = _find_by_vehicle_key(wipers.get("items", []), vkey)
+    headlight_item = _find_by_vehicle_key(headlights.get("items", []), vkey)
+    battery_item = _find_by_vehicle_key(battery.get("items", []), vkey)
 
     return {
-        "vehicle": vehicle_out,
+        "vehicle": vehicle,
         "year": year,
         "engine_code": chosen_engine,
         "oil_change": oil,
         "engine_air_filter": engine_air_item or {"items": [], "warning": "not covered"},
         "cabin_air_filter": cabin_item or {"items": [], "warning": "not covered"},
-        "wiper": wiper_item or {"items": [], "warning": "not covered"},
+        "wiper_blades": wiper_item or {"items": [], "warning": "not covered"},
         "headlight_bulbs": headlight_item or {"items": [], "warning": "not covered"},
         "battery": battery_item or {"items": [], "warning": "not covered"},
-        "spark_plugs": spark_plug_item or {"items": [], "warning": "not covered"},
     }
 
 # Absolute, stable DB path (prevents CWD-dependent failures when running uvicorn)
 VIN_DB_PATH = ROOT / "Maintenance" / "Data" / "vin_events.db"
-
 
 
 def load_json(path: Path) -> Dict[str, Any]:
@@ -813,16 +596,16 @@ def oil_spec_label_for_key(oil_spec_key: Optional[str]) -> Optional[str]:
     # dexos patterns
     m = re.match(r"^dexos1_gen(\d+)_(\d+w\d+)$", kl)
     if m:
-        return f"dexos1 Gen {m.group(1)} - {_fmt_visc(m.group(2))}"
+        return f"dexos1 Gen {m.group(1)} • {_fmt_visc(m.group(2))}"
     m = re.match(r"^dexos_d_(\d+w\d+)$", kl)
     if m:
-        return f"dexosD - {_fmt_visc(m.group(1))}"
+        return f"dexosD • {_fmt_visc(m.group(1))}"
 
     # ILSAC patterns
     m = re.match(r"^ilsac_gf(\d+)([a-z])?_(\d+w\d+)$", kl)
     if m:
         gf = f"GF-{m.group(1)}" + (m.group(2).upper() if m.group(2) else "")
-        return f"ILSAC {gf} - {_fmt_visc(m.group(3))}"
+        return f"ILSAC {gf} • {_fmt_visc(m.group(3))}"
 
     # Ford WSS patterns (example: ford_wss_m2c946_b1_5w30)
     if kl.startswith("ford_wss_"):
@@ -831,18 +614,18 @@ def oil_spec_label_for_key(oil_spec_key: Optional[str]) -> Optional[str]:
         spec = "-".join(
             [t.upper() if t.lower().startswith("m2c") else t.upper() for t in toks[2:-1]]
         )
-        return f"Ford WSS-{spec} - {visc}" if visc else f"Ford WSS-{spec}"
+        return f"Ford WSS-{spec} • {visc}" if visc else f"Ford WSS-{spec}"
 
     # Mopar MS patterns (example: ms_6395_5w20)
     m = re.match(r"^ms_(\d+)(?:_(\d+w\d+))?$", kl)
     if m:
         visc = _fmt_visc(m.group(2)) if m.group(2) else None
-        return f"Mopar MS-{m.group(1)} - {visc}" if visc else f"Mopar MS-{m.group(1)}"
+        return f"Mopar MS-{m.group(1)} • {visc}" if visc else f"Mopar MS-{m.group(1)}"
 
     # GM older spec patterns (example: gm_6094m_5w30)
     m = re.match(r"^gm_(\w+)_(\d+w\d+)$", kl)
     if m:
-        return f"GM {m.group(1).upper()} - {_fmt_visc(m.group(2))}"
+        return f"GM {m.group(1).upper()} • {_fmt_visc(m.group(2))}"
 
     # BMW Longlife patterns (example: bmw_ll17fe_plus_0w20)
     if kl.startswith("bmw_ll"):
@@ -851,7 +634,7 @@ def oil_spec_label_for_key(oil_spec_key: Optional[str]) -> Optional[str]:
         ll_base = toks[1].upper().replace("LL", "Longlife-")
         if "plus" in toks:
             ll_base = ll_base + " FE+"
-        return f"BMW {ll_base} - {visc}" if visc else f"BMW {ll_base}"
+        return f"BMW {ll_base} • {visc}" if visc else f"BMW {ll_base}"
 
     # VW patterns (example: vw_508_509_0w20)
     if kl.startswith("vw_"):
@@ -862,7 +645,7 @@ def oil_spec_label_for_key(oil_spec_key: Optional[str]) -> Optional[str]:
             spec = f"VW {nums[0]} 00 / {nums[1]} 00"
         else:
             spec = "VW " + " ".join([n.upper() for n in nums])
-        return f"{spec} - {visc}" if visc else spec
+        return f"{spec} • {visc}" if visc else spec
 
     # Generic pattern: <brand>_..._<visc>_generic
     if kl.endswith("_generic"):
@@ -872,15 +655,15 @@ def oil_spec_label_for_key(oil_spec_key: Optional[str]) -> Optional[str]:
         brand = _brand(toks[0]) if toks else ""
         extra = " ".join([t.upper() for t in toks[1:-1]]).strip()
         if extra:
-            return f"{brand} {extra} - {visc}" if visc else f"{brand} {extra}"
-        return f"{brand} (generic) - {visc}" if visc else f"{brand} (generic)"
+            return f"{brand} {extra} • {visc}" if visc else f"{brand} {extra}"
+        return f"{brand} (generic) • {visc}" if visc else f"{brand} (generic)"
 
     # Fallback: prettify underscores and viscosity
     toks = kl.split("_")
     if toks and re.match(r"^\d+w\d+$", toks[-1]):
         visc = _fmt_visc(toks[-1])
         head = " ".join([t.upper() for t in toks[:-1]])
-        return f"{head} - {visc}"
+        return f"{head} • {visc}"
     return k.replace("_", " ").strip()
 
 
@@ -896,13 +679,13 @@ def resolve_oil_spec_item(spec_item: Optional[Dict[str, Any]], oil_specs_doc: Di
 
     verified_keys = set((oil_specs_doc or {}).get("verified_spec_keys", []) or [])
     resolved["verified"] = bool(oil_spec_key and oil_spec_key in verified_keys)
-    resolved["warning"] = None if resolved["verified"] else "Unverified oil spec - confirm in owner's manual or OEM service info."
+    resolved["warning"] = None if resolved["verified"] else "Unverified oil spec — confirm in owner's manual or OEM service info."
     return resolved
 
 
 def reload_all():
     vehicles_doc = load_json(VEHICLES_PATH)
-    engines_doc = _load_optional(ENGINES_PATH)
+    engines_doc = _load_optional(ENGINES_PATH) if 'ENGINES_PATH' in globals() else {"items": []}
     oil_specs = load_json(OIL_SPECS_PATH)
     oil_capacity = load_json(OIL_CAPACITY_PATH)
     oil_parts = load_json(OIL_PARTS_PATH)
@@ -910,13 +693,8 @@ def reload_all():
         oil_filter_groups = load_json(OIL_FILTER_GROUPS_PATH)
     except Exception:
         oil_filter_groups = {}
-    try:
-        oil_product_groups = load_json(OIL_PRODUCT_GROUPS_PATH)
-    except Exception:
-        oil_product_groups = {"items": {}}
-
     # Return a stable 7-tuple for backward compatibility across call sites.
-    return vehicles_doc, engines_doc, oil_specs, oil_capacity, oil_parts, oil_filter_groups, oil_product_groups
+    return vehicles_doc, engines_doc, oil_specs, oil_capacity, oil_parts, oil_filter_groups, {}
 
 
 
@@ -939,15 +717,7 @@ def vin_resolve_and_bundle(payload: Dict[str, Any] = Body(...)):
         engine_code = vin_result.get("engine_code")
         vehicle_id = vehicle.get("vehicle_id")
         year = decoded.get("year")
-        vin_attrs = vin_result.get("vin_attrs")
-        req = MaintenanceBundleRequest(
-            vehicle_id=vehicle.get("vehicle_id"),
-            year=year,
-            engine_code=engine_code,
-            vin_attrs=vin_attrs,
-        )
-        bundle = maintenance_bundle(req)
-
+        bundle = maintenance_bundle(vehicle_id=vehicle_id, year=year, engine_code=engine_code)
         _, engines_doc, _, _, _, _, _ = reload_all()
         engine_name = engine_display_name(engine_code, vehicle_engine_label=vehicle.get("engine_label"), engines_doc=engines_doc)
         return {
@@ -1311,42 +1081,6 @@ def _sqlite_upsert_rollup(signature: str, decoded: Dict[str, Any], status: str, 
 def _signature_for(decoded: Dict[str, Any]) -> str:
     return f"{decoded.get('year')}|{decoded.get('make')}|{decoded.get('model')}|{decoded.get('trim')}|{decoded.get('engine')}"
 
-def _body_style_from_raw(raw):
-    v = " ".join([
-        str(raw.get("BodyCabType") or ""),
-        str(raw.get("BodyClass") or "")
-    ]).lower()
-    
-    # trucks
-    if any(k in v for k in ["crew", "double"]):
-        return "crew_cab"
-    if any(k in v for k in ["extended", "quad", "king", "access", "super"]):
-        return "extended_cab"
-    if any(k in v for k in ["regular", "standard"]):
-        return "regular_cab"
-
-    # suvs / crossovers
-    if any(k in v for k in ["suv", "sport utility"]):
-        return "suv"
-    if "crossover" in v:
-        return "crossover"
-    
-    # cars
-    if "sedan" in v:
-        return "sedan"
-    if "coupe" in v:
-        return "coupe"
-    if "hatchback" in v:
-        return "hatchback"
-    if "wagon" in v:
-        return "wagon"
-    
-    # vans
-    if any(k in v for k in ["minivan", "van"]):
-        return "minivan"
-
-    return None
-
 
 @app.post("/vin/resolve")
 def vin_resolve(payload: Dict[str, Any] = Body(...)):
@@ -1360,11 +1094,6 @@ def vin_resolve(payload: Dict[str, Any] = Body(...)):
     vin_hash = _vin_hash(vin)
 
     decoded = _nhtsa_decode_vin(vin)
-
-    vin_attrs = {
-    "body_style": _body_style_from_raw(decoded.get("raw", {}))
-}
-    
     if not decoded.get("ok"):
         return {"status": "ERROR", "error": decoded.get("error", "DECODE_FAILED")}
 
@@ -1629,7 +1358,6 @@ def vin_resolve(payload: Dict[str, Any] = Body(...)):
             "engine_codes": engine_codes,
         },
         "engine_code": engine_code,
-        "vin_attrs": vin_attrs,
     }
 
 # ---------------- Oil change lookup helpers ----------------
@@ -1652,7 +1380,7 @@ def _fallback_oil_spec(resolved_engine_code: str) -> dict:
     # Contract-safe fallback for Flutter (expects oil_spec.label: string)
     return {
         "oil_spec_key": None,
-        "label": "Unknown oil spec - check owner's manual",
+        "label": "Unknown oil spec — check owner's manual",
         "verified": False,
         "warning": f"No oil spec coverage yet for {resolved_engine_code}.",
         "status": "MISSING",
@@ -1663,7 +1391,7 @@ def _fallback_oil_capacity(resolved_engine_code: str) -> dict:
     # Contract-safe fallback for Flutter (expects oil_capacity.capacity_label_with_filter: string)
     return {
         "capacity_quarts_with_filter": None,
-        "capacity_label_with_filter": "Unknown capacity - check owner's manual",
+        "capacity_label_with_filter": "Unknown capacity — check owner's manual",
         "verified": False,
         "warning": f"No oil capacity coverage yet for {resolved_engine_code}.",
         "status": "MISSING",
@@ -1688,7 +1416,7 @@ def _ensure_capacity_label(cap_item: dict) -> dict:
     if isinstance(q, (int, float)):
         out["capacity_label_with_filter"] = f"{q:g} qt"
     else:
-        out["capacity_label_with_filter"] = "Unknown capacity - check owner's manual"
+        out["capacity_label_with_filter"] = "Unknown capacity — check owner's manual"
     return out
 
 @app.get("/oil-change/by-engine")
@@ -1705,7 +1433,7 @@ def oil_change_by_engine(
       - oil_spec must be an object with a non-empty string field `label`
       - oil_capacity must be an object with a non-empty string field `capacity_label_with_filter`
     """
-    _, _, oil_specs, oil_capacity, oil_parts, oil_filter_groups, oil_product_groups = reload_all()
+    _, _, oil_specs, oil_capacity, oil_parts, oil_filter_groups, _ = reload_all()
 
     resolved_engine_code = resolve_engine_code(
         engine_code,
@@ -1755,75 +1483,6 @@ def oil_change_by_engine(
     oil_spec_out = spec_item_resolved if isinstance(spec_item_resolved, dict) else _fallback_oil_spec(resolved_engine_code)
     oil_capacity_out = _ensure_capacity_label(cap_item) if isinstance(cap_item, dict) else _fallback_oil_capacity(resolved_engine_code)
 
-    # ---------------- Spec-based oil product groups ----------------
-
-    oil_products = None
-    oil_spec_key = oil_spec_out.get("oil_spec_key") if isinstance(oil_spec_out, dict) else None
-
-    if oil_spec_key:
-        groups = oil_product_groups.get("items") if isinstance(oil_product_groups, dict) else {}
-        oil_products = groups.get(oil_spec_key) if isinstance(groups, dict) else None
-
-    if not oil_products:
-        oil_products = {"verified": False, "oem": None, "alternatives": [], "warning": "not covered"}
-
-    # Add buy links to oil products (runtime only; do not store in seed)
-    if isinstance(oil_products, dict):
-        oil_products = json.loads(json.dumps(oil_products))  # deep copy (avoid mutating loaded doc)
-
-        oem_oil = oil_products.get("oem")
-        if isinstance(oem_oil, dict):
-            oem_oil["buy_links"] = build_buy_links(oem_oil)
-
-        alt_oils = oil_products.get("alternatives")
-        if isinstance(alt_oils, list):
-            for alt in alt_oils:
-                if isinstance(alt, dict):
-                    alt["buy_links"] = build_buy_links(alt)
-
-
-    purchase_guidance = None
-    capacity_qt = oil_capacity_out.get("capacity_quarts_with_filter")
-
-    if isinstance(capacity_qt, (int, float)) and capacity_qt > 0:
-        need = float(capacity_qt)
-        need_ceil = int(math.ceil(need))
-
-        # Plan A: maximize 5qt, remainder 1qt
-        a_5 = need_ceil // 5
-        a_1 = need_ceil - (a_5 * 5)
-        a_total = a_5 * 5 + a_1
-        a_over = a_total - need
-        a_count = a_5 + a_1
-
-        # Plan B: all 5qt
-        b_5 = int(math.ceil(need_ceil / 5))
-        b_total = b_5 * 5
-        b_over = b_total - need
-        b_count = b_5
-
-        OVERBUY_GUARD_QT = 2.0
-
-        use_b = (b_count < a_count) and ((b_over - a_over) <= OVERBUY_GUARD_QT)
-
-        if use_b:
-            suggested = [{"size_qt": 5, "count": b_5}]
-            qt_to_buy = b_total
-        else:
-            suggested = []
-            if a_5 > 0:
-                suggested.append({"size_qt": 5, "count": a_5})
-            if a_1 > 0:
-                suggested.append({"size_qt": 1, "count": a_1})
-            qt_to_buy = a_total
-
-        purchase_guidance = {
-            "qt_needed": need,
-            "qt_to_buy": qt_to_buy,   # now equals actual purchased total
-            "suggested": suggested
-        }
-
-
     return {
         "engine_code": engine_code,
         "resolved_engine_code": resolved_engine_code,
@@ -1835,8 +1494,6 @@ def oil_change_by_engine(
         "oil_spec": oil_spec_out,
         "oil_capacity": oil_capacity_out,
         "oil_parts": parts_item_out,
-        "oil_products": oil_products,
-        "purchase_guidance": purchase_guidance,
     }
 
 

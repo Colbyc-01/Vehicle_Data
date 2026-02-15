@@ -1,6 +1,6 @@
 # purchase_links.py
 from __future__ import annotations
-
+print("purchase_links loaded from:", __file__)
 import os
 from dataclasses import dataclass
 from urllib.parse import quote_plus
@@ -25,7 +25,7 @@ def _query_for(p: PartLinkInput) -> str:
         bits.append(p.brand.strip())
     if p.part_number:
         bits.append(p.part_number.strip())
-    if not bits and p.name:
+    if p.name:
         bits.append(p.name.strip())
     return " ".join(bits).strip()
 
@@ -58,25 +58,18 @@ def ebay_url(p: PartLinkInput) -> str | None:
     return f"https://www.ebay.com/sch/i.html?_nkw={quote_plus(q)}&campid={quote_plus(EBAY_CAMPID)}"
 
 
-def build_buy_links(part: dict) -> dict:
-    """
-    Takes a dict that already has brand/part_number/name/asin and returns:
-      { "amazon": "...", "ebay": "..." }  (only includes keys that can be built)
-    """
-    p = PartLinkInput(
-        brand=part.get("brand"),
-        part_number=part.get("part_number"),
-        name=part.get("name"),
-        asin=part.get("asin"),
+from urllib.parse import quote_plus
+
+def build_buy_links(p: dict) -> dict:
+    print("BUY LINK INPUT:", p)
+
+    link_input = PartLinkInput(
+        brand=p.get("brand"),
+        part_number=p.get("part_number"),
+        name=p.get("name"),
     )
 
-    links: dict[str, str] = {}
-    a = amazon_url(p)
-    e = ebay_url(p)
-
-    if a:
-        links["amazon"] = a
-    if e:
-        links["ebay"] = e
-
-    return links
+    return {
+        "amazon": amazon_url(link_input),
+        "ebay": ebay_url(link_input),
+    }

@@ -10201,9 +10201,9 @@
     "configuration": "V6",
     "cylinders": 6,
     "displacement_l": 3.0,
-    "engine_code": "FORD_POWERSROKE_30",
-    "engine_name": "POWERSROKE_30 V6",
-    "family": "POWERSROKE",
+    "engine_code": "FORD_POWERSTROKE_30",
+    "engine_name": "POWERSTROKE_30 V6",
+    "family": "POWERSTROKE",
     "fuel_type": "Diesel",
     "make": "Ford",
     "notes": "Canonicalized from vehicle label '3.0L Turbo Diesel V6'."

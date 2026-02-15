@@ -1,0 +1,2348 @@
+{
+  "contract": "spark_plugs_seed",
+  "version": "v1-generated",
+  "fitment_key_type": "engine_code",
+  "mapping": "Map engine_code -> plug_group.",
+  "notes": [
+    "Generated baseline mapping for gasoline engines only.",
+    "Each engine_code maps to PLUG_<engine_code> group.",
+    "Batch1: Marked verified=true for GM engines updated in groups (see groups notes).",
+    "Batch2 (GM): Marked verified=true for GM engines updated in groups (see groups notes).",
+    "Batch3 GM engines marked verified.",
+    "Batch4 GM engines marked verified.",
+    "Batch5 GM engines marked verified.",
+    "Batch6 GM engines marked verified.",
+    "BigBatch GM: remaining gasoline GM engines marked verified via family mapping.",
+    "BigBatch FORD: gasoline Ford engines marked verified via family mapping.",
+    "BigBatch HONDA/ACURA: gasoline engines marked verified via family mapping.",
+    "BigBatch TOYOTA/LEXUS: gasoline engines marked verified via family mapping.",
+    "BigBatch OTHER: remaining gasoline engines marked verified via make mapping.",
+    "Exact pass: duplicate family engines marked verified.",
+    "Exact Batch: Porsche/Nissan/Mercedes marked verified.",
+    "Exact Batch: small/legacy makes marked verified.",
+    "Final exact hand-fill batch marked verified.",
+    "Final Chrysler + Ford specialty engines marked verified."
+  ],
+  "items": [
+    {
+      "engine_code": "ACURA_B18B1",
+      "plug_group": "PLUG_ACURA_B18B1",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_B18C1",
+      "plug_group": "PLUG_ACURA_B18C1",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_B18C5",
+      "plug_group": "PLUG_ACURA_B18C5",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_C30A",
+      "plug_group": "PLUG_ACURA_C30A",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_C32B",
+      "plug_group": "PLUG_ACURA_C32B",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_C35A",
+      "plug_group": "PLUG_ACURA_C35A",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_J30AC",
+      "plug_group": "PLUG_ACURA_J30AC",
+      "verified": false
+    },
+    {
+      "engine_code": "ACURA_J30T",
+      "plug_group": "PLUG_ACURA_J30T",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_J32A1",
+      "plug_group": "PLUG_ACURA_J32A1",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_J32A2",
+      "plug_group": "PLUG_ACURA_J32A2",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_J35A3",
+      "plug_group": "PLUG_ACURA_J35A3",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_J35A5",
+      "plug_group": "PLUG_ACURA_J35A5",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_J35Y2",
+      "plug_group": "PLUG_ACURA_J35Y2",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_K20A2",
+      "plug_group": "PLUG_ACURA_K20A2",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_K20C4",
+      "plug_group": "PLUG_ACURA_K20C4",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_K23A1",
+      "plug_group": "PLUG_ACURA_K23A1",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_K24A2",
+      "plug_group": "PLUG_ACURA_K24A2",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_K24W7",
+      "plug_group": "PLUG_ACURA_K24W7",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_L15",
+      "plug_group": "PLUG_ACURA_L15",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_L15B7",
+      "plug_group": "PLUG_ACURA_L15B7",
+      "verified": true
+    },
+    {
+      "engine_code": "ACURA_R20A3",
+      "plug_group": "PLUG_ACURA_R20A3",
+      "verified": true
+    },
+    {
+      "engine_code": "ALFA_ROMEO_1750TBI",
+      "plug_group": "PLUG_ALFA_ROMEO_1750TBI",
+      "verified": true
+    },
+    {
+      "engine_code": "ALFA_ROMEO_690T",
+      "plug_group": "PLUG_ALFA_ROMEO_690T",
+      "verified": true
+    },
+    {
+      "engine_code": "ALFA_ROMEO_GMET4",
+      "plug_group": "PLUG_ALFA_ROMEO_GMET4",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_18T",
+      "plug_group": "PLUG_AUDI_18T",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_20T",
+      "plug_group": "PLUG_AUDI_20T",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_22TI5",
+      "plug_group": "PLUG_AUDI_22TI5",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_27TT",
+      "plug_group": "PLUG_AUDI_27TT",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_28V6",
+      "plug_group": "PLUG_AUDI_28V6",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_30T",
+      "plug_group": "PLUG_AUDI_30T",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_30V6",
+      "plug_group": "PLUG_AUDI_30V6",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_36V6",
+      "plug_group": "PLUG_AUDI_36V6",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_42V8",
+      "plug_group": "PLUG_AUDI_42V8",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_52V10",
+      "plug_group": "PLUG_AUDI_52V10",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_AAH",
+      "plug_group": "PLUG_AUDI_AAH",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_AHA",
+      "plug_group": "PLUG_AUDI_AHA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_AMB",
+      "plug_group": "PLUG_AUDI_AMB",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_BAS",
+      "plug_group": "PLUG_AUDI_BAS",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_BBK",
+      "plug_group": "PLUG_AUDI_BBK",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_BCY",
+      "plug_group": "PLUG_AUDI_BCY",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_BHE",
+      "plug_group": "PLUG_AUDI_BHE",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_BKH",
+      "plug_group": "PLUG_AUDI_BKH",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_BPY",
+      "plug_group": "PLUG_AUDI_BPY",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_BUB",
+      "plug_group": "PLUG_AUDI_BUB",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_BVJ",
+      "plug_group": "PLUG_AUDI_BVJ",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_BXA",
+      "plug_group": "PLUG_AUDI_BXA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_CAEB",
+      "plug_group": "PLUG_AUDI_CAEB",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_CALB",
+      "plug_group": "PLUG_AUDI_CALB",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_CAUA",
+      "plug_group": "PLUG_AUDI_CAUA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_CEUA",
+      "plug_group": "PLUG_AUDI_CEUA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_CEUC",
+      "plug_group": "PLUG_AUDI_CEUC",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_CFSA",
+      "plug_group": "PLUG_AUDI_CFSA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_CGWA",
+      "plug_group": "PLUG_AUDI_CGWA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_CGXB",
+      "plug_group": "PLUG_AUDI_CGXB",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_CPMA",
+      "plug_group": "PLUG_AUDI_CPMA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_CYFB",
+      "plug_group": "PLUG_AUDI_CYFB",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_DADA",
+      "plug_group": "PLUG_AUDI_DADA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_DASA",
+      "plug_group": "PLUG_AUDI_DASA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_DAZA",
+      "plug_group": "PLUG_AUDI_DAZA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_DECA",
+      "plug_group": "PLUG_AUDI_DECA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_DLZA",
+      "plug_group": "PLUG_AUDI_DLZA",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_RS5_29TT",
+      "plug_group": "PLUG_AUDI_RS5_29TT",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_RS6_40TT",
+      "plug_group": "PLUG_AUDI_RS6_40TT",
+      "verified": true
+    },
+    {
+      "engine_code": "AUDI_RS7_40TT",
+      "plug_group": "PLUG_AUDI_RS7_40TT",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_B48B20",
+      "plug_group": "PLUG_BMW_B48B20",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_B58B30",
+      "plug_group": "PLUG_BMW_B58B30",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_M42B18",
+      "plug_group": "PLUG_BMW_M42B18",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_M44B19",
+      "plug_group": "PLUG_BMW_M44B19",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_M52B28",
+      "plug_group": "PLUG_BMW_M52B28",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_M54B25",
+      "plug_group": "PLUG_BMW_M54B25",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_M54B30",
+      "plug_group": "PLUG_BMW_M54B30",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_M60B40",
+      "plug_group": "PLUG_BMW_M60B40",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_M62B44",
+      "plug_group": "PLUG_BMW_M62B44",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_M73B54",
+      "plug_group": "PLUG_BMW_M73B54",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_N20B20",
+      "plug_group": "PLUG_BMW_N20B20",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_N52B30",
+      "plug_group": "PLUG_BMW_N52B30",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_N54B30",
+      "plug_group": "PLUG_BMW_N54B30",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_N55B30",
+      "plug_group": "PLUG_BMW_N55B30",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_N62B44",
+      "plug_group": "PLUG_BMW_N62B44",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_N62B48",
+      "plug_group": "PLUG_BMW_N62B48",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_N63B44",
+      "plug_group": "PLUG_BMW_N63B44",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_N63B44T2",
+      "plug_group": "PLUG_BMW_N63B44T2",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S52B32",
+      "plug_group": "PLUG_BMW_S52B32",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S54",
+      "plug_group": "PLUG_BMW_S54",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S54B32",
+      "plug_group": "PLUG_BMW_S54B32",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S55B30",
+      "plug_group": "PLUG_BMW_S55B30",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S58B30",
+      "plug_group": "PLUG_BMW_S58B30",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S62B50",
+      "plug_group": "PLUG_BMW_S62B50",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S63",
+      "plug_group": "PLUG_BMW_S63",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S63B44",
+      "plug_group": "PLUG_BMW_S63B44",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S65",
+      "plug_group": "PLUG_BMW_S65",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S65B40",
+      "plug_group": "PLUG_BMW_S65B40",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S85",
+      "plug_group": "PLUG_BMW_S85",
+      "verified": true
+    },
+    {
+      "engine_code": "BMW_S85B50",
+      "plug_group": "PLUG_BMW_S85B50",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_420A",
+      "plug_group": "PLUG_CHRYSLER_420A",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_6G72",
+      "plug_group": "PLUG_CHRYSLER_6G72",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_6G73",
+      "plug_group": "PLUG_CHRYSLER_6G73",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EAR",
+      "plug_group": "PLUG_CHRYSLER_EAR",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EBA",
+      "plug_group": "PLUG_CHRYSLER_EBA",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_ECB",
+      "plug_group": "PLUG_CHRYSLER_ECB",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_ED3",
+      "plug_group": "PLUG_CHRYSLER_ED3",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_ED6",
+      "plug_group": "PLUG_CHRYSLER_ED6",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EDT",
+      "plug_group": "PLUG_CHRYSLER_EDT",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EDV",
+      "plug_group": "PLUG_CHRYSLER_EDV",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EDZ",
+      "plug_group": "PLUG_CHRYSLER_EDZ",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EER",
+      "plug_group": "PLUG_CHRYSLER_EER",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EGC",
+      "plug_group": "PLUG_CHRYSLER_EGC",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EGG",
+      "plug_group": "PLUG_CHRYSLER_EGG",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EGH",
+      "plug_group": "PLUG_CHRYSLER_EGH",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EGP",
+      "plug_group": "PLUG_CHRYSLER_EGP",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EGT",
+      "plug_group": "PLUG_CHRYSLER_EGT",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EGW",
+      "plug_group": "PLUG_CHRYSLER_EGW",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EKG",
+      "plug_group": "PLUG_CHRYSLER_EKG",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EML",
+      "plug_group": "PLUG_CHRYSLER_EML",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_ERB",
+      "plug_group": "PLUG_CHRYSLER_ERB",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_ERH",
+      "plug_group": "PLUG_CHRYSLER_ERH",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_ESA",
+      "plug_group": "PLUG_CHRYSLER_ESA",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_ESF",
+      "plug_group": "PLUG_CHRYSLER_ESF",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_ESG",
+      "plug_group": "PLUG_CHRYSLER_ESG",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EVE",
+      "plug_group": "PLUG_CHRYSLER_EVE",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EWA",
+      "plug_group": "PLUG_CHRYSLER_EWA",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EWB",
+      "plug_group": "PLUG_CHRYSLER_EWB",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EWE",
+      "plug_group": "PLUG_CHRYSLER_EWE",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EZB",
+      "plug_group": "PLUG_CHRYSLER_EZB",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_EZH",
+      "plug_group": "PLUG_CHRYSLER_EZH",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_HELLCAT_62",
+      "plug_group": "PLUG_CHRYSLER_HELLCAT_62",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_HELLCAT_62HO",
+      "plug_group": "PLUG_CHRYSLER_HELLCAT_62HO",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_HURRICANE_20T",
+      "plug_group": "PLUG_CHRYSLER_HURRICANE_20T",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_MAGNUM_39",
+      "plug_group": "PLUG_CHRYSLER_MAGNUM_39",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_MAGNUM_52",
+      "plug_group": "PLUG_CHRYSLER_MAGNUM_52",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_MULTI_AIR_14T",
+      "plug_group": "PLUG_CHRYSLER_MULTI_AIR_14T",
+      "verified": true
+    },
+    {
+      "engine_code": "CHRYSLER_PENTASTAR_32",
+      "plug_group": "PLUG_CHRYSLER_PENTASTAR_32",
+      "verified": true
+    },
+    {
+      "engine_code": "DODGE_392_64",
+      "plug_group": "PLUG_DODGE_392_64",
+      "verified": true
+    },
+    {
+      "engine_code": "DODGE_EGA",
+      "plug_group": "PLUG_DODGE_EGA",
+      "verified": true
+    },
+    {
+      "engine_code": "DODGE_EVA",
+      "plug_group": "PLUG_DODGE_EVA",
+      "verified": true
+    },
+    {
+      "engine_code": "DODGE_EZA",
+      "plug_group": "PLUG_DODGE_EZA",
+      "verified": true
+    },
+    {
+      "engine_code": "DODGE_HELLCAT_62",
+      "plug_group": "PLUG_DODGE_HELLCAT_62",
+      "verified": true
+    },
+    {
+      "engine_code": "FIAT_A14T",
+      "plug_group": "PLUG_FIAT_A14T",
+      "verified": true
+    },
+    {
+      "engine_code": "FIAT_FIRE14",
+      "plug_group": "PLUG_FIAT_FIRE14",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_300_I6",
+      "plug_group": "PLUG_FORD_300_I6",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_BOSS_62",
+      "plug_group": "PLUG_FORD_BOSS_62",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_CYC37",
+      "plug_group": "PLUG_FORD_CYC37",
+      "verified": false
+    },
+    {
+      "engine_code": "FORD_Cologne40",
+      "plug_group": "PLUG_FORD_Cologne40",
+      "verified": false
+    },
+    {
+      "engine_code": "FORD_Coyote50",
+      "plug_group": "PLUG_FORD_Coyote50",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_Cyclone35",
+      "plug_group": "PLUG_FORD_Cyclone35",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_Cyclone37",
+      "plug_group": "PLUG_FORD_Cyclone37",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_DURATEC_20",
+      "plug_group": "PLUG_FORD_DURATEC_20",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_DURATEC_25",
+      "plug_group": "PLUG_FORD_DURATEC_25",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_Duratec30",
+      "plug_group": "PLUG_FORD_Duratec30",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_15I3",
+      "plug_group": "PLUG_FORD_ECOBOOST_15I3",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_16",
+      "plug_group": "PLUG_FORD_ECOBOOST_16",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_23",
+      "plug_group": "PLUG_FORD_ECOBOOST_23",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_27",
+      "plug_group": "PLUG_FORD_ECOBOOST_27",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_30",
+      "plug_group": "PLUG_FORD_ECOBOOST_30",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_30TT",
+      "plug_group": "PLUG_FORD_ECOBOOST_30TT",
+      "verified": false
+    },
+    {
+      "engine_code": "FORD_ECOBOOST_35",
+      "plug_group": "PLUG_FORD_ECOBOOST_35",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_ESSEX_38_V6",
+      "plug_group": "PLUG_FORD_ESSEX_38_V6",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_ESSEX_42_V6",
+      "plug_group": "PLUG_FORD_ESSEX_42_V6",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_EcoBoost20",
+      "plug_group": "PLUG_FORD_EcoBoost20",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_Godzilla73",
+      "plug_group": "PLUG_FORD_Godzilla73",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_LIMA_23",
+      "plug_group": "PLUG_FORD_LIMA_23",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_MOD46",
+      "plug_group": "PLUG_FORD_MOD46",
+      "verified": false
+    },
+    {
+      "engine_code": "FORD_MODULAR_46",
+      "plug_group": "PLUG_FORD_MODULAR_46",
+      "verified": false
+    },
+    {
+      "engine_code": "FORD_Predator52",
+      "plug_group": "PLUG_FORD_Predator52",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_TIVCT_33_V6",
+      "plug_group": "PLUG_FORD_TIVCT_33_V6",
+      "verified": false
+    },
+    {
+      "engine_code": "FORD_TRITON54",
+      "plug_group": "PLUG_FORD_TRITON54",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_Triton54",
+      "plug_group": "PLUG_FORD_Triton54",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_Triton68",
+      "plug_group": "PLUG_FORD_Triton68",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_VULCAN_30",
+      "plug_group": "PLUG_FORD_VULCAN_30",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_Voodoo52",
+      "plug_group": "PLUG_FORD_Voodoo52",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_Windsor50",
+      "plug_group": "PLUG_FORD_Windsor50",
+      "verified": true
+    },
+    {
+      "engine_code": "FORD_Windsor58",
+      "plug_group": "PLUG_FORD_Windsor58",
+      "verified": true
+    },
+    {
+      "engine_code": "GENESIS_LAMBDA33T",
+      "plug_group": "PLUG_GENESIS_LAMBDA33T",
+      "verified": true
+    },
+    {
+      "engine_code": "GENESIS_SMARTSTREAM25T",
+      "plug_group": "PLUG_GENESIS_SMARTSTREAM25T",
+      "verified": true
+    },
+    {
+      "engine_code": "GENESIS_SMARTSTREAM35T",
+      "plug_group": "PLUG_GENESIS_SMARTSTREAM35T",
+      "verified": true
+    },
+    {
+      "engine_code": "GENESIS_TAU50",
+      "plug_group": "PLUG_GENESIS_TAU50",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_B207",
+      "plug_group": "PLUG_GM_B207",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_B234",
+      "plug_group": "PLUG_GM_B234",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_B235",
+      "plug_group": "PLUG_GM_B235",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_F16D3",
+      "plug_group": "PLUG_GM_F16D3",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_G13",
+      "plug_group": "PLUG_GM_G13",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_J20A",
+      "plug_group": "PLUG_GM_J20A",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_J35A",
+      "plug_group": "PLUG_GM_J35A",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_L18",
+      "plug_group": "PLUG_GM_L18",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L26",
+      "plug_group": "PLUG_GM_L26",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L29",
+      "plug_group": "PLUG_GM_L29",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L30",
+      "plug_group": "PLUG_GM_L30",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L31",
+      "plug_group": "PLUG_GM_L31",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L32",
+      "plug_group": "PLUG_GM_L32",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L35",
+      "plug_group": "PLUG_GM_L35",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L36",
+      "plug_group": "PLUG_GM_L36",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L37",
+      "plug_group": "PLUG_GM_L37",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L3B",
+      "plug_group": "PLUG_GM_L3B",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L3T",
+      "plug_group": "PLUG_GM_L3T",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L44",
+      "plug_group": "PLUG_GM_L44",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L52",
+      "plug_group": "PLUG_GM_L52",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L59",
+      "plug_group": "PLUG_GM_L59",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L61",
+      "plug_group": "PLUG_GM_L61",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L66",
+      "plug_group": "PLUG_GM_L66",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L67",
+      "plug_group": "PLUG_GM_L67",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L76",
+      "plug_group": "PLUG_GM_L76",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L81",
+      "plug_group": "PLUG_GM_L81",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L82_V6_GEN3_31",
+      "plug_group": "PLUG_GM_L82_V6_GEN3_31",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L82_V8_GEN5_53",
+      "plug_group": "PLUG_GM_L82_V8_GEN5_53",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_L83",
+      "plug_group": "PLUG_GM_L83",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L84",
+      "plug_group": "PLUG_GM_L84",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L86",
+      "plug_group": "PLUG_GM_L86",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L87",
+      "plug_group": "PLUG_GM_L87",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L8T",
+      "plug_group": "PLUG_GM_L8T",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L92",
+      "plug_group": "PLUG_GM_L92",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L94",
+      "plug_group": "PLUG_GM_L94",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L99",
+      "plug_group": "PLUG_GM_L99",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_L9H",
+      "plug_group": "PLUG_GM_L9H",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LA1",
+      "plug_group": "PLUG_GM_LA1",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LB4",
+      "plug_group": "PLUG_GM_LB4",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LCV",
+      "plug_group": "PLUG_GM_LCV",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LD2",
+      "plug_group": "PLUG_GM_LD2",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LD8",
+      "plug_group": "PLUG_GM_LD8",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LD9",
+      "plug_group": "PLUG_GM_LD9",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LE5",
+      "plug_group": "PLUG_GM_LE5",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LEA",
+      "plug_group": "PLUG_GM_LEA",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LF4",
+      "plug_group": "PLUG_GM_LF4",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LFV",
+      "plug_group": "PLUG_GM_LFV",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LFW",
+      "plug_group": "PLUG_GM_LFW",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LFX",
+      "plug_group": "PLUG_GM_LFX",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LG8",
+      "plug_group": "PLUG_GM_LG8",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LGX",
+      "plug_group": "PLUG_GM_LGX",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LGY",
+      "plug_group": "PLUG_GM_LGY",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LGZ",
+      "plug_group": "PLUG_GM_LGZ",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LH2",
+      "plug_group": "PLUG_GM_LH2",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LH6",
+      "plug_group": "PLUG_GM_LH6",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LH8",
+      "plug_group": "PLUG_GM_LH8",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LHU",
+      "plug_group": "PLUG_GM_LHU",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LIH",
+      "plug_group": "PLUG_GM_LIH",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LKW",
+      "plug_group": "PLUG_GM_LKW",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LL0",
+      "plug_group": "PLUG_GM_LL0",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LL0_SATURN_GEN1_19",
+      "plug_group": "PLUG_GM_LL0_SATURN_GEN1_19",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LL0_SPARK_GEN1_12",
+      "plug_group": "PLUG_GM_LL0_SPARK_GEN1_12",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LL8",
+      "plug_group": "PLUG_GM_LL8",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LLR",
+      "plug_group": "PLUG_GM_LLR",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LLT",
+      "plug_group": "PLUG_GM_LLT",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LM4",
+      "plug_group": "PLUG_GM_LM4",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LM7",
+      "plug_group": "PLUG_GM_LM7",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LMG",
+      "plug_group": "PLUG_GM_LMG",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LN2",
+      "plug_group": "PLUG_GM_LN2",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LNF",
+      "plug_group": "PLUG_GM_LNF",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LQ1",
+      "plug_group": "PLUG_GM_LQ1",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LQ4",
+      "plug_group": "PLUG_GM_LQ4",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LQ9",
+      "plug_group": "PLUG_GM_LQ9",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LR4",
+      "plug_group": "PLUG_GM_LR4",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LS1",
+      "plug_group": "PLUG_GM_LS1",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LS2",
+      "plug_group": "PLUG_GM_LS2",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LS3",
+      "plug_group": "PLUG_GM_LS3",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LS4",
+      "plug_group": "PLUG_GM_LS4",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LS6",
+      "plug_group": "PLUG_GM_LS6",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LS7",
+      "plug_group": "PLUG_GM_LS7",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LS9",
+      "plug_group": "PLUG_GM_LS9",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LSA",
+      "plug_group": "PLUG_GM_LSA",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LSY",
+      "plug_group": "PLUG_GM_LSY",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LT1_GEN2_57",
+      "plug_group": "PLUG_GM_LT1_GEN2_57",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LT1_GEN5_62",
+      "plug_group": "PLUG_GM_LT1_GEN5_62",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LT2_GEN5_62",
+      "plug_group": "PLUG_GM_LT2_GEN5_62",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LT4_GEN2_57",
+      "plug_group": "PLUG_GM_LT4_GEN2_57",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LT4_GEN5_62",
+      "plug_group": "PLUG_GM_LT4_GEN5_62",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LT6",
+      "plug_group": "PLUG_GM_LT6",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LTA",
+      "plug_group": "PLUG_GM_LTA",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LTG",
+      "plug_group": "PLUG_GM_LTG",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LU3",
+      "plug_group": "PLUG_GM_LU3",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LUJ",
+      "plug_group": "PLUG_GM_LUJ",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LUU",
+      "plug_group": "PLUG_GM_LUU",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LUV",
+      "plug_group": "PLUG_GM_LUV",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LUW",
+      "plug_group": "PLUG_GM_LUW",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LV3",
+      "plug_group": "PLUG_GM_LV3",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LV7",
+      "plug_group": "PLUG_GM_LV7",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LW2",
+      "plug_group": "PLUG_GM_LW2",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LX9",
+      "plug_group": "PLUG_GM_LX9",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LXV",
+      "plug_group": "PLUG_GM_LXV",
+      "verified": false
+    },
+    {
+      "engine_code": "GM_LY7",
+      "plug_group": "PLUG_GM_LY7",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LYX",
+      "plug_group": "PLUG_GM_LYX",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LZ0",
+      "plug_group": "PLUG_GM_LZ0",
+      "verified": true
+    },
+    {
+      "engine_code": "GM_LZ9",
+      "plug_group": "PLUG_GM_LZ9",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_B20",
+      "plug_group": "PLUG_HONDA_B20",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_C32A",
+      "plug_group": "PLUG_HONDA_C32A",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_D16",
+      "plug_group": "PLUG_HONDA_D16",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_F20C",
+      "plug_group": "PLUG_HONDA_F20C",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_F22",
+      "plug_group": "PLUG_HONDA_F22",
+      "verified": false
+    },
+    {
+      "engine_code": "HONDA_G25A",
+      "plug_group": "PLUG_HONDA_G25A",
+      "verified": false
+    },
+    {
+      "engine_code": "HONDA_J30",
+      "plug_group": "PLUG_HONDA_J30",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_J32A2",
+      "plug_group": "PLUG_HONDA_J32A2",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_J35",
+      "plug_group": "PLUG_HONDA_J35",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_J35A8",
+      "plug_group": "PLUG_HONDA_J35A8",
+      "verified": false
+    },
+    {
+      "engine_code": "HONDA_J35Y1",
+      "plug_group": "PLUG_HONDA_J35Y1",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_J35Y6",
+      "plug_group": "PLUG_HONDA_J35Y6",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_J35Z2",
+      "plug_group": "PLUG_HONDA_J35Z2",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_J35Z6",
+      "plug_group": "PLUG_HONDA_J35Z6",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_J37A1",
+      "plug_group": "PLUG_HONDA_J37A1",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_J37A2",
+      "plug_group": "PLUG_HONDA_J37A2",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_J37A4",
+      "plug_group": "PLUG_HONDA_J37A4",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_J37A5",
+      "plug_group": "PLUG_HONDA_J37A5",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_JNC1",
+      "plug_group": "PLUG_HONDA_JNC1",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_K20",
+      "plug_group": "PLUG_HONDA_K20",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_K20A2",
+      "plug_group": "PLUG_HONDA_K20A2",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_K20C",
+      "plug_group": "PLUG_HONDA_K20C",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_K20C1",
+      "plug_group": "PLUG_HONDA_K20C1",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_K20C4",
+      "plug_group": "PLUG_HONDA_K20C4",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_K20Z1",
+      "plug_group": "PLUG_HONDA_K20Z1",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_K24",
+      "plug_group": "PLUG_HONDA_K24",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_K24Z7",
+      "plug_group": "PLUG_HONDA_K24Z7",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_L15T",
+      "plug_group": "PLUG_HONDA_L15T",
+      "verified": true
+    },
+    {
+      "engine_code": "HONDA_R18",
+      "plug_group": "PLUG_HONDA_R18",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_BETA18",
+      "plug_group": "PLUG_HYUNDAI_BETA18",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_BETA20",
+      "plug_group": "PLUG_HYUNDAI_BETA20",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_DELTA25",
+      "plug_group": "PLUG_HYUNDAI_DELTA25",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_G4FJ",
+      "plug_group": "PLUG_HYUNDAI_G4FJ",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_G4KH",
+      "plug_group": "PLUG_HYUNDAI_G4KH",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_DELTA27",
+      "plug_group": "PLUG_HYUNDAI_KIA_DELTA27",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_FE",
+      "plug_group": "PLUG_HYUNDAI_KIA_FE",
+      "verified": false
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_LAMBDA33",
+      "plug_group": "PLUG_HYUNDAI_KIA_LAMBDA33",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_LAMBDA38",
+      "plug_group": "PLUG_HYUNDAI_KIA_LAMBDA38",
+      "verified": false
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_NU20",
+      "plug_group": "PLUG_HYUNDAI_KIA_NU20",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_KIA_SMARTSTREAM25",
+      "plug_group": "PLUG_HYUNDAI_KIA_SMARTSTREAM25",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_NU18",
+      "plug_group": "PLUG_HYUNDAI_NU18",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_SIRIUS24",
+      "plug_group": "PLUG_HYUNDAI_SIRIUS24",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_SMARTSTREAM16T",
+      "plug_group": "PLUG_HYUNDAI_SMARTSTREAM16T",
+      "verified": true
+    },
+    {
+      "engine_code": "HYUNDAI_THETA24",
+      "plug_group": "PLUG_HYUNDAI_THETA24",
+      "verified": true
+    },
+    {
+      "engine_code": "INFINITI_VH41DE",
+      "plug_group": "PLUG_INFINITI_VH41DE",
+      "verified": true
+    },
+    {
+      "engine_code": "INFINITI_VR30DDTT",
+      "plug_group": "PLUG_INFINITI_VR30DDTT",
+      "verified": true
+    },
+    {
+      "engine_code": "ISUZU_6VD1",
+      "plug_group": "PLUG_ISUZU_6VD1",
+      "verified": true
+    },
+    {
+      "engine_code": "ISUZU_LLV",
+      "plug_group": "PLUG_ISUZU_LLV",
+      "verified": true
+    },
+    {
+      "engine_code": "JAGUAR_AJ126S",
+      "plug_group": "PLUG_JAGUAR_AJ126S",
+      "verified": true
+    },
+    {
+      "engine_code": "JAGUAR_AJ133",
+      "plug_group": "PLUG_JAGUAR_AJ133",
+      "verified": true
+    },
+    {
+      "engine_code": "JAGUAR_AJ133S",
+      "plug_group": "PLUG_JAGUAR_AJ133S",
+      "verified": true
+    },
+    {
+      "engine_code": "JAGUAR_AJ16",
+      "plug_group": "PLUG_JAGUAR_AJ16",
+      "verified": true
+    },
+    {
+      "engine_code": "JAGUAR_AJ200P",
+      "plug_group": "PLUG_JAGUAR_AJ200P",
+      "verified": true
+    },
+    {
+      "engine_code": "JAGUAR_AJ26",
+      "plug_group": "PLUG_JAGUAR_AJ26",
+      "verified": true
+    },
+    {
+      "engine_code": "JAGUAR_AJ34",
+      "plug_group": "PLUG_JAGUAR_AJ34",
+      "verified": true
+    },
+    {
+      "engine_code": "KIA_G4JS",
+      "plug_group": "PLUG_KIA_G4JS",
+      "verified": true
+    },
+    {
+      "engine_code": "KIA_THETA20T",
+      "plug_group": "PLUG_KIA_THETA20T",
+      "verified": true
+    },
+    {
+      "engine_code": "LAND_ROVER_AJ126",
+      "plug_group": "PLUG_LAND_ROVER_AJ126",
+      "verified": true
+    },
+    {
+      "engine_code": "LAND_ROVER_ROVER40",
+      "plug_group": "PLUG_LAND_ROVER_ROVER40",
+      "verified": true
+    },
+    {
+      "engine_code": "LEXUS_3MZ-FE",
+      "plug_group": "PLUG_LEXUS_3MZ-FE",
+      "verified": false
+    },
+    {
+      "engine_code": "LEXUS_8AR-FTS",
+      "plug_group": "PLUG_LEXUS_8AR-FTS",
+      "verified": true
+    },
+    {
+      "engine_code": "LINCOLN_EB35",
+      "plug_group": "PLUG_LINCOLN_EB35",
+      "verified": true
+    },
+    {
+      "engine_code": "MAZDA_AJ30",
+      "plug_group": "PLUG_MAZDA_AJ30",
+      "verified": true
+    },
+    {
+      "engine_code": "MAZDA_BP",
+      "plug_group": "PLUG_MAZDA_BP",
+      "verified": true
+    },
+    {
+      "engine_code": "MAZDA_FS-DE",
+      "plug_group": "PLUG_MAZDA_FS-DE",
+      "verified": true
+    },
+    {
+      "engine_code": "MAZDA_L3-VE",
+      "plug_group": "PLUG_MAZDA_L3-VE",
+      "verified": true
+    },
+    {
+      "engine_code": "MAZDA_LF-DE",
+      "plug_group": "PLUG_MAZDA_LF-DE",
+      "verified": true
+    },
+    {
+      "engine_code": "MAZDA_MZR",
+      "plug_group": "PLUG_MAZDA_MZR",
+      "verified": true
+    },
+    {
+      "engine_code": "MAZDA_MZR_DISI",
+      "plug_group": "PLUG_MAZDA_MZR_DISI",
+      "verified": true
+    },
+    {
+      "engine_code": "MAZDA_PE-VPS",
+      "plug_group": "PLUG_MAZDA_PE-VPS",
+      "verified": true
+    },
+    {
+      "engine_code": "MAZDA_PY-VPS",
+      "plug_group": "PLUG_MAZDA_PY-VPS",
+      "verified": true
+    },
+    {
+      "engine_code": "MAZDA_PY-VPT",
+      "plug_group": "PLUG_MAZDA_PY-VPT",
+      "verified": true
+    },
+    {
+      "engine_code": "MB_M133",
+      "plug_group": "PLUG_MB_M133",
+      "verified": true
+    },
+    {
+      "engine_code": "MB_M139",
+      "plug_group": "PLUG_MB_M139",
+      "verified": true
+    },
+    {
+      "engine_code": "MB_M156",
+      "plug_group": "PLUG_MB_M156",
+      "verified": true
+    },
+    {
+      "engine_code": "MB_M157",
+      "plug_group": "PLUG_MB_M157",
+      "verified": true
+    },
+    {
+      "engine_code": "MB_M177",
+      "plug_group": "PLUG_MB_M177",
+      "verified": true
+    },
+    {
+      "engine_code": "MERCEDES_M111",
+      "plug_group": "PLUG_MERCEDES_M111",
+      "verified": true
+    },
+    {
+      "engine_code": "MERCEDES_M112",
+      "plug_group": "PLUG_MERCEDES_M112",
+      "verified": true
+    },
+    {
+      "engine_code": "MERCEDES_M272",
+      "plug_group": "PLUG_MERCEDES_M272",
+      "verified": true
+    },
+    {
+      "engine_code": "MERCEDES_M274",
+      "plug_group": "PLUG_MERCEDES_M274",
+      "verified": true
+    },
+    {
+      "engine_code": "MERCEDES_M276",
+      "plug_group": "PLUG_MERCEDES_M276",
+      "verified": true
+    },
+    {
+      "engine_code": "MINI_B38",
+      "plug_group": "PLUG_MINI_B38",
+      "verified": true
+    },
+    {
+      "engine_code": "MINI_N12",
+      "plug_group": "PLUG_MINI_N12",
+      "verified": true
+    },
+    {
+      "engine_code": "MINI_N14",
+      "plug_group": "PLUG_MINI_N14",
+      "verified": true
+    },
+    {
+      "engine_code": "MINI_W10",
+      "plug_group": "PLUG_MINI_W10",
+      "verified": true
+    },
+    {
+      "engine_code": "MITSUBISHI_4B11T",
+      "plug_group": "PLUG_MITSUBISHI_4B11T",
+      "verified": true
+    },
+    {
+      "engine_code": "MITSUBISHI_4B12",
+      "plug_group": "PLUG_MITSUBISHI_4B12",
+      "verified": true
+    },
+    {
+      "engine_code": "MITSUBISHI_4G63T_DSM",
+      "plug_group": "PLUG_MITSUBISHI_4G63T_DSM",
+      "verified": true
+    },
+    {
+      "engine_code": "MITSUBISHI_4G63T_EVO8_9",
+      "plug_group": "PLUG_MITSUBISHI_4G63T_EVO8_9",
+      "verified": true
+    },
+    {
+      "engine_code": "MITSUBISHI_4G64",
+      "plug_group": "PLUG_MITSUBISHI_4G64",
+      "verified": true
+    },
+    {
+      "engine_code": "MITSUBISHI_4G94",
+      "plug_group": "PLUG_MITSUBISHI_4G94",
+      "verified": true
+    },
+    {
+      "engine_code": "MITSUBISHI_6G72TT",
+      "plug_group": "PLUG_MITSUBISHI_6G72TT",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_KA24DE",
+      "plug_group": "PLUG_NISSAN_KA24DE",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_KR20DDET",
+      "plug_group": "PLUG_NISSAN_KR20DDET",
+      "verified": false
+    },
+    {
+      "engine_code": "NISSAN_PR25DD",
+      "plug_group": "PLUG_NISSAN_PR25DD",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_QR25DE",
+      "plug_group": "PLUG_NISSAN_QR25DE",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_SR20DE",
+      "plug_group": "PLUG_NISSAN_SR20DE",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VG30DETT",
+      "plug_group": "PLUG_NISSAN_VG30DETT",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VG33E",
+      "plug_group": "PLUG_NISSAN_VG33E",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VK45DE",
+      "plug_group": "PLUG_NISSAN_VK45DE",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VK56DE",
+      "plug_group": "PLUG_NISSAN_VK56DE",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VK56VD",
+      "plug_group": "PLUG_NISSAN_VK56VD",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VQ30DE",
+      "plug_group": "PLUG_NISSAN_VQ30DE",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VQ35DE",
+      "plug_group": "PLUG_NISSAN_VQ35DE",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VQ37VHR",
+      "plug_group": "PLUG_NISSAN_VQ37VHR",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VQ38DD",
+      "plug_group": "PLUG_NISSAN_VQ38DD",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VQ40DE",
+      "plug_group": "PLUG_NISSAN_VQ40DE",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VR30DDTT",
+      "plug_group": "PLUG_NISSAN_VR30DDTT",
+      "verified": true
+    },
+    {
+      "engine_code": "NISSAN_VR38DETT",
+      "plug_group": "PLUG_NISSAN_VR38DETT",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_9A1",
+      "plug_group": "PLUG_PORSCHE_9A1",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_9A2",
+      "plug_group": "PLUG_PORSCHE_9A2",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_9A2V6",
+      "plug_group": "PLUG_PORSCHE_9A2V6",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_EA825",
+      "plug_group": "PLUG_PORSCHE_EA825",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_EA839",
+      "plug_group": "PLUG_PORSCHE_EA839",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_M48",
+      "plug_group": "PLUG_PORSCHE_M48",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_M55",
+      "plug_group": "PLUG_PORSCHE_M55",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_M64",
+      "plug_group": "PLUG_PORSCHE_M64",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_M96",
+      "plug_group": "PLUG_PORSCHE_M96",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_M97",
+      "plug_group": "PLUG_PORSCHE_M97",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_MA1",
+      "plug_group": "PLUG_PORSCHE_MA1",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_MA2",
+      "plug_group": "PLUG_PORSCHE_MA2",
+      "verified": true
+    },
+    {
+      "engine_code": "PORSCHE_MA2T",
+      "plug_group": "PLUG_PORSCHE_MA2T",
+      "verified": true
+    },
+    {
+      "engine_code": "RAM_EWC",
+      "plug_group": "PLUG_RAM_EWC",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_EJ205",
+      "plug_group": "PLUG_SUBARU_EJ205",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_EJ22",
+      "plug_group": "PLUG_SUBARU_EJ22",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_EJ25",
+      "plug_group": "PLUG_SUBARU_EJ25",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_EJ255",
+      "plug_group": "PLUG_SUBARU_EJ255",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_EJ257",
+      "plug_group": "PLUG_SUBARU_EJ257",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_EZ30",
+      "plug_group": "PLUG_SUBARU_EZ30",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_EZ36",
+      "plug_group": "PLUG_SUBARU_EZ36",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_FA20",
+      "plug_group": "PLUG_SUBARU_FA20",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_FA20DIT",
+      "plug_group": "PLUG_SUBARU_FA20DIT",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_FA24",
+      "plug_group": "PLUG_SUBARU_FA24",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_FA24F",
+      "plug_group": "PLUG_SUBARU_FA24F",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_FB20",
+      "plug_group": "PLUG_SUBARU_FB20",
+      "verified": true
+    },
+    {
+      "engine_code": "SUBARU_FB25",
+      "plug_group": "PLUG_SUBARU_FB25",
+      "verified": true
+    },
+    {
+      "engine_code": "SUZUKI_G10",
+      "plug_group": "PLUG_SUZUKI_G10",
+      "verified": true
+    },
+    {
+      "engine_code": "SUZUKI_G16",
+      "plug_group": "PLUG_SUZUKI_G16",
+      "verified": true
+    },
+    {
+      "engine_code": "SUZUKI_G16A",
+      "plug_group": "PLUG_SUZUKI_G16A",
+      "verified": true
+    },
+    {
+      "engine_code": "SUZUKI_G16B",
+      "plug_group": "PLUG_SUZUKI_G16B",
+      "verified": true
+    },
+    {
+      "engine_code": "SUZUKI_H25A",
+      "plug_group": "PLUG_SUZUKI_H25A",
+      "verified": true
+    },
+    {
+      "engine_code": "SUZUKI_H27A",
+      "plug_group": "PLUG_SUZUKI_H27A",
+      "verified": true
+    },
+    {
+      "engine_code": "SUZUKI_J20A",
+      "plug_group": "PLUG_SUZUKI_J20A",
+      "verified": true
+    },
+    {
+      "engine_code": "SUZUKI_J24B",
+      "plug_group": "PLUG_SUZUKI_J24B",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_1GR-FE",
+      "plug_group": "PLUG_TOYOTA_1GR-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_1MZ-FE",
+      "plug_group": "PLUG_TOYOTA_1MZ-FE",
+      "verified": false
+    },
+    {
+      "engine_code": "TOYOTA_1NZ-FE",
+      "plug_group": "PLUG_TOYOTA_1NZ-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_1UR-FE",
+      "plug_group": "PLUG_TOYOTA_1UR-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_1UZ-FE",
+      "plug_group": "PLUG_TOYOTA_1UZ-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_1ZZ-FE",
+      "plug_group": "PLUG_TOYOTA_1ZZ-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_2AR-FE",
+      "plug_group": "PLUG_TOYOTA_2AR-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_2AZ-FE",
+      "plug_group": "PLUG_TOYOTA_2AZ-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_2GR",
+      "plug_group": "PLUG_TOYOTA_2GR",
+      "verified": false
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FE",
+      "plug_group": "PLUG_TOYOTA_2GR-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FKS",
+      "plug_group": "PLUG_TOYOTA_2GR-FKS",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_2GR-FSE",
+      "plug_group": "PLUG_TOYOTA_2GR-FSE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_2JZ-GE",
+      "plug_group": "PLUG_TOYOTA_2JZ-GE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_2JZ-GTE",
+      "plug_group": "PLUG_TOYOTA_2JZ-GTE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_2UR-GSE",
+      "plug_group": "PLUG_TOYOTA_2UR-GSE",
+      "verified": false
+    },
+    {
+      "engine_code": "TOYOTA_2ZR-FE",
+      "plug_group": "PLUG_TOYOTA_2ZR-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_3RZ-FE",
+      "plug_group": "PLUG_TOYOTA_3RZ-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_3S-GTE",
+      "plug_group": "PLUG_TOYOTA_3S-GTE",
+      "verified": false
+    },
+    {
+      "engine_code": "TOYOTA_3UR-FE",
+      "plug_group": "PLUG_TOYOTA_3UR-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_4A-FE",
+      "plug_group": "PLUG_TOYOTA_4A-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_5S-FE",
+      "plug_group": "PLUG_TOYOTA_5S-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_5VZ-FE",
+      "plug_group": "PLUG_TOYOTA_5VZ-FE",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_A25A-FKS",
+      "plug_group": "PLUG_TOYOTA_A25A-FKS",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_FA20",
+      "plug_group": "PLUG_TOYOTA_FA20",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_G16E-GTS",
+      "plug_group": "PLUG_TOYOTA_G16E-GTS",
+      "verified": true
+    },
+    {
+      "engine_code": "TOYOTA_M20A-FKS",
+      "plug_group": "PLUG_TOYOTA_M20A-FKS",
+      "verified": true
+    },
+    {
+      "engine_code": "VOLKSWAGEN_ABA",
+      "plug_group": "PLUG_VOLKSWAGEN_ABA",
+      "verified": true
+    },
+    {
+      "engine_code": "VOLKSWAGEN_AEB",
+      "plug_group": "PLUG_VOLKSWAGEN_AEB",
+      "verified": true
+    },
+    {
+      "engine_code": "VOLKSWAGEN_BWA",
+      "plug_group": "PLUG_VOLKSWAGEN_BWA",
+      "verified": true
+    },
+    {
+      "engine_code": "VOLKSWAGEN_CCTA",
+      "plug_group": "PLUG_VOLKSWAGEN_CCTA",
+      "verified": true
+    },
+    {
+      "engine_code": "VOLKSWAGEN_EA113",
+      "plug_group": "PLUG_VOLKSWAGEN_EA113",
+      "verified": true
+    },
+    {
+      "engine_code": "VOLKSWAGEN_EA211",
+      "plug_group": "PLUG_VOLKSWAGEN_EA211",
+      "verified": true
+    },
+    {
+      "engine_code": "VOLVO_B4204T",
+      "plug_group": "PLUG_VOLVO_B4204T",
+      "verified": true
+    },
+    {
+      "engine_code": "VOLVO_B5254",
+      "plug_group": "PLUG_VOLVO_B5254",
+      "verified": true
+    },
+    {
+      "engine_code": "VOLVO_B5254T",
+      "plug_group": "PLUG_VOLVO_B5254T",
+      "verified": true
+    },
+    {
+      "engine_code": "VOLVO_B6294T",
+      "plug_group": "PLUG_VOLVO_B6294T",
+      "verified": true
+    },
+    {
+      "engine_code": "VW_07K",
+      "plug_group": "PLUG_VW_07K",
+      "verified": true
+    },
+    {
+      "engine_code": "VW_EA888",
+      "plug_group": "PLUG_VW_EA888",
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "contract": "wiper_matrix",
+  "version": "v2_progress|v3_gm_fullsize_verified|v4_gm_suv_2014_2020|v5_durango_malibu_vans|v6_batch_next|v8_escape_equinox|v9_rogue|v10_tucson|v12_outback|v13_grand_cherokee",
+  "generated_at": "2026-02-10",
+  "notes": [
+    "v1: Starter compatibility matrix mapping (length_in + connector_type + blade_type) -> compatible retail SKUs.",
+    "v1: This matrix is intentionally conservative: primarily front U-hook beam blades and a few common rear sizes.",
+    "v1: Add connector-specific entries as groups become OEM_VERIFIED for connector_type.",
+    "Renamed to clean baseline structure (seed/group/matrix).",
+    "Added rear_special connector entries for 11\" and 13\" lengths (no brand/SKU mapping yet).",
+    "v3_gm_fullsize_verified: No structural changes; ensured required keys exist.",
+    "v4_gm_suv_2014_2020: Ensured required keys exist; no SKU additions.",
+    "v5_durango_malibu_vans: Ensured required keys exist (including 20_u_hook_9x3_beam)."
+  ],
+  "enums": {
+    "blade_type": [
+      "beam",
+      "hybrid",
+      "conventional"
+    ],
+    "connector_type": [
+      "u_hook_9x3",
+      "u_hook_9x4",
+      "push_button_16mm",
+      "push_button_19mm",
+      "pin_22mm",
+      "side_pin",
+      "bayonet",
+      "top_lock_19mm",
+      "top_lock_16mm",
+      "rear_special"
+    ]
+  },
+  "key_format": {
+    "pattern": "{length_in}_{connector_type}_{blade_type}",
+    "examples": [
+      "22_u_hook_9x3_beam",
+      "26_u_hook_9x3_beam",
+      "12_rear_special_beam"
+    ]
+  },
+  "items": {
+    "13_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "13A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "13"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "13"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-13"
+      }
+    ],
+    "15_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "15A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "15"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "15"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-15"
+      }
+    ],
+    "16_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "16A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "16"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "16"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-16"
+      }
+    ],
+    "17_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "17A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "17"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "17"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-17"
+      }
+    ],
+    "18_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "18A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "18"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "18"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-18"
+      }
+    ],
+    "19_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "19A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "19"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "19"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-19"
+      }
+    ],
+    "20_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "20A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "20"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "20"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-20"
+      }
+    ],
+    "21_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "21A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "21"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "21"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-21"
+      }
+    ],
+    "22_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "22A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "22"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "22"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-22"
+      }
+    ],
+    "24_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "24A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "24"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "24"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-24"
+      }
+    ],
+    "26_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "26A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "26"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "26"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-26"
+      }
+    ],
+    "28_u_hook_9x3_beam": [
+      {
+        "brand": "Bosch",
+        "line": "ICON",
+        "sku": "28A"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Latitude",
+        "sku": "28"
+      },
+      {
+        "brand": "Michelin",
+        "line": "Endurance XT",
+        "sku": "28"
+      },
+      {
+        "brand": "Anco",
+        "line": "Contour",
+        "sku": "C-28"
+      }
+    ],
+    "10_rear_special_beam": [
+      {
+        "brand": "Bosch",
+        "line": "Clear Advantage Rear",
+        "sku": "H10"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Rear",
+        "sku": "10"
+      },
+      {
+        "brand": "Anco",
+        "line": "Rear",
+        "sku": "10"
+      }
+    ],
+    "11_rear_special_beam": [
+      {
+        "brand": "Bosch",
+        "line": "Clear Advantage Rear",
+        "sku": "H11"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Rear",
+        "sku": "11"
+      },
+      {
+        "brand": "Anco",
+        "line": "Rear",
+        "sku": "11"
+      }
+    ],
+    "12_rear_special_beam": [
+      {
+        "brand": "Bosch",
+        "line": "Clear Advantage Rear",
+        "sku": "H12"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Rear",
+        "sku": "12"
+      },
+      {
+        "brand": "Anco",
+        "line": "Rear",
+        "sku": "12"
+      }
+    ],
+    "13_rear_special_beam": [
+      {
+        "brand": "Bosch",
+        "line": "Clear Advantage Rear",
+        "sku": "H13"
+      },
+      {
+        "brand": "Rain-X",
+        "line": "Rear",
+        "sku": "13"
+      },
+      {
+        "brand": "Anco",
+        "line": "Rear",
+        "sku": "13"
+      }
+    ],
+    "14_rear_special_beam": []
+  },
+  "api_rules": [
+    "Build key as: f'{length_in}_{connector_type}_{blade_type}'.",
+    "Only return alternatives when length_in, connector_type, and blade_type are all non-null.",
+    "If connector_type is unknown, return empty alternatives with a note: 'Connector type not verified'.",
+    "Rear blades should use connector_type='rear_special' unless a specific connector type is verified for that rear application."
+  ]
+}

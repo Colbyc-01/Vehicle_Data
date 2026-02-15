@@ -5225,7 +5225,7 @@
       "notes": "NORMALIZED legacy row."
     },
     {
-      "engine_code": "FORD_POWERSROKE_30",
+      "engine_code": "FORD_POWERSTROKE_30",
       "oil_spec_key": "ford_wss_m2c214_b1_5w30",
       "status": "SEEDED",
       "confidence": "MEDIUM",

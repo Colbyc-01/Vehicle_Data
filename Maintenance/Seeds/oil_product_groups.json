@@ -1,0 +1,1800 @@
+{
+  "version": "seed1",
+  "generated_at": "2026-02-12T05:27:55.863003Z",
+  "items": {
+    "api_ck4_15w40": {
+      "oil_spec_key": "api_ck4_15w40",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec API CK-4 15W40",
+      "oem": {
+        "brand": "Shell",
+        "part_number": "",
+        "name": "Rotella T4 15W-40 (API CK-4) (verify)",
+        "uom": "qt",
+        "container_size": 1
+      },
+      "spec": {
+        "label": "API CK-4 15W40",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil",
+          "part_number": "",
+          "name": "Delvac 1300 Super 15W-40 (API CK-4) (verify)",
+          "uom": "qt",
+          "container_size": 1
+        },
+        {
+          "brand": "Chevron",
+          "part_number": "",
+          "name": "Delo 400 XLE 15W-40 (API CK-4) (verify)",
+          "uom": "qt",
+          "container_size": 1
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Premium Blue 15W-40 (API CK-4) (verify)",
+          "uom": "qt",
+          "container_size": 1
+        }
+      ]
+    },
+    "bmw_ll01_5w30": {
+      "oil_spec_key": "bmw_ll01_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec BMW LL-01 5W30",
+      "oem": {
+        "brand": "BMW",
+        "part_number": "",
+        "name": "TwinPower Turbo 5W-30 (BMW Longlife-01)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "BMW LL-01 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Liqui Moly",
+          "part_number": "",
+          "name": "Leichtlauf High Tech 5W-40 (BMW LL-01) (verify viscosity/spec)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "FS 0W-40 (BMW LL-01) (verify viscosity/spec)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE 0W-30 (BMW LL-01) (verify viscosity/spec)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "bmw_ll04_5w30": {
+      "oil_spec_key": "bmw_ll04_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec BMW LL-04 5W30",
+      "oem": {
+        "brand": "BMW",
+        "part_number": "",
+        "name": "TwinPower Turbo 5W-30 (BMW Longlife-04)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "BMW LL-04 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Liqui Moly",
+          "part_number": "",
+          "name": "Top Tec 4200 5W-30 (BMW LL-04) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "ESP 5W-30 (BMW LL-04) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE 5W-30 LL (BMW LL-04) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "bmw_ll17fe_plus_0w20": {
+      "oil_spec_key": "bmw_ll17fe_plus_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec BMW LL-17FE 0W20",
+      "oem": {
+        "brand": "BMW",
+        "part_number": "",
+        "name": "TwinPower Turbo 0W-20 (BMW Longlife-17 FE+)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "BMW LL-17FE 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Professional LL IV FE 0W-20 (BMW LL-17 FE+) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Liqui Moly",
+          "part_number": "",
+          "name": "Top Tec 6600 0W-20 (BMW LL-17 FE+) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "dexos1_gen2_5w30": {
+      "oil_spec_key": "dexos1_gen2_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec GM dexos1 Gen 2 5W30",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "",
+        "name": "Full Synthetic 5W-30 (dexos1 Gen 2 licensed)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "GM dexos1 Gen 2 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-30 (dexos1 Gen 2 licensed) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 5W-30 (dexos1 Gen 2 licensed) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Advanced Full Synthetic 5W-30 (dexos1 Gen 2 licensed) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "dexos1_gen3_0w20": {
+      "oil_spec_key": "dexos1_gen3_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec GM dexos1 Gen 3 0W20",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "",
+        "name": "Full Synthetic 0W-20 (dexos1 Gen 3 licensed)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "GM dexos1 Gen 3 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 0W-20 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 0W-20 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Advanced Full Synthetic 0W-20 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 0W-20 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "dexos1_gen3_5w20": {
+      "oil_spec_key": "dexos1_gen3_5w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec GM dexos1 Gen 3 5W20",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "",
+        "name": "Full Synthetic 5W-20 (dexos1 Gen 3 licensed)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "GM dexos1 Gen 3 5W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-20 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 5W-20 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Advanced Full Synthetic 5W-20 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-20 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "dexos1_gen3_5w30": {
+      "oil_spec_key": "dexos1_gen3_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec GM dexos1 Gen 3 5W30",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "",
+        "name": "Full Synthetic 5W-30 (dexos1 Gen 3 licensed)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "GM dexos1 Gen 3 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-30 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 5W-30 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Advanced Full Synthetic 5W-30 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-30 (dexos1 Gen 3 licensed)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "dexos_d_0w20": {
+      "oil_spec_key": "dexos_d_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec GM dexosD 0W20",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "",
+        "name": "Full Synthetic 0W-20 (dexos D licensed)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "GM dexosD 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "ESP X2 0W-20 (dexos D licensed) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Euro 0W-20 (dexos D licensed) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "fiat_9.55535_ds1_0w30": {
+      "oil_spec_key": "fiat_9.55535_ds1_0w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec FIAT 9.55535 DS1 0W30",
+      "oem": {
+        "brand": "Mopar",
+        "part_number": "",
+        "name": "0W-30 (Fiat 9.55535-DS1) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "FIAT 9.55535 DS1 0W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Euro LX 0W-30 (Fiat 9.55535-DS1) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Liqui Moly",
+          "part_number": "",
+          "name": "Top Tec 4210 0W-30 (Fiat 9.55535-DS1) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "fiat_9.55535_m2_5w40": {
+      "oil_spec_key": "fiat_9.55535_m2_5w40",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec FIAT 9.55535 M2 5W40",
+      "oem": {
+        "brand": "Mopar",
+        "part_number": "",
+        "name": "5W-40 (Fiat 9.55535-M2) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "FIAT 9.55535 M2 5W40",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Euro 5W-40 (Fiat 9.55535-M2) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "FS 0W-40 (Fiat 9.55535-M2) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ford_wss_m2c153_f_5w30": {
+      "oil_spec_key": "ford_wss_m2c153_f_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Ford WSS-M2C-153 F 5W30",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 5W30 (meets FORD WSS M2C153 F 5W30) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Ford WSS-M2C-153 F 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ford_wss_m2c171_f1_10w30": {
+      "oil_spec_key": "ford_wss_m2c171_f1_10w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Ford WSS-M2C-171 F1 10W30",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 10W30 (meets FORD WSS M2C171 F1 10W30) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Ford WSS-M2C-171 F1 10W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "10W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "10W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "10W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ford_wss_m2c214_b1_5w30": {
+      "oil_spec_key": "ford_wss_m2c214_b1_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Ford WSS-M2C-214 B1 5W30",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 5W30 (meets FORD WSS M2C214 B1 5W30) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Ford WSS-M2C-214 B1 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ford_wss_m2c930_a_5w20": {
+      "oil_spec_key": "ford_wss_m2c930_a_5w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Ford WSS-M2C-930 A 5W20",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 5W20 (meets FORD WSS M2C930 A 5W20) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Ford WSS-M2C-930 A 5W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "5W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "5W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "5W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ford_wss_m2c945_b1_5w20": {
+      "oil_spec_key": "ford_wss_m2c945_b1_5w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Ford WSS-M2C-945 B1 5W20",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "",
+        "name": "SAE 5W-20 Synthetic Blend (meets Ford WSS-M2C945-B1)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Ford WSS-M2C-945 B1 5W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-20 (check WSS-M2C945-B1 on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 5W-20 (check WSS-M2C945-B1 on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Advanced Full Synthetic 5W-20 (check WSS-M2C945-B1 on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-20 (check WSS-M2C945-B1 on label)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ford_wss_m2c946_b1_5w30": {
+      "oil_spec_key": "ford_wss_m2c946_b1_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Ford WSS-M2C-946 B1 5W30",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "",
+        "name": "SAE 5W-30 Synthetic Blend (meets Ford WSS-M2C946-B1)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Ford WSS-M2C-946 B1 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-30 (check WSS-M2C946-B1 on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 5W-30 (check WSS-M2C946-B1 on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Advanced Full Synthetic 5W-30 (check WSS-M2C946-B1 on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-30 (check WSS-M2C946-B1 on label)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ford_wss_m2c961_a1_5w30": {
+      "oil_spec_key": "ford_wss_m2c961_a1_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Ford WSS-M2C-961 A1 5W30",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 5W30 (meets FORD WSS M2C961 A1 5W30) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Ford WSS-M2C-961 A1 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ford_wss_m2c962_a1_0w20": {
+      "oil_spec_key": "ford_wss_m2c962_a1_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Ford WSS-M2C-962 A1 0W20",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 0W20 (meets FORD WSS M2C962 A1 0W20) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Ford WSS-M2C-962 A1 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "0W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "0W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "0W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "gm_6094m_5w30": {
+      "oil_spec_key": "gm_6094m_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec GM 6094M 5W30",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "",
+        "name": "5W-30 (GM 6094M specification) (verify requirements)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "GM 6094M 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "5W-30 (meets GM 6094M) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "5W-30 (meets GM 6094M) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "gm_dexos2_0w40": {
+      "oil_spec_key": "gm_dexos2_0w40",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec GM dexos2 0W40",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 0W40 (meets GM DEXOS2 0W40) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "GM dexos2 0W40",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "0W40 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "0W40 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "0W40 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "gm_dexos2_5w30": {
+      "oil_spec_key": "gm_dexos2_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec GM dexos2 5W30",
+      "oem": {
+        "brand": "ACDelco",
+        "part_number": "",
+        "name": "Full Synthetic 5W-30 (dexos2 licensed)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "GM dexos2 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "ESP 5W-30 (dexos2 licensed) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Euro 5W-30 (dexos2 licensed) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Euro 5W-30 (dexos2 licensed) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "gm_dexosd_5w30": {
+      "oil_spec_key": "gm_dexosd_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec GM dexosD 5W30",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 5W30 (meets required specification) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "GM dexosD 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ilsac_gf3_10w30": {
+      "oil_spec_key": "ilsac_gf3_10w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec ILSAC GF-3 10W30",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 10W30 (meets required specification) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "ILSAC GF-3 10W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "10W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "10W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "10W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ilsac_gf3_5w30": {
+      "oil_spec_key": "ilsac_gf3_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec ILSAC GF-3 5W30",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 5W30 (meets required specification) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "ILSAC GF-3 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ilsac_gf4_5w20": {
+      "oil_spec_key": "ilsac_gf4_5w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec ILSAC GF-4 5W20",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 5W20 (meets required specification) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "ILSAC GF-4 5W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "5W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "5W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "5W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ilsac_gf4_5w30": {
+      "oil_spec_key": "ilsac_gf4_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec ILSAC GF-4 5W30",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 5W30 (meets required specification) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "ILSAC GF-4 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "5W30 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ilsac_gf5_0w20": {
+      "oil_spec_key": "ilsac_gf5_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec ILSAC GF-5 0W20",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 0W20 (meets required specification) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "ILSAC GF-5 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "0W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "0W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "0W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ilsac_gf5_5w20": {
+      "oil_spec_key": "ilsac_gf5_5w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec ILSAC GF-5 5W20",
+      "oem": {
+        "brand": "Motorcraft",
+        "part_number": "",
+        "name": "SAE 5W-20 Synthetic Blend (ILSAC GF-5 / API SN) (verify requirements)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "ILSAC GF-5 5W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-20 (verify GF-5/API SN or newer on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 5W-20 (verify GF-5/API SN or newer on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Advanced Full Synthetic 5W-20 (verify GF-5/API SN or newer on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-20 (verify GF-5/API SN or newer on label)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ilsac_gf5_5w30": {
+      "oil_spec_key": "ilsac_gf5_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec ILSAC GF-5 5W30",
+      "oem": {
+        "brand": "Honda",
+        "part_number": "",
+        "name": "Genuine Motor Oil 5W-30 (ILSAC GF-5 / API SN) (verify requirements)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "ILSAC GF-5 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-30 (verify GF-5/API SN or newer on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 5W-30 (verify GF-5/API SN or newer on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Advanced Full Synthetic 5W-30 (verify GF-5/API SN or newer on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-30 (verify GF-5/API SN or newer on label)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ilsac_gf6a_0w16": {
+      "oil_spec_key": "ilsac_gf6a_0w16",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec ILSAC GF-6A 0W16",
+      "oem": {
+        "brand": "Toyota",
+        "part_number": "",
+        "name": "Genuine Motor Oil 0W-16 (ILSAC GF-6B / API SP) (verify GF-6B if required)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "ILSAC GF-6A 0W16",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 0W-16 (verify GF-6B/API SP on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 0W-16 (verify GF-6B/API SP on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Advanced Full Synthetic 0W-16 (verify GF-6B/API SP on label)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ilsac_gf6a_0w20": {
+      "oil_spec_key": "ilsac_gf6a_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec ILSAC GF-6A 0W20",
+      "oem": {
+        "brand": "Toyota",
+        "part_number": "",
+        "name": "Genuine Motor Oil 0W-20 (ILSAC GF-6A / API SP) (verify required ratings)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "ILSAC GF-6A 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 0W-20 (ILSAC GF-6A / API SP) (verify on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 0W-20 (ILSAC GF-6A / API SP) (verify on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Advanced Full Synthetic 0W-20 (ILSAC GF-6A / API SP) (verify on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 0W-20 (ILSAC GF-6A / API SP) (verify on label)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "jlr_stjlr_03_5005_0w20": {
+      "oil_spec_key": "jlr_stjlr_03_5005_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec JLR_STJLR_03_5005 0W20",
+      "oem": {
+        "brand": "Land Rover",
+        "part_number": "",
+        "name": "Genuine 0W-20 (STJLR.03.5005)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "JLR_STJLR_03_5005 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Professional E 0W-20 (STJLR.03.5005 approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "0W-20 (STJLR.03.5005 approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "mb_22971_0w20": {
+      "oil_spec_key": "mb_22971_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec MB_22971 0W20",
+      "oem": {
+        "brand": "Mercedes-Benz",
+        "part_number": "",
+        "name": "Genuine 0W-20 (MB-Approval 229.71)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "MB_22971 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "ESP X2 0W-20 (MB 229.71) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Liqui Moly",
+          "part_number": "",
+          "name": "Top Tec 6600 0W-20 (MB 229.71) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ms_6395_5w20": {
+      "oil_spec_key": "ms_6395_5w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Chrysler MS-6395 5W20",
+      "oem": {
+        "brand": "Mopar",
+        "part_number": "",
+        "name": "MaxPro 5W-20 (meets MS-6395)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Chrysler MS-6395 5W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 5W-20 (check MS-6395 on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-20 (check MS-6395 on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-20 (check MS-6395 on label)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ms_6395_5w30": {
+      "oil_spec_key": "ms_6395_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Chrysler MS-6395 5W30",
+      "oem": {
+        "brand": "Mopar",
+        "part_number": "",
+        "name": "MaxPro 5W-30 (meets MS-6395)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Chrysler MS-6395 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Full Synthetic 5W-30 (check MS-6395 on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-30 (check MS-6395 on label)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Valvoline",
+          "part_number": "",
+          "name": "Advanced Full Synthetic 5W-30 (check MS-6395 on label)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "porsche_a40_0w40": {
+      "oil_spec_key": "porsche_a40_0w40",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec PORSCHE_A40 0W40",
+      "oem": {
+        "brand": "Porsche",
+        "part_number": "",
+        "name": "Genuine 0W-40 (Porsche A40)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "PORSCHE_A40 0W40",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "FS 0W-40 (Porsche A40 approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Liqui Moly",
+          "part_number": "",
+          "name": "Leichtlauf High Tech 5W-40 (Porsche A40) (verify viscosity/spec)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE 0W-40 (Porsche A40) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "volvo_vcc_rbs0_2ae_0w20": {
+      "oil_spec_key": "volvo_vcc_rbs0_2ae_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec VOLVO_VCC_RBS0_2AE 0W20",
+      "oem": {
+        "brand": "Volvo",
+        "part_number": "",
+        "name": "Genuine 0W-20 (VCC RBS0-2AE)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "VOLVO_VCC_RBS0_2AE 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "0W-20 (VCC RBS0-2AE approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "0W-20 (VCC RBS0-2AE approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "vw_50200_0w20": {
+      "oil_spec_key": "vw_50200_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec VW 502 00 0W20",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 0W20 (meets VW 50200 0W20) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "VW 502 00 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "0W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "0W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "0W20 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "vw_50200_5w40": {
+      "oil_spec_key": "vw_50200_5w40",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec VW 502 00 5W40",
+      "oem": {
+        "brand": "Volkswagen",
+        "part_number": "",
+        "name": "Genuine 5W-40 (VW 502 00)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "VW 502 00 5W40",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "FS 0W-40 (VW 502 00 approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE 5W-40 (VW 502 00 approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Liqui Moly",
+          "part_number": "",
+          "name": "Leichtlauf High Tech 5W-40 (VW 502 00 approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "vw_504507_5w30": {
+      "oil_spec_key": "vw_504507_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec VW 504 00 / 507 00 5W30",
+      "oem": {
+        "brand": "Volkswagen",
+        "part_number": "",
+        "name": "Genuine 5W-30 (VW 504 00 / 507 00)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "VW 504 00 / 507 00 5W30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE 5W-30 LL (VW 504 00 / 507 00) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Liqui Moly",
+          "part_number": "",
+          "name": "Top Tec 4200 5W-30 (VW 504 00 / 507 00) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "ESP 5W-30 (VW 504 00 / 507 00) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "vw_508_509_0w20": {
+      "oil_spec_key": "vw_508_509_0w20",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec VW_508_509 0W20",
+      "oem": {
+        "brand": "Volkswagen",
+        "part_number": "",
+        "name": "Genuine 0W-20 (VW 508 00 / 509 00)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "VW_508_509 0W20",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE Professional LL IV FE 0W-20 (VW 508 00 / 509 00) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Liqui Moly",
+          "part_number": "",
+          "name": "Top Tec 6200 0W-20 (VW 508 00 / 509 00) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "0W-20 (VW 508/509 approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "ford_wss_m2c931_c_5w50": {
+      "oil_spec_key": "ford_wss_m2c931_c_5w50",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Ford WSS-M2C931-C 5W-50",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 5W50 (meets FORD WSS M2C931 C 5W50) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Ford WSS-M2C931-C 5W-50",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "5W50 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "5W50 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "5W50 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "mb_2295_0w40": {
+      "oil_spec_key": "mb_2295_0w40",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec MB-Approval 229.5 0W-40",
+      "oem": {
+        "brand": "Mercedes-Benz",
+        "part_number": "",
+        "name": "Genuine 0W-40 (MB-Approval 229.5)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "MB-Approval 229.5 0W-40",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "FS 0W-40 (MB-Approval 229.5) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Liqui Moly",
+          "part_number": "",
+          "name": "Leichtlauf High Tech 5W-40 (MB 229.5) (verify viscosity/spec)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE 0W-40 (MB 229.5) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "fca_ms_12633_0w40": {
+      "oil_spec_key": "fca_ms_12633_0w40",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec FCA MS-12633 0W-40",
+      "oem": {
+        "brand": "OEM",
+        "part_number": "",
+        "name": "Genuine 0W40 (meets required specification) (verify)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "FCA MS-12633 0W-40",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "0W40 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "0W40 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "0W40 (meets required specification) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    },
+    "chrysler_ms_11106_5w30": {
+      "oil_spec_key": "chrysler_ms_11106_5w30",
+      "verified": false,
+      "notes": "STUB: Fill OEM + alternatives for spec Chrysler MS-11106 5W-30",
+      "oem": {
+        "brand": "Mopar",
+        "part_number": "",
+        "name": "0W-40/5W-30 (meets Chrysler MS-11106) (verify viscosity/spec)",
+        "uom": "qt",
+        "container_size": 5
+      },
+      "spec": {
+        "label": "Chrysler MS-11106 5W-30",
+        "ref": "oil_specs_seed.oil_specs[oil_spec_key]"
+      },
+      "alternatives": [
+        {
+          "brand": "Pennzoil",
+          "part_number": "",
+          "name": "Platinum Euro 5W-40 (MS-11106 approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Mobil 1",
+          "part_number": "",
+          "name": "FS 0W-40 (MS-11106 approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        },
+        {
+          "brand": "Castrol",
+          "part_number": "",
+          "name": "EDGE 0W-40 (MS-11106 approved) (verify)",
+          "uom": "qt",
+          "container_size": 5
+        }
+      ]
+    }
+  }
+}

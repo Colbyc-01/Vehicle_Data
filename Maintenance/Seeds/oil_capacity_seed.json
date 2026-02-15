@@ -1714,7 +1714,7 @@
       "capacity_label_with_filter": "10.5 qt (with filter)",
       "capacity_quarts_with_filter": 10.5,
       "confidence": "HIGH",
-      "engine_code": "FORD_POWERSROKE_30",
+      "engine_code": "FORD_POWERSTROKE_30",
       "notes": "AUTO-STUB: engine referenced by vehicles.json but missing from oil_capacity_seed; needs OEM verification. | Final OEM batch.",
       "status": "OEM_VERIFIED",
       "verified": true,
