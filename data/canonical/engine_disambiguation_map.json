@@ -125,15 +125,15 @@
         "year_max": 1999
       }
     ],
-    "1ZZ-FE": [
+    "1ZZ_FE": [
       {
-        "canonical_engine_code": "TOYOTA_1ZZ-FE",
+        "canonical_engine_code": "TOYOTA_1ZZ_FE",
         "make": "Toyota",
         "year_min": 1995,
         "year_max": 2011
       },
       {
-        "canonical_engine_code": "TOYOTA_1ZZ-FE",
+        "canonical_engine_code": "TOYOTA_1ZZ_FE",
         "make": "Pontiac",
         "model": "Vibe",
         "year_min": 2003,

@@ -8,7 +8,14 @@ import math
 from appv6 import load_json
 from api.data.paths import ENGINE_AIR_FILTER_GROUPS_PATH
 from api.core.purchase_links import build_buy_links
+from api.engine_resolver import EngineResolver, load_json as load_json_resolver
 
+resolver = EngineResolver(
+    engines=load_json_resolver("data/canonical/engines.json"),
+    label_map=load_json_resolver("data/canonical/engine_alias_map.json"),
+    migration_map=load_json_resolver("data/canonical/engine_code_migration_map.json"),
+    code_aliases=load_json_resolver("data/canonical/engine_code_aliases.json")
+)
 
 
 
@@ -461,8 +468,10 @@ def maintenance_bundle(req: MaintenanceBundleRequest):
         return {"error": "vehicle_id not found"}
 
     # resolve engine
-    chosen_engine = engine_code or (vehicle.get("engine_codes") or [None])[0]
-
+    chosen_engine = resolver.resolve(
+    engine_code=engine_code,
+    engine_label=(vin_attrs or {}).get("engine") or vehicle.get("engine_label")
+    ) or (vehicle.get("engine_codes") or [None])[0]
     # oil (reuse existing logic)
     oil = oil_change_by_engine(chosen_engine)
 
