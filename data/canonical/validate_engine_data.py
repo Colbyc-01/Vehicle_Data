@@ -17,7 +17,8 @@ Exit codes:
   2 = Missing engine codes after resolution (hard fail)
   3 = Consumer-unsafe / needs_oem / needs_disambiguation codes referenced (fail if you want strict consumer safety)
 """
-import argparse, json, os
+import argparse, json
+from pathlib import Path
 
 def load(p):
     with open(p,"r",encoding="utf-8") as f:
@@ -63,13 +64,14 @@ def resolve_engine_code(code, migration, code_aliases, disamb_map, vin_attrs=Non
     return c
 
 def main():
+    data_dir=Path(__file__).resolve().parent
     ap=argparse.ArgumentParser()
-    ap.add_argument("--vehicles", required=True)
-    ap.add_argument("--engines", required=True)
-    ap.add_argument("--oil", required=False)
-    ap.add_argument("--disamb", required=True)
-    ap.add_argument("--migration", required=True)
-    ap.add_argument("--code-aliases", required=True)
+    ap.add_argument("--vehicles", default=data_dir / "vehicles.json")
+    ap.add_argument("--engines", default=data_dir / "engines.json")
+    ap.add_argument("--oil", default=data_dir.parent.parent / "Maintenance" / "Seeds" / "oil_specs_seed.json")
+    ap.add_argument("--disamb", default=data_dir / "engine_disambiguation_map.json")
+    ap.add_argument("--migration", default=data_dir / "engine_code_migration_map.json")
+    ap.add_argument("--code-aliases", default=data_dir / "engine_code_aliases.json")
     ap.add_argument("--out", default="engine_data_validator_report.json")
     args=ap.parse_args()
 
@@ -87,7 +89,7 @@ def main():
             vehicle_codes.append(c)
 
     oil_codes=[]
-    if args.oil and os.path.exists(args.oil):
+    if args.oil and Path(args.oil).exists():
         oil=load(args.oil)
         oil_codes=extract_oil_codes(oil)
 
