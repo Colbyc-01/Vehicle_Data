@@ -13,7 +13,7 @@ def norm(s):
 class EngineResolver:
     def __init__(self, engines, label_map, migration_map, code_aliases):
         self.engines = engines
-        self.label_map = label_map
+        self.label_map = label_map.get("engine_alias_map", label_map)
         self.migration_map = migration_map
         self.code_aliases = code_aliases
 
