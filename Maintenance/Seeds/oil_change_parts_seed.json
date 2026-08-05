@@ -4258,32 +4258,24 @@
       "oil_filter": {
         "oem": {
           "brand": "Mopar",
-          "part_number": "05281090AB"
+          "part_number": "05083285AA"
         },
         "alternatives": [
           {
-            "brand": "Bosch",
-            "part_number": "P2003"
+            "brand": "WIX",
+            "part_number": "57620"
           },
           {
-            "brand": "Bosch",
-            "part_number": "0986452003"
-          },
-          {
-            "brand": "Fram",
-            "part_number": "PH16"
-          },
-          {
-            "brand": "Hengst",
-            "part_number": "H10W15"
+            "brand": "CARQUEST",
+            "part_number": "84620"
           },
           {
             "brand": "UFI",
-            "part_number": "23.127.00"
+            "part_number": "23.497.00"
           }
         ]
       },
-      "oil_filter_group": "MOPAR_05281090AB"
+      "oil_filter_group": "MOPAR_05083285AA"
     },
     {
       "engine_code": "CHRYSLER_EVE",

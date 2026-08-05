@@ -1156,11 +1156,11 @@
       "warning": "No verified oil capacity yet \u2013 refer to owner manual / service info."
     },
     {
-      "capacity_label_with_filter": "5.5 qt (with filter)",
-      "capacity_quarts_with_filter": 5.5,
+      "capacity_label_with_filter": "12.0 qt (with filter)",
+      "capacity_quarts_with_filter": 12.0,
       "confidence": "HIGH",
       "engine_code": "CHRYSLER_ETK",
-      "notes": "Filled from common OEM service capacity (round 12).",
+      "notes": "Aligned with the canonical 6.7L Cummins diesel mapping.",
       "status": "OEM_VERIFIED",
       "verified": true
     },
