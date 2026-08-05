@@ -3330,11 +3330,11 @@
     },
     {
       "engine_code": "CHRYSLER_ENF",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "mb_2295_0w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "2004 Dodge Sprinter Owner's Manual: 2.7L diesel permits MB-Approval 229.5 engine oil."
     },
     {
       "engine_code": "CHRYSLER_ERB",
