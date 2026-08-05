@@ -3386,11 +3386,11 @@
     },
     {
       "engine_code": "CHRYSLER_ETK",
-      "oil_spec_key": "ms_6395_5w20",
+      "oil_spec_key": "api_ck4_15w40",
       "status": "SEEDED",
       "confidence": "MEDIUM",
       "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "notes": "Aligned with the canonical 6.7L Cummins diesel mapping."
     },
     {
       "engine_code": "CHRYSLER_EVC",
