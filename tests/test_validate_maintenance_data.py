@@ -67,6 +67,66 @@ class MaintenanceAuditTests(unittest.TestCase):
 
         self.assertNotEqual(first, second)
 
+    def test_tracks_active_verification_separately_from_legacy_records(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            seeds = root / "Maintenance" / "Seeds"
+            seeds.mkdir(parents=True)
+            category = Category("filters", "filters.json", "engine_code", ("group",), "groups.json")
+            self.write(
+                seeds / "filters.json",
+                {
+                    "items": [
+                        {"engine_code": "LIVE", "group": "FILTER_LIVE", "verified": True},
+                        {"engine_code": "LEGACY", "group": "FILTER_LEGACY", "verified": False},
+                    ]
+                },
+            )
+            self.write(
+                seeds / "groups.json",
+                {
+                    "groups": {
+                        "FILTER_LIVE": {"oem": {"brand": "Acme", "part_number": "1"}},
+                        "FILTER_LEGACY": {"oem": {"brand": "Acme", "part_number": "2"}},
+                    }
+                },
+            )
+
+            audit = Audit(root)
+            audit.engines = {"LIVE": {}, "LEGACY": {}, "MISSING": {}}
+            audit.active_engine_codes = {"LIVE", "MISSING"}
+            audit.audit_category(category)
+
+            self.assertEqual(audit.stats["filters"]["records"], 2)
+            self.assertEqual(audit.stats["filters"]["active_records"], 1)
+            self.assertEqual(audit.stats["filters"]["active_expected"], 2)
+            self.assertEqual(audit.stats["filters"]["active_missing"], 1)
+            self.assertEqual(audit.stats["filters"]["active_verified"], 1)
+
+    def test_flags_verified_records_that_reference_placeholder_groups(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            seeds = root / "Maintenance" / "Seeds"
+            seeds.mkdir(parents=True)
+            category = Category("filters", "filters.json", "engine_code", ("group",), "groups.json")
+            self.write(
+                seeds / "filters.json",
+                {"items": [{"engine_code": "LIVE", "group": "FILTER_TBD", "verified": True}]},
+            )
+            self.write(
+                seeds / "groups.json",
+                {"groups": {"FILTER_TBD": {"oem": {"brand": "TBD", "part_number": "TBD"}}}},
+            )
+
+            audit = Audit(root)
+            audit.engines = {"LIVE": {}}
+            audit.active_engine_codes = {"LIVE"}
+            audit.audit_category(category)
+
+            self.assertEqual(audit.stats["filters"]["placeholder_groups"], 1)
+            self.assertEqual(audit.stats["filters"]["verified_placeholder_records"], 1)
+            self.assertIn("verified_placeholder_group", {issue.code for issue in audit.issues})
+
     @staticmethod
     def write(path, value):
         path.write_text(json.dumps(value), encoding="utf-8")
