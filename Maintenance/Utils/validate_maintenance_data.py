@@ -51,6 +51,14 @@ SUPPLEMENTAL_CATEGORIES = (
     "wiper_matrix",
 )
 CATEGORY_NAMES = tuple(category.name for category in CATEGORIES) + SUPPLEMENTAL_CATEGORIES
+RELEASE_CATEGORIES = {
+    "oil_specs",
+    "oil_capacity",
+    "oil_filters",
+    "engine_air_filters",
+    "spark_plugs",
+    "wiper_blades",
+}
 
 
 @dataclass(frozen=True)
@@ -69,6 +77,8 @@ class Audit:
         self.issues: list[Issue] = []
         self.stats: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
         self.engines: dict[str, dict[str, Any]] = {}
+        self.active_engine_codes: set[str] = set()
+        self.placeholder_groups: dict[str, set[str]] = defaultdict(set)
 
     def add(self, severity: str, category: str, code: str, record: Any, message: str) -> None:
         self.issues.append(Issue(severity, category, code, str(record or "(missing)"), message))
@@ -107,6 +117,30 @@ class Audit:
             return
 
         self.stats[category.name]["records"] = len(items)
+        active_items, expected_engine_codes = self.active_items(category, items)
+        self.stats[category.name]["active_records"] = len(active_items)
+        if expected_engine_codes is not None:
+            active_identities = {
+                item.get(category.identity)
+                for item in active_items
+                if isinstance(item, dict)
+            }
+            self.stats[category.name]["active_expected"] = len(expected_engine_codes)
+            self.stats[category.name]["active_missing"] = len(expected_engine_codes - active_identities)
+        for item in active_items:
+            verified = item.get("verified")
+            coverage = clean(item.get("coverage")).lower()
+            if verified is True:
+                self.stats[category.name]["active_verified"] += 1
+            elif verified is False:
+                self.stats[category.name]["active_unverified"] += 1
+            elif coverage == "covered":
+                self.stats[category.name]["active_covered"] += 1
+            elif coverage == "uncovered":
+                self.stats[category.name]["active_uncovered"] += 1
+            else:
+                self.stats[category.name]["active_unclassified"] += 1
+
         identities = [record_identity(category, item) for item in items if isinstance(item, dict)]
         for identity, count in Counter(value for value in identities if value).items():
             if count > 1:
@@ -141,22 +175,61 @@ class Audit:
                 if ref not in group_values:
                     self.add("error", category.name, "missing_group", identity, f"Referenced group {ref!r} does not exist")
                     continue
-                if ref not in audited_groups:
+                if ref not in audited_groups and clean(item.get("coverage")).lower() != "uncovered":
                     self.audit_group_parts(category.name, ref, group_values[ref])
                     audited_groups.add(ref)
 
         self.audit_category_semantics(category, items, group_values)
+        for item in active_items:
+            if item.get("verified") is not True:
+                continue
+            refs = [item.get(field) for field in category.group_fields if item.get(field)]
+            placeholder_refs = [ref for ref in refs if ref in self.placeholder_groups[category.name]]
+            if placeholder_refs:
+                self.stats[category.name]["verified_placeholder_records"] += 1
+                self.add(
+                    "error",
+                    category.name,
+                    "verified_placeholder_group",
+                    item.get(category.identity),
+                    f"Verified record references placeholder group(s): {', '.join(placeholder_refs)}",
+                )
+
+    def active_items(
+        self,
+        category: Category,
+        items: list[Any],
+    ) -> tuple[list[dict[str, Any]], set[str] | None]:
+        valid_items = [item for item in items if isinstance(item, dict)]
+        if category.identity != "engine_code":
+            return valid_items, None
+
+        expected = set(self.active_engine_codes)
+        if category.name == "spark_plugs":
+            expected = {
+                engine_code
+                for engine_code in expected
+                if clean(self.engines.get(engine_code, {}).get("fuel_type")).lower() != "diesel"
+            }
+        active = [item for item in valid_items if item.get(category.identity) in expected]
+        return active, expected
 
     def audit_group_parts(self, category: str, group_key: str, group: Any) -> None:
-        for node in part_nodes(group):
+        nodes = list(part_nodes(group))
+        has_placeholder = False
+        for node in nodes:
             brand = clean(node.get("brand") or node.get("oem_brand"))
             part_number = clean(node.get("part_number") or node.get("service_part_number") or node.get("oem_part_number"))
             name = clean(node.get("name") or node.get("label") or node.get("sku"))
             values = {brand.lower(), part_number.lower(), name.lower()} - {""}
             if values & PLACEHOLDERS or any("placeholder" in value for value in values):
+                has_placeholder = True
                 self.add("info", category, "placeholder_part", group_key, "Contains a placeholder product")
             elif not part_number and not name:
                 self.add("warning", category, "unsearchable_part", group_key, "Product has neither part number nor descriptive name")
+        if has_placeholder:
+            self.placeholder_groups[category].add(group_key)
+            self.stats[category]["placeholder_groups"] += 1
 
     def audit_category_semantics(self, category: Category, items: list[Any], groups: dict[str, Any]) -> None:
         if category.name == "oil_specs":
@@ -227,6 +300,8 @@ class Audit:
         for item in items:
             if not isinstance(item, dict):
                 continue
+            if clean(item.get("coverage")).lower() != "covered":
+                continue
             group = groups.get(item.get("wiper_group_key"), {})
             positions = group.get("positions", {}) if isinstance(group, dict) else {}
             for position in item.get("required_positions") or []:
@@ -271,6 +346,16 @@ class Audit:
         if engines_path.exists():
             engines = self.load(engines_path)
             self.engines = engines if isinstance(engines, dict) else {}
+        vehicles_path = self.repo_root / "data" / "canonical" / "vehicles.json"
+        if vehicles_path.exists():
+            vehicles = self.load(vehicles_path)
+            vehicle_items = vehicles.get("vehicles", []) if isinstance(vehicles, dict) else []
+            self.active_engine_codes = {
+                engine_code
+                for vehicle in vehicle_items
+                if isinstance(vehicle, dict)
+                for engine_code in (vehicle.get("engine_codes") or [])
+            }
         for category in CATEGORIES:
             self.audit_category(category)
         self.audit_inline_seed("battery_parts", "battery_parts_seed.json", "vehicle_key")
@@ -288,6 +373,11 @@ class Audit:
                 "errors": severity_counts["error"],
                 "warnings": severity_counts["warning"],
                 "info": severity_counts["info"],
+                "release_blockers": sum(
+                    counts.get("active_missing", 0) + counts.get("verified_placeholder_records", 0)
+                    for category, counts in self.stats.items()
+                    if category in RELEASE_CATEGORIES
+                ),
             },
             "categories": {
                 category_name: {
@@ -333,7 +423,7 @@ def part_nodes(value: Any) -> Iterable[dict[str, Any]]:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--out", type=Path, default=DEFAULT_REPORT, help="JSON report path")
-    parser.add_argument("--fail-on", choices=("never", "error", "warning"), default="never")
+    parser.add_argument("--fail-on", choices=("never", "error", "warning", "release"), default="never")
     return parser.parse_args()
 
 
@@ -345,18 +435,30 @@ def main() -> int:
 
     summary = report["summary"]
     print(f"Maintenance audit: {summary['categories']} categories")
-    print(f"Errors: {summary['errors']}  Warnings: {summary['warnings']}  Info: {summary['info']}")
+    print(
+        f"Errors: {summary['errors']}  Warnings: {summary['warnings']}  "
+        f"Info: {summary['info']}  Release blockers: {summary['release_blockers']}"
+    )
     for category, counts in report["categories"].items():
         print(
             f"{category}: records={counts.get('records', 0)} "
+            f"active={counts.get('active_records', 0)} "
+            f"verified={counts.get('active_verified', 0)} "
+            f"unverified={counts.get('active_unverified', 0)} "
+            f"unclassified={counts.get('active_unclassified', 0)} "
+            f"covered={counts.get('active_covered', 0)} "
+            f"uncovered={counts.get('active_uncovered', 0)} "
             f"errors={counts.get('error', 0)} warnings={counts.get('warning', 0)} "
-            f"uncovered={counts.get('uncovered', 0)}"
+            f"missing={counts.get('active_missing', 0)} "
+            f"placeholders={counts.get('placeholder_groups', 0)}"
         )
     print(f"Report: {args.out}")
 
     if args.fail_on == "warning" and (summary["errors"] or summary["warnings"]):
         return 1
     if args.fail_on == "error" and summary["errors"]:
+        return 1
+    if args.fail_on == "release" and summary["release_blockers"]:
         return 1
     return 0
 
