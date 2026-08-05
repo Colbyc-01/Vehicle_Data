@@ -360,8 +360,27 @@ def _resolve_by_selector(group: dict, vin_attrs: dict | None):
 
     for key, options in selectors.items():
         val = vin_attrs.get(key)
-        if val and isinstance(options, dict) and val in options:
-            return options[val]
+        if val is None:
+            continue
+        if isinstance(options, dict):
+            if val in options:
+                return options[val]
+            if str(val) in options:
+                return options[str(val)]
+        if isinstance(options, list) and isinstance(val, (int, float)):
+            for option in options:
+                if not isinstance(option, dict):
+                    continue
+                value = option.get("value")
+                year_min = option.get("min")
+                year_max = option.get("max")
+                if (
+                    isinstance(value, dict)
+                    and isinstance(year_min, int)
+                    and isinstance(year_max, int)
+                    and year_min <= val <= year_max
+                ):
+                    return value
 
     return group.get("fallback", group)
 
@@ -447,7 +466,8 @@ def maintenance_bundle(req: MaintenanceBundleRequest):
     vehicle_id = req.vehicle_id
     year = req.year
     engine_code = req.engine_code
-    vin_attrs = req.vin_attrs or {}
+    vin_attrs = dict(req.vin_attrs or {})
+    vin_attrs.setdefault("year", year)
     vehicles_doc, _, oil_specs, oil_capacity, oil_parts, _, _ = reload_all()
 
 
