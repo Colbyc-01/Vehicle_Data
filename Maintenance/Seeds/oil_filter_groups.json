@@ -85,16 +85,7 @@
       "brand": "Audi",
       "part_number": "06D115562"
     },
-    "alternatives": [
-      {
-        "brand": "Audi",
-        "part_number": "06L115562B"
-      },
-      {
-        "brand": "Audi",
-        "part_number": "06J115403Q"
-      }
-    ]
+    "alternatives": []
   },
   "AUDI_078115561J": {
     "oem": {

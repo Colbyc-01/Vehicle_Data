@@ -911,16 +911,7 @@
           "brand": "Audi",
           "part_number": "06D115562"
         },
-        "alternatives": [
-          {
-            "brand": "Audi",
-            "part_number": "06L115562B"
-          },
-          {
-            "brand": "Audi",
-            "part_number": "06J115403Q"
-          }
-        ]
+        "alternatives": []
       },
       "oil_filter_group": "AUDI_06D115562"
     },
@@ -929,11 +920,11 @@
       "oil_filter": {
         "oem": {
           "brand": "Audi",
-          "part_number": "06D115562"
+          "part_number": "06A115561B"
         },
         "alternatives": []
       },
-      "oil_filter_group": "AUDI_06D115562"
+      "oil_filter_group": "AUDI_06A115561B"
     },
     {
       "engine_code": "AUDI_27TT",
@@ -1308,12 +1299,7 @@
           "brand": "Audi",
           "part_number": "06D115562"
         },
-        "alternatives": [
-          {
-            "brand": "Audi",
-            "part_number": "06J115403Q"
-          }
-        ]
+        "alternatives": []
       },
       "oil_filter_group": "AUDI_06D115562"
     },
@@ -1444,16 +1430,7 @@
           "brand": "Audi",
           "part_number": "06D115562"
         },
-        "alternatives": [
-          {
-            "brand": "Audi",
-            "part_number": "06L115562B"
-          },
-          {
-            "brand": "Audi",
-            "part_number": "06J115403Q"
-          }
-        ]
+        "alternatives": []
       },
       "oil_filter_group": "AUDI_06D115562"
     },
@@ -1736,16 +1713,7 @@
           "brand": "Audi",
           "part_number": "06D115562"
         },
-        "alternatives": [
-          {
-            "brand": "Audi",
-            "part_number": "06L115562B"
-          },
-          {
-            "brand": "Audi",
-            "part_number": "06J115403Q"
-          }
-        ]
+        "alternatives": []
       },
       "oil_filter_group": "AUDI_06D115562"
     },
@@ -1756,16 +1724,7 @@
           "brand": "Audi",
           "part_number": "06D115562"
         },
-        "alternatives": [
-          {
-            "brand": "Audi",
-            "part_number": "06L115562B"
-          },
-          {
-            "brand": "Audi",
-            "part_number": "06J115403Q"
-          }
-        ]
+        "alternatives": []
       },
       "oil_filter_group": "AUDI_06D115562"
     },
@@ -1776,16 +1735,7 @@
           "brand": "Audi",
           "part_number": "06D115562"
         },
-        "alternatives": [
-          {
-            "brand": "Audi",
-            "part_number": "06L115562B"
-          },
-          {
-            "brand": "Audi",
-            "part_number": "06J115403Q"
-          }
-        ]
+        "alternatives": []
       },
       "oil_filter_group": "AUDI_06D115562"
     },
