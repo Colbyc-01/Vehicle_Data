@@ -6786,11 +6786,11 @@
     },
     {
       "engine_code": "GM_LWC",
-      "oil_spec_key": "dexos1_gen2_5w30",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "gm_dexos2_5w30",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "2019 Chevrolet Cruze Owner's Manual: 1.6L diesel uses dexos2 SAE 5W-30."
     },
     {
       "engine_code": "GM_LWE",
