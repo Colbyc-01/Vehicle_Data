@@ -293,7 +293,13 @@ class Audit:
             quantity = group.get("qty_per_engine") if isinstance(group, dict) else None
             cylinders = self.engines.get(engine_code, {}).get("cylinders")
             fuel = clean(self.engines.get(engine_code, {}).get("fuel_type")).lower()
-            if fuel == "gasoline" and isinstance(cylinders, int) and isinstance(quantity, int) and quantity != cylinders:
+            if (
+                fuel == "gasoline"
+                and isinstance(cylinders, int)
+                and cylinders > 0
+                and isinstance(quantity, int)
+                and quantity != cylinders
+            ):
                 self.add("warning", "spark_plugs", "quantity_mismatch", engine_code, f"{cylinders} cylinders but group specifies {quantity} plugs")
 
     def audit_wipers(self, items: list[Any], groups: dict[str, Any]) -> None:

@@ -1740,6 +1740,11 @@
       "verified": true
     },
     {
+      "engine_code": "MAZDA_13B-REW",
+      "plug_group": "PLUG_MAZDA_13B-REW",
+      "verified": true
+    },
+    {
       "engine_code": "MAZDA_AJ30",
       "plug_group": "PLUG_MAZDA_AJ30",
       "verified": true
