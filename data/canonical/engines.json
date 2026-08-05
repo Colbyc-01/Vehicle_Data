@@ -10196,7 +10196,7 @@
     "make": "Ford",
     "notes": "Canonicalized from vehicle label '4.6L V8'."
   },
-  "FORD_POWERSROKE_30": {
+  "FORD_POWERSTROKE_30": {
     "aspiration": "Turbo",
     "configuration": "V6",
     "cylinders": 6,
