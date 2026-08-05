@@ -15,6 +15,13 @@ def seed_item(filename):
     )
 
 
+def engine_air_filter_group():
+    document = json.loads(
+        (SEEDS / "engine_air_filter_groups.json").read_text(encoding="utf-8")
+    )
+    return document["groups"]["ENG_AIR_CHRYSLER_ETK"]
+
+
 class RamCumminsMaintenanceDataTests(unittest.TestCase):
     def test_67l_cummins_uses_diesel_oil_spec_and_capacity(self):
         oil_spec = seed_item("oil_specs_seed.json")
@@ -28,6 +35,24 @@ class RamCumminsMaintenanceDataTests(unittest.TestCase):
 
         self.assertEqual(oil_parts["oil_filter_group"], "MOPAR_05083285AA")
         self.assertEqual(oil_parts["oil_filter"]["oem"]["part_number"], "05083285AA")
+
+    def test_67l_cummins_air_filter_is_year_specific(self):
+        air_filter_seed = seed_item("engine_air_filter_seed.json")
+        ranges = engine_air_filter_group()["selectors"]["year"]
+
+        self.assertTrue(air_filter_seed["verified"])
+        self.assertEqual(
+            ranges[0]["value"]["oem"]["part_number"],
+            "53034051AB",
+        )
+        self.assertEqual(
+            ranges[0]["value"]["alternatives"][0]["part_number"],
+            "46930",
+        )
+        self.assertEqual(
+            ranges[1]["value"]["oem"]["part_number"],
+            "68645327AA",
+        )
 
 
 if __name__ == "__main__":

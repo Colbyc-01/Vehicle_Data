@@ -651,7 +651,7 @@
     {
       "engine_code": "CHRYSLER_ETK",
       "engine_air_filter_group": "ENG_AIR_CHRYSLER_ETK",
-      "verified": false
+      "verified": true
     },
     {
       "engine_code": "CHRYSLER_EVE",

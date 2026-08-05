@@ -2948,30 +2948,57 @@
         }
       ]
     },
-    "ENG_AIR_CHRYSLER_ETK": {
-      "oem": {
-        "brand": "TBD",
-        "part_number": "TBD",
-        "verified": false
-      },
-      "spec": {
-        "filter_type": "panel"
-      },
-      "alternatives": [
+  "ENG_AIR_CHRYSLER_ETK": {
+    "selectors": {
+      "year": [
         {
-          "brand": "FRAM",
-          "part_number": "CA11966"
+          "min": 2011,
+          "max": 2018,
+          "value": {
+            "oem": {
+              "brand": "Mopar",
+              "part_number": "53034051AB",
+              "verified": true,
+              "source_url": "https://store.mopar.com/oem-parts/mopar-mopar-enhanced-air-filter-53034051ab"
+            },
+            "spec": {
+              "filter_type": "panel"
+            },
+            "alternatives": [
+              {
+                "brand": "WIX",
+                "part_number": "46930",
+                "verified": true,
+                "source_url": "https://www.wixfilters.com/es-ar/catalogo/results/product.html/46930_wix.html"
+              }
+            ]
+          }
         },
         {
-          "brand": "WIX",
-          "part_number": "WA10855"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A28163"
+          "min": 2019,
+          "max": 2024,
+          "value": {
+            "oem": {
+              "brand": "Mopar",
+              "part_number": "68645327AA",
+              "verified": true,
+              "source_url": "https://store.mopar.com/oem-parts/mopar-air-filter-68645327aa"
+            },
+            "spec": {
+              "filter_type": "panel"
+            },
+            "alternatives": []
+          }
         }
       ]
     },
+    "fallback": {
+      "oem": null,
+      "alternatives": [],
+      "verified": false,
+      "warning": "Select a supported model year to determine engine air filter fitment."
+    }
+  },
     "ENG_AIR_CHRYSLER_EVE": {
       "oem": {
         "brand": "TBD",
