@@ -3858,11 +3858,11 @@
     },
     {
       "engine_code": "DODGE_6BT",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_6BT-P",
@@ -3874,11 +3874,11 @@
     },
     {
       "engine_code": "DODGE_6BT-P7100",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_6BT-VE",
@@ -3890,11 +3890,11 @@
     },
     {
       "engine_code": "DODGE_6BT5.9",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_6BTA",
@@ -4082,19 +4082,19 @@
     },
     {
       "engine_code": "DODGE_ISB",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_ISB-CM2100",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_ISB-CM2250",
@@ -4114,43 +4114,43 @@
     },
     {
       "engine_code": "DODGE_ISB-CM849",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_ISB-CM850",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_ISB-CR",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_ISB-VP44",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_ISB24V",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_ISB5.9",
@@ -4162,19 +4162,19 @@
     },
     {
       "engine_code": "DODGE_ISB5.9-CR",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DODGE_ISB6.7",
-      "oil_spec_key": "ms_6395_5w20",
-      "status": "SEEDED",
-      "confidence": "MEDIUM",
-      "verified": false,
-      "notes": "NORMALIZED legacy row."
+      "oil_spec_key": "api_ck4_15w40",
+      "status": "OEM_VERIFIED",
+      "confidence": "HIGH",
+      "verified": true,
+      "notes": "Cummins B5.9/ISB5.9/ISB6.7/B6.7 Quick Reference Guide: 15W-40 or 10W-30 meeting CES 20086/API CK-4."
     },
     {
       "engine_code": "DURATEC-20",
