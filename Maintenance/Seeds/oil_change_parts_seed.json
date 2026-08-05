@@ -7125,15 +7125,19 @@
         "alternatives": [
           {
             "brand": "WIX",
-            "part_number": "57060"
+            "part_number": "WL10351"
           },
           {
             "brand": "FRAM",
-            "part_number": "PH3387A"
+            "part_number": "PH12447"
           },
           {
-            "brand": "Mobil1",
-            "part_number": "M1-113A"
+            "brand": "K&N",
+            "part_number": "HP-1021"
+          },
+          {
+            "brand": "Purolator",
+            "part_number": "L11424"
           }
         ]
       },
@@ -7432,11 +7436,36 @@
       "oil_filter": {
         "oem": {
           "brand": "ACDelco",
-          "part_number": "PF63E"
+          "part_number": "PF63"
         },
-        "alternatives": []
+        "alternatives": [
+          {
+            "brand": "WIX",
+            "part_number": "57045"
+          },
+          {
+            "brand": "FRAM",
+            "part_number": "PH10575"
+          },
+          {
+            "brand": "Bosch",
+            "part_number": "3973"
+          },
+          {
+            "brand": "K&N",
+            "part_number": "SO-2011"
+          },
+          {
+            "brand": "Purolator",
+            "part_number": "L22500"
+          },
+          {
+            "brand": "ACDelco",
+            "part_number": "PF63E"
+          }
+        ]
       },
-      "oil_filter_group": "ACDELCO_PF63E"
+      "oil_filter_group": "ACDELCO_PF63"
     },
     {
       "engine_code": "GM_L83",
@@ -8440,15 +8469,19 @@
         "alternatives": [
           {
             "brand": "WIX",
-            "part_number": "57060"
+            "part_number": "WL10351"
           },
           {
             "brand": "FRAM",
-            "part_number": "PH3387A"
+            "part_number": "PH12447"
           },
           {
-            "brand": "Mobil1",
-            "part_number": "M1-113A"
+            "brand": "K&N",
+            "part_number": "HP-1021"
+          },
+          {
+            "brand": "Purolator",
+            "part_number": "L11424"
           }
         ]
       },
@@ -8928,15 +8961,19 @@
         "alternatives": [
           {
             "brand": "WIX",
-            "part_number": "57060"
+            "part_number": "WL10351"
           },
           {
             "brand": "FRAM",
-            "part_number": "PH3387A"
+            "part_number": "PH12447"
           },
           {
-            "brand": "Mobil1",
-            "part_number": "M1-113A"
+            "brand": "K&N",
+            "part_number": "HP-1021"
+          },
+          {
+            "brand": "Purolator",
+            "part_number": "L11424"
           }
         ]
       },
