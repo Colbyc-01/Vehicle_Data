@@ -2898,11 +2898,11 @@
       "verified": true
     },
     {
-      "capacity_label_with_filter": "5.0 qt (with filter)",
-      "capacity_quarts_with_filter": 5.0,
+      "capacity_label_with_filter": "5.3 qt (with filter)",
+      "capacity_quarts_with_filter": 5.3,
       "confidence": "HIGH",
       "engine_code": "GM_LWC",
-      "notes": "Filled from common OEM service capacity (round 9).",
+      "notes": "2019 Chevrolet Cruze Owner's Manual: 1.6L diesel engine oil with filter is 5.0 L (5.3 qt).",
       "status": "OEM_VERIFIED",
       "verified": true
     },
