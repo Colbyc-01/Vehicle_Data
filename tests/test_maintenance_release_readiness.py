@@ -33,6 +33,45 @@ class MaintenanceReleaseReadinessTests(unittest.TestCase):
         self.assertEqual(group["primary"]["part_number"], "BUR9EQP")
         self.assertIn("ngkntk.com", group["primary"]["source_url"])
 
+    def test_all_spark_plug_groups_have_champion_alternative(self):
+        groups = json.loads(
+            (SEEDS / "spark_plug_groups.json").read_text(encoding="utf-8")
+        )["groups"]
+
+        missing_champion = [
+            gid
+            for gid, g in groups.items()
+            if not any(
+                a.get("brand", "").lower() == "champion"
+                for a in g.get("alternatives", [])
+            )
+        ]
+
+        self.assertEqual(
+            missing_champion,
+            [],
+            f"{len(missing_champion)} groups missing Champion: {missing_champion[:10]}",
+        )
+
+    def test_champion_part_numbers_are_not_tbd(self):
+        groups = json.loads(
+            (SEEDS / "spark_plug_groups.json").read_text(encoding="utf-8")
+        )["groups"]
+
+        tbd_champion = [
+            gid
+            for gid, g in groups.items()
+            for a in g.get("alternatives", [])
+            if a.get("brand", "").lower() == "champion"
+            and a.get("part_number", "").upper() in ("TBD", "", "N/A")
+        ]
+
+        self.assertEqual(
+            tbd_champion,
+            [],
+            f"{len(tbd_champion)} Champion entries with TBD/empty part numbers",
+        )
+
     def test_ram_truck_wiper_fitment_uses_verified_generation_sizes(self):
         seed_items = json.loads(
             (SEEDS / "wiper_seed.json").read_text(encoding="utf-8")
