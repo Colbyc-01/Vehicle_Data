@@ -150,8 +150,16 @@ def _find_by_vehicle_key(items, vehicle_key, year: Optional[int] = None):
         return None
 
     m_vk = re.match(r"^(?P<base>.+)_(?P<year>\d{4})$", vk)
-    vk_base = m_vk.group("base") if m_vk else vk
-    vk_year = int(m_vk.group("year")) if m_vk else (year if isinstance(year, int) else None)
+    if isinstance(year, int):
+        vk_year = year
+        vk_base = (
+            m_vk.group("base")
+            if m_vk and int(m_vk.group("year")) == year
+            else vk
+        )
+    else:
+        vk_base = m_vk.group("base") if m_vk else vk
+        vk_year = int(m_vk.group("year")) if m_vk else None
 
     def applies_to_year(item: dict) -> bool:
         years = item.get("years")
