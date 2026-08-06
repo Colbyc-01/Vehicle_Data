@@ -98,6 +98,41 @@ class MaintenanceReleaseReadinessTests(unittest.TestCase):
                     msg=f"{engine_code} missing {brand} part number",
                 )
 
+    def test_all_spark_plug_groups_have_champion_alternative(self):
+        _, groups, _ = self._load_spark_plug_docs()
+
+        missing_champion = [
+            gid
+            for gid, g in groups.items()
+            if not any(
+                a.get("brand", "").lower() == "champion"
+                for a in g.get("alternatives", [])
+            )
+        ]
+
+        self.assertEqual(
+            missing_champion,
+            [],
+            f"{len(missing_champion)} groups missing Champion: {missing_champion[:10]}",
+        )
+
+    def test_champion_part_numbers_are_not_tbd(self):
+        _, groups, _ = self._load_spark_plug_docs()
+
+        tbd_champion = [
+            gid
+            for gid, g in groups.items()
+            for a in g.get("alternatives", [])
+            if a.get("brand", "").lower() == "champion"
+            and a.get("part_number", "").upper() in ("TBD", "", "N/A")
+        ]
+
+        self.assertEqual(
+            tbd_champion,
+            [],
+            f"{len(tbd_champion)} Champion entries with TBD/empty part numbers",
+        )
+
     def test_ram_truck_wiper_fitment_uses_verified_generation_sizes(self):
         seed_items = json.loads(
             (SEEDS / "wiper_seed.json").read_text(encoding="utf-8")
