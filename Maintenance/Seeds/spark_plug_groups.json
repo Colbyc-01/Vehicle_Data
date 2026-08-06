@@ -10,7 +10,7 @@
     "Batch1: Filled GM LS-family (ACDelco 41-985 gap 0.040), GM L31 (ACDelco 41-993 gap 0.060), GM LFX (ACDelco 41-109 gap 0.040).",
     "Batch2 (GM): Filled EcoTec3/Gen V LT V8 (L83/L86/L87) ACDelco 41-114 gap 0.040 with 41-168 as alt; LTG ACDelco 41-125 gap 0.035; LLT ACDelco 41-990 gap 0.043; LGX ACDelco 41-130 gap 0.035; L36 LLT reserved for LLT TBD.",
     "Added mainstream alternatives (NGK/Denso/Bosch/Autolite placeholders) for all verified GM engines.",
-    "Batch3 GM: L29/L92 big block &amp; LS, LY7 HFV6, LCV 2.5, LA1 3400, L35/LB4 4.3 V6 OEM ACDelco filled.",
+    "Batch3 GM: L29/L92 big block & LS, LY7 HFV6, LCV 2.5, LA1 3400, L35/LB4 4.3 V6 OEM ACDelco filled.",
     "Batch4 GM: L84 EcoTec3 5.3, L9H 6.2 Gen V, LSY/L20 2.0T filled with ACDelco patterns.",
     "Batch5 GM: L18 8.1, L26 3800, L30 5.0, L82 3100, LL8 4.2, LW2 3.0, L3B 2.7T, L8T 6.6 gas.",
     "Batch6 GM: LE5/LEA 2.4 Ecotec, LMG 5.3 LS, LZ9 3.9 V6, LD8/L37 Northstar, L3T 1.3T.",
@@ -35,5 +35,5 @@
     "Champion pass: Added Champion cross-references to all 465 groups with source URLs.",
     "MVP Champion sweep: added direct Champion cross-references for high-volume NGK/Bosch families and filled GM LFX/LGX Bosch+NGK+Champion alternatives; specialist PFR7S8EG and BUR9EQP applications remain without direct Champion equivalents."
   ],
-  "groups": {}
+  "groups": {"PLUG_ACURA_B18B1":{"qty_per_engine":4,"spec":{"gap_in":0.044},"primary":{"brand":"NGK","part_number":"BKR6E-11","verified":true},"alternatives":[{"brand":"Denso","part_number":"5304"},{"brand":"Bosch","part_number":"7904"},{"brand":"Autolite","part_number":"64"},{"brand":"Champion","part_number":"RC9YC4","source_url":"https://www.sparkplug-crossreference.com/convert/NGK_PN/BKR6E-11"}]}}
 }
