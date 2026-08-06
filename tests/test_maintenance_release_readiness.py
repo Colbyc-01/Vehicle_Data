@@ -33,6 +33,30 @@ class MaintenanceReleaseReadinessTests(unittest.TestCase):
         self.assertEqual(group["primary"]["part_number"], "BUR9EQP")
         self.assertIn("ngkntk.com", group["primary"]["source_url"])
 
+    def test_ram_truck_wiper_fitment_uses_verified_generation_sizes(self):
+        seed_items = json.loads(
+            (SEEDS / "wiper_seed.json").read_text(encoding="utf-8")
+        )["items"]
+        groups = json.loads(
+            (SEEDS / "wiper_group.json").read_text(encoding="utf-8")
+        )["groups"]
+
+        ram_items = [
+            item
+            for item in seed_items
+            if item["make"] == "Ram" and item["model"] in {"1500", "2500", "3500"}
+        ]
+
+        self.assertTrue(ram_items)
+        self.assertTrue(all(item["coverage"] == "covered" for item in ram_items))
+        for item in ram_items:
+            group = groups[item["wiper_group_key"]]
+            expected_size = 24 if item["model"] == "1500" and item["years"][0] >= 2019 else 22
+            for position in item["required_positions"]:
+                self.assertEqual(group["positions"][position]["spec"]["length_in"], expected_size)
+                self.assertEqual(group["positions"][position]["spec"]["blade_type"], "beam")
+                self.assertIn("rainx.com", group["positions"][position]["oem"]["source_url"])
+
 
 if __name__ == "__main__":
     unittest.main()
