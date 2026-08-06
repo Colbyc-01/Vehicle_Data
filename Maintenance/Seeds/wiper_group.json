@@ -1,6 +1,6 @@
 {
   "contract": "wiper_group",
-  "version": "v2_progress|v3_gm_fullsize_verified|v4_gm_suv_2014_2020|v5_durango_malibu_vans|v6_batch_next|v7_scan_fill|v8_escape_equinox|v9_rogue|v10_tucson|v12_outback|v13_grand_cherokee",
+  "version": "v2_progress|v3_gm_fullsize_verified|v4_gm_suv_2014_2020|v5_durango_malibu_vans|v6_batch_next|v7_scan_fill|v8_escape_equinox|v9_rogue|v10_tucson|v12_outback|v13_grand_cherokee|v14_ram_trucks",
   "generated_at": "2026-02-10",
   "notes": [
     "gen_ranges_all_v1: Preserved original groups and added placeholder groups required by the rebuilt seed.",
@@ -19,7 +19,8 @@
     "v3_gm_fullsize_verified: Set OEM_VERIFIED part tokens and connector_type where verified (Tahoe 2020 front u_hook_9x3; rear as rear_special).",
     "v4_gm_suv_2014_2020: Set OEM_VERIFIED tokens; front connector_type=u_hook_9x3; rear connector_type=rear_special.",
     "v5_durango_malibu_vans: Set OEM_VERIFIED sizes + connector_type=u_hook_9x3 for fronts; rear_special for Durango rear; removed Malibu rear position.",
-    "v6_batch_next: Set OEM_VERIFIED beam sizes + normalized connectors."
+    "v6_batch_next: Set OEM_VERIFIED beam sizes + normalized connectors.",
+    "v14_ram_trucks: Added Rain-X-verified beam fitments for 2011-2024 Ram 1500/2500/3500; J-hook arm type is retained without inventing an unverified hook dimension."
   ],
   "groups": {
     "WIPER_GROUP_EXAMPLE": {
@@ -15674,29 +15675,61 @@
         }
       }
     },
-    "WIPER_RAM_1500_2011_2024": {
+    "WIPER_RAM_1500_2011_2018": {
       "positions": {
         "front_driver": {
           "oem": {
-            "brand": null,
-            "part_number": null
+            "brand": "Rain-X",
+            "part_number": "830022",
+            "source_url": "https://www.rainx.com/bv-advantedge/"
           },
           "spec": {
-            "length_in": null,
-            "connector_type": null,
-            "blade_type": null
+            "length_in": 22,
+            "connector_type": "j_hook",
+            "blade_type": "beam"
           },
           "alternatives": []
         },
         "front_passenger": {
           "oem": {
-            "brand": null,
-            "part_number": null
+            "brand": "Rain-X",
+            "part_number": "830022",
+            "source_url": "https://www.rainx.com/bv-advantedge/"
           },
           "spec": {
-            "length_in": null,
-            "connector_type": null,
-            "blade_type": null
+            "length_in": 22,
+            "connector_type": "j_hook",
+            "blade_type": "beam"
+          },
+          "alternatives": []
+        }
+      }
+    },
+    "WIPER_RAM_1500_2019_2024": {
+      "positions": {
+        "front_driver": {
+          "oem": {
+            "brand": "Rain-X",
+            "part_number": "830024",
+            "source_url": "https://www.rainx.com/bv-advantedge/"
+          },
+          "spec": {
+            "length_in": 24,
+            "connector_type": "j_hook",
+            "blade_type": "beam"
+          },
+          "alternatives": []
+        },
+        "front_passenger": {
+          "oem": {
+            "brand": "Rain-X",
+            "part_number": "830024",
+            "source_url": "https://www.rainx.com/bv-advantedge/"
+          },
+          "spec": {
+            "length_in": 24,
+            "connector_type": "j_hook",
+            "blade_type": "beam"
           },
           "alternatives": []
         }
@@ -15706,25 +15739,27 @@
       "positions": {
         "front_driver": {
           "oem": {
-            "brand": null,
-            "part_number": null
+            "brand": "Rain-X",
+            "part_number": "830022",
+            "source_url": "https://www.rainx.com/bv-advantedge/"
           },
           "spec": {
-            "length_in": null,
-            "connector_type": null,
-            "blade_type": null
+            "length_in": 22,
+            "connector_type": "j_hook",
+            "blade_type": "beam"
           },
           "alternatives": []
         },
         "front_passenger": {
           "oem": {
-            "brand": null,
-            "part_number": null
+            "brand": "Rain-X",
+            "part_number": "830022",
+            "source_url": "https://www.rainx.com/bv-advantedge/"
           },
           "spec": {
-            "length_in": null,
-            "connector_type": null,
-            "blade_type": null
+            "length_in": 22,
+            "connector_type": "j_hook",
+            "blade_type": "beam"
           },
           "alternatives": []
         }
@@ -15734,25 +15769,27 @@
       "positions": {
         "front_driver": {
           "oem": {
-            "brand": null,
-            "part_number": null
+            "brand": "Rain-X",
+            "part_number": "830022",
+            "source_url": "https://www.rainx.com/bv-advantedge/"
           },
           "spec": {
-            "length_in": null,
-            "connector_type": null,
-            "blade_type": null
+            "length_in": 22,
+            "connector_type": "j_hook",
+            "blade_type": "beam"
           },
           "alternatives": []
         },
         "front_passenger": {
           "oem": {
-            "brand": null,
-            "part_number": null
+            "brand": "Rain-X",
+            "part_number": "830022",
+            "source_url": "https://www.rainx.com/bv-advantedge/"
           },
           "spec": {
-            "length_in": null,
-            "connector_type": null,
-            "blade_type": null
+            "length_in": 22,
+            "connector_type": "j_hook",
+            "blade_type": "beam"
           },
           "alternatives": []
         }

@@ -1,6 +1,6 @@
 {
   "contract": "wiper_seed",
-  "version": "v2_progress|v3_gm_fullsize_verified|v4_gm_suv_2014_2020|v5_durango_malibu_vans|v6_batch_next|v7_scan_fill|v8_escape_equinox|v9_rogue|v10_tucson|v11_global_struct_split|v12_outback|v13_grand_cherokee",
+  "version": "v2_progress|v3_gm_fullsize_verified|v4_gm_suv_2014_2020|v5_durango_malibu_vans|v6_batch_next|v7_scan_fill|v8_escape_equinox|v9_rogue|v10_tucson|v11_global_struct_split|v12_outback|v13_grand_cherokee|v14_ram_trucks",
   "generated_at": "2026-02-10",
   "notes": [
     "gen_ranges_all_v1: Full rebuild to generation-range buckets only using union-merged year coverage from vehicles.json.",
@@ -28,7 +28,8 @@
     "v10_tucson: Added OEM_VERIFIED specs for Hyundai Tucson segmented buckets.",
     "v11_global_struct_split: Structural split of wide year spans (>8 years) into 5-year buckets. No specs applied.",
     "v12_outback: Added OEM_VERIFIED specs for Subaru Outback generations.",
-    "v13_grand_cherokee: Added OEM_VERIFIED specs for Jeep Grand Cherokee (front only, no rear)."
+    "v13_grand_cherokee: Added OEM_VERIFIED specs for Jeep Grand Cherokee (front only, no rear).",
+    "v14_ram_trucks: Verified 2011-2024 Ram 1500/2500/3500 front blade sizes against Rain-X fitment data; split Ram 1500 at the 2019 size change."
   ],
   "items": [
     {
@@ -13949,8 +13950,8 @@
         2015
       ],
       "body_style": null,
-      "wiper_group_key": "WIPER_RAM_1500_2011_2024",
-      "coverage": "uncovered",
+      "wiper_group_key": "WIPER_RAM_1500_2011_2018",
+      "coverage": "covered",
       "required_positions": [
         "front_driver",
         "front_passenger"
@@ -13962,11 +13963,27 @@
       "model": "1500",
       "years": [
         2016,
+        2018
+      ],
+      "body_style": null,
+      "wiper_group_key": "WIPER_RAM_1500_2011_2018",
+      "coverage": "covered",
+      "required_positions": [
+        "front_driver",
+        "front_passenger"
+      ]
+    },
+    {
+      "vehicle_key": "ram_1500",
+      "make": "Ram",
+      "model": "1500",
+      "years": [
+        2019,
         2020
       ],
       "body_style": null,
-      "wiper_group_key": "WIPER_RAM_1500_2011_2024",
-      "coverage": "uncovered",
+      "wiper_group_key": "WIPER_RAM_1500_2019_2024",
+      "coverage": "covered",
       "required_positions": [
         "front_driver",
         "front_passenger"
@@ -13981,8 +13998,8 @@
         2024
       ],
       "body_style": null,
-      "wiper_group_key": "WIPER_RAM_1500_2011_2024",
-      "coverage": "uncovered",
+      "wiper_group_key": "WIPER_RAM_1500_2019_2024",
+      "coverage": "covered",
       "required_positions": [
         "front_driver",
         "front_passenger"
@@ -13998,7 +14015,7 @@
       ],
       "body_style": null,
       "wiper_group_key": "WIPER_RAM_2500_2011_2024",
-      "coverage": "uncovered",
+      "coverage": "covered",
       "required_positions": [
         "front_driver",
         "front_passenger"
@@ -14014,7 +14031,7 @@
       ],
       "body_style": null,
       "wiper_group_key": "WIPER_RAM_2500_2011_2024",
-      "coverage": "uncovered",
+      "coverage": "covered",
       "required_positions": [
         "front_driver",
         "front_passenger"
@@ -14030,7 +14047,7 @@
       ],
       "body_style": null,
       "wiper_group_key": "WIPER_RAM_2500_2011_2024",
-      "coverage": "uncovered",
+      "coverage": "covered",
       "required_positions": [
         "front_driver",
         "front_passenger"
@@ -14046,7 +14063,7 @@
       ],
       "body_style": null,
       "wiper_group_key": "WIPER_RAM_3500_2011_2024",
-      "coverage": "uncovered",
+      "coverage": "covered",
       "required_positions": [
         "front_driver",
         "front_passenger"
@@ -14062,7 +14079,7 @@
       ],
       "body_style": null,
       "wiper_group_key": "WIPER_RAM_3500_2011_2024",
-      "coverage": "uncovered",
+      "coverage": "covered",
       "required_positions": [
         "front_driver",
         "front_passenger"
@@ -14078,7 +14095,7 @@
       ],
       "body_style": null,
       "wiper_group_key": "WIPER_RAM_3500_2011_2024",
-      "coverage": "uncovered",
+      "coverage": "covered",
       "required_positions": [
         "front_driver",
         "front_passenger"

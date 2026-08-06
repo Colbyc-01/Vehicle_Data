@@ -141,28 +141,41 @@ def _find_by_vehicle_key(items, vehicle_key, year: Optional[int] = None):
       - "chevrolet_tahoe_2015_2019" (year-range)
 
     Match order:
-      1) exact match (case-insensitive)
-      2) prefix tolerance
-      3) year-range match when year is available
+      1) exact match (case-insensitive), respecting seed year ranges
+      2) prefix tolerance, respecting seed year ranges
+      3) year-range match encoded in the key when year is available
     """
     vk = (vehicle_key or "").strip().lower()
     if not vk:
         return None
 
     m_vk = re.match(r"^(?P<base>.+)_(?P<year>\d{4})$", vk)
-    vk_base = m_vk.group("base") if m_vk else vk
-    vk_year = int(m_vk.group("year")) if m_vk else (year if isinstance(year, int) else None)
+    if isinstance(year, int):
+        vk_year = year
+        vk_base = (
+            m_vk.group("base")
+            if m_vk and int(m_vk.group("year")) == year
+            else vk
+        )
+    else:
+        vk_base = m_vk.group("base") if m_vk else vk
+        vk_year = int(m_vk.group("year")) if m_vk else None
+
+    def applies_to_year(item: dict) -> bool:
+        years = item.get("years")
+        if vk_year is None or not isinstance(years, list) or len(years) != 2:
+            return True
+        start, end = years
+        if not isinstance(start, int) or not isinstance(end, int):
+            return True
+        return start <= vk_year <= end
 
     for it in items or []:
         sk = (it.get("vehicle_key") or "").strip().lower()
         if not sk:
             continue
 
-        if sk == vk:
-            return it
-        if sk.startswith(vk + "_"):
-            return it
-        if vk.startswith(sk + "_"):
+        if (sk == vk or sk.startswith(vk + "_") or vk.startswith(sk + "_")) and applies_to_year(it):
             return it
 
         m = re.match(r"^(?P<base>.+)_(?P<y0>\d{4})_(?P<y1>\d{4})$", sk)
