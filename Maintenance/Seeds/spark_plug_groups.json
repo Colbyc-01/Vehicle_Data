@@ -5940,24 +5940,7 @@
         "part_number": "41-109",
         "verified": true
       },
-      "alternatives": [
-        {
-          "brand": "NGK",
-          "part_number": "TBD"
-        },
-        {
-          "brand": "Denso",
-          "part_number": "TBD"
-        },
-        {
-          "brand": "Bosch",
-          "part_number": "TBD"
-        },
-        {
-          "brand": "Autolite",
-          "part_number": "TBD"
-        }
-      ]
+      "alternatives": []
     },
     "PLUG_GM_LG8": {
       "qty_per_engine": 6,
@@ -5998,24 +5981,7 @@
         "part_number": "41-130",
         "verified": true
       },
-      "alternatives": [
-        {
-          "brand": "NGK",
-          "part_number": "TBD"
-        },
-        {
-          "brand": "Denso",
-          "part_number": "TBD"
-        },
-        {
-          "brand": "Bosch",
-          "part_number": "TBD"
-        },
-        {
-          "brand": "Autolite",
-          "part_number": "TBD"
-        }
-      ]
+      "alternatives": []
     },
     "PLUG_GM_LGY": {
       "qty_per_engine": 6,
@@ -9136,6 +9102,16 @@
           "part_number": "XP5363"
         }
       ]
+    },
+    "PLUG_MAZDA_13B-REW": {
+      "qty_per_engine": 4,
+      "primary": {
+        "brand": "NGK",
+        "part_number": "BUR9EQP",
+        "verified": true,
+        "source_url": "https://www.ngkntk.com/fileadmin/uk/downloads/ngk_spark_plug___diesel_glow_plug-2017__3_.pdf"
+      },
+      "alternatives": []
     },
     "PLUG_MAZDA_AJ30": {
       "qty_per_engine": 6,
