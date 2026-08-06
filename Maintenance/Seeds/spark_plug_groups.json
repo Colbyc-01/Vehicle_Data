@@ -35,5 +35,9 @@
     "Champion pass: Added Champion cross-references to all 465 groups with source URLs.",
     "MVP Champion sweep: added direct Champion cross-references for high-volume NGK/Bosch families and filled GM LFX/LGX Bosch+NGK+Champion alternatives; specialist PFR7S8EG and BUR9EQP applications remain without direct Champion equivalents."
   ],
-  "groups": {"PLUG_ACURA_B18B1":{"qty_per_engine":4,"spec":{"gap_in":0.044},"primary":{"brand":"NGK","part_number":"BKR6E-11","verified":true},"alternatives":[{"brand":"Denso","part_number":"5304"},{"brand":"Bosch","part_number":"7904"},{"brand":"Autolite","part_number":"64"},{"brand":"Champion","part_number":"RC9YC4","source_url":"https://www.sparkplug-crossreference.com/convert/NGK_PN/BKR6E-11"}]}}
+  "groups": {
+    "PLUG_ACURA_B18B1": {"qty_per_engine": 4, "spec": {"gap_in": 0.044}, "primary": {"brand": "NGK", "part_number": "BKR6E-11", "verified": true}, "alternatives": [{"brand": "Denso", "part_number": "5304"}, {"brand": "Bosch", "part_number": "7904"}, {"brand": "Autolite", "part_number": "64"}, {"brand": "Champion", "part_number": "RC9YC4", "source_url": "https://www.sparkplug-crossreference.com/convert/NGK_PN/BKR6E-11"}]},
+    "PLUG_ACURA_B18C1": {"qty_per_engine": 4, "spec": {"gap_in": 0.044}, "primary": {"brand": "NGK", "part_number": "BKR6E-11", "verified": true}, "alternatives": [{"brand": "Denso", "part_number": "5304"}, {"brand": "Bosch", "part_number": "7904"}, {"brand": "Autolite", "part_number": "64"}, {"brand": "Champion", "part_number": "RC9YC4", "source_url": "https://www.sparkplug-crossreference.com/convert/NGK_PN/BKR6E-11"}]},
+    "PLUG_ACURA_B18C5": {"qty_per_engine": 4, "spec": {"gap_in": 0.044}, "primary": {"brand": "NGK", "part_number": "BKR6E-11", "verified": true}, "alternatives": [{"brand": "Denso", "part_number": "5304"}, {"brand": "Bosch", "part_number": "7904"}, {"brand": "Autolite", "part_number": "64"}, {"brand": "Champion", "part_number": "RC9YC4", "source_url": "https://www.sparkplug-crossreference.com/convert/NGK_PN/BKR6E-11"}]}
+  }
 }
