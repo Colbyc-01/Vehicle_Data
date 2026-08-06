@@ -32,10 +32,7 @@
     "Alt fill V5: filled Ford 300/Coyote, GM L29, Toyota NZ/UZ/AZ, VW07K.",
     "Primary cleanup pass: fixed 40 remaining engines with exact OEM plugs.",
     "Final alt sweep filled 40 remaining groups.",
-    "Champion pass: Added Champion cross-references to all 465 groups with source URLs."
-  ],
-  "groups": {}
-}
+    "Champion pass: Added Champion cross-references to all 465 groups with source URLs.",
     "MVP Champion sweep: added direct Champion cross-references for high-volume NGK/Bosch families and filled GM LFX/LGX Bosch+NGK+Champion alternatives; specialist PFR7S8EG and BUR9EQP applications remain without direct Champion equivalents."
   ],
   "groups": {
