@@ -1,9 +1,22 @@
 {
   "source_id": "ngk_niterra",
   "source_name": "NGK / Niterra",
-  "status": "pending_acquisition",
+  "status": "research_ready",
+  "priority": 5,
+  "role": ["candidate", "verification"],
   "categories": ["spark_plug", "ignition"],
+  "us_fitment": true,
   "raw_location": "Maintenance/CatalogBuilder/datasets/raw/ngk_niterra/",
   "rights_status": "review_required",
-  "notes": "Preserve original artifacts unchanged. Do not treat source data as verified without independent corroboration."
+  "acquisition": {
+    "mode": "official_application_catalog_or_download",
+    "artifact_status": "not_acquired",
+    "required_before_ingest": ["exact_access_url", "terms_review", "cache_rights_review"]
+  },
+  "acceptance": {
+    "must_return_exact_part_numbers": true,
+    "must_include_vehicle_fitment": true,
+    "single_source_is_verification": false
+  },
+  "notes": "Primary spark-plug acquisition target. Preserve original artifacts unchanged and corroborate fitment independently."
 }
