@@ -32,6 +32,20 @@ DEFAULT_WIX_AUDIT = REPO_ROOT / "air_filter_wix_audit.json"
 DEFAULT_VEHICLES = REPO_ROOT / "data" / "canonical" / "vehicles.json"
 DEFAULT_CACHE = REPO_ROOT / ".cache" / "parts_verification.sqlite3"
 
+MAKE_ALIASES: dict[str, set[str]] = {
+    "RAM": {"DODGE"},
+    "DODGE": {"RAM"},
+    "GENESIS": {"HYUNDAI"},
+    "HYUNDAI": {"GENESIS"},
+    "GEO": {"CHEVROLET", "SUZUKI"},
+    "CHEVROLET": {"GEO", "SUZUKI"},
+    "SUZUKI": {"GEO", "CHEVROLET"},
+    "EAGLE": {"MITSUBISHI", "CHRYSLER"},
+    "MITSUBISHI": {"EAGLE", "CHRYSLER"},
+    "PLYMOUTH": {"DODGE", "CHRYSLER"},
+    "CHRYSLER": {"PLYMOUTH", "DODGE", "MITSUBISHI"},
+}
+
 
 def load(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
@@ -48,6 +62,16 @@ def _norm_text(value: Any) -> str:
 def _tokens(value: Any) -> set[str]:
     text = str(value or "").upper()
     return {token for token in re.findall(r"[A-Z0-9]+", text) if token}
+
+
+def _make_match(vehicle_make: Any, application_make: Any) -> bool:
+    v = _norm_text(vehicle_make)
+    a = _norm_text(application_make)
+    if not v or not a:
+        return True
+    if v == a:
+        return True
+    return a in MAKE_ALIASES.get(v, set()) or v in MAKE_ALIASES.get(a, set())
 
 
 def _model_match(vehicle_model: Any, application_model: Any) -> bool:
@@ -118,11 +142,10 @@ def _diagnose_vehicle(vehicle: dict[str, Any], applications: list[dict[str, Any]
     if not applications:
         return {"reason": "no_applications", "vehicle": vehicle}
 
-    vmake = _norm_text(vehicle.get("make"))
     vy0 = vehicle.get("year_min") if isinstance(vehicle.get("year_min"), int) else None
     vy1 = vehicle.get("year_max") if isinstance(vehicle.get("year_max"), int) else None
 
-    make_matches = [app for app in applications if _norm_text(app.get("make")) == vmake]
+    make_matches = [app for app in applications if _make_match(vehicle.get("make"), app.get("make"))]
     if not make_matches:
         return {
             "reason": "make_mismatch",
