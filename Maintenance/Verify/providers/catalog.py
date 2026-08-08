@@ -28,18 +28,15 @@ class StructuredCatalogBackend(Protocol):
 
 
 class StructuredCatalogProvider:
-    """Category-agnostic discovery front-end for structured vehicle/parts catalogs.
-
-    Manufacturer-specific providers remain useful as fitment verifiers. This provider
-    is intentionally separate: its job is vehicle -> candidate part discovery across
-    maintenance categories, while downstream provider/application checks decide whether
-    a candidate can be trusted.
-    """
+    """Category-agnostic discovery front-end for structured vehicle/parts catalogs."""
 
     name = "catalog"
 
-    def __init__(self, backend: StructuredCatalogBackend):
-        self.backend = backend
+    def __init__(self, backends: StructuredCatalogBackend | tuple[StructuredCatalogBackend, ...]):
+        if isinstance(backends, tuple):
+            self.backends = backends
+        else:
+            self.backends = (backends,)
 
     def discover(
         self,
@@ -49,13 +46,35 @@ class StructuredCatalogProvider:
         category_key = str(category or "").strip().lower()
         if not category_key:
             return []
-        return [
-            candidate
-            for candidate in self.backend.lookup_vehicle_parts(query, category_key)
-            if candidate.part_number and candidate.brand
-        ]
+
+        candidates: list[CatalogPartCandidate] = []
+        seen: set[tuple[str, str, str]] = set()
+        for backend in self.backends:
+            for candidate in backend.lookup_vehicle_parts(query, category_key):
+                if not candidate.part_number or not candidate.brand:
+                    continue
+                key = (
+                    candidate.brand.strip().upper(),
+                    candidate.part_number.strip().upper(),
+                    candidate.category.strip().lower(),
+                )
+                if key in seen:
+                    continue
+                seen.add(key)
+                candidates.append(candidate)
+        return candidates
+
+    def resolve_vehicle(self, query: CatalogVehicleQuery) -> list[dict[str, object]]:
+        """Return normalized vehicle identities from backends that support resolution."""
+        resolved: list[dict[str, object]] = []
+        for backend in self.backends:
+            resolver = getattr(backend, "resolve_vehicle", None)
+            if resolver is None:
+                continue
+            result = resolver(query)
+            if isinstance(result, dict) and result:
+                resolved.append({"backend": backend.name, **result})
+        return resolved
 
     def lookup_vehicle(self, query: CatalogVehicleQuery) -> list[SourceHit]:
-        # The generic provider requires an explicit category. Keeping the base-shaped
-        # method prevents accidental category-less discovery.
         return []
