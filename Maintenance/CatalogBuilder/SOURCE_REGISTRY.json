@@ -1,0 +1,106 @@
+{
+  "contract": "autospec_source_registry_v1",
+  "sources": [
+    {
+      "id": "wix",
+      "name": "WIX Filters",
+      "priority": "high",
+      "role": ["candidate", "verification"],
+      "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter"],
+      "us_fitment": true,
+      "status": "research",
+      "rights_status": "review_required"
+    },
+    {
+      "id": "fram",
+      "name": "FRAM",
+      "priority": "high",
+      "role": ["candidate", "verification"],
+      "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter", "transmission_filter"],
+      "us_fitment": true,
+      "status": "research",
+      "rights_status": "review_required"
+    },
+    {
+      "id": "purolator",
+      "name": "Purolator",
+      "priority": "high",
+      "role": ["candidate", "verification"],
+      "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter"],
+      "us_fitment": true,
+      "status": "research",
+      "rights_status": "review_required"
+    },
+    {
+      "id": "mann_filter",
+      "name": "MANN-FILTER",
+      "priority": "high",
+      "role": ["candidate", "verification"],
+      "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter"],
+      "us_fitment": true,
+      "status": "research",
+      "rights_status": "review_required"
+    },
+    {
+      "id": "ngk_niterra",
+      "name": "NGK / Niterra",
+      "priority": "high",
+      "role": ["candidate", "verification"],
+      "categories": ["spark_plug", "ignition"],
+      "us_fitment": true,
+      "status": "research",
+      "rights_status": "review_required"
+    },
+    {
+      "id": "gates",
+      "name": "Gates",
+      "priority": "high",
+      "role": ["candidate", "verification"],
+      "categories": ["serpentine_belt", "tensioner", "hose"],
+      "us_fitment": true,
+      "status": "research",
+      "rights_status": "review_required"
+    },
+    {
+      "id": "dayco",
+      "name": "Dayco",
+      "priority": "high",
+      "role": ["candidate", "verification"],
+      "categories": ["serpentine_belt", "tensioner", "hose"],
+      "us_fitment": true,
+      "status": "research",
+      "rights_status": "review_required"
+    },
+    {
+      "id": "wiper_manufacturers",
+      "name": "TRICO / Rain-X / Bosch Wipers",
+      "priority": "high",
+      "role": ["candidate", "verification"],
+      "categories": ["wiper_blade"],
+      "us_fitment": true,
+      "status": "research",
+      "rights_status": "review_required"
+    },
+    {
+      "id": "oem_catalogs",
+      "name": "OEM catalogs",
+      "priority": "medium_high",
+      "role": ["candidate", "verification"],
+      "categories": ["multi_category"],
+      "us_fitment": true,
+      "status": "research",
+      "rights_status": "varies_by_manufacturer"
+    },
+    {
+      "id": "autopartsapi",
+      "name": "AutoPartsAPI",
+      "priority": "deferred",
+      "role": ["candidate"],
+      "categories": ["multi_category"],
+      "us_fitment": "unproven",
+      "status": "rejected_primary_source",
+      "rights_status": "trial",
+      "notes": "Keep adapter for possible later retest; trial rate limiting and unresolved US vehicle coverage prevent primary-source use."
+    }
+  ]
+}
