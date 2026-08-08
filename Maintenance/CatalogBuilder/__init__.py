@@ -1,0 +1,1 @@
+"""AutoSpec catalog-builder pipeline."""
