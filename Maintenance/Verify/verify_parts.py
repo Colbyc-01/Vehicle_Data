@@ -16,15 +16,15 @@ if __package__ in (None, ""):
     from Maintenance.Verify.cache import VerificationCache
     from Maintenance.Verify.models import PartRef, SourceHit, VerificationDecision
     from Maintenance.Verify.normalize import normalize_brand, normalize_part_number
+    from Maintenance.Verify.providers.registry import get_provider
     from Maintenance.Verify.scoring import auto_approve, score_hits
-    from Maintenance.Verify.sources.wix import fetch_applications
 else:
     REPO_ROOT = Path(__file__).resolve().parents[2]
     from .cache import VerificationCache
     from .models import PartRef, SourceHit, VerificationDecision
     from .normalize import normalize_brand, normalize_part_number
+    from .providers.registry import get_provider
     from .scoring import auto_approve, score_hits
-    from .sources.wix import fetch_applications
 
 DEFAULT_QUEUE = REPO_ROOT / "air_filter_verification_queue.json"
 DEFAULT_OUT = REPO_ROOT / "air_filter_verification_decisions.json"
@@ -61,6 +61,25 @@ def _vehicle_index(vehicles_path: Path) -> dict[str, list[dict[str, Any]]]:
             if isinstance(engine_code, str) and engine_code:
                 index[engine_code].append(vehicle)
     return index
+
+
+def _wix_applications(part: str, cache: VerificationCache) -> list[dict[str, Any]]:
+    cache_key = f"applications:{part}"
+    cached = cache.get("wix", cache_key)
+    if cached is not None:
+        return cached
+
+    provider = get_provider("wix")
+    hits = provider.lookup_part(part)
+    applications: list[dict[str, Any]] = []
+    for hit in hits:
+        metadata = hit.metadata if isinstance(hit.metadata, dict) else {}
+        raw = metadata.get("applications")
+        if isinstance(raw, list):
+            applications.extend(item for item in raw if isinstance(item, dict))
+
+    cache.put("wix", cache_key, applications)
+    return applications
 
 
 def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -> int:
@@ -140,13 +159,7 @@ def wix_audit(
                 continue
 
             part = normalize_part_number(wix_candidates[0].get("part_number"))
-            cache_key = f"applications:{part}"
-            cached = cache.get("wix", cache_key)
-            if cached is None:
-                applications = [app.to_dict() for app in fetch_applications(part)]
-                cache.put("wix", cache_key, applications)
-            else:
-                applications = cached
+            applications = _wix_applications(part, cache)
 
             affected_engines = list(family.get("affected_engines") or [])
             engine_matches: dict[str, list[dict[str, Any]]] = {}
