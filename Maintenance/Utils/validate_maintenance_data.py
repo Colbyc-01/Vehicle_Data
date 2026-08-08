@@ -247,16 +247,26 @@ class Audit:
 
     def audit_oil_specs(self, items: list[Any]) -> None:
         gas_markers = ("ilsac", "dexos1", "ms_6395")
-        diesel_markers = ("ck4", "cj4", "dexosd")
+        diesel_markers = ("ck4", "cj4", "ck-4", "cj-4", "fa4", "fa-4", "dexosd")
         for item in items:
             if not isinstance(item, dict):
                 continue
             engine_code = item.get("engine_code")
             spec_key = clean(item.get("oil_spec_key")).lower()
+            if not spec_key:
+                continue
             fuel = clean(self.engines.get(engine_code, {}).get("fuel_type")).lower()
-            if fuel == "diesel" and any(marker in spec_key for marker in gas_markers):
+            if (
+                fuel == "diesel"
+                and clean(item.get("status")).upper() == "VERIFIED"
+                and any(marker in spec_key for marker in gas_markers)
+            ):
                 self.add("error", "oil_specs", "diesel_gas_oil", engine_code, f"Diesel engine uses gasoline oil family {spec_key!r}")
-            if fuel == "gasoline" and any(marker in spec_key for marker in diesel_markers):
+            if (
+                fuel == "gasoline"
+                and clean(item.get("status")).upper() == "VERIFIED"
+                and any(marker in spec_key for marker in diesel_markers)
+            ):
                 self.add("error", "oil_specs", "gas_diesel_oil", engine_code, f"Gasoline engine uses diesel oil family {spec_key!r}")
 
     def audit_oil_capacity(self, items: list[Any]) -> None:
@@ -346,6 +356,56 @@ class Audit:
         for index, item in enumerate(values):
             self.audit_group_parts(name, f"{filename}:{index}", item)
 
+    def audit_unused_groups(self) -> None:
+        pass
+
+    def audit_unused_engines(self) -> None:
+        pass
+
+    def audit_engine_completeness(self) -> None:
+        required = {
+            "oil_specs",
+            "oil_capacity",
+            "oil_filters",
+            "engine_air_filters",
+        }
+
+        category_engine_sets = {}
+
+        for category in CATEGORIES:
+            if category.identity != "engine_code":
+                continue
+
+            path = self.seeds_dir / category.seed_file
+            if not path.exists():
+                continue
+
+            document = self.load(path)
+            items = document.get("items", []) if isinstance(document, dict) else []
+
+            category_engine_sets[category.name] = {
+                item.get("engine_code")
+                for item in items
+                if isinstance(item, dict)
+                and item.get("engine_code") in self.active_engine_codes
+            }
+
+        for engine_code in self.active_engine_codes:
+            for category in required:
+                if engine_code not in category_engine_sets.get(category, set()):
+                    self.add(
+                        "error",
+                        category,
+                        "missing_engine_record",
+                        engine_code,
+                        f"Active engine missing {category}",
+                    )
+        pass
+
+
+    def audit_vehicle_completeness(self) -> None:
+        pass
+
     def run(self) -> dict[str, Any]:
         self.audit_json_files()
         engines_path = self.repo_root / "data" / "canonical" / "engines.json"
@@ -364,6 +424,10 @@ class Audit:
             }
         for category in CATEGORIES:
             self.audit_category(category)
+        self.audit_unused_groups()
+        self.audit_unused_engines()
+        self.audit_engine_completeness()
+        self.audit_vehicle_completeness()
         self.audit_inline_seed("battery_parts", "battery_parts_seed.json", "vehicle_key")
         self.audit_inline_seed("headlight_parts", "headlight_bulbs_parts_seed.json", "vehicle_key")
         self.audit_catalog("oil_filter_catalog", "oil_filter_catalog.json")
