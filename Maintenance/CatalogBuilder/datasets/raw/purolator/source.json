@@ -1,9 +1,22 @@
 {
   "source_id": "purolator",
   "source_name": "Purolator",
-  "status": "pending_acquisition",
+  "status": "research_ready",
+  "priority": 3,
+  "role": ["candidate", "verification"],
   "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter"],
+  "us_fitment": true,
   "raw_location": "Maintenance/CatalogBuilder/datasets/raw/purolator/",
   "rights_status": "review_required",
-  "notes": "Preserve original artifacts unchanged. Do not treat source data as verified without independent corroboration."
+  "acquisition": {
+    "mode": "public_part_finder_or_download",
+    "artifact_status": "not_acquired",
+    "required_before_ingest": ["exact_access_url", "terms_review", "cache_rights_review"]
+  },
+  "acceptance": {
+    "must_return_exact_part_numbers": true,
+    "must_include_vehicle_fitment": true,
+    "single_source_is_verification": false
+  },
+  "notes": "Third filter target. Official Part Finder covers oil, air and cabin filters; preserve original artifacts unchanged."
 }
