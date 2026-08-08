@@ -22,22 +22,13 @@ def main() -> int:
         return 2
 
     try:
-        ping = source.ping()
+        print("Ping:")
+        print(json.dumps(source.ping(), indent=2))
     except Exception as exc:
         print(f"Authentication/connectivity failed: {exc}")
         return 1
 
-    print("Ping:")
-    print(json.dumps(ping, indent=2))
-
-    query = CatalogVehicleQuery(
-        make=args.make,
-        model=args.model,
-        year_min=args.year,
-        year_max=args.year,
-        engine=args.engine,
-    )
-
+    query = CatalogVehicleQuery(make=args.make, model=args.model, year_min=args.year, year_max=args.year, engine=args.engine)
     try:
         resolved = source.resolve_vehicle(query)
     except Exception as exc:
@@ -49,25 +40,35 @@ def main() -> int:
     if resolved.get("reason") != "matched":
         return 3
 
+    print("Model variant probes:")
+    for model in resolved.get("model_matches", []):
+        if not isinstance(model, dict):
+            continue
+        name = str(model.get("modelName") or "")
+        y0 = str(model.get("modelYearFrom") or "")
+        y1 = str(model.get("modelYearTo") or "")
+        if args.year and y0[:4].isdigit() and args.year < int(y0[:4]):
+            continue
+        if args.year and y1[:4].isdigit() and args.year > int(y1[:4]):
+            continue
+        model_id = model.get("modelId")
+        if model_id is None:
+            continue
+        try:
+            probe = source.probe_model_variants(int(model_id))
+        except Exception as exc:
+            probe = {"model_id": model_id, "error": str(exc)}
+        print(name)
+        print(json.dumps(probe, indent=2))
+
     try:
-        vehicle_candidates = source.vehicle_candidates(query)
+        candidates = source.vehicle_candidates(query)
     except Exception as exc:
         print(f"Vehicle variant lookup failed: {exc}")
         return 1
-
     print("Vehicle candidates:")
-    print(json.dumps(vehicle_candidates[: max(0, args.limit)], indent=2))
-    print(f"Vehicle candidate count: {len(vehicle_candidates)}")
-
-    try:
-        discovered = source.discover(query, "engine_air_filter")
-    except Exception as exc:
-        print(f"Discovery failed: {exc}")
-        return 1
-
-    print("Discovery:")
-    print(json.dumps([candidate.__dict__ for candidate in discovered], indent=2))
-    print(f"Candidate count: {len(discovered)}")
+    print(json.dumps(candidates[: max(0, args.limit)], indent=2))
+    print(f"Vehicle candidate count: {len(candidates)}")
     return 0
 
 
