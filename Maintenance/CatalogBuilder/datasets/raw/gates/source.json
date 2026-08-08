@@ -1,0 +1,9 @@
+{
+  "source_id": "gates",
+  "source_name": "Gates",
+  "status": "pending_acquisition",
+  "categories": ["serpentine_belt", "tensioner", "hose"],
+  "raw_location": "Maintenance/CatalogBuilder/datasets/raw/gates/",
+  "rights_status": "review_required",
+  "notes": "Preserve original artifacts unchanged. Do not treat source data as verified without independent corroboration."
+}

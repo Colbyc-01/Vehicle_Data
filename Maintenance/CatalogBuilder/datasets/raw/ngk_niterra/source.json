@@ -1,0 +1,9 @@
+{
+  "source_id": "ngk_niterra",
+  "source_name": "NGK / Niterra",
+  "status": "pending_acquisition",
+  "categories": ["spark_plug", "ignition"],
+  "raw_location": "Maintenance/CatalogBuilder/datasets/raw/ngk_niterra/",
+  "rights_status": "review_required",
+  "notes": "Preserve original artifacts unchanged. Do not treat source data as verified without independent corroboration."
+}

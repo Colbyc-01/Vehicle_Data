@@ -1,0 +1,9 @@
+{
+  "source_id": "mann_filter",
+  "source_name": "MANN-FILTER",
+  "status": "pending_acquisition",
+  "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter"],
+  "raw_location": "Maintenance/CatalogBuilder/datasets/raw/mann_filter/",
+  "rights_status": "review_required",
+  "notes": "Preserve original artifacts unchanged. Do not treat source data as verified without independent corroboration."
+}
