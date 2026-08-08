@@ -63,18 +63,69 @@ class WixProvider(CatalogProvider):
         return sorted(
             {
                 value.upper()
-                for value in re.findall(r"\b(?:WA|WL|WP|WF|WS|570|51|46|49)?[A-Z]*\d{4,6}[A-Z]*\b", text, flags=re.I)
+                for value in re.findall(r"\b(?:WA|WL|WP|WF|WS)?\d{4,6}[A-Z]*\b", text, flags=re.I)
                 if 4 <= len(re.sub(r"[^A-Za-z0-9]", "", value)) <= 10
             }
         )
 
+    @staticmethod
+    def _exact_match_rows(page: str) -> list[tuple[str, str, str]]:
+        rows: list[tuple[str, str, str]] = []
+        for row in re.findall(r"<tr\b[^>]*>(.*?)</tr>", page, flags=re.I | re.S):
+            cells = [
+                " ".join(html.unescape(re.sub(r"<[^>]+>", " ", cell)).split())
+                for cell in re.findall(r"<td\b[^>]*>(.*?)</td>", row, flags=re.I | re.S)
+            ]
+            cells = [cell for cell in cells if cell]
+            if len(cells) < 3:
+                continue
+            manufacturer_part = cells[-3].strip()
+            manufacturer = cells[-2].strip()
+            wix_part = cells[-1].strip().split()[0] if cells[-1].strip() else ""
+            if wix_part and re.fullmatch(r"[A-Za-z0-9-]+", wix_part):
+                rows.append((manufacturer_part, manufacturer, wix_part.upper()))
+        return rows
+
+    def lookup_interchange(self, brand: str, part_number: str) -> list[SourceHit]:
+        raw_part = str(part_number or "").strip()
+        if not raw_part:
+            return []
+
+        url = WIX_EXACT_MATCH_URL.format(part=urllib.parse.quote(raw_part))
+        try:
+            page = self._fetch(url)
+        except Exception:
+            return []
+
+        query = PartRef(brand=str(brand or "").strip() or "unknown", part_number=raw_part)
+        hits: list[SourceHit] = []
+        seen: set[str] = set()
+        for manufacturer_part, manufacturer, wix_part in self._exact_match_rows(page):
+            if wix_part in seen:
+                continue
+            seen.add(wix_part)
+            hits.append(
+                SourceHit(
+                    source=self.name,
+                    query=query,
+                    matched_part=PartRef(brand=self.name, part_number=wix_part),
+                    url=url,
+                    confidence=0.8,
+                    notes="WIX exact-match interchange result; application fitment must still be verified.",
+                    metadata={
+                        "manufacturer_part_number": manufacturer_part,
+                        "manufacturer": manufacturer,
+                        "interchange_source": "wix_exact_match",
+                    },
+                )
+            )
+        return hits
+
     def lookup_vehicle(self, query: CatalogVehicleQuery) -> list[SourceHit]:
         """Best-effort discovery through WIX's public quick-search endpoint.
 
-        WIX exposes an application-oriented quick search where Model is required and
-        Make/Year are optional. Results are treated only as candidate discovery; each
-        candidate must still pass the part application's fitment check before it can be
-        trusted by the verifier.
+        Results are candidate discovery only. The verifier must confirm each part against
+        the part's application listing before treating it as fitment evidence.
         """
         model = str(query.model or "").strip()
         if not model:
@@ -95,8 +146,6 @@ class WixProvider(CatalogProvider):
         candidates = self._candidate_parts(page)
         hits: list[SourceHit] = []
         for part_number in candidates:
-            # Reject obvious non-filter values by requiring WIX itself to recognize
-            # the number on its exact-match page before surfacing it as a candidate.
             exact_url = WIX_EXACT_MATCH_URL.format(part=urllib.parse.quote(part_number))
             try:
                 exact_page = self._fetch(exact_url)
