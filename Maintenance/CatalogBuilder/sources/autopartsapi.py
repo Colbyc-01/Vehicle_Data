@@ -3,6 +3,8 @@ from __future__ import annotations
 import json
 import os
 import re
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -29,14 +31,38 @@ _CATEGORY_TERMS = {
 class AutoPartsApiCandidateSource:
     name = "autopartsapi"
 
-    def __init__(self, base_url: str | None = None, api_key: str | None = None):
+    def __init__(
+        self,
+        base_url: str | None = None,
+        api_key: str | None = None,
+        min_request_interval: float = 1.25,
+        max_retries: int = 3,
+    ):
         self.base_url = (base_url or os.getenv("AUTOSPEC_AUTOPARTS_API_URL") or DEFAULT_BASE_URL).strip().rstrip("/")
         self.api_key = (api_key or os.getenv("AUTOSPEC_AUTOPARTS_API_KEY") or "").strip()
+        self.min_request_interval = max(0.0, float(min_request_interval))
+        self.max_retries = max(0, int(max_retries))
+        self._last_request_at = 0.0
         self._country_filter_id: int | None = None
 
     @property
     def configured(self) -> bool:
         return bool(self.base_url and self.api_key)
+
+    def _throttle(self) -> None:
+        elapsed = time.monotonic() - self._last_request_at
+        wait = self.min_request_interval - elapsed
+        if wait > 0:
+            time.sleep(wait)
+
+    def _retry_delay(self, exc: urllib.error.HTTPError, attempt: int) -> float:
+        retry_after = exc.headers.get("Retry-After") if exc.headers else None
+        if retry_after:
+            try:
+                return max(0.0, float(retry_after))
+            except ValueError:
+                pass
+        return min(30.0, 2.0 ** attempt)
 
     def _get_json(self, path: str, params: dict[str, object] | None = None) -> object:
         if not self.configured:
@@ -45,9 +71,26 @@ class AutoPartsApiCandidateSource:
         clean_params = {str(k): str(v) for k, v in (params or {}).items() if v not in (None, "")}
         if clean_params:
             url += "?" + urllib.parse.urlencode(clean_params)
-        req = urllib.request.Request(url, headers={"Accept": "application/json", "x-apiprofile-key": self.api_key, "User-Agent": "AutoSpecCatalogBuilder/1.0"})
-        with urllib.request.urlopen(req, timeout=25.0) as response:
-            return json.loads(response.read().decode("utf-8", errors="replace"))
+        req = urllib.request.Request(
+            url,
+            headers={
+                "Accept": "application/json",
+                "x-apiprofile-key": self.api_key,
+                "User-Agent": "AutoSpecCatalogBuilder/1.0",
+            },
+        )
+        for attempt in range(self.max_retries + 1):
+            self._throttle()
+            try:
+                with urllib.request.urlopen(req, timeout=25.0) as response:
+                    self._last_request_at = time.monotonic()
+                    return json.loads(response.read().decode("utf-8", errors="replace"))
+            except urllib.error.HTTPError as exc:
+                self._last_request_at = time.monotonic()
+                if exc.code != 429 or attempt >= self.max_retries:
+                    raise
+                time.sleep(self._retry_delay(exc, attempt + 1))
+        return {}
 
     @staticmethod
     def _find_list(payload: object, keys: tuple[str, ...]) -> list[dict[str, object]]:
@@ -101,7 +144,13 @@ class AutoPartsApiCandidateSource:
     def ping(self) -> dict[str, object]:
         payload = self._get_json("languages/list")
         rows = self._find_list(payload, ("languages", "results", "items", "data"))
-        return {"configured": self.configured, "ok": bool(payload), "language_count": len(rows), "country_filter_id": self.country_filter_id(), "base_url": self.base_url}
+        return {
+            "configured": self.configured,
+            "ok": bool(payload),
+            "language_count": len(rows),
+            "country_filter_id": self.country_filter_id(),
+            "base_url": self.base_url,
+        }
 
     def _manufacturer(self, make: str, type_id: int = DEFAULT_TYPE_ID) -> dict[str, object] | None:
         payload = self._get_json(f"manufacturers/list/type-id/{type_id}")
@@ -112,25 +161,60 @@ class AutoPartsApiCandidateSource:
                 return item
         return None
 
-    def _models(self, manufacturer_id: int, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID, country_filter_id: int | None = None) -> list[dict[str, object]]:
+    def _models(
+        self,
+        manufacturer_id: int,
+        type_id: int = DEFAULT_TYPE_ID,
+        lang_id: int = DEFAULT_LANG_ID,
+        country_filter_id: int | None = None,
+    ) -> list[dict[str, object]]:
         cid = country_filter_id if country_filter_id is not None else self.country_filter_id()
-        payload = self._get_json(f"models/list/type-id/{type_id}/manufacturer-id/{manufacturer_id}/lang-id/{lang_id}/country-filter-id/{cid}")
+        payload = self._get_json(
+            f"models/list/type-id/{type_id}/manufacturer-id/{manufacturer_id}/lang-id/{lang_id}/country-filter-id/{cid}"
+        )
         return self._find_list(payload, ("models", "results", "items", "data"))
 
-    def _vehicle_ids(self, model_id: int, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID, country_filter_id: int | None = None) -> list[dict[str, object]]:
+    def _vehicle_ids(
+        self,
+        model_id: int,
+        type_id: int = DEFAULT_TYPE_ID,
+        lang_id: int = DEFAULT_LANG_ID,
+        country_filter_id: int | None = None,
+    ) -> list[dict[str, object]]:
         cid = country_filter_id if country_filter_id is not None else self.country_filter_id()
-        payload = self._get_json(f"types/type-id/{type_id}/list-vehicles-id/{model_id}/lang-id/{lang_id}/country-filter-id/{cid}")
+        payload = self._get_json(
+            f"types/type-id/{type_id}/list-vehicles-id/{model_id}/lang-id/{lang_id}/country-filter-id/{cid}"
+        )
         return self._find_list(payload, ("vehicles", "vehicleTypes", "types", "results", "items", "data"))
 
-    def _vehicle_types(self, model_id: int, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID, country_filter_id: int | None = None) -> list[dict[str, object]]:
+    def _vehicle_types(
+        self,
+        model_id: int,
+        type_id: int = DEFAULT_TYPE_ID,
+        lang_id: int = DEFAULT_LANG_ID,
+        country_filter_id: int | None = None,
+    ) -> list[dict[str, object]]:
         cid = country_filter_id if country_filter_id is not None else self.country_filter_id()
-        payload = self._get_json(f"types/type-id/{type_id}/list-vehicles-types/{model_id}/lang-id/{lang_id}/country-filter-id/{cid}")
+        payload = self._get_json(
+            f"types/type-id/{type_id}/list-vehicles-types/{model_id}/lang-id/{lang_id}/country-filter-id/{cid}"
+        )
         return self._find_list(payload, ("vehicles", "vehicleTypes", "types", "results", "items", "data"))
 
     def probe_model_variants(self, model_id: int) -> dict[str, object]:
-        return {"model_id": model_id, "country_filter_id": self.country_filter_id(), "vehicle_ids": self._vehicle_ids(model_id), "vehicle_types": self._vehicle_types(model_id)}
+        return {
+            "model_id": model_id,
+            "country_filter_id": self.country_filter_id(),
+            "vehicle_ids": self._vehicle_ids(model_id),
+            "vehicle_types": self._vehicle_types(model_id),
+        }
 
-    def resolve_vehicle(self, query: CatalogVehicleQuery, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID, country_filter_id: int | None = None) -> dict[str, object]:
+    def resolve_vehicle(
+        self,
+        query: CatalogVehicleQuery,
+        type_id: int = DEFAULT_TYPE_ID,
+        lang_id: int = DEFAULT_LANG_ID,
+        country_filter_id: int | None = None,
+    ) -> dict[str, object]:
         cid = country_filter_id if country_filter_id is not None else self.country_filter_id()
         manufacturer = self._manufacturer(query.make, type_id=type_id)
         if not manufacturer:
@@ -146,7 +230,20 @@ class AutoPartsApiCandidateSource:
             normalized = self._norm(self._first(item, "modelName", "name", "model"))
             if normalized == wanted_model or (wanted_model and wanted_model in normalized):
                 model_matches.append(item)
-        return {"reason": "matched" if model_matches else "model_not_found", "manufacturer_id": manufacturer_id, "manufacturer": manufacturer, "country_filter_id": cid, "model_matches": model_matches, "query": {"make": query.make, "model": query.model, "year_min": query.year_min, "year_max": query.year_max, "engine": query.engine}}
+        return {
+            "reason": "matched" if model_matches else "model_not_found",
+            "manufacturer_id": manufacturer_id,
+            "manufacturer": manufacturer,
+            "country_filter_id": cid,
+            "model_matches": model_matches,
+            "query": {
+                "make": query.make,
+                "model": query.model,
+                "year_min": query.year_min,
+                "year_max": query.year_max,
+                "engine": query.engine,
+            },
+        }
 
     def vehicle_candidates(self, query: CatalogVehicleQuery) -> list[dict[str, object]]:
         resolved = self.resolve_vehicle(query)
@@ -158,15 +255,25 @@ class AutoPartsApiCandidateSource:
             if not isinstance(model, dict):
                 continue
             if year:
-                y0 = self._year_from_date(model.get("modelYearFrom")); y1 = self._year_from_date(model.get("modelYearTo"))
-                if y0 is not None and year < y0: continue
-                if y1 is not None and year > y1: continue
-            model_id = int(self._first(model, "modelId", "id"))
+                y0 = self._year_from_date(model.get("modelYearFrom"))
+                y1 = self._year_from_date(model.get("modelYearTo"))
+                if y0 is not None and year < y0:
+                    continue
+                if y1 is not None and year > y1:
+                    continue
+            raw_model_id = self._first(model, "modelId", "id")
+            try:
+                model_id = int(raw_model_id)
+            except (TypeError, ValueError):
+                continue
             rows = self._vehicle_types(model_id)
             if not rows:
                 rows = self._vehicle_ids(model_id)
             for row in rows:
-                item = dict(row); item["modelId"] = model_id; item["modelName"] = self._first(model, "modelName", "name", "model"); output.append(item)
+                item = dict(row)
+                item["modelId"] = model_id
+                item["modelName"] = self._first(model, "modelName", "name", "model")
+                output.append(item)
         return output
 
     def discover(self, query: CatalogVehicleQuery, category: str) -> list[CatalogPartCandidate]:
