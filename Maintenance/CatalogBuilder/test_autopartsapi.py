@@ -7,12 +7,37 @@ from Maintenance.CatalogBuilder.sources.autopartsapi import AutoPartsApiCandidat
 from Maintenance.Verify.providers.base import CatalogVehicleQuery
 
 
+SMOKE_TESTS = (
+    CatalogVehicleQuery(make="Ram", model="1500", year_min=2020, year_max=2020, engine="3.0L Turbo Diesel V6"),
+    CatalogVehicleQuery(make="Honda", model="Accord", year_min=2020, year_max=2020, engine="1.5L Turbo I4"),
+    CatalogVehicleQuery(make="Toyota", model="Camry", year_min=2020, year_max=2020, engine="2.5L I4"),
+    CatalogVehicleQuery(make="Ford", model="F-150", year_min=2020, year_max=2020, engine="3.5L V6"),
+)
+
+
+def summarize(source: AutoPartsApiCandidateSource, query: CatalogVehicleQuery) -> dict[str, object]:
+    resolved = source.resolve_vehicle(query)
+    candidates = source.vehicle_candidates(query) if resolved.get("reason") == "matched" else []
+    return {
+        "query": {
+            "make": query.make,
+            "model": query.model,
+            "year": query.year_min,
+            "engine": query.engine,
+        },
+        "resolution": resolved.get("reason"),
+        "model_match_count": len(resolved.get("model_matches", [])),
+        "vehicle_candidate_count": len(candidates),
+        "top_vehicle_candidates": candidates[:3],
+    }
+
+
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Test AutoPartsAPI connectivity and staged vehicle resolution.")
-    parser.add_argument("--make", default="Ram")
-    parser.add_argument("--model", default="1500")
-    parser.add_argument("--year", type=int, default=2020)
-    parser.add_argument("--engine", default="3.0L Turbo Diesel V6")
+    parser = argparse.ArgumentParser(description="Test AutoPartsAPI US-market vehicle coverage.")
+    parser.add_argument("--make")
+    parser.add_argument("--model")
+    parser.add_argument("--year", type=int)
+    parser.add_argument("--engine", default="")
     parser.add_argument("--limit", type=int, default=20)
     args = parser.parse_args()
 
@@ -28,47 +53,38 @@ def main() -> int:
         print(f"Authentication/connectivity failed: {exc}")
         return 1
 
-    query = CatalogVehicleQuery(make=args.make, model=args.model, year_min=args.year, year_max=args.year, engine=args.engine)
-    try:
-        resolved = source.resolve_vehicle(query)
-    except Exception as exc:
-        print(f"Vehicle resolution failed: {exc}")
-        return 1
+    if args.make and args.model and args.year:
+        tests = (
+            CatalogVehicleQuery(
+                make=args.make,
+                model=args.model,
+                year_min=args.year,
+                year_max=args.year,
+                engine=args.engine,
+            ),
+        )
+    else:
+        tests = SMOKE_TESTS
 
-    print("Vehicle resolution:")
-    print(json.dumps(resolved, indent=2))
-    if resolved.get("reason") != "matched":
-        return 3
-
-    print("Model variant probes:")
-    for model in resolved.get("model_matches", []):
-        if not isinstance(model, dict):
-            continue
-        name = str(model.get("modelName") or "")
-        y0 = str(model.get("modelYearFrom") or "")
-        y1 = str(model.get("modelYearTo") or "")
-        if args.year and y0[:4].isdigit() and args.year < int(y0[:4]):
-            continue
-        if args.year and y1[:4].isdigit() and args.year > int(y1[:4]):
-            continue
-        model_id = model.get("modelId")
-        if model_id is None:
-            continue
+    print("US coverage smoke test:")
+    results = []
+    for query in tests:
         try:
-            probe = source.probe_model_variants(int(model_id))
+            results.append(summarize(source, query))
         except Exception as exc:
-            probe = {"model_id": model_id, "error": str(exc)}
-        print(name)
-        print(json.dumps(probe, indent=2))
+            results.append({
+                "query": {
+                    "make": query.make,
+                    "model": query.model,
+                    "year": query.year_min,
+                    "engine": query.engine,
+                },
+                "error": str(exc),
+            })
 
-    try:
-        candidates = source.vehicle_candidates(query)
-    except Exception as exc:
-        print(f"Vehicle variant lookup failed: {exc}")
-        return 1
-    print("Vehicle candidates:")
-    print(json.dumps(candidates[: max(0, args.limit)], indent=2))
-    print(f"Vehicle candidate count: {len(candidates)}")
+    print(json.dumps(results, indent=2))
+    covered = sum(1 for item in results if int(item.get("vehicle_candidate_count") or 0) > 0)
+    print(f"Coverage: {covered}/{len(results)} vehicles returned vehicle candidates")
     return 0
 
 
