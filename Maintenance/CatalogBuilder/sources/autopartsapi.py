@@ -15,6 +15,16 @@ DEFAULT_LANG_ID = 4
 DEFAULT_COUNTRY_FILTER_ID = 63
 DEFAULT_TYPE_ID = 1
 
+_CATEGORY_TERMS = {
+    "engine_air_filter": ("AIR FILTER", "ENGINE AIR FILTER"),
+    "cabin_air_filter": ("CABIN FILTER", "POLLEN FILTER", "INTERIOR AIR FILTER"),
+    "oil_filter": ("OIL FILTER",),
+    "spark_plug": ("SPARK PLUG",),
+    "serpentine_belt": ("V-RIBBED BELT", "SERPENTINE BELT"),
+    "wheel_bearing": ("WHEEL BEARING", "WHEEL HUB"),
+    "brake_pad": ("BRAKE PAD", "BRAKE PAD SET"),
+}
+
 
 class AutoPartsApiCandidateSource:
     """Discovery-only adapter for AutoPartsAPI.
@@ -88,6 +98,11 @@ class AutoPartsApiCandidateSource:
                 return item[key]
         return None
 
+    @staticmethod
+    def _year_from_date(value: object) -> int | None:
+        match = re.match(r"(19|20)\d{2}", str(value or ""))
+        return int(match.group(0)) if match else None
+
     def ping(self) -> dict[str, object]:
         payload = self._get_json("languages/list")
         rows = self._find_list(payload, ("languages", "results", "items", "data"))
@@ -128,9 +143,27 @@ class AutoPartsApiCandidateSource:
         country_filter_id: int = DEFAULT_COUNTRY_FILTER_ID,
     ) -> list[dict[str, object]]:
         payload = self._get_json(
-            f"types/type-id/{type_id}/list-vehicles-types/{model_id}/lang-id/{lang_id}/country-filter-id/{country_filter_id}"
+            f"types/type-id/{type_id}/list-vehicles-id/{model_id}/lang-id/{lang_id}/country-filter-id/{country_filter_id}"
         )
         return self._find_list(payload, ("vehicles", "vehicleTypes", "types", "results", "items", "data"))
+
+    def _vehicle_details(
+        self,
+        vehicle_id: int,
+        type_id: int = DEFAULT_TYPE_ID,
+        lang_id: int = DEFAULT_LANG_ID,
+        country_filter_id: int = DEFAULT_COUNTRY_FILTER_ID,
+    ) -> dict[str, object]:
+        payload = self._get_json(
+            f"types/type-id/{type_id}/vehicle-type-details/{vehicle_id}/lang-id/{lang_id}/country-filter-id/{country_filter_id}"
+        )
+        if isinstance(payload, dict):
+            for key in ("vehicle", "vehicleType", "result", "data"):
+                value = payload.get(key)
+                if isinstance(value, dict):
+                    return value
+            return payload
+        return {}
 
     def vehicle_candidates(
         self,
@@ -143,7 +176,7 @@ class AutoPartsApiCandidateSource:
         if resolved.get("reason") != "matched":
             return []
 
-        year = query.year_min
+        wanted_year = query.year_min
         wanted_engine = str(query.engine or "").lower()
         wanted_disp = None
         match = re.search(r"(\d+(?:\.\d+)?)\s*l", wanted_engine, flags=re.I)
@@ -154,33 +187,43 @@ class AutoPartsApiCandidateSource:
         for model in resolved.get("model_matches", []):
             if not isinstance(model, dict):
                 continue
+            if wanted_year:
+                y0 = self._year_from_date(model.get("modelYearFrom"))
+                y1 = self._year_from_date(model.get("modelYearTo"))
+                if y0 is not None and wanted_year < y0:
+                    continue
+                if y1 is not None and wanted_year > y1:
+                    continue
             model_id_raw = self._first(model, "modelId", "id")
             try:
                 model_id = int(model_id_raw)
             except (TypeError, ValueError):
                 continue
             for vehicle in self._vehicles(model_id, type_id, lang_id, country_filter_id):
-                row = dict(vehicle)
+                vehicle_id_raw = self._first(vehicle, "vehicleId", "carId", "id", "typeId")
+                try:
+                    vehicle_id = int(vehicle_id_raw)
+                except (TypeError, ValueError):
+                    continue
+                details = self._vehicle_details(vehicle_id, type_id, lang_id, country_filter_id)
+                row = {**vehicle, **details}
+                row["vehicleId"] = vehicle_id
                 row["modelId"] = model_id
                 row["modelName"] = self._first(model, "modelName", "name", "model")
-
                 text = " ".join(str(v or "") for v in row.values()).lower()
                 score = 0
-                if year and str(year) in text:
-                    score += 1
                 if "diesel" in wanted_engine and "diesel" in text:
                     score += 3
                 if "turbo" in wanted_engine and "turbo" in text:
                     score += 1
                 if wanted_disp is not None:
-                    cc_values = []
-                    for key in ("ccmTech", "ccm", "engineCapacity", "displacement", "capacity"):
-                        value = row.get(key)
+                    numeric_values: list[float] = []
+                    for key in ("ccmTech", "ccm", "engineCapacity", "displacement", "capacity", "cylinderCapacity"):
                         try:
-                            cc_values.append(float(value))
+                            numeric_values.append(float(row.get(key)))
                         except (TypeError, ValueError):
                             pass
-                    if any(abs(cc / 1000.0 - wanted_disp) <= 0.15 for cc in cc_values if cc > 100):
+                    if any(abs(value / 1000.0 - wanted_disp) <= 0.15 for value in numeric_values if value > 100):
                         score += 4
                     if re.search(rf"\b{re.escape(str(wanted_disp))}\s*l\b", text):
                         score += 4
@@ -199,6 +242,40 @@ class AutoPartsApiCandidateSource:
             f"category/type-id/{type_id}/products-groups-variant-4/{vehicle_id}/lang-id/{lang_id}"
         )
         return self._find_list(payload, ("categories", "productGroups", "results", "items", "data"))
+
+    def _matching_category_ids(
+        self,
+        vehicle_id: int,
+        category: str,
+        type_id: int = DEFAULT_TYPE_ID,
+        lang_id: int = DEFAULT_LANG_ID,
+    ) -> list[int]:
+        terms = _CATEGORY_TERMS.get(str(category or "").strip().lower(), ())
+        if not terms:
+            return []
+        ids: list[int] = []
+        for item in self.categories_for_vehicle(vehicle_id, type_id, lang_id):
+            name = str(self._first(item, "categoryName", "productGroupName", "name", "description") or "").upper()
+            if not any(term in name for term in terms):
+                continue
+            raw_id = self._first(item, "categoryId", "productGroupId", "id")
+            try:
+                ids.append(int(raw_id))
+            except (TypeError, ValueError):
+                continue
+        return list(dict.fromkeys(ids))
+
+    def _articles(
+        self,
+        vehicle_id: int,
+        category_id: int,
+        type_id: int = DEFAULT_TYPE_ID,
+        lang_id: int = DEFAULT_LANG_ID,
+    ) -> list[dict[str, object]]:
+        payload = self._get_json(
+            f"articles/list/type-id/{type_id}/vehicle-id/{vehicle_id}/category-id/{category_id}/lang-id/{lang_id}"
+        )
+        return self._find_list(payload, ("articles", "results", "items", "data"))
 
     def resolve_vehicle(
         self,
@@ -240,8 +317,48 @@ class AutoPartsApiCandidateSource:
         }
 
     def discover(self, query: CatalogVehicleQuery, category: str) -> list[CatalogPartCandidate]:
-        # Candidate article traversal will be enabled after live vehicle/category response
-        # shapes are confirmed. Keep this conservative rather than guessing fitment.
         if not self.configured:
             return []
-        return []
+
+        vehicles = self.vehicle_candidates(query)
+        if not vehicles:
+            return []
+        best_score = int(vehicles[0].get("matchScore") or 0)
+        if best_score <= 0:
+            return []
+
+        candidates: list[CatalogPartCandidate] = []
+        seen: set[tuple[str, str]] = set()
+        for vehicle in vehicles:
+            if int(vehicle.get("matchScore") or 0) != best_score:
+                break
+            vehicle_id = int(vehicle["vehicleId"])
+            for category_id in self._matching_category_ids(vehicle_id, category):
+                for item in self._articles(vehicle_id, category_id):
+                    brand = str(self._first(item, "supplierName", "brandName", "manufacturerName", "brand") or "").strip()
+                    part_number = str(self._first(item, "articleNo", "articleNumber", "partNumber", "part_number") or "").strip()
+                    if not brand or not part_number:
+                        continue
+                    key = (brand.upper(), part_number.upper())
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    candidates.append(
+                        CatalogPartCandidate(
+                            category=str(category or "").strip().lower(),
+                            brand=brand,
+                            part_number=part_number,
+                            source=self.name,
+                            confidence=0.55,
+                            metadata={
+                                "discovery_only": True,
+                                "trusted_evidence": False,
+                                "vehicle_id": vehicle_id,
+                                "category_id": category_id,
+                                "match_score": best_score,
+                                "vehicle": vehicle,
+                                "raw": item,
+                            },
+                        )
+                    )
+        return candidates
