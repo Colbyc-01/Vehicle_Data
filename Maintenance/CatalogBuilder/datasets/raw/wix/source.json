@@ -1,32 +1,34 @@
 {
   "source_id": "wix",
   "source_name": "WIX Filters",
-  "status": "source_endpoint_confirmed",
+  "status": "permission_required",
   "priority": 1,
-  "role": ["candidate", "verification"],
+  "role": ["manual_verification"],
   "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter"],
   "us_fitment": true,
   "raw_location": "Maintenance/CatalogBuilder/datasets/raw/wix/",
-  "rights_status": "review_required",
+  "rights_status": "commercial_ingestion_not_permitted_without_written_consent",
   "acquisition": {
     "mode": "public_vehicle_application_catalog",
-    "artifact_status": "live_catalog_confirmed",
+    "artifact_status": "official_catalog_and_pdf_catalog_page_confirmed",
     "official_lookup_url": "https://www2.wixfilters.com/Lookup/Applications.aspx",
-    "official_catalog_home": "https://www2.wixfilters.com/Lookup/filterlookup.aspx",
-    "official_filter_finder": "https://www.wixfilters.com/en-us/filter-finder.html",
+    "official_quick_search_url": "https://www2.wixfilters.com/Lookup/LUQuickSearch.aspx",
+    "official_pdf_catalog_url": "https://www2.wixfilters.com/PDFCatalog/PDFCatalog.aspx",
+    "official_terms_url": "https://www2.wixfilters.com/Home/Disclaimer.aspx",
     "observed_vehicle_flow": ["classification", "make", "year", "model_engine", "part_listing"],
     "observed_cross_reference": true,
     "observed_part_number_search": true,
-    "observed_download_signal": "WIX site publishes periodic new-number announcement XLS/PDF files; these are supplemental, not a full fitment dataset.",
-    "required_before_bulk_ingest": ["terms_review", "cache_rights_review", "determine_request_shape_or_downloadable_full_catalog"]
+    "bulk_ingest_allowed": false,
+    "reason": "WIX Terms of Use prohibit data-mining/robots and commercial collection/use, copying, downloading, reproduction, distribution, and derivative works without express prior written consent."
   },
   "evidence": {
     "reviewed_utc_date": "2026-08-08",
     "confirmed_claims": [
-      "Official WIX lookup explicitly supports Pass Car/Light Truck application search.",
-      "The application UI instructs users to select Make, Year, and Model/Engine to obtain a part listing.",
-      "The catalog home advertises more than 16,000 filters.",
-      "The catalog exposes competitor interchange and manufacturer part-number search in addition to vehicle application lookup."
+      "Official WIX lookup supports Pass Car/Light Truck application search by Make, Year, and Model/Engine to return part listings.",
+      "Official WIX site exposes Quick Search and PDF Catalog pages, including Light Passenger Truck and Interchange catalogs.",
+      "WIX Terms of Use state website materials include data, data sheets, catalogs and files.",
+      "WIX Terms prohibit data-mining, robots, similar extraction tools, commercial collection/use of product listings, and commercial exploitation without express written consent.",
+      "WIX Terms identify a route for requesting authorization."
     ]
   },
   "acceptance": {
@@ -34,6 +36,6 @@
     "must_include_vehicle_fitment": true,
     "single_source_is_verification": false
   },
-  "next_action": "Reverse-map the public application request/response flow using a small representative vehicle sample, without bulk scraping, then decide whether WIX is viable as candidate generation or verifier-only.",
-  "notes": "Top filter target. Public fitment capability is now confirmed. Do not bulk ingest or cache until commercial-use/caching terms are reviewed."
+  "next_action": "Do not automate or bulk-acquire WIX data. Retain WIX only as a manual spot-check/verifier unless written commercial permission is obtained. Move acquisition effort to the next source with acceptable reuse rights.",
+  "notes": "Technical fitment capability is strong, but rights review blocks AutoSpec ingestion under current published terms."
 }
