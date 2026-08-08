@@ -120,6 +120,86 @@ class AutoPartsApiCandidateSource:
         )
         return self._find_list(payload, ("models", "results", "items", "data"))
 
+    def _vehicles(
+        self,
+        model_id: int,
+        type_id: int = DEFAULT_TYPE_ID,
+        lang_id: int = DEFAULT_LANG_ID,
+        country_filter_id: int = DEFAULT_COUNTRY_FILTER_ID,
+    ) -> list[dict[str, object]]:
+        payload = self._get_json(
+            f"types/type-id/{type_id}/list-vehicles-types/{model_id}/lang-id/{lang_id}/country-filter-id/{country_filter_id}"
+        )
+        return self._find_list(payload, ("vehicles", "vehicleTypes", "types", "results", "items", "data"))
+
+    def vehicle_candidates(
+        self,
+        query: CatalogVehicleQuery,
+        type_id: int = DEFAULT_TYPE_ID,
+        lang_id: int = DEFAULT_LANG_ID,
+        country_filter_id: int = DEFAULT_COUNTRY_FILTER_ID,
+    ) -> list[dict[str, object]]:
+        resolved = self.resolve_vehicle(query, type_id, lang_id, country_filter_id)
+        if resolved.get("reason") != "matched":
+            return []
+
+        year = query.year_min
+        wanted_engine = str(query.engine or "").lower()
+        wanted_disp = None
+        match = re.search(r"(\d+(?:\.\d+)?)\s*l", wanted_engine, flags=re.I)
+        if match:
+            wanted_disp = float(match.group(1))
+
+        output: list[dict[str, object]] = []
+        for model in resolved.get("model_matches", []):
+            if not isinstance(model, dict):
+                continue
+            model_id_raw = self._first(model, "modelId", "id")
+            try:
+                model_id = int(model_id_raw)
+            except (TypeError, ValueError):
+                continue
+            for vehicle in self._vehicles(model_id, type_id, lang_id, country_filter_id):
+                row = dict(vehicle)
+                row["modelId"] = model_id
+                row["modelName"] = self._first(model, "modelName", "name", "model")
+
+                text = " ".join(str(v or "") for v in row.values()).lower()
+                score = 0
+                if year and str(year) in text:
+                    score += 1
+                if "diesel" in wanted_engine and "diesel" in text:
+                    score += 3
+                if "turbo" in wanted_engine and "turbo" in text:
+                    score += 1
+                if wanted_disp is not None:
+                    cc_values = []
+                    for key in ("ccmTech", "ccm", "engineCapacity", "displacement", "capacity"):
+                        value = row.get(key)
+                        try:
+                            cc_values.append(float(value))
+                        except (TypeError, ValueError):
+                            pass
+                    if any(abs(cc / 1000.0 - wanted_disp) <= 0.15 for cc in cc_values if cc > 100):
+                        score += 4
+                    if re.search(rf"\b{re.escape(str(wanted_disp))}\s*l\b", text):
+                        score += 4
+                row["matchScore"] = score
+                output.append(row)
+
+        return sorted(output, key=lambda item: int(item.get("matchScore") or 0), reverse=True)
+
+    def categories_for_vehicle(
+        self,
+        vehicle_id: int,
+        type_id: int = DEFAULT_TYPE_ID,
+        lang_id: int = DEFAULT_LANG_ID,
+    ) -> list[dict[str, object]]:
+        payload = self._get_json(
+            f"category/type-id/{type_id}/products-groups-variant-4/{vehicle_id}/lang-id/{lang_id}"
+        )
+        return self._find_list(payload, ("categories", "productGroups", "results", "items", "data"))
+
     def resolve_vehicle(
         self,
         query: CatalogVehicleQuery,
@@ -160,8 +240,8 @@ class AutoPartsApiCandidateSource:
         }
 
     def discover(self, query: CatalogVehicleQuery, category: str) -> list[CatalogPartCandidate]:
-        # Full vehicle/category/article traversal is enabled after the live response shape
-        # is confirmed. Keep this conservative rather than guessing IDs or fitment.
+        # Candidate article traversal will be enabled after live vehicle/category response
+        # shapes are confirmed. Keep this conservative rather than guessing fitment.
         if not self.configured:
             return []
         return []
