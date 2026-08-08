@@ -2,16 +2,35 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
+import sys
+from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
-from .models import PartRef, SourceHit, VerificationDecision
-from .normalize import normalize_brand, normalize_part_number
-from .scoring import auto_approve, score_hits
+if __package__ in (None, ""):
+    THIS_DIR = Path(__file__).resolve().parent
+    REPO_ROOT = THIS_DIR.parents[1]
+    if str(REPO_ROOT) not in sys.path:
+        sys.path.insert(0, str(REPO_ROOT))
+    from Maintenance.Verify.cache import VerificationCache
+    from Maintenance.Verify.models import PartRef, SourceHit, VerificationDecision
+    from Maintenance.Verify.normalize import normalize_brand, normalize_part_number
+    from Maintenance.Verify.scoring import auto_approve, score_hits
+    from Maintenance.Verify.sources.wix import fetch_applications
+else:
+    REPO_ROOT = Path(__file__).resolve().parents[2]
+    from .cache import VerificationCache
+    from .models import PartRef, SourceHit, VerificationDecision
+    from .normalize import normalize_brand, normalize_part_number
+    from .scoring import auto_approve, score_hits
+    from .sources.wix import fetch_applications
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_QUEUE = REPO_ROOT / "air_filter_verification_queue.json"
 DEFAULT_OUT = REPO_ROOT / "air_filter_verification_decisions.json"
+DEFAULT_WIX_AUDIT = REPO_ROOT / "air_filter_wix_audit.json"
+DEFAULT_VEHICLES = REPO_ROOT / "data" / "canonical" / "vehicles.json"
+DEFAULT_CACHE = REPO_ROOT / ".cache" / "parts_verification.sqlite3"
 
 
 def load(path: Path) -> Any:
@@ -20,6 +39,28 @@ def load(path: Path) -> Any:
 
 def save(path: Path, value: Any) -> None:
     path.write_text(json.dumps(value, indent=2) + "\n", encoding="utf-8")
+
+
+def _norm_text(value: Any) -> str:
+    return re.sub(r"[^A-Z0-9]", "", str(value or "").upper())
+
+
+def _year_overlap(a0: int | None, a1: int | None, b0: int | None, b1: int | None) -> bool:
+    if None in (a0, a1, b0, b1):
+        return True
+    return max(a0, b0) <= min(a1, b1)
+
+
+def _vehicle_index(vehicles_path: Path) -> dict[str, list[dict[str, Any]]]:
+    doc = load(vehicles_path)
+    index: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for vehicle in doc.get("vehicles", []) if isinstance(doc, dict) else []:
+        if not isinstance(vehicle, dict):
+            continue
+        for engine_code in vehicle.get("engine_codes") or []:
+            if isinstance(engine_code, str) and engine_code:
+                index[engine_code].append(vehicle)
+    return index
 
 
 def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -> int:
@@ -38,8 +79,8 @@ def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -
                 query_part_number=item.get("part_number"),
                 matched_brand=item.get("brand"),
                 matched_part_number=item.get("part_number"),
-                confidence=0.60,
-                metadata={"origin": "seed_candidate_only"},
+                confidence=0.0,
+                metadata={"origin": "seed_candidate_only", "trusted_evidence": False},
             )
             for item in current
             if isinstance(item, dict) and item.get("part_number")
@@ -53,13 +94,13 @@ def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -
                 for item in current
                 if isinstance(item, dict) and item.get("brand") and item.get("part_number")
             ],
-            confidence=confidence,
+            confidence=0.0,
             sources=hits,
             approved=False,
-            reason=f"candidate family only; external verification required ({reason})",
+            reason=f"seed candidates are not verification evidence; external verification required ({reason})",
         ).to_dict()
         decision["auto_approve_threshold"] = threshold
-        decision["would_auto_approve_after_external_verification"] = auto_approve(confidence, threshold)
+        decision["would_auto_approve_after_external_verification"] = False
         decisions.append(decision)
 
     payload = {
@@ -71,7 +112,98 @@ def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -
     save(out_path, payload)
     print(f"Families processed: {len(decisions)}")
     print(f"Output: {out_path}")
-    print("No seed data modified. External source adapters are required before approval.")
+    print("No seed data modified. Seed candidate part numbers are treated as untrusted until externally verified.")
+    return 0
+
+
+def wix_audit(
+    queue_path: Path,
+    vehicles_path: Path,
+    out_path: Path,
+    cache_path: Path,
+    limit: int,
+) -> int:
+    queue = load(queue_path)
+    families = queue.get("families", []) if isinstance(queue, dict) else []
+    vehicles_by_engine = _vehicle_index(vehicles_path)
+    results: list[dict[str, Any]] = []
+
+    with VerificationCache(cache_path) as cache:  # type: ignore[attr-defined]
+        for family in families[:limit]:
+            if not isinstance(family, dict):
+                continue
+            wix_candidates = [
+                item for item in (family.get("current_part_family") or [])
+                if isinstance(item, dict) and str(item.get("brand", "")).strip().lower() == "wix"
+            ]
+            if not wix_candidates:
+                continue
+
+            part = normalize_part_number(wix_candidates[0].get("part_number"))
+            cache_key = f"applications:{part}"
+            cached = cache.get("wix", cache_key)
+            if cached is None:
+                applications = [app.to_dict() for app in fetch_applications(part)]
+                cache.put("wix", cache_key, applications)
+            else:
+                applications = cached
+
+            affected_engines = list(family.get("affected_engines") or [])
+            engine_matches: dict[str, list[dict[str, Any]]] = {}
+            for engine_code in affected_engines:
+                matches: list[dict[str, Any]] = []
+                for vehicle in vehicles_by_engine.get(engine_code, []):
+                    vmake = _norm_text(vehicle.get("make"))
+                    vmodel = _norm_text(vehicle.get("model"))
+                    vy0 = vehicle.get("year_min") if isinstance(vehicle.get("year_min"), int) else None
+                    vy1 = vehicle.get("year_max") if isinstance(vehicle.get("year_max"), int) else None
+                    for app in applications:
+                        if _norm_text(app.get("make")) != vmake:
+                            continue
+                        amodel = _norm_text(app.get("model"))
+                        if vmodel and amodel and vmodel != amodel:
+                            continue
+                        if not _year_overlap(vy0, vy1, app.get("year_min"), app.get("year_max")):
+                            continue
+                        matches.append({"vehicle": vehicle, "wix_application": app})
+                if matches:
+                    engine_matches[engine_code] = matches
+
+            matched_count = len(engine_matches)
+            total = len(affected_engines)
+            ratio = (matched_count / total) if total else 0.0
+            if total and matched_count == total:
+                verdict = "SUPPORTED"
+            elif matched_count:
+                verdict = "PARTIAL"
+            else:
+                verdict = "REJECT_CANDIDATE"
+
+            result = {
+                "wix_part_number": part,
+                "impact": family.get("impact"),
+                "group_keys": family.get("group_keys") or [],
+                "affected_engines": affected_engines,
+                "wix_application_count": len(applications),
+                "matched_engine_count": matched_count,
+                "match_ratio": round(ratio, 4),
+                "verdict": verdict,
+                "matched_engines": sorted(engine_matches),
+                "applications": applications,
+            }
+            results.append(result)
+            print(
+                f"WIX {part}: {verdict}  matched={matched_count}/{total} "
+                f"applications={len(applications)}"
+            )
+
+    save(out_path, {
+        "contract": "wix_application_audit_v1",
+        "queue": str(queue_path),
+        "vehicles": str(vehicles_path),
+        "results": results,
+    })
+    print(f"Audit: {out_path}")
     return 0
 
 
@@ -83,6 +215,13 @@ def parse_args() -> argparse.Namespace:
     review.add_argument("--queue", type=Path, default=DEFAULT_QUEUE)
     review.add_argument("--out", type=Path, default=DEFAULT_OUT)
     review.add_argument("--threshold", type=float, default=0.95)
+
+    wix = sub.add_parser("wix-audit", help="Validate queued WIX candidates against official WIX applications")
+    wix.add_argument("--queue", type=Path, default=DEFAULT_QUEUE)
+    wix.add_argument("--vehicles", type=Path, default=DEFAULT_VEHICLES)
+    wix.add_argument("--out", type=Path, default=DEFAULT_WIX_AUDIT)
+    wix.add_argument("--cache", type=Path, default=DEFAULT_CACHE)
+    wix.add_argument("--limit", type=int, default=20)
     return parser.parse_args()
 
 
@@ -90,6 +229,8 @@ def main() -> int:
     args = parse_args()
     if args.command == "review":
         return build_review_decisions(args.queue, args.out, args.threshold)
+    if args.command == "wix-audit":
+        return wix_audit(args.queue, args.vehicles, args.out, args.cache, args.limit)
     return 2
 
 
