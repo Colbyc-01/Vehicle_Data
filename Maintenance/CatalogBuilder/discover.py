@@ -7,6 +7,7 @@ from Maintenance.Verify.providers.nhtsa import NhtsaVehicleBackend
 
 from .free_sources import FreeSourceRegistry
 from .sources.advance import AdvanceAutoCandidateSource
+from .sources.oreilly import OReillyCandidateSource
 
 
 def default_public_sources() -> FreeSourceRegistry:
@@ -18,6 +19,7 @@ def default_public_sources() -> FreeSourceRegistry:
     """
     return FreeSourceRegistry(
         sources=(
+            OReillyCandidateSource(),
             AdvanceAutoCandidateSource(),
         )
     )
