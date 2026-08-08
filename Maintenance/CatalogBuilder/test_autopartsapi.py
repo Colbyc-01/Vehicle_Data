@@ -7,12 +7,12 @@ from Maintenance.CatalogBuilder.sources.autopartsapi import AutoPartsApiCandidat
 from Maintenance.Verify.providers.base import CatalogVehicleQuery
 
 
-SMOKE_TESTS = (
-    CatalogVehicleQuery(make="Ram", model="1500", year_min=2020, year_max=2020, engine="3.0L Turbo Diesel V6"),
-    CatalogVehicleQuery(make="Honda", model="Accord", year_min=2020, year_max=2020, engine="1.5L Turbo I4"),
-    CatalogVehicleQuery(make="Toyota", model="Camry", year_min=2020, year_max=2020, engine="2.5L I4"),
-    CatalogVehicleQuery(make="Ford", model="F-150", year_min=2020, year_max=2020, engine="3.5L V6"),
-)
+SMOKE_TESTS = {
+    "ram": CatalogVehicleQuery(make="Ram", model="1500", year_min=2020, year_max=2020, engine="3.0L Turbo Diesel V6"),
+    "honda": CatalogVehicleQuery(make="Honda", model="Accord", year_min=2020, year_max=2020, engine="1.5L Turbo I4"),
+    "toyota": CatalogVehicleQuery(make="Toyota", model="Camry", year_min=2020, year_max=2020, engine="2.5L I4"),
+    "ford": CatalogVehicleQuery(make="Ford", model="F-150", year_min=2020, year_max=2020, engine="3.5L V6"),
+}
 
 
 def summarize(source: AutoPartsApiCandidateSource, query: CatalogVehicleQuery) -> dict[str, object]:
@@ -34,11 +34,11 @@ def summarize(source: AutoPartsApiCandidateSource, query: CatalogVehicleQuery) -
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Test AutoPartsAPI US-market vehicle coverage.")
+    parser.add_argument("--single", choices=tuple(SMOKE_TESTS), help="Run one built-in smoke test only.")
     parser.add_argument("--make")
     parser.add_argument("--model")
     parser.add_argument("--year", type=int)
     parser.add_argument("--engine", default="")
-    parser.add_argument("--limit", type=int, default=20)
     args = parser.parse_args()
 
     source = AutoPartsApiCandidateSource()
@@ -53,7 +53,9 @@ def main() -> int:
         print(f"Authentication/connectivity failed: {exc}")
         return 1
 
-    if args.make and args.model and args.year:
+    if args.single:
+        tests = (SMOKE_TESTS[args.single],)
+    elif args.make and args.model and args.year:
         tests = (
             CatalogVehicleQuery(
                 make=args.make,
@@ -64,7 +66,7 @@ def main() -> int:
             ),
         )
     else:
-        tests = SMOKE_TESTS
+        tests = tuple(SMOKE_TESTS.values())
 
     print("US coverage smoke test:")
     results = []
