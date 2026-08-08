@@ -79,6 +79,15 @@ def part_signature(group: dict[str, Any]) -> tuple[tuple[str, str], ...]:
     return tuple(sorted(parts))
 
 
+def _is_placeholder_group(group: dict[str, Any]) -> bool:
+    oem = group.get("oem") if isinstance(group, dict) else None
+    if not isinstance(oem, dict):
+        return True
+    brand = clean(oem.get("brand")).lower()
+    part = clean(oem.get("part_number")).lower()
+    return brand in PLACEHOLDERS or part in PLACEHOLDERS
+
+
 def queue(output: Path) -> int:
     groups_doc = load(GROUPS_PATH)
     seed_doc = load(SEED_PATH)
@@ -117,11 +126,9 @@ def queue(output: Path) -> int:
         currently_verified_groups = 0
         for key in group_keys:
             group = groups[key]
-            oem = group.get("oem") if isinstance(group, dict) else {}
-            brand = clean((oem or {}).get("brand")).lower()
-            part = clean((oem or {}).get("part_number")).lower()
-            if brand in PLACEHOLDERS or part in PLACEHOLDERS:
+            if _is_placeholder_group(group):
                 placeholder_groups += 1
+            oem = group.get("oem") if isinstance(group, dict) else {}
             if isinstance(oem, dict) and oem.get("verified") is True:
                 currently_verified_groups += 1
 
@@ -137,20 +144,31 @@ def queue(output: Path) -> int:
                 ],
                 "placeholder_groups": placeholder_groups,
                 "currently_verified_groups": currently_verified_groups,
+                "verification_mode": (
+                    "catalog_first_required"
+                    if placeholder_groups or not currently_verified_groups
+                    else "audit_existing_verified_family"
+                ),
+                "seed_candidates_trusted": False,
             }
         )
 
     rows.sort(key=lambda row: (-row["impact"], -row["group_count"], row["group_keys"][0]))
 
     result = {
-        "contract": "air_filter_verification_queue_v1",
+        "contract": "air_filter_verification_queue_v2",
         "source_groups": str(GROUPS_PATH.relative_to(REPO_ROOT)),
         "source_seed": str(SEED_PATH.relative_to(REPO_ROOT)),
         "family_count": len(rows),
         "standalone_no_part_family": len(standalone),
+        "policy": {
+            "seed_part_families_are_untrusted": True,
+            "placeholder_or_unverified_groups_require_catalog_first_verification": True,
+            "do_not_promote_existing_part_numbers_without_external_fitment_evidence": True,
+        },
         "families": rows,
         "decision_template": {
-            "notes": "Copy a family/group selection into a decisions file only after source verification.",
+            "notes": "Create decisions only from external catalog/OEM evidence. Existing seed part numbers are candidates, never proof.",
             "decisions": [
                 {
                     "group_keys": ["ENG_AIR_EXAMPLE"],
@@ -184,7 +202,7 @@ def queue(output: Path) -> int:
         )
         print(
             f"  impact={row['impact']:>3} groups={row['group_count']:>3} "
-            f"placeholders={row['placeholder_groups']:>3} :: {family}"
+            f"placeholders={row['placeholder_groups']:>3} mode={row['verification_mode']} :: {family}"
         )
     print(f"Queue: {output}")
     return 0
