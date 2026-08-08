@@ -1,7 +1,7 @@
 {
   "source_id": "wix",
   "source_name": "WIX Filters",
-  "status": "research_ready",
+  "status": "source_endpoint_confirmed",
   "priority": 1,
   "role": ["candidate", "verification"],
   "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter"],
@@ -9,14 +9,31 @@
   "raw_location": "Maintenance/CatalogBuilder/datasets/raw/wix/",
   "rights_status": "review_required",
   "acquisition": {
-    "mode": "public_catalog_or_download",
-    "artifact_status": "not_acquired",
-    "required_before_ingest": ["exact_access_url", "terms_review", "cache_rights_review"]
+    "mode": "public_vehicle_application_catalog",
+    "artifact_status": "live_catalog_confirmed",
+    "official_lookup_url": "https://www2.wixfilters.com/Lookup/Applications.aspx",
+    "official_catalog_home": "https://www2.wixfilters.com/Lookup/filterlookup.aspx",
+    "official_filter_finder": "https://www.wixfilters.com/en-us/filter-finder.html",
+    "observed_vehicle_flow": ["classification", "make", "year", "model_engine", "part_listing"],
+    "observed_cross_reference": true,
+    "observed_part_number_search": true,
+    "observed_download_signal": "WIX site publishes periodic new-number announcement XLS/PDF files; these are supplemental, not a full fitment dataset.",
+    "required_before_bulk_ingest": ["terms_review", "cache_rights_review", "determine_request_shape_or_downloadable_full_catalog"]
+  },
+  "evidence": {
+    "reviewed_utc_date": "2026-08-08",
+    "confirmed_claims": [
+      "Official WIX lookup explicitly supports Pass Car/Light Truck application search.",
+      "The application UI instructs users to select Make, Year, and Model/Engine to obtain a part listing.",
+      "The catalog home advertises more than 16,000 filters.",
+      "The catalog exposes competitor interchange and manufacturer part-number search in addition to vehicle application lookup."
+    ]
   },
   "acceptance": {
     "must_return_exact_part_numbers": true,
     "must_include_vehicle_fitment": true,
     "single_source_is_verification": false
   },
-  "notes": "Top filter target. Preserve original artifacts unchanged and require independent corroboration before verified promotion."
+  "next_action": "Reverse-map the public application request/response flow using a small representative vehicle sample, without bulk scraping, then decide whether WIX is viable as candidate generation or verifier-only.",
+  "notes": "Top filter target. Public fitment capability is now confirmed. Do not bulk ingest or cache until commercial-use/caching terms are reviewed."
 }
