@@ -1,9 +1,22 @@
 {
   "source_id": "mann_filter",
   "source_name": "MANN-FILTER",
-  "status": "pending_acquisition",
+  "status": "research_ready",
+  "priority": 4,
+  "role": ["candidate", "verification"],
   "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter"],
+  "us_fitment": true,
   "raw_location": "Maintenance/CatalogBuilder/datasets/raw/mann_filter/",
   "rights_status": "review_required",
-  "notes": "Preserve original artifacts unchanged. Do not treat source data as verified without independent corroboration."
+  "acquisition": {
+    "mode": "official_online_catalog_or_download",
+    "artifact_status": "not_acquired",
+    "required_before_ingest": ["exact_access_url", "terms_review", "cache_rights_review"]
+  },
+  "acceptance": {
+    "must_return_exact_part_numbers": true,
+    "must_include_vehicle_fitment": true,
+    "single_source_is_verification": false
+  },
+  "notes": "Official US catalog supports vehicle, product, cross-reference and dimension search across a large application set. Preserve originals unchanged."
 }
