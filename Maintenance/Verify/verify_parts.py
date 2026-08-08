@@ -187,6 +187,21 @@ def _diagnose_vehicle(vehicle: dict[str, Any], applications: list[dict[str, Any]
     }
 
 
+def _print_wix_applications(part: str, applications: list[dict[str, Any]], limit: int) -> None:
+    print(f"WIX {part} applications ({len(applications)} total):")
+    for app in applications[:max(0, limit)]:
+        years = app.get("year_min")
+        if app.get("year_max") not in (None, years):
+            years = f"{years}-{app.get('year_max')}"
+        print(
+            "  "
+            + " | ".join(
+                str(value or "")
+                for value in (app.get("make"), app.get("model"), years, app.get("engine"))
+            )
+        )
+
+
 def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -> int:
     queue = load(queue_path)
     families = queue.get("families", []) if isinstance(queue, dict) else []
@@ -250,11 +265,13 @@ def wix_audit(
     cache_path: Path,
     limit: int,
     diagnostic_limit: int,
+    show_applications: int,
 ) -> int:
     queue = load(queue_path)
     families = queue.get("families", []) if isinstance(queue, dict) else []
     vehicles_by_engine = _vehicle_index(vehicles_path)
     results: list[dict[str, Any]] = []
+    applications_shown = False
 
     with VerificationCache(cache_path) as cache:  # type: ignore[attr-defined]
         for family in families[:limit]:
@@ -269,6 +286,9 @@ def wix_audit(
 
             part = normalize_part_number(wix_candidates[0].get("part_number"))
             applications = _wix_applications(part, cache)
+            if show_applications > 0 and not applications_shown:
+                _print_wix_applications(part, applications, show_applications)
+                applications_shown = True
 
             affected_engines = list(family.get("affected_engines") or [])
             engine_matches: dict[str, list[dict[str, Any]]] = {}
@@ -358,6 +378,7 @@ def parse_args() -> argparse.Namespace:
     wix.add_argument("--cache", type=Path, default=DEFAULT_CACHE)
     wix.add_argument("--limit", type=int, default=20)
     wix.add_argument("--diagnostic-limit", type=int, default=3)
+    wix.add_argument("--show-applications", type=int, default=0)
     return parser.parse_args()
 
 
@@ -366,7 +387,15 @@ def main() -> int:
     if args.command == "review":
         return build_review_decisions(args.queue, args.out, args.threshold)
     if args.command == "wix-audit":
-        return wix_audit(args.queue, args.vehicles, args.out, args.cache, args.limit, args.diagnostic_limit)
+        return wix_audit(
+            args.queue,
+            args.vehicles,
+            args.out,
+            args.cache,
+            args.limit,
+            args.diagnostic_limit,
+            args.show_applications,
+        )
     return 2
 
 
