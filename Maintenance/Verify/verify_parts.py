@@ -45,6 +45,38 @@ def _norm_text(value: Any) -> str:
     return re.sub(r"[^A-Z0-9]", "", str(value or "").upper())
 
 
+def _tokens(value: Any) -> set[str]:
+    text = str(value or "").upper()
+    return {token for token in re.findall(r"[A-Z0-9]+", text) if token}
+
+
+def _model_match(vehicle_model: Any, application_model: Any) -> bool:
+    v = _norm_text(vehicle_model)
+    a = _norm_text(application_model)
+    if not v or not a:
+        return True
+    if v == a:
+        return True
+    if v in a or a in v:
+        return True
+    vt = _tokens(vehicle_model)
+    at = _tokens(application_model)
+    return bool(vt and at and vt.issubset(at))
+
+
+def _engine_displacement(value: Any) -> str | None:
+    match = re.search(r"\b(\d+(?:\.\d+)?)\s*L\b", str(value or ""), flags=re.I)
+    return match.group(1) if match else None
+
+
+def _engine_match(vehicle_engine: Any, application_engine: Any) -> bool:
+    vdisp = _engine_displacement(vehicle_engine)
+    adisp = _engine_displacement(application_engine)
+    if vdisp and adisp:
+        return vdisp == adisp
+    return True
+
+
 def _year_overlap(a0: int | None, a1: int | None, b0: int | None, b1: int | None) -> bool:
     if None in (a0, a1, b0, b1):
         return True
@@ -63,14 +95,13 @@ def _vehicle_index(vehicles_path: Path) -> dict[str, list[dict[str, Any]]]:
     return index
 
 
-def _provider_applications(provider_name: str, part: str, cache: VerificationCache) -> list[dict[str, Any]]:
-    provider_key = str(provider_name or "").strip().lower()
+def _wix_applications(part: str, cache: VerificationCache) -> list[dict[str, Any]]:
     cache_key = f"applications:{part}"
-    cached = cache.get(provider_key, cache_key)
+    cached = cache.get("wix", cache_key)
     if cached is not None:
         return cached
 
-    provider = get_provider(provider_name)
+    provider = get_provider("wix")
     hits = provider.lookup_part(part)
     applications: list[dict[str, Any]] = []
     for hit in hits:
@@ -79,7 +110,7 @@ def _provider_applications(provider_name: str, part: str, cache: VerificationCac
         if isinstance(raw, list):
             applications.extend(item for item in raw if isinstance(item, dict))
 
-    cache.put(provider_key, cache_key, applications)
+    cache.put("wix", cache_key, applications)
     return applications
 
 
@@ -92,36 +123,38 @@ def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -
         if not isinstance(family, dict):
             continue
         current = family.get("current_part_family") or []
-        hits = [
+        alternatives = tuple(
+            PartRef(normalize_brand(item.get("brand")), normalize_part_number(item.get("part_number")))
+            for item in current
+            if isinstance(item, dict) and item.get("brand") and item.get("part_number")
+        )
+        hits = tuple(
             SourceHit(
                 source=normalize_brand(item.get("brand")) or "unknown",
                 query=PartRef(
-                    brand=normalize_brand(item.get("brand")) or "unknown",
-                    part_number=normalize_part_number(item.get("part_number")),
+                    normalize_brand(item.get("brand")) or "unknown",
+                    normalize_part_number(item.get("part_number")),
                 ),
                 matched_part=None,
                 confidence=0.0,
+                notes="Seed candidate only; not trusted verification evidence.",
                 metadata={"origin": "seed_candidate_only", "trusted_evidence": False},
             )
             for item in current
             if isinstance(item, dict) and item.get("part_number")
-        ]
-        confidence = score_hits(hits)
+        )
+        score = score_hits(list(hits))
         decision = VerificationDecision(
             group_keys=tuple(family.get("group_keys") or []),
             oem=None,
-            alternatives=tuple(
-                PartRef(normalize_brand(item.get("brand")), normalize_part_number(item.get("part_number")))
-                for item in current
-                if isinstance(item, dict) and item.get("brand") and item.get("part_number")
-            ),
+            alternatives=alternatives,
             confidence=0.0,
             verified=False,
-            sources=tuple(hits),
-            notes="seed candidates are not verification evidence; external verification required",
+            sources=hits,
+            notes="Seed candidates are not verification evidence; external verification required.",
         ).to_dict()
         decision["auto_approve_threshold"] = threshold
-        decision["would_auto_approve_after_external_verification"] = auto_approve(confidence, threshold)
+        decision["would_auto_approve_after_external_verification"] = auto_approve(score, threshold)
         decisions.append(decision)
 
     payload = {
@@ -161,7 +194,7 @@ def wix_audit(
                 continue
 
             part = normalize_part_number(wix_candidates[0].get("part_number"))
-            applications = _provider_applications("wix", part, cache)
+            applications = _wix_applications(part, cache)
 
             affected_engines = list(family.get("affected_engines") or [])
             engine_matches: dict[str, list[dict[str, Any]]] = {}
@@ -169,16 +202,16 @@ def wix_audit(
                 matches: list[dict[str, Any]] = []
                 for vehicle in vehicles_by_engine.get(engine_code, []):
                     vmake = _norm_text(vehicle.get("make"))
-                    vmodel = _norm_text(vehicle.get("model"))
                     vy0 = vehicle.get("year_min") if isinstance(vehicle.get("year_min"), int) else None
                     vy1 = vehicle.get("year_max") if isinstance(vehicle.get("year_max"), int) else None
                     for app in applications:
                         if _norm_text(app.get("make")) != vmake:
                             continue
-                        amodel = _norm_text(app.get("model"))
-                        if vmodel and amodel and vmodel != amodel:
+                        if not _model_match(vehicle.get("model"), app.get("model")):
                             continue
                         if not _year_overlap(vy0, vy1, app.get("year_min"), app.get("year_max")):
+                            continue
+                        if not _engine_match(vehicle.get("engine_label"), app.get("engine")):
                             continue
                         matches.append({"vehicle": vehicle, "wix_application": app})
                 if matches:
