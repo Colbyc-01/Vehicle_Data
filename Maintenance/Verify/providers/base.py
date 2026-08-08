@@ -36,6 +36,10 @@ class CatalogProvider(ABC):
     def lookup_oem(self, oem_number: str) -> list[SourceHit]:
         return self.lookup_part(oem_number)
 
+    def lookup_interchange(self, brand: str, part_number: str) -> list[SourceHit]:
+        """Cross-reference another manufacturer's part into this catalog."""
+        return []
+
     def lookup_vehicle(self, query: CatalogVehicleQuery) -> list[SourceHit]:
         """Discover catalog parts by vehicle fitment when a provider supports it."""
         return []
@@ -43,6 +47,10 @@ class CatalogProvider(ABC):
     @property
     def supports_vehicle_lookup(self) -> bool:
         return self.__class__.lookup_vehicle is not CatalogProvider.lookup_vehicle
+
+    @property
+    def supports_interchange_lookup(self) -> bool:
+        return self.__class__.lookup_interchange is not CatalogProvider.lookup_interchange
 
     def applications_for_part(self, part_number: str) -> list[CatalogApplication]:
         applications: list[CatalogApplication] = []
