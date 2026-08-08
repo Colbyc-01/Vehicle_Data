@@ -1,1 +1,1 @@
-"""Reusable parts verification framework for AutoSpec."""
+"""Reusable AutoSpec part-verification framework."""

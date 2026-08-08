@@ -7,7 +7,8 @@
     "verified_step2_date": "2026-02-08",
     "verified_step3_date": "2026-02-08",
     "verified_step4_date": "2026-02-08",
-    "verified_batch_k_series": "2026-02-08"
+    "verified_batch_k_series": "2026-02-08",
+    "audit_fix_2026-08-08": "Reset non-GM groups incorrectly seeded with GM ACDelco A3087C / FRAM CA10161 / WIX 49184 / Purolator A35638 family; also cleared verified=true on TBD OEM entries."
   },
   "groups": {
     "ENG_AIR_ACURA_B18B1": {
@@ -167,7 +168,7 @@
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
@@ -211,7 +212,7 @@
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
@@ -255,7 +256,7 @@
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
@@ -502,51 +503,25 @@
     },
     "ENG_AIR_AUDI_18T": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_20T": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_22TI5": {
       "oem": {
@@ -574,51 +549,25 @@
     },
     "ENG_AIR_AUDI_27TT": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_28V6": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_30T": {
       "oem": {
@@ -646,51 +595,25 @@
     },
     "ENG_AIR_AUDI_30TDI": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_30V6": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_36V6": {
       "oem": {
@@ -718,27 +641,14 @@
     },
     "ENG_AIR_AUDI_42V8": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_52V10": {
       "oem": {
@@ -766,51 +676,25 @@
     },
     "ENG_AIR_AUDI_AAH": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_AHA": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_AMB": {
       "oem": {
@@ -1006,27 +890,14 @@
     },
     "ENG_AIR_AUDI_BVJ": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_BXA": {
       "oem": {
@@ -1054,51 +925,25 @@
     },
     "ENG_AIR_AUDI_CAEB": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_CALB": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_CAUA": {
       "oem": {
@@ -1126,51 +971,25 @@
     },
     "ENG_AIR_AUDI_CEUA": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_CEUC": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_CFSA": {
       "oem": {
@@ -1366,51 +1185,25 @@
     },
     "ENG_AIR_AUDI_DECA": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_DLZA": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_AUDI_RS5_29TT": {
       "oem": {
@@ -1486,51 +1279,25 @@
     },
     "ENG_AIR_BMW_B48B20": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_B58B30": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_M42B18": {
       "oem": {
@@ -1582,75 +1349,36 @@
     },
     "ENG_AIR_BMW_M52B28": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_M54B25": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_M54B30": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_M57": {
       "oem": {
@@ -1702,27 +1430,14 @@
     },
     "ENG_AIR_BMW_M60B40": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_M62B44": {
       "oem": {
@@ -1774,123 +1489,58 @@
     },
     "ENG_AIR_BMW_N20B20": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_N47D20": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_N52B30": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_N54B30": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_N55B30": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_N57": {
       "oem": {
@@ -1918,75 +1568,36 @@
     },
     "ENG_AIR_BMW_N62B44": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_N62B48": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_N63B44": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_N63B44T2": {
       "oem": {
@@ -2086,51 +1697,25 @@
     },
     "ENG_AIR_BMW_S55B30": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_S58B30": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_S62B50": {
       "oem": {
@@ -2182,27 +1767,14 @@
     },
     "ENG_AIR_BMW_S63B44": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_BMW_S65": {
       "oem": {
@@ -2948,57 +2520,57 @@
         }
       ]
     },
-  "ENG_AIR_CHRYSLER_ETK": {
-    "selectors": {
-      "year": [
-        {
-          "min": 2011,
-          "max": 2018,
-          "value": {
-            "oem": {
-              "brand": "Mopar",
-              "part_number": "53034051AB",
-              "verified": true,
-              "source_url": "https://store.mopar.com/oem-parts/mopar-mopar-enhanced-air-filter-53034051ab"
-            },
-            "spec": {
-              "filter_type": "panel"
-            },
-            "alternatives": [
-              {
-                "brand": "WIX",
-                "part_number": "46930",
+    "ENG_AIR_CHRYSLER_ETK": {
+      "selectors": {
+        "year": [
+          {
+            "min": 2011,
+            "max": 2018,
+            "value": {
+              "oem": {
+                "brand": "Mopar",
+                "part_number": "53034051AB",
                 "verified": true,
-                "source_url": "https://www.wixfilters.com/es-ar/catalogo/results/product.html/46930_wix.html"
-              }
-            ]
+                "source_url": "https://store.mopar.com/oem-parts/mopar-mopar-enhanced-air-filter-53034051ab"
+              },
+              "spec": {
+                "filter_type": "panel"
+              },
+              "alternatives": [
+                {
+                  "brand": "WIX",
+                  "part_number": "46930",
+                  "verified": true,
+                  "source_url": "https://www.wixfilters.com/es-ar/catalogo/results/product.html/46930_wix.html"
+                }
+              ]
+            }
+          },
+          {
+            "min": 2019,
+            "max": 2024,
+            "value": {
+              "oem": {
+                "brand": "Mopar",
+                "part_number": "68645327AA",
+                "verified": true,
+                "source_url": "https://store.mopar.com/oem-parts/mopar-air-filter-68645327aa"
+              },
+              "spec": {
+                "filter_type": "panel"
+              },
+              "alternatives": []
+            }
           }
-        },
-        {
-          "min": 2019,
-          "max": 2024,
-          "value": {
-            "oem": {
-              "brand": "Mopar",
-              "part_number": "68645327AA",
-              "verified": true,
-              "source_url": "https://store.mopar.com/oem-parts/mopar-air-filter-68645327aa"
-            },
-            "spec": {
-              "filter_type": "panel"
-            },
-            "alternatives": []
-          }
-        }
-      ]
+        ]
+      },
+      "fallback": {
+        "oem": null,
+        "alternatives": [],
+        "verified": false,
+        "warning": "Select a supported model year to determine engine air filter fitment."
+      }
     },
-    "fallback": {
-      "oem": null,
-      "alternatives": [],
-      "verified": false,
-      "warning": "Select a supported model year to determine engine air filter fitment."
-    }
-  },
     "ENG_AIR_CHRYSLER_EVE": {
       "oem": {
         "brand": "TBD",
@@ -3975,7 +3547,7 @@
             "part_number": "A35663"
           }
         ],
-        "warning": "Fallback used — body_style selector not matched."
+        "warning": "Fallback used \u2014 body_style selector not matched."
       }
     },
     "ENG_AIR_FORD_Cyclone35": {
@@ -4113,7 +3685,7 @@
           "part_number": "FA-1908"
         }
       ],
-      "warning": "Varies by model/year — confirm in owner’s manual or OEM catalog."
+      "warning": "Varies by model/year \u2014 confirm in owner\u2019s manual or OEM catalog."
     },
     "ENG_AIR_FORD_ECOBOOST_16": {
       "oem": {
@@ -4191,7 +3763,7 @@
           "part_number": "A35663"
         }
       ],
-      "warning": "Varies by model/year — confirm in owner’s manual or OEM catalog."
+      "warning": "Varies by model/year \u2014 confirm in owner\u2019s manual or OEM catalog."
     },
     "ENG_AIR_FORD_ECOBOOST_30": {
       "oem": {
@@ -4268,7 +3840,7 @@
           "part_number": "A35663"
         }
       ],
-      "warning": "Varies by model/year — confirm in owner’s manual or OEM catalog."
+      "warning": "Varies by model/year \u2014 confirm in owner\u2019s manual or OEM catalog."
     },
     "ENG_AIR_FORD_ESSEX_38_V6": {
       "oem": {
@@ -4358,7 +3930,7 @@
           "part_number": "FA-1950"
         }
       ],
-      "warning": "Varies by model/year — confirm in owner’s manual or OEM catalog."
+      "warning": "Varies by model/year \u2014 confirm in owner\u2019s manual or OEM catalog."
     },
     "ENG_AIR_FORD_LIMA_23": {
       "oem": {
@@ -4449,7 +4021,7 @@
           "part_number": "FA-1927"
         }
       ],
-      "warning": "Primary filter shown; some applications use dual/secondary elements — confirm in owner’s manual or OEM catalog."
+      "warning": "Primary filter shown; some applications use dual/secondary elements \u2014 confirm in owner\u2019s manual or OEM catalog."
     },
     "ENG_AIR_FORD_Predator52": {
       "oem": {
@@ -4466,7 +4038,7 @@
           "part_number": "FA-2143"
         }
       ],
-      "warning": "GT500/5.2L applications use a pre-filter element — confirm in owner’s manual or OEM catalog."
+      "warning": "GT500/5.2L applications use a pre-filter element \u2014 confirm in owner\u2019s manual or OEM catalog."
     },
     "ENG_AIR_FORD_TIVCT_33_V6": {
       "oem": {
@@ -4495,7 +4067,7 @@
           "part_number": "A35663"
         }
       ],
-      "warning": "Varies by model/year — confirm in owner’s manual or OEM catalog."
+      "warning": "Varies by model/year \u2014 confirm in owner\u2019s manual or OEM catalog."
     },
     "ENG_AIR_FORD_TRITON54": {
       "oem": {
@@ -4772,20 +4344,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_B234": {
       "oem": {
@@ -4796,20 +4355,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_B235": {
       "oem": {
@@ -4820,20 +4366,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_DETROIT65": {
       "oem": {
@@ -4844,20 +4377,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_F16D3": {
       "oem": {
@@ -4868,20 +4388,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_G13": {
       "oem": {
@@ -4892,20 +4399,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_J20A": {
       "oem": {
@@ -4916,20 +4410,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_J35A": {
       "oem": {
@@ -4940,140 +4421,62 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L18": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3229C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L26": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L29": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A1300C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L30": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L31": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A1300C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L32": {
       "oem": {
@@ -5084,68 +4487,29 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L35": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A1163C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L36": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A917C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L37": {
       "oem": {
@@ -5156,44 +4520,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L3B": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3244C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L3T": {
       "oem": {
@@ -5210,7 +4548,7 @@
           "part_number": "A3244C"
         }
       ],
-      "warning": "High-capacity air cleaner option exists on some trucks — confirm in OEM catalog."
+      "warning": "High-capacity air cleaner option exists on some trucks \u2014 confirm in OEM catalog."
     },
     "ENG_AIR_GM_L44": {
       "oem": {
@@ -5221,20 +4559,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L52": {
       "oem": {
@@ -5245,68 +4570,29 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L56": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A1300C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L59": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
-        "verified": true
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L5P": {
       "oem": {
@@ -5330,51 +4616,25 @@
     },
     "ENG_AIR_GM_L61": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A1233C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L65": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A1236C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L66": {
       "oem": {
@@ -5391,7 +4651,7 @@
           "part_number": "A3246C"
         }
       ],
-      "warning": "High-capacity air cleaner option exists on some trucks — confirm in OEM catalog."
+      "warning": "High-capacity air cleaner option exists on some trucks \u2014 confirm in OEM catalog."
     },
     "ENG_AIR_GM_L67": {
       "oem": {
@@ -5402,20 +4662,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L76": {
       "oem": {
@@ -5426,20 +4673,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L81": {
       "oem": {
@@ -5450,44 +4684,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L82_V6_GEN3_31": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L82_V8_GEN5_53": {
       "oem": {
@@ -5590,27 +4798,14 @@
     },
     "ENG_AIR_GM_L92": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L94": {
       "oem": {
@@ -5621,20 +4816,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L99": {
       "oem": {
@@ -5645,164 +4827,73 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_L9H": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LA1": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A1614C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LB4": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A178CW",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LB7": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A1618C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LBZ": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LCV": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3197C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LD2": {
       "oem": {
@@ -5813,44 +4904,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LD8": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3083C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LD9": {
       "oem": {
@@ -5861,68 +4926,29 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LE5": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3083C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LEA": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3083C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LF4": {
       "oem": {
@@ -5933,20 +4959,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LFV": {
       "oem": {
@@ -5957,20 +4970,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LFW": {
       "oem": {
@@ -5981,44 +4981,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LFX": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3137C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LG8": {
       "oem": {
@@ -6029,44 +5003,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LGX": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3212C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LGY": {
       "oem": {
@@ -6077,20 +5025,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LGZ": {
       "oem": {
@@ -6101,20 +5036,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LH2": {
       "oem": {
@@ -6125,20 +5047,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LH6": {
       "oem": {
@@ -6149,20 +5058,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LH8": {
       "oem": {
@@ -6173,20 +5069,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LHU": {
       "oem": {
@@ -6197,20 +5080,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LIH": {
       "oem": {
@@ -6221,20 +5091,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LKW": {
       "oem": {
@@ -6245,20 +5102,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LL0": {
       "oem": {
@@ -6269,20 +5113,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LL0_SATURN_GEN1_19": {
       "oem": {
@@ -6293,20 +5124,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LL0_SPARK_GEN1_12": {
       "oem": {
@@ -6317,44 +5135,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LL8": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A2014C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LLR": {
       "oem": {
@@ -6365,212 +5157,95 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LLT": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3083C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LLY": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A1618C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LM2": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3244C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LM4": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LM7": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LMG": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LML": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3141C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LMM": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LN2": {
       "oem": {
@@ -6581,20 +5256,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LNF": {
       "oem": {
@@ -6605,20 +5267,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LQ1": {
       "oem": {
@@ -6629,261 +5278,117 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LQ4": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
-        "verified": true
-      },
-      "spec": {
-        "filter_type": "panel"
-      },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
-    },
-    "ENG_AIR_GM_LQ9": {
-      "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
-        "verified": true
-      },
-      "spec": {
-        "filter_type": "panel"
-      },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
-    },
-    "ENG_AIR_GM_LR4": {
-      "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
+    },
+    "ENG_AIR_GM_LQ9": {
+      "oem": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "spec": {
+        "filter_type": "panel"
+      },
+      "alternatives": []
+    },
+    "ENG_AIR_GM_LR4": {
+      "oem": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "spec": {
+        "filter_type": "panel"
+      },
+      "alternatives": []
     },
     "ENG_AIR_GM_LS1": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
-        "verified": true
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LS2": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
-        "verified": true
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LS3": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3137C",
-        "verified": true,
-        "notes": "2010-2015 Camaro SS / LS3 applications use ACDelco A3137C"
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LS4": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
-        "verified": true
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Fram",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LS6": {
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LS7": {
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LS9": {
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LSA": {
       "oem": {
@@ -6894,44 +5399,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LSY": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3210C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LT1_GEN2_57": {
       "oem": {
@@ -6942,45 +5421,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LT1_GEN5_62": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3223C",
-        "verified": false,
-        "notes": "GM OE air filter for 2016+ Camaro 6.2 (LT1/LT4); GM part 23323508 replaces 92276982."
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LT2_GEN5_62": {
       "oem": {
@@ -6991,20 +5443,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LT4_GEN2_57": {
       "oem": {
@@ -7015,45 +5454,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LT4_GEN5_62": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3223C",
-        "verified": false,
-        "notes": "2016+ Camaro 6.2 (LT1/LT4) uses ACDelco A3223C / GM 23323508"
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LT6": {
       "oem": {
@@ -7064,20 +5476,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LTA": {
       "oem": {
@@ -7088,44 +5487,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LTG": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3240C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LU3": {
       "oem": {
@@ -7136,20 +5509,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LUD": {
       "oem": {
@@ -7160,20 +5520,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LUJ": {
       "oem": {
@@ -7184,20 +5531,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LUU": {
       "oem": {
@@ -7208,20 +5542,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LUV": {
       "oem": {
@@ -7232,20 +5553,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LUW": {
       "oem": {
@@ -7256,20 +5564,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LV3": {
       "oem": {
@@ -7280,20 +5575,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LV7": {
       "oem": {
@@ -7304,44 +5586,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LW2": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3087C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LWC": {
       "oem": {
@@ -7352,20 +5608,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LWN": {
       "oem": {
@@ -7376,20 +5619,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LX9": {
       "oem": {
@@ -7400,20 +5630,7 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LXV": {
       "oem": {
@@ -7424,44 +5641,18 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LY7": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3083C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LYX": {
       "oem": {
@@ -7472,69 +5663,29 @@
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
     },
     "ENG_AIR_GM_LZ0": {
       "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3244C",
-        "verified": false,
-        "notes": "3.0 Duramax LM2/LZ0 factory filter ACDelco A3244C (GM 84121219)"
-      },
-      "spec": {
-        "filter_type": "panel"
-      },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
-    },
-    "ENG_AIR_GM_LZ9": {
-      "oem": {
-        "brand": "ACDelco",
-        "part_number": "A3083C",
+        "brand": "TBD",
+        "part_number": "TBD",
         "verified": false
       },
       "spec": {
         "filter_type": "panel"
       },
-      "alternatives": [
-        {
-          "brand": "FRAM",
-          "part_number": "CA10161"
-        },
-        {
-          "brand": "WIX",
-          "part_number": "49184"
-        },
-        {
-          "brand": "Purolator",
-          "part_number": "A35638"
-        }
-      ]
+      "alternatives": []
+    },
+    "ENG_AIR_GM_LZ9": {
+      "oem": {
+        "brand": "TBD",
+        "part_number": "TBD",
+        "verified": false
+      },
+      "spec": {
+        "filter_type": "panel"
+      },
+      "alternatives": []
     },
     "ENG_AIR_HONDA_B20": {
       "oem": {
@@ -10316,7 +8467,7 @@
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
@@ -10388,7 +8539,7 @@
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
@@ -10412,7 +8563,7 @@
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
@@ -10484,7 +8635,7 @@
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
@@ -10532,7 +8683,7 @@
       "oem": {
         "brand": "TBD",
         "part_number": "TBD",
-        "verified": true
+        "verified": false
       },
       "spec": {
         "filter_type": "panel"
@@ -11356,7 +9507,7 @@
           "part_number": "17801-25020"
         }
       ],
-      "warning": "Supersessions exist — confirm in OEM catalog."
+      "warning": "Supersessions exist \u2014 confirm in OEM catalog."
     },
     "ENG_AIR_TOYOTA_M20A-FKS": {
       "oem": {
@@ -11822,7 +9973,7 @@
           "part_number": "A35663"
         }
       ],
-      "warning": "Varies by model/year — confirm in owner’s manual or OEM catalog."
+      "warning": "Varies by model/year \u2014 confirm in owner\u2019s manual or OEM catalog."
     }
   }
 }

@@ -1,33 +1,27 @@
 from __future__ import annotations
-
 import re
 
-
 _BRAND_ALIASES = {
-    "ac delco": "ACDelco",
-    "acdelco": "ACDelco",
-    "fram": "FRAM",
-    "wix": "WIX",
-    "purolator": "Purolator",
-    "mann": "MANN",
-    "mann-filter": "MANN",
-    "mahle": "Mahle",
-    "k&n": "K&N",
-    "kn": "K&N",
+    "fram": "FRAM", "wix": "WIX", "purolator": "Purolator",
+    "mann": "MANN", "mann-filter": "MANN", "mahle": "Mahle",
+    "k&n": "K&N", "kn": "K&N", "acdelco": "ACDelco",
+    "ac delco": "ACDelco", "motorcraft": "Motorcraft",
+    "mopar": "Mopar", "honda": "Honda", "acura": "Acura",
+    "toyota": "Toyota", "lexus": "Lexus", "audi": "Audi",
+    "volkswagen": "Volkswagen", "vw": "Volkswagen", "bmw": "BMW",
 }
 
+def clean(value: object) -> str:
+    return value.strip() if isinstance(value, str) else ""
 
-def normalize_brand(value: str | None) -> str:
-    raw = (value or "").strip()
+def normalize_brand(value: object) -> str:
+    raw = clean(value)
     return _BRAND_ALIASES.get(raw.lower(), raw)
 
+def normalize_part_number(value: object) -> str:
+    return re.sub(r"[^A-Z0-9]", "", clean(value).upper())
 
-def normalize_part_number(value: str | None) -> str:
-    return re.sub(r"[^A-Z0-9]", "", (value or "").strip().upper())
-
-
-def same_part(a_brand: str | None, a_number: str | None, b_brand: str | None, b_number: str | None) -> bool:
-    return (
-        normalize_brand(a_brand).lower() == normalize_brand(b_brand).lower()
-        and normalize_part_number(a_number) == normalize_part_number(b_number)
-    )
+def same_part_number(a: object, b: object) -> bool:
+    na = normalize_part_number(a)
+    nb = normalize_part_number(b)
+    return bool(na and nb and na == nb)
