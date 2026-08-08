@@ -63,13 +63,14 @@ def _vehicle_index(vehicles_path: Path) -> dict[str, list[dict[str, Any]]]:
     return index
 
 
-def _wix_applications(part: str, cache: VerificationCache) -> list[dict[str, Any]]:
+def _provider_applications(provider_name: str, part: str, cache: VerificationCache) -> list[dict[str, Any]]:
+    provider_key = str(provider_name or "").strip().lower()
     cache_key = f"applications:{part}"
-    cached = cache.get("wix", cache_key)
+    cached = cache.get(provider_key, cache_key)
     if cached is not None:
         return cached
 
-    provider = get_provider("wix")
+    provider = get_provider(provider_name)
     hits = provider.lookup_part(part)
     applications: list[dict[str, Any]] = []
     for hit in hits:
@@ -78,7 +79,7 @@ def _wix_applications(part: str, cache: VerificationCache) -> list[dict[str, Any
         if isinstance(raw, list):
             applications.extend(item for item in raw if isinstance(item, dict))
 
-    cache.put("wix", cache_key, applications)
+    cache.put(provider_key, cache_key, applications)
     return applications
 
 
@@ -94,32 +95,33 @@ def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -
         hits = [
             SourceHit(
                 source=normalize_brand(item.get("brand")) or "unknown",
-                query_brand=item.get("brand"),
-                query_part_number=item.get("part_number"),
-                matched_brand=item.get("brand"),
-                matched_part_number=item.get("part_number"),
+                query=PartRef(
+                    brand=normalize_brand(item.get("brand")) or "unknown",
+                    part_number=normalize_part_number(item.get("part_number")),
+                ),
+                matched_part=None,
                 confidence=0.0,
                 metadata={"origin": "seed_candidate_only", "trusted_evidence": False},
             )
             for item in current
             if isinstance(item, dict) and item.get("part_number")
         ]
-        confidence, reason = score_hits(hits)
+        confidence = score_hits(hits)
         decision = VerificationDecision(
-            group_keys=list(family.get("group_keys") or []),
+            group_keys=tuple(family.get("group_keys") or []),
             oem=None,
-            alternatives=[
+            alternatives=tuple(
                 PartRef(normalize_brand(item.get("brand")), normalize_part_number(item.get("part_number")))
                 for item in current
                 if isinstance(item, dict) and item.get("brand") and item.get("part_number")
-            ],
+            ),
             confidence=0.0,
-            sources=hits,
-            approved=False,
-            reason=f"seed candidates are not verification evidence; external verification required ({reason})",
+            verified=False,
+            sources=tuple(hits),
+            notes="seed candidates are not verification evidence; external verification required",
         ).to_dict()
         decision["auto_approve_threshold"] = threshold
-        decision["would_auto_approve_after_external_verification"] = False
+        decision["would_auto_approve_after_external_verification"] = auto_approve(confidence, threshold)
         decisions.append(decision)
 
     payload = {
@@ -159,7 +161,7 @@ def wix_audit(
                 continue
 
             part = normalize_part_number(wix_candidates[0].get("part_number"))
-            applications = _wix_applications(part, cache)
+            applications = _provider_applications("wix", part, cache)
 
             affected_engines = list(family.get("affected_engines") or [])
             engine_matches: dict[str, list[dict[str, Any]]] = {}
