@@ -12,7 +12,6 @@ from Maintenance.Verify.providers.catalog import CatalogPartCandidate
 
 DEFAULT_BASE_URL = "https://auto-parts-catalog.apiprofile.com/api"
 DEFAULT_LANG_ID = 4
-DEFAULT_COUNTRY_FILTER_ID = 63
 DEFAULT_TYPE_ID = 1
 
 _CATEGORY_TERMS = {
@@ -27,13 +26,6 @@ _CATEGORY_TERMS = {
 
 
 class AutoPartsApiCandidateSource:
-    """Discovery-only adapter for AutoPartsAPI.
-
-    AutoPartsAPI uses a staged lookup flow: manufacturer -> model -> vehicle -> category
-    -> articles. Returned candidates are discovery evidence only until downstream
-    application/provider verification approves fitment.
-    """
-
     name = "autopartsapi"
 
     def __init__(self, base_url: str | None = None, api_key: str | None = None):
@@ -43,6 +35,7 @@ class AutoPartsApiCandidateSource:
             or DEFAULT_BASE_URL
         ).strip().rstrip("/")
         self.api_key = (api_key or os.getenv("AUTOSPEC_AUTOPARTS_API_KEY") or "").strip()
+        self._country_filter_id: int | None = None
 
     @property
     def configured(self) -> bool:
@@ -103,13 +96,39 @@ class AutoPartsApiCandidateSource:
         match = re.match(r"(19|20)\d{2}", str(value or ""))
         return int(match.group(0)) if match else None
 
+    def country_filter_id(self, lang_id: int = DEFAULT_LANG_ID) -> int:
+        if self._country_filter_id is not None:
+            return self._country_filter_id
+        override = os.getenv("AUTOSPEC_AUTOPARTS_COUNTRY_FILTER_ID")
+        if override:
+            try:
+                self._country_filter_id = int(override)
+                return self._country_filter_id
+            except ValueError:
+                pass
+        payload = self._get_json(f"countries/list-countries-by-lang-id/{lang_id}")
+        rows = self._find_list(payload, ("countries", "results", "items", "data"))
+        wanted = {"UNITEDSTATES", "UNITEDSTATESOFAMERICA", "USA", "US"}
+        for item in rows:
+            name = self._first(item, "countryName", "name", "description")
+            if self._norm(name) in wanted:
+                raw_id = self._first(item, "countryFilterId", "countryId", "id")
+                try:
+                    self._country_filter_id = int(raw_id)
+                    return self._country_filter_id
+                except (TypeError, ValueError):
+                    continue
+        raise RuntimeError("United States countryFilterId not found in AutoPartsAPI countries list")
+
     def ping(self) -> dict[str, object]:
         payload = self._get_json("languages/list")
         rows = self._find_list(payload, ("languages", "results", "items", "data"))
+        country_filter_id = self.country_filter_id() if payload else None
         return {
             "configured": self.configured,
             "ok": bool(payload),
             "language_count": len(rows),
+            "country_filter_id": country_filter_id,
             "base_url": self.base_url,
         }
 
@@ -123,66 +142,31 @@ class AutoPartsApiCandidateSource:
                 return item
         return None
 
-    def _models(
-        self,
-        manufacturer_id: int,
-        type_id: int = DEFAULT_TYPE_ID,
-        lang_id: int = DEFAULT_LANG_ID,
-        country_filter_id: int = DEFAULT_COUNTRY_FILTER_ID,
-    ) -> list[dict[str, object]]:
+    def _models(self, manufacturer_id: int, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID, country_filter_id: int | None = None) -> list[dict[str, object]]:
+        country_filter_id = country_filter_id or self.country_filter_id(lang_id)
         payload = self._get_json(
             f"models/list/type-id/{type_id}/manufacturer-id/{manufacturer_id}/lang-id/{lang_id}/country-filter-id/{country_filter_id}"
         )
         return self._find_list(payload, ("models", "results", "items", "data"))
 
-    def _vehicles(
-        self,
-        model_id: int,
-        type_id: int = DEFAULT_TYPE_ID,
-        lang_id: int = DEFAULT_LANG_ID,
-        country_filter_id: int = DEFAULT_COUNTRY_FILTER_ID,
-    ) -> list[dict[str, object]]:
+    def _vehicles(self, model_id: int, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID, country_filter_id: int | None = None) -> list[dict[str, object]]:
+        country_filter_id = country_filter_id or self.country_filter_id(lang_id)
         payload = self._get_json(
-            f"types/type-id/{type_id}/list-vehicles-id/{model_id}/lang-id/{lang_id}/country-filter-id/{country_filter_id}"
+            f"types/type-id/{type_id}/list-vehicles-types/{model_id}/lang-id/{lang_id}/country-filter-id/{country_filter_id}"
         )
         return self._find_list(payload, ("vehicles", "vehicleTypes", "types", "results", "items", "data"))
 
-    def _vehicle_details(
-        self,
-        vehicle_id: int,
-        type_id: int = DEFAULT_TYPE_ID,
-        lang_id: int = DEFAULT_LANG_ID,
-        country_filter_id: int = DEFAULT_COUNTRY_FILTER_ID,
-    ) -> dict[str, object]:
-        payload = self._get_json(
-            f"types/type-id/{type_id}/vehicle-type-details/{vehicle_id}/lang-id/{lang_id}/country-filter-id/{country_filter_id}"
-        )
-        if isinstance(payload, dict):
-            for key in ("vehicle", "vehicleType", "result", "data"):
-                value = payload.get(key)
-                if isinstance(value, dict):
-                    return value
-            return payload
-        return {}
-
-    def vehicle_candidates(
-        self,
-        query: CatalogVehicleQuery,
-        type_id: int = DEFAULT_TYPE_ID,
-        lang_id: int = DEFAULT_LANG_ID,
-        country_filter_id: int = DEFAULT_COUNTRY_FILTER_ID,
-    ) -> list[dict[str, object]]:
+    def vehicle_candidates(self, query: CatalogVehicleQuery, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID, country_filter_id: int | None = None) -> list[dict[str, object]]:
+        country_filter_id = country_filter_id or self.country_filter_id(lang_id)
         resolved = self.resolve_vehicle(query, type_id, lang_id, country_filter_id)
         if resolved.get("reason") != "matched":
             return []
-
         wanted_year = query.year_min
         wanted_engine = str(query.engine or "").lower()
         wanted_disp = None
         match = re.search(r"(\d+(?:\.\d+)?)\s*l", wanted_engine, flags=re.I)
         if match:
             wanted_disp = float(match.group(1))
-
         output: list[dict[str, object]] = []
         for model in resolved.get("model_matches", []):
             if not isinstance(model, dict):
@@ -200,14 +184,7 @@ class AutoPartsApiCandidateSource:
             except (TypeError, ValueError):
                 continue
             for vehicle in self._vehicles(model_id, type_id, lang_id, country_filter_id):
-                vehicle_id_raw = self._first(vehicle, "vehicleId", "carId", "id", "typeId")
-                try:
-                    vehicle_id = int(vehicle_id_raw)
-                except (TypeError, ValueError):
-                    continue
-                details = self._vehicle_details(vehicle_id, type_id, lang_id, country_filter_id)
-                row = {**vehicle, **details}
-                row["vehicleId"] = vehicle_id
+                row = dict(vehicle)
                 row["modelId"] = model_id
                 row["modelName"] = self._first(model, "modelName", "name", "model")
                 text = " ".join(str(v or "") for v in row.values()).lower()
@@ -229,30 +206,14 @@ class AutoPartsApiCandidateSource:
                         score += 4
                 row["matchScore"] = score
                 output.append(row)
-
         return sorted(output, key=lambda item: int(item.get("matchScore") or 0), reverse=True)
 
-    def categories_for_vehicle(
-        self,
-        vehicle_id: int,
-        type_id: int = DEFAULT_TYPE_ID,
-        lang_id: int = DEFAULT_LANG_ID,
-    ) -> list[dict[str, object]]:
-        payload = self._get_json(
-            f"category/type-id/{type_id}/products-groups-variant-4/{vehicle_id}/lang-id/{lang_id}"
-        )
+    def categories_for_vehicle(self, vehicle_id: int, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID) -> list[dict[str, object]]:
+        payload = self._get_json(f"category/type-id/{type_id}/products-groups-variant-4/{vehicle_id}/lang-id/{lang_id}")
         return self._find_list(payload, ("categories", "productGroups", "results", "items", "data"))
 
-    def _matching_category_ids(
-        self,
-        vehicle_id: int,
-        category: str,
-        type_id: int = DEFAULT_TYPE_ID,
-        lang_id: int = DEFAULT_LANG_ID,
-    ) -> list[int]:
+    def _matching_category_ids(self, vehicle_id: int, category: str, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID) -> list[int]:
         terms = _CATEGORY_TERMS.get(str(category or "").strip().lower(), ())
-        if not terms:
-            return []
         ids: list[int] = []
         for item in self.categories_for_vehicle(vehicle_id, type_id, lang_id):
             name = str(self._first(item, "categoryName", "productGroupName", "name", "description") or "").upper()
@@ -265,35 +226,20 @@ class AutoPartsApiCandidateSource:
                 continue
         return list(dict.fromkeys(ids))
 
-    def _articles(
-        self,
-        vehicle_id: int,
-        category_id: int,
-        type_id: int = DEFAULT_TYPE_ID,
-        lang_id: int = DEFAULT_LANG_ID,
-    ) -> list[dict[str, object]]:
-        payload = self._get_json(
-            f"articles/list/type-id/{type_id}/vehicle-id/{vehicle_id}/category-id/{category_id}/lang-id/{lang_id}"
-        )
+    def _articles(self, vehicle_id: int, category_id: int, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID) -> list[dict[str, object]]:
+        payload = self._get_json(f"articles/list/type-id/{type_id}/vehicle-id/{vehicle_id}/category-id/{category_id}/lang-id/{lang_id}")
         return self._find_list(payload, ("articles", "results", "items", "data"))
 
-    def resolve_vehicle(
-        self,
-        query: CatalogVehicleQuery,
-        type_id: int = DEFAULT_TYPE_ID,
-        lang_id: int = DEFAULT_LANG_ID,
-        country_filter_id: int = DEFAULT_COUNTRY_FILTER_ID,
-    ) -> dict[str, object]:
+    def resolve_vehicle(self, query: CatalogVehicleQuery, type_id: int = DEFAULT_TYPE_ID, lang_id: int = DEFAULT_LANG_ID, country_filter_id: int | None = None) -> dict[str, object]:
+        country_filter_id = country_filter_id or self.country_filter_id(lang_id)
         manufacturer = self._manufacturer(query.make, type_id=type_id)
         if not manufacturer:
             return {"reason": "manufacturer_not_found"}
-
         manufacturer_id_raw = self._first(manufacturer, "manuId", "manufacturerId", "id")
         try:
             manufacturer_id = int(manufacturer_id_raw)
         except (TypeError, ValueError):
             return {"reason": "manufacturer_id_missing", "manufacturer": manufacturer}
-
         wanted_model = self._norm(query.model)
         model_matches: list[dict[str, object]] = []
         for item in self._models(manufacturer_id, type_id, lang_id, country_filter_id):
@@ -301,11 +247,11 @@ class AutoPartsApiCandidateSource:
             normalized = self._norm(name)
             if normalized == wanted_model or (wanted_model and wanted_model in normalized):
                 model_matches.append(item)
-
         return {
             "reason": "matched" if model_matches else "model_not_found",
             "manufacturer_id": manufacturer_id,
             "manufacturer": manufacturer,
+            "country_filter_id": country_filter_id,
             "model_matches": model_matches,
             "query": {
                 "make": query.make,
@@ -319,20 +265,22 @@ class AutoPartsApiCandidateSource:
     def discover(self, query: CatalogVehicleQuery, category: str) -> list[CatalogPartCandidate]:
         if not self.configured:
             return []
-
         vehicles = self.vehicle_candidates(query)
         if not vehicles:
             return []
         best_score = int(vehicles[0].get("matchScore") or 0)
         if best_score <= 0:
             return []
-
         candidates: list[CatalogPartCandidate] = []
         seen: set[tuple[str, str]] = set()
         for vehicle in vehicles:
             if int(vehicle.get("matchScore") or 0) != best_score:
                 break
-            vehicle_id = int(vehicle["vehicleId"])
+            vehicle_id_raw = self._first(vehicle, "vehicleId", "carId", "id", "typeId")
+            try:
+                vehicle_id = int(vehicle_id_raw)
+            except (TypeError, ValueError):
+                continue
             for category_id in self._matching_category_ids(vehicle_id, category):
                 for item in self._articles(vehicle_id, category_id):
                     brand = str(self._first(item, "supplierName", "brandName", "manufacturerName", "brand") or "").strip()
@@ -343,22 +291,20 @@ class AutoPartsApiCandidateSource:
                     if key in seen:
                         continue
                     seen.add(key)
-                    candidates.append(
-                        CatalogPartCandidate(
-                            category=str(category or "").strip().lower(),
-                            brand=brand,
-                            part_number=part_number,
-                            source=self.name,
-                            confidence=0.55,
-                            metadata={
-                                "discovery_only": True,
-                                "trusted_evidence": False,
-                                "vehicle_id": vehicle_id,
-                                "category_id": category_id,
-                                "match_score": best_score,
-                                "vehicle": vehicle,
-                                "raw": item,
-                            },
-                        )
-                    )
+                    candidates.append(CatalogPartCandidate(
+                        category=str(category or "").strip().lower(),
+                        brand=brand,
+                        part_number=part_number,
+                        source=self.name,
+                        confidence=0.55,
+                        metadata={
+                            "discovery_only": True,
+                            "trusted_evidence": False,
+                            "vehicle_id": vehicle_id,
+                            "category_id": category_id,
+                            "match_score": best_score,
+                            "vehicle": vehicle,
+                            "raw": item,
+                        },
+                    ))
         return candidates
