@@ -16,6 +16,7 @@ if __package__ in (None, ""):
     from Maintenance.Verify.cache import VerificationCache
     from Maintenance.Verify.models import PartRef, SourceHit, VerificationDecision
     from Maintenance.Verify.normalize import normalize_brand, normalize_part_number
+    from Maintenance.Verify.providers.base import CatalogVehicleQuery
     from Maintenance.Verify.providers.registry import get_provider
     from Maintenance.Verify.scoring import auto_approve, score_hits
 else:
@@ -23,12 +24,14 @@ else:
     from .cache import VerificationCache
     from .models import PartRef, SourceHit, VerificationDecision
     from .normalize import normalize_brand, normalize_part_number
+    from .providers.base import CatalogVehicleQuery
     from .providers.registry import get_provider
     from .scoring import auto_approve, score_hits
 
 DEFAULT_QUEUE = REPO_ROOT / "air_filter_verification_queue.json"
 DEFAULT_OUT = REPO_ROOT / "air_filter_verification_decisions.json"
 DEFAULT_WIX_AUDIT = REPO_ROOT / "air_filter_wix_audit.json"
+DEFAULT_WIX_DISCOVERY = REPO_ROOT / "air_filter_wix_discovery.json"
 DEFAULT_VEHICLES = REPO_ROOT / "data" / "canonical" / "vehicles.json"
 DEFAULT_CACHE = REPO_ROOT / ".cache" / "parts_verification.sqlite3"
 
@@ -147,44 +150,21 @@ def _diagnose_vehicle(vehicle: dict[str, Any], applications: list[dict[str, Any]
 
     make_matches = [app for app in applications if _make_match(vehicle.get("make"), app.get("make"))]
     if not make_matches:
-        return {
-            "reason": "make_mismatch",
-            "vehicle": vehicle,
-            "sample_applications": applications[:5],
-        }
+        return {"reason": "make_mismatch", "vehicle": vehicle, "sample_applications": applications[:5]}
 
     model_matches = [app for app in make_matches if _model_match(vehicle.get("model"), app.get("model"))]
     if not model_matches:
-        return {
-            "reason": "model_mismatch",
-            "vehicle": vehicle,
-            "same_make_applications": make_matches[:10],
-        }
+        return {"reason": "model_mismatch", "vehicle": vehicle, "same_make_applications": make_matches[:10]}
 
-    year_matches = [
-        app for app in model_matches
-        if _year_overlap(vy0, vy1, app.get("year_min"), app.get("year_max"))
-    ]
+    year_matches = [app for app in model_matches if _year_overlap(vy0, vy1, app.get("year_min"), app.get("year_max"))]
     if not year_matches:
-        return {
-            "reason": "year_mismatch",
-            "vehicle": vehicle,
-            "same_make_model_applications": model_matches[:10],
-        }
+        return {"reason": "year_mismatch", "vehicle": vehicle, "same_make_model_applications": model_matches[:10]}
 
     engine_matches = [app for app in year_matches if _engine_match(vehicle.get("engine_label"), app.get("engine"))]
     if not engine_matches:
-        return {
-            "reason": "engine_mismatch",
-            "vehicle": vehicle,
-            "same_make_model_year_applications": year_matches[:10],
-        }
+        return {"reason": "engine_mismatch", "vehicle": vehicle, "same_make_model_year_applications": year_matches[:10]}
 
-    return {
-        "reason": "matched",
-        "vehicle": vehicle,
-        "matching_applications": engine_matches[:10],
-    }
+    return {"reason": "matched", "vehicle": vehicle, "matching_applications": engine_matches[:10]}
 
 
 def _print_wix_applications(part: str, applications: list[dict[str, Any]], limit: int) -> None:
@@ -193,13 +173,7 @@ def _print_wix_applications(part: str, applications: list[dict[str, Any]], limit
         years = app.get("year_min")
         if app.get("year_max") not in (None, years):
             years = f"{years}-{app.get('year_max')}"
-        print(
-            "  "
-            + " | ".join(
-                str(value or "")
-                for value in (app.get("make"), app.get("model"), years, app.get("engine"))
-            )
-        )
+        print("  " + " | ".join(str(value or "") for value in (app.get("make"), app.get("model"), years, app.get("engine"))))
 
 
 def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -> int:
@@ -219,10 +193,7 @@ def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -
         hits = tuple(
             SourceHit(
                 source=normalize_brand(item.get("brand")) or "unknown",
-                query=PartRef(
-                    normalize_brand(item.get("brand")) or "unknown",
-                    normalize_part_number(item.get("part_number")),
-                ),
+                query=PartRef(normalize_brand(item.get("brand")) or "unknown", normalize_part_number(item.get("part_number"))),
                 matched_part=None,
                 confidence=0.0,
                 notes="Seed candidate only; not trusted verification evidence.",
@@ -245,12 +216,7 @@ def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -
         decision["would_auto_approve_after_external_verification"] = auto_approve(score, threshold)
         decisions.append(decision)
 
-    payload = {
-        "contract": "parts_verification_decisions_v1",
-        "queue": str(queue_path),
-        "threshold": threshold,
-        "decisions": decisions,
-    }
+    payload = {"contract": "parts_verification_decisions_v1", "queue": str(queue_path), "threshold": threshold, "decisions": decisions}
     save(out_path, payload)
     print(f"Families processed: {len(decisions)}")
     print(f"Output: {out_path}")
@@ -258,29 +224,63 @@ def build_review_decisions(queue_path: Path, out_path: Path, threshold: float) -
     return 0
 
 
-def wix_audit(
-    queue_path: Path,
-    vehicles_path: Path,
-    out_path: Path,
-    cache_path: Path,
-    limit: int,
-    diagnostic_limit: int,
-    show_applications: int,
-) -> int:
+def wix_discover(vehicles_path: Path, out_path: Path, engine_code: str, limit: int) -> int:
+    vehicles_by_engine = _vehicle_index(vehicles_path)
+    vehicles = vehicles_by_engine.get(engine_code, [])
+    if not vehicles:
+        print(f"No canonical vehicles found for engine code: {engine_code}")
+        return 1
+
+    provider = get_provider("wix")
+    results: list[dict[str, Any]] = []
+    for vehicle in vehicles[:max(1, limit)]:
+        query = CatalogVehicleQuery(
+            make=str(vehicle.get("make") or ""),
+            model=str(vehicle.get("model") or ""),
+            year_min=vehicle.get("year_min") if isinstance(vehicle.get("year_min"), int) else None,
+            year_max=vehicle.get("year_max") if isinstance(vehicle.get("year_max"), int) else None,
+            engine=str(vehicle.get("engine_label") or ""),
+        )
+        hits = provider.lookup_vehicle(query)
+        candidates: list[dict[str, Any]] = []
+        for hit in hits:
+            if hit.matched_part is None:
+                continue
+            part = normalize_part_number(hit.matched_part.part_number)
+            applications = [app.__dict__ for app in provider.applications_for_part(part)]
+            diagnosis = _diagnose_vehicle(vehicle, applications)
+            if diagnosis.get("reason") != "matched":
+                continue
+            candidates.append({
+                "part_number": part,
+                "source_url": hit.url,
+                "application_count": len(applications),
+                "matched_applications": diagnosis.get("matching_applications") or [],
+            })
+        results.append({"engine_code": engine_code, "vehicle": vehicle, "candidates": candidates})
+        label = f"{vehicle.get('make')} {vehicle.get('model')} {vehicle.get('engine_label')}"
+        if candidates:
+            print(f"{label}: " + ", ".join(f"WIX {item['part_number']}" for item in candidates))
+        else:
+            print(f"{label}: no verified WIX candidate discovered")
+
+    save(out_path, {"contract": "wix_vehicle_discovery_v1", "vehicles": str(vehicles_path), "results": results})
+    print(f"Discovery: {out_path}")
+    return 0
+
+
+def wix_audit(queue_path: Path, vehicles_path: Path, out_path: Path, cache_path: Path, limit: int, diagnostic_limit: int, show_applications: int) -> int:
     queue = load(queue_path)
     families = queue.get("families", []) if isinstance(queue, dict) else []
     vehicles_by_engine = _vehicle_index(vehicles_path)
     results: list[dict[str, Any]] = []
     applications_shown = False
 
-    with VerificationCache(cache_path) as cache:  # type: ignore[attr-defined]
+    with VerificationCache(cache_path) as cache:
         for family in families[:limit]:
             if not isinstance(family, dict):
                 continue
-            wix_candidates = [
-                item for item in (family.get("current_part_family") or [])
-                if isinstance(item, dict) and str(item.get("brand", "")).strip().lower() == "wix"
-            ]
+            wix_candidates = [item for item in (family.get("current_part_family") or []) if isinstance(item, dict) and str(item.get("brand", "")).strip().lower() == "wix"]
             if not wix_candidates:
                 continue
 
@@ -293,10 +293,10 @@ def wix_audit(
             affected_engines = list(family.get("affected_engines") or [])
             engine_matches: dict[str, list[dict[str, Any]]] = {}
             diagnostics: dict[str, list[dict[str, Any]]] = {}
-            for engine_code in affected_engines:
+            for code in affected_engines:
                 matches: list[dict[str, Any]] = []
                 engine_diagnostics: list[dict[str, Any]] = []
-                for vehicle in vehicles_by_engine.get(engine_code, []):
+                for vehicle in vehicles_by_engine.get(code, []):
                     diagnosis = _diagnose_vehicle(vehicle, applications)
                     if diagnosis["reason"] == "matched":
                         for app in diagnosis.get("matching_applications") or []:
@@ -304,23 +304,17 @@ def wix_audit(
                     elif len(engine_diagnostics) < diagnostic_limit:
                         engine_diagnostics.append(diagnosis)
                 if matches:
-                    engine_matches[engine_code] = matches
+                    engine_matches[code] = matches
                 elif engine_diagnostics:
-                    diagnostics[engine_code] = engine_diagnostics
-                elif engine_code not in vehicles_by_engine:
-                    diagnostics[engine_code] = [{"reason": "engine_code_not_in_vehicle_index"}]
+                    diagnostics[code] = engine_diagnostics
+                elif code not in vehicles_by_engine:
+                    diagnostics[code] = [{"reason": "engine_code_not_in_vehicle_index"}]
 
             matched_count = len(engine_matches)
             total = len(affected_engines)
             ratio = (matched_count / total) if total else 0.0
-            if total and matched_count == total:
-                verdict = "SUPPORTED"
-            elif matched_count:
-                verdict = "PARTIAL"
-            else:
-                verdict = "REJECT_CANDIDATE"
-
-            result = {
+            verdict = "SUPPORTED" if total and matched_count == total else ("PARTIAL" if matched_count else "REJECT_CANDIDATE")
+            results.append({
                 "wix_part_number": part,
                 "impact": family.get("impact"),
                 "group_keys": family.get("group_keys") or [],
@@ -332,32 +326,20 @@ def wix_audit(
                 "matched_engines": sorted(engine_matches),
                 "diagnostics": diagnostics,
                 "applications": applications,
-            }
-            results.append(result)
-            print(
-                f"WIX {part}: {verdict}  matched={matched_count}/{total} "
-                f"applications={len(applications)}"
-            )
+            })
+            print(f"WIX {part}: {verdict}  matched={matched_count}/{total} applications={len(applications)}")
             if diagnostic_limit > 0 and verdict != "SUPPORTED":
                 shown = 0
-                for engine_code, entries in diagnostics.items():
+                for code, entries in diagnostics.items():
                     if shown >= diagnostic_limit:
                         break
                     first = entries[0] if entries else {"reason": "unknown"}
                     vehicle = first.get("vehicle") or {}
-                    expected = " ".join(
-                        str(vehicle.get(key) or "")
-                        for key in ("make", "model", "engine_label")
-                    ).strip()
-                    print(f"  {engine_code}: {first.get('reason')}" + (f" | {expected}" if expected else ""))
+                    expected = " ".join(str(vehicle.get(key) or "") for key in ("make", "model", "engine_label")).strip()
+                    print(f"  {code}: {first.get('reason')}" + (f" | {expected}" if expected else ""))
                     shown += 1
 
-    save(out_path, {
-        "contract": "wix_application_audit_v1",
-        "queue": str(queue_path),
-        "vehicles": str(vehicles_path),
-        "results": results,
-    })
+    save(out_path, {"contract": "wix_application_audit_v1", "queue": str(queue_path), "vehicles": str(vehicles_path), "results": results})
     print(f"Audit: {out_path}")
     return 0
 
@@ -379,6 +361,12 @@ def parse_args() -> argparse.Namespace:
     wix.add_argument("--limit", type=int, default=20)
     wix.add_argument("--diagnostic-limit", type=int, default=3)
     wix.add_argument("--show-applications", type=int, default=0)
+
+    discover = sub.add_parser("wix-discover", help="Discover and application-verify WIX candidates from a canonical engine code")
+    discover.add_argument("engine_code")
+    discover.add_argument("--vehicles", type=Path, default=DEFAULT_VEHICLES)
+    discover.add_argument("--out", type=Path, default=DEFAULT_WIX_DISCOVERY)
+    discover.add_argument("--limit", type=int, default=5)
     return parser.parse_args()
 
 
@@ -387,15 +375,9 @@ def main() -> int:
     if args.command == "review":
         return build_review_decisions(args.queue, args.out, args.threshold)
     if args.command == "wix-audit":
-        return wix_audit(
-            args.queue,
-            args.vehicles,
-            args.out,
-            args.cache,
-            args.limit,
-            args.diagnostic_limit,
-            args.show_applications,
-        )
+        return wix_audit(args.queue, args.vehicles, args.out, args.cache, args.limit, args.diagnostic_limit, args.show_applications)
+    if args.command == "wix-discover":
+        return wix_discover(args.vehicles, args.out, args.engine_code, args.limit)
     return 2
 
 
