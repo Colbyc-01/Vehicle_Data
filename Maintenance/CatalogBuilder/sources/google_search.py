@@ -35,6 +35,20 @@ _BRANDS = (
     "K&N",
 )
 
+_PART_PATTERNS = {
+    "WIX": r"(?:WA|WL|WP|WF|WS)?\d{4,6}[A-Z]?",
+    "FRAM": r"(?:CA|CF|PH|XG|TG|CH)\d{3,6}[A-Z]?",
+    "PUROLATOR": r"(?:A|C|L|P)[A-Z]?\d{4,6}",
+    "MANN": r"[A-Z]{1,3}\s?\d{3,6}(?:/\d)?",
+    "MAHLE": r"[A-Z]{1,3}\s?\d{3,6}",
+    "ACDELCO": r"[A-Z]{1,4}\d{3,6}[A-Z]?",
+    "MOTORCRAFT": r"[A-Z]{1,4}-?\d{3,6}[A-Z]?",
+    "MOPAR": r"\d{7,10}[A-Z]{0,2}",
+    "DENSO": r"[A-Z]{0,4}\d{4,8}[A-Z]?",
+    "BOSCH": r"[A-Z0-9]{4,12}",
+    "K&N": r"[A-Z]{2}-?\d{3,6}",
+}
+
 
 class GoogleSearchCandidateSource:
     """Discovery-only fallback using public search-result text.
@@ -52,7 +66,8 @@ class GoogleSearchCandidateSource:
             url,
             headers={
                 "Accept": "text/html,application/xhtml+xml",
-                "User-Agent": "Mozilla/5.0 AutoSpecCatalogBuilder/1.0",
+                "Accept-Language": "en-US,en;q=0.9",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36",
             },
         )
         with urllib.request.urlopen(req, timeout=20.0) as response:
@@ -72,51 +87,71 @@ class GoogleSearchCandidateSource:
         )
         return " ".join(value for value in values if value)
 
+    @staticmethod
+    def _clean_part(value: str) -> str:
+        return re.sub(r"[^A-Za-z0-9]", "", value).upper()
+
+    def _queries(self, query: CatalogVehicleQuery, term: str) -> tuple[str, ...]:
+        vehicle = self._vehicle_text(query)
+        return (
+            f'"{vehicle}" "{term}"',
+            f'{vehicle} {term} WIX FRAM Purolator',
+            f'{query.year_min or ""} {query.make} {query.model} {term} part number',
+        )
+
     def discover(self, query: CatalogVehicleQuery, category: str) -> list[CatalogPartCandidate]:
         category_key = str(category or "").strip().lower()
         term = _CATEGORY_TERMS.get(category_key)
         if not term:
             return []
 
-        search_text = f'"{self._vehicle_text(query)}" "{term}" part number'
-        url = GOOGLE_SEARCH_URL + "?" + urllib.parse.urlencode({"q": search_text, "num": "20"})
-        try:
-            page = self._fetch(url)
-        except Exception:
-            return []
-
-        text = self._text(page)
-        if not text:
-            return []
-
         candidates: list[CatalogPartCandidate] = []
         seen: set[tuple[str, str]] = set()
-        for brand in _BRANDS:
-            pattern = re.compile(
-                rf"\b{re.escape(brand)}\b[^.;|]{{0,100}}?\b(?:part(?:\s+number)?|p/?n|filter)?\s*[:#-]?\s*([A-Z0-9][A-Z0-9-]{{3,20}})\b",
-                flags=re.I,
-            )
-            for match in pattern.finditer(text):
-                part = re.sub(r"[^A-Za-z0-9]", "", match.group(1)).upper()
-                if len(part) < 4 or part.isdigit() and len(part) == 4 and part.startswith("20"):
-                    continue
-                key = (brand.upper(), part)
-                if key in seen:
-                    continue
-                seen.add(key)
-                candidates.append(
-                    CatalogPartCandidate(
-                        category=category_key,
-                        brand=brand,
-                        part_number=part,
-                        source=self.name,
-                        confidence=0.2,
-                        metadata={
-                            "discovery_only": True,
-                            "trusted_evidence": False,
-                            "search_url": url,
-                            "search_text": search_text,
-                        },
-                    )
+
+        for search_text in self._queries(query, term):
+            url = GOOGLE_SEARCH_URL + "?" + urllib.parse.urlencode({"q": search_text, "num": "20", "filter": "0"})
+            try:
+                page = self._fetch(url)
+            except Exception:
+                continue
+
+            text = self._text(page)
+            if not text:
+                continue
+
+            for brand in _BRANDS:
+                brand_key = brand.upper().replace("&", "")
+                part_pattern = _PART_PATTERNS.get(brand_key, r"[A-Z0-9][A-Z0-9-]{3,20}")
+                patterns = (
+                    rf"\b{re.escape(brand)}\b[^.;|]{{0,120}}?\b({part_pattern})\b",
+                    rf"\b({part_pattern})\b[^.;|]{{0,80}}?\b{re.escape(brand)}\b",
                 )
+                for pattern in patterns:
+                    for match in re.finditer(pattern, text, flags=re.I):
+                        raw = match.group(1)
+                        part = self._clean_part(raw)
+                        if len(part) < 4:
+                            continue
+                        if part.isdigit() and len(part) == 4 and part.startswith("20"):
+                            continue
+                        key = (brand.upper(), part)
+                        if key in seen:
+                            continue
+                        seen.add(key)
+                        candidates.append(
+                            CatalogPartCandidate(
+                                category=category_key,
+                                brand=brand,
+                                part_number=part,
+                                source=self.name,
+                                confidence=0.2,
+                                metadata={
+                                    "discovery_only": True,
+                                    "trusted_evidence": False,
+                                    "search_url": url,
+                                    "search_text": search_text,
+                                },
+                            )
+                        )
+
         return candidates
