@@ -17,6 +17,15 @@ class CatalogApplication:
     metadata: dict[str, Any] | None = None
 
 
+@dataclass(frozen=True)
+class CatalogVehicleQuery:
+    make: str
+    model: str
+    year_min: int | None = None
+    year_max: int | None = None
+    engine: str = ""
+
+
 class CatalogProvider(ABC):
     name: str
 
@@ -26,6 +35,14 @@ class CatalogProvider(ABC):
 
     def lookup_oem(self, oem_number: str) -> list[SourceHit]:
         return self.lookup_part(oem_number)
+
+    def lookup_vehicle(self, query: CatalogVehicleQuery) -> list[SourceHit]:
+        """Discover catalog parts by vehicle fitment when a provider supports it."""
+        return []
+
+    @property
+    def supports_vehicle_lookup(self) -> bool:
+        return self.__class__.lookup_vehicle is not CatalogProvider.lookup_vehicle
 
     def applications_for_part(self, part_number: str) -> list[CatalogApplication]:
         applications: list[CatalogApplication] = []
