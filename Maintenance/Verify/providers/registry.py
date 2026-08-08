@@ -1,10 +1,12 @@
 from __future__ import annotations
 
 from .base import CatalogProvider
+from .fram import FramProvider
 from .wix import WixProvider
 
 
 _PROVIDERS: tuple[CatalogProvider, ...] = (
+    FramProvider(),
     WixProvider(),
 )
 
