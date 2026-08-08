@@ -42,3 +42,9 @@ class VerificationCache:
 
     def close(self) -> None:
         self.conn.close()
+
+    def __enter__(self) -> "VerificationCache":
+        return self
+
+    def __exit__(self, *_: object) -> None:
+        self.close()
