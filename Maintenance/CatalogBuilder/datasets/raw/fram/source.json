@@ -1,22 +1,39 @@
 {
   "source_id": "fram",
   "source_name": "FRAM",
-  "status": "research_ready",
+  "status": "permission_required_manual_verifier",
   "priority": 2,
-  "role": ["candidate", "verification"],
+  "role": ["manual_verification"],
   "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter", "transmission_filter"],
   "us_fitment": true,
   "raw_location": "Maintenance/CatalogBuilder/datasets/raw/fram/",
-  "rights_status": "review_required",
+  "rights_status": "written_permission_required_for_commercial_reuse",
   "acquisition": {
-    "mode": "public_application_tables_or_download",
-    "artifact_status": "not_acquired",
-    "required_before_ingest": ["exact_access_url", "terms_review", "cache_rights_review"]
+    "mode": "public_vehicle_application_pages",
+    "artifact_status": "live_catalog_confirmed",
+    "official_catalog_home": "https://www.fram.com/",
+    "observed_vehicle_flow": ["category", "make", "model", "year", "matching_part"],
+    "observed_part_number_search": true,
+    "required_before_bulk_ingest": ["written_permission_from_fram", "cache_rights_confirmation", "redistribution_rights_confirmation"]
+  },
+  "evidence": {
+    "reviewed_utc_date": "2026-08-09",
+    "confirmed_claims": [
+      "FRAM publishes public US vehicle application pages by maintenance category, make, model, and year.",
+      "The public catalog advertises vehicle search and FRAM/competitor part-number search.",
+      "FRAM terms restrict copying, downloading, reuse, rebroadcast, and other reuse of site materials without prior written consent, except non-commercial personal use."
+    ],
+    "example_public_fitment_pages": [
+      "https://www.fram.com/engine-air-filters/toyota/matrix",
+      "https://www.fram.com/oil-filters/mercedes-benz/cl55-amg"
+    ],
+    "terms_url": "https://www.fram.com/es/privacy-policy"
   },
   "acceptance": {
     "must_return_exact_part_numbers": true,
     "must_include_vehicle_fitment": true,
     "single_source_is_verification": false
   },
-  "notes": "Second filter target and independent corroboration for WIX. Preserve original artifacts unchanged."
+  "next_action": "Do not bulk ingest FRAM site data without written permission. Retain FRAM as a manual/reference verifier and continue source search for a source with explicit commercial caching or redistribution rights.",
+  "notes": "FRAM fitment capability is confirmed, but current published terms make it unsuitable for automated commercial ingestion without written consent."
 }
