@@ -1,22 +1,36 @@
 {
   "source_id": "gates",
   "source_name": "Gates",
-  "status": "research_ready",
+  "status": "permission_required_bulk_ingest",
   "priority": 6,
-  "role": ["candidate", "verification"],
+  "role": ["manual_verification", "permission_required_candidate"],
   "categories": ["serpentine_belt", "tensioner", "hose"],
   "us_fitment": true,
   "raw_location": "Maintenance/CatalogBuilder/datasets/raw/gates/",
-  "rights_status": "review_required",
+  "rights_status": "written_permission_required_for_commercial_reuse",
   "acquisition": {
-    "mode": "official_application_catalog_or_download",
-    "artifact_status": "not_acquired",
-    "required_before_ingest": ["exact_access_url", "terms_review", "cache_rights_review"]
+    "mode": "official_application_guides_and_catalogs",
+    "artifact_status": "official_catalogs_confirmed",
+    "official_resources_url": "https://www.gates.com/us/en/knowledge-center/resource-library.html",
+    "official_product_catalogs_url": "https://www.gates.com/us/en/knowledge-center/resource-library/product-catalogs.html",
+    "official_terms_url": "https://www.gates.com/termsofuse.html",
+    "observed_artifacts": [
+      "application specifications",
+      "product catalogs",
+      "automotive application guides"
+    ],
+    "required_before_bulk_ingest": ["written_permission_or_separate_data_license"]
+  },
+  "rights_review": {
+    "reviewed_utc_date": "2026-08-09",
+    "finding": "Gates Terms of Use state that site content may not be used, copied, reproduced, distributed, republished, downloaded, modified, displayed, posted, or transmitted without express prior written permission, except temporary personal noncommercial access/use.",
+    "decision": "Do not scrape, bulk ingest, cache, or redistribute Gates catalog content for AutoSpec without written permission or a separate commercial data license. Public catalogs may still be consulted manually as corroborating evidence where appropriate."
   },
   "acceptance": {
     "must_return_exact_part_numbers": true,
     "must_include_vehicle_fitment": true,
     "single_source_is_verification": false
   },
-  "notes": "Primary belt-drive acquisition target. Preserve original artifacts unchanged and corroborate fitment independently."
+  "next_action": "Deprioritize Gates for automated ingestion and continue hunting for a source with explicit commercial reuse rights, permissive licensing, or a downloadable data artifact whose license permits AutoSpec ingestion.",
+  "notes": "Useful official fitment/application source, but not a safe bulk data source under published website terms without permission."
 }
