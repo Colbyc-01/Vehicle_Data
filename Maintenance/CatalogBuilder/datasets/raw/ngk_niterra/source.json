@@ -1,7 +1,7 @@
 {
   "source_id": "ngk_niterra",
   "source_name": "NGK / Niterra",
-  "status": "research_ready",
+  "status": "artifact_confirmed_rights_review_required",
   "priority": 5,
   "role": ["candidate", "verification"],
   "categories": ["spark_plug", "ignition"],
@@ -9,14 +9,32 @@
   "raw_location": "Maintenance/CatalogBuilder/datasets/raw/ngk_niterra/",
   "rights_status": "review_required",
   "acquisition": {
-    "mode": "official_application_catalog_or_download",
-    "artifact_status": "not_acquired",
-    "required_before_ingest": ["exact_access_url", "terms_review", "cache_rights_review"]
+    "mode": "official_part_finder_and_downloadable_catalog",
+    "artifact_status": "official_automotive_catalog_pdf_confirmed",
+    "official_part_finder_url": "https://ngksparkplugs.com/en/part-finder",
+    "official_media_vault_url": "https://ngksparkplugs.com/en/media-vault",
+    "confirmed_artifacts": [
+      "Automotive catalog PDF",
+      "Ignition coil and wire set catalog PDF",
+      "Spark plug automotive cross-reference PDF",
+      "Part-number to stock-number cross-reference PDF",
+      "Stock-number to part-number cross-reference PDF"
+    ],
+    "required_before_bulk_ingest": ["terms_review", "commercial_use_review", "cache_rights_review", "redistribution_rights_review"]
+  },
+  "evidence": {
+    "reviewed_utc_date": "2026-08-09",
+    "confirmed_claims": [
+      "Official NGK Part Finder supports cars, trucks and SUVs plus VIN/license-plate application lookup.",
+      "Official NGK Media Vault publishes a downloadable automotive catalog and multiple cross-reference PDFs.",
+      "NGK states its ignition line covers roughly 95% of import and domestic vehicles."
+    ]
   },
   "acceptance": {
     "must_return_exact_part_numbers": true,
     "must_include_vehicle_fitment": true,
     "single_source_is_verification": false
   },
-  "notes": "Primary spark-plug acquisition target. Preserve original artifacts unchanged and corroborate fitment independently."
+  "next_action": "Inspect the official automotive catalog PDF and site terms to determine whether it can be ingested commercially; if permitted, NGK is a strong first spark-plug dataset candidate.",
+  "notes": "Unlike the earlier filter sources, NGK exposes a clearly downloadable official automotive catalog artifact. Rights still need explicit review before commercial ingestion."
 }
