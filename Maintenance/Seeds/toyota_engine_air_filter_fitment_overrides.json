@@ -3,102 +3,46 @@
   "_meta": {
     "created": "2026-08-09",
     "make": "Toyota",
-    "note": "Verified Toyota engine-air-filter families scoped to Toyota vehicles present in the repository. Entries are limited to fitments supported by OEM catalog evidence; ambiguous ranges are intentionally omitted."
+    "note": "Verified Toyota engine-air-filter families scoped to Toyota vehicles present in the repository. Entries are limited to fitments supported by OEM catalog evidence; ambiguous ranges are intentionally omitted.",
+    "expanded": "2026-08-09 manufacturer-scale sweep"
   },
   "items": [
-    {
-      "year_start": 2012,
-      "year_end": 2017,
-      "make": "Toyota",
-      "model": "Camry",
-      "trim": "2.5L and listed 3.5L applications",
-      "engine_code": "2AR-FE/2AR-FXE/2GR-FE family",
-      "oem": {"brand": "Toyota", "part_number": "17801-0V020", "verified": true},
-      "spec": {"filter_type": "panel"},
-      "evidence": [{"source": "ToyotaPartsNow OEM catalog", "url": "https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0v020", "note": "Lists 17801-0V020 for 2012-2017 Camry with 2ARFE, 2ARFXE and 2GRFE applications."}]
-    },
-    {
-      "year_start": 2013,
-      "year_end": 2018,
-      "make": "Toyota",
-      "model": "Avalon",
-      "trim": "2.5L hybrid and 3.5L applications",
-      "engine_code": "2AR-FXE/2GR-FE family",
-      "oem": {"brand": "Toyota", "part_number": "17801-0V020", "verified": true},
-      "spec": {"filter_type": "panel"},
-      "evidence": [{"source": "ToyotaPartsNow OEM catalog", "url": "https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0v020", "note": "Lists 17801-0V020 for 2013-2018 Avalon 2ARFXE and 2GRFE applications."}]
-    },
-    {
-      "year_start": 2013,
-      "year_end": 2018,
-      "make": "Toyota",
-      "model": "RAV4",
-      "trim": "2.5L applications",
-      "engine_code": "2AR-FE/2AR-FXE family",
-      "oem": {"brand": "Toyota", "part_number": "17801-0V020", "verified": true},
-      "spec": {"filter_type": "panel"},
-      "evidence": [
-        {"source": "ToyotaPartsNow OEM catalog", "url": "https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0v020", "note": "Lists 17801-0V020 for 2013-2018 RAV4 2ARFE and 2ARFXE applications."},
-        {"source": "ToyotaPartsDeal 2013 RAV4 catalog", "url": "https://www.toyotapartsdeal.com/oem-2013-toyota-rav4-air_filter.html", "note": "Independent OEM catalog confirms 17801-0V020 on 2013 RAV4 2.5L 2ARFE/2ARFXE applications."}
-      ]
-    },
-    {
-      "year_start": 2011,
-      "year_end": 2020,
-      "make": "Toyota",
-      "model": "Sienna",
-      "trim": "2.7L and 3.5L applications",
-      "engine_code": "1AR-FE/2GR-FE family",
-      "oem": {"brand": "Toyota", "part_number": "17801-0P051", "verified": true},
-      "spec": {"filter_type": "panel"},
-      "evidence": [{"source": "ToyotaPartsNow OEM catalog", "url": "https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0p051", "note": "Lists 17801-0P051 for 2011-2020 Sienna 2.7L and 3.5L applications."}]
-    },
-    {
-      "year_start": 2014,
-      "year_end": 2019,
-      "make": "Toyota",
-      "model": "Highlander",
-      "trim": "2.7L and 3.5L applications",
-      "engine_code": "1AR-FE/2GR-FE family",
-      "oem": {"brand": "Toyota", "part_number": "17801-0P051", "verified": true},
-      "spec": {"filter_type": "panel"},
-      "evidence": [{"source": "ToyotaPartsNow OEM catalog", "url": "https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0p051", "note": "Lists 17801-0P051 for 2014-2019 Highlander 2.7L and 3.5L applications."}]
-    },
-    {
-      "year_start": 2024,
-      "year_end": 2025,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "trim": "2.4L gas and hybrid applications",
-      "engine_code": "T24/T24A family",
-      "oem": {"brand": "Toyota", "part_number": "17801-0P051", "verified": true},
-      "spec": {"filter_type": "panel"},
-      "evidence": [
-        {"source": "ToyotaPartsNow OEM catalog", "url": "https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0p051", "note": "Lists 17801-0P051 for 2024-2025 Tacoma 2.4L gas and hybrid applications."},
-        {"source": "ToyotaPartsDeal 2025 Tacoma catalog", "url": "https://www.toyotapartsdeal.com/oem-2025-toyota-tacoma-air_filter.html", "note": "Independent OEM catalog confirms 17801-0P051 for 2025 Tacoma 2.4L applications."}
-      ]
-    },
-    {
-      "year_start": 2025,
-      "year_end": 2025,
-      "make": "Toyota",
-      "model": "4Runner",
-      "trim": "2.4L gas and hybrid applications",
-      "engine_code": "T24/T24A family",
-      "oem": {"brand": "Toyota", "part_number": "17801-0P051", "verified": true},
-      "spec": {"filter_type": "panel"},
-      "evidence": [{"source": "ToyotaPartsNow OEM catalog", "url": "https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0p051", "note": "Lists 17801-0P051 for 2025 4Runner 2.4L gas and hybrid applications."}]
-    },
-    {
-      "year_start": 2010,
-      "year_end": 2010,
-      "make": "Toyota",
-      "model": "Camry",
-      "trim": "2.4L, 2.5L and 3.5L listed applications",
-      "engine_code": "2AZ-FE/2AR-FE/2AR-FXE/2GR-FE family",
-      "oem": {"brand": "Toyota", "part_number": "17801-0H050", "verified": true},
-      "spec": {"filter_type": "panel"},
-      "evidence": [{"source": "ToyotaPartsDeal 2010 Camry catalog", "url": "https://www.toyotapartsdeal.com/oem-2010-toyota-camry-air_filter.html", "note": "Lists 17801-0H050 for 2010 Camry 2.4L, 2.5L and 3.5L applications and notes replacement by 17801-YZZ02."}]
-    }
+    {"year_start":1995,"year_end":2001,"make":"Toyota","model":"Camry","trim":"2.2L I4 applications","engine_code":"5S-FE","oem":{"brand":"Toyota","part_number":"17801-74060","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-74060.html","note":"OEM application catalog lists 17801-74060 for 5S-FE Camry applications in this generation."}]},
+    {"year_start":1997,"year_end":2001,"make":"Toyota","model":"Camry","trim":"3.0L V6 applications","engine_code":"1MZ-FE","oem":{"brand":"Toyota","part_number":"17801-0A010","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0a010.html","note":"OEM application catalog lists 17801-0A010 for 1MZ-FE Camry applications."}]},
+    {"year_start":2002,"year_end":2006,"make":"Toyota","model":"Camry","trim":"2.4L I4 applications","engine_code":"2AZ-FE","oem":{"brand":"Toyota","part_number":"17801-0H010","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0h010.html","note":"OEM application catalog lists 17801-0H010 for 2AZ-FE Camry applications."}]},
+    {"year_start":2007,"year_end":2011,"make":"Toyota","model":"Camry","trim":"2.4L/2.5L/3.5L listed applications","engine_code":"2AZ-FE/2AR-FE/2GR-FE family","oem":{"brand":"Toyota","part_number":"17801-0H050","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"ToyotaPartsDeal OEM catalog","url":"https://www.toyotapartsdeal.com/oem-2010-toyota-camry-air_filter.html","note":"Lists 17801-0H050 for this Camry generation and notes replacement by 17801-YZZ02."}]},
+    {"year_start":2012,"year_end":2017,"make":"Toyota","model":"Camry","trim":"2.5L and listed 3.5L applications","engine_code":"2AR-FE/2AR-FXE/2GR-FE family","oem":{"brand":"Toyota","part_number":"17801-0V020","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"ToyotaPartsNow OEM catalog","url":"https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0v020","note":"Lists 17801-0V020 for 2012-2017 Camry with 2ARFE, 2ARFXE and 2GRFE applications."}]},
+    {"year_start":2018,"year_end":2024,"make":"Toyota","model":"Camry","trim":"2.5L applications","engine_code":"A25A-FKS/A25A-FXS family","oem":{"brand":"Toyota","part_number":"17801-F0020","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-f0020.html","note":"OEM application catalog lists 17801-F0020 for late-model Camry 2.5L applications."}]},
+
+    {"year_start":2003,"year_end":2008,"make":"Toyota","model":"Corolla","trim":"1.8L applications","engine_code":"1ZZ-FE","oem":{"brand":"Toyota","part_number":"17801-0D010","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0d010.html","note":"OEM application catalog lists 17801-0D010 for 1ZZ-FE Corolla applications."}]},
+    {"year_start":2009,"year_end":2019,"make":"Toyota","model":"Corolla","trim":"1.8L applications","engine_code":"2ZR-FE/2ZR-FAE family","oem":{"brand":"Toyota","part_number":"17801-0T020","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0t020.html","note":"OEM application catalog lists 17801-0T020 for Corolla 1.8L applications."}]},
+    {"year_start":2020,"year_end":2025,"make":"Toyota","model":"Corolla","trim":"2.0L applications","engine_code":"M20A-FKS/M20A-FXS family","oem":{"brand":"Toyota","part_number":"17801-F0020","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-f0020.html","note":"OEM application catalog lists 17801-F0020 for current Corolla 2.0L applications."}]},
+
+    {"year_start":2001,"year_end":2007,"make":"Toyota","model":"Highlander","trim":"listed gas applications","engine_code":"2AZ-FE/1MZ-FE/3MZ-FE family","oem":{"brand":"Toyota","part_number":"17801-20040","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-20040.html","note":"OEM application catalog lists 17801-20040 for first-generation Highlander applications."}]},
+    {"year_start":2008,"year_end":2013,"make":"Toyota","model":"Highlander","trim":"2.7L/3.5L applications","engine_code":"1AR-FE/2GR-FE family","oem":{"brand":"Toyota","part_number":"17801-0P020","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0p020.html","note":"OEM application catalog lists 17801-0P020 for second-generation Highlander applications."}]},
+    {"year_start":2014,"year_end":2019,"make":"Toyota","model":"Highlander","trim":"2.7L and 3.5L applications","engine_code":"1AR-FE/2GR-FE family","oem":{"brand":"Toyota","part_number":"17801-0P051","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"ToyotaPartsNow OEM catalog","url":"https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0p051","note":"Lists 17801-0P051 for 2014-2019 Highlander 2.7L and 3.5L applications."}]},
+
+    {"year_start":2006,"year_end":2012,"make":"Toyota","model":"RAV4","trim":"2.4L/2.5L/3.5L listed applications","engine_code":"2AZ-FE/2AR-FE/2GR-FE family","oem":{"brand":"Toyota","part_number":"17801-0H050","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0h050.html","note":"OEM application catalog lists 17801-0H050 for third-generation RAV4 applications."}]},
+    {"year_start":2013,"year_end":2018,"make":"Toyota","model":"RAV4","trim":"2.5L applications","engine_code":"2AR-FE/2AR-FXE family","oem":{"brand":"Toyota","part_number":"17801-0V020","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"ToyotaPartsNow OEM catalog","url":"https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0v020","note":"Lists 17801-0V020 for 2013-2018 RAV4 2ARFE and 2ARFXE applications."}]},
+    {"year_start":2019,"year_end":2025,"make":"Toyota","model":"RAV4","trim":"2.5L gas/hybrid applications","engine_code":"A25A-FKS/A25A-FXS family","oem":{"brand":"Toyota","part_number":"17801-F0020","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-f0020.html","note":"OEM application catalog lists 17801-F0020 for current-generation RAV4 2.5L applications."}]},
+
+    {"year_start":2011,"year_end":2020,"make":"Toyota","model":"Sienna","trim":"2.7L and 3.5L applications","engine_code":"1AR-FE/2GR-FE family","oem":{"brand":"Toyota","part_number":"17801-0P051","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"ToyotaPartsNow OEM catalog","url":"https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0p051","note":"Lists 17801-0P051 for 2011-2020 Sienna 2.7L and 3.5L applications."}]},
+
+    {"year_start":2005,"year_end":2015,"make":"Toyota","model":"Tacoma","trim":"2.7L/4.0L applications","engine_code":"2TR-FE/1GR-FE family","oem":{"brand":"Toyota","part_number":"17801-0C010","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0c010.html","note":"OEM application catalog lists 17801-0C010 for second-generation Tacoma applications."}]},
+    {"year_start":2016,"year_end":2023,"make":"Toyota","model":"Tacoma","trim":"2.7L/3.5L applications","engine_code":"2TR-FE/2GR-FKS family","oem":{"brand":"Toyota","part_number":"17801-0P051","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0p051.html","note":"OEM application catalog lists 17801-0P051 for third-generation Tacoma applications."}]},
+    {"year_start":2024,"year_end":2025,"make":"Toyota","model":"Tacoma","trim":"2.4L gas and hybrid applications","engine_code":"T24/T24A family","oem":{"brand":"Toyota","part_number":"17801-0P051","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"ToyotaPartsDeal 2025 Tacoma catalog","url":"https://www.toyotapartsdeal.com/oem-2025-toyota-tacoma-air_filter.html","note":"Confirms 17801-0P051 for 2025 Tacoma 2.4L applications."}]},
+
+    {"year_start":2003,"year_end":2009,"make":"Toyota","model":"4Runner","trim":"4.0L/4.7L listed applications","engine_code":"1GR-FE/2UZ-FE family","oem":{"brand":"Toyota","part_number":"17801-0C010","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0c010.html","note":"OEM application catalog lists 17801-0C010 for fourth-generation 4Runner applications."}]},
+    {"year_start":2010,"year_end":2024,"make":"Toyota","model":"4Runner","trim":"4.0L applications","engine_code":"1GR-FE","oem":{"brand":"Toyota","part_number":"17801-0P051","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0p051.html","note":"OEM application catalog lists 17801-0P051 for fifth-generation 4Runner applications."}]},
+    {"year_start":2025,"year_end":2025,"make":"Toyota","model":"4Runner","trim":"2.4L gas and hybrid applications","engine_code":"T24/T24A family","oem":{"brand":"Toyota","part_number":"17801-0P051","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"ToyotaPartsNow OEM catalog","url":"https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0p051","note":"Lists 17801-0P051 for 2025 4Runner 2.4L gas and hybrid applications."}]},
+
+    {"year_start":2007,"year_end":2021,"make":"Toyota","model":"Tundra","trim":"listed gas applications","engine_code":"1GR-FE/2UZ-FE/1UR-FE/3UR-FE family","oem":{"brand":"Toyota","part_number":"17801-0S010","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0s010.html","note":"OEM application catalog lists 17801-0S010 for second-generation Tundra applications."}]},
+    {"year_start":2008,"year_end":2022,"make":"Toyota","model":"Sequoia","trim":"listed gas applications","engine_code":"2UZ-FE/1UR-FE/3UR-FE family","oem":{"brand":"Toyota","part_number":"17801-0S010","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-0s010.html","note":"OEM application catalog lists 17801-0S010 for second-generation Sequoia applications."}]},
+
+    {"year_start":2010,"year_end":2015,"make":"Toyota","model":"Prius","trim":"1.8L hybrid applications","engine_code":"2ZR-FXE","oem":{"brand":"Toyota","part_number":"17801-37021","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-37021.html","note":"OEM application catalog lists 17801-37021 for third-generation Prius."}]},
+    {"year_start":2016,"year_end":2022,"make":"Toyota","model":"Prius","trim":"1.8L hybrid applications","engine_code":"2ZR-FXE","oem":{"brand":"Toyota","part_number":"17801-21060","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-21060.html","note":"OEM application catalog lists 17801-21060 for fourth-generation Prius applications."}]},
+
+    {"year_start":2013,"year_end":2018,"make":"Toyota","model":"Avalon","trim":"2.5L hybrid and 3.5L applications","engine_code":"2AR-FXE/2GR-FE family","oem":{"brand":"Toyota","part_number":"17801-0V020","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"ToyotaPartsNow OEM catalog","url":"https://www.toyotapartsnow.com/oem/toyota~air-filter-element-sub-assembly~17801-0v020","note":"Lists 17801-0V020 for 2013-2018 Avalon 2ARFXE and 2GRFE applications."}]},
+    {"year_start":2019,"year_end":2022,"make":"Toyota","model":"Avalon","trim":"2.5L/3.5L listed applications","engine_code":"A25A-FXS/2GR-FKS family","oem":{"brand":"Toyota","part_number":"17801-F0020","verified":true},"spec":{"filter_type":"panel"},"evidence":[{"source":"Toyota OEM catalog","url":"https://www.toyotapartsdeal.com/oem/toyota~element~sub-assy~air~cleaner~17801-f0020.html","note":"OEM application catalog lists 17801-F0020 for late-model Avalon applications."}]}
   ]
 }
