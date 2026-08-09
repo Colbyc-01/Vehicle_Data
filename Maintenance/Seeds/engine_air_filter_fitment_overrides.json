@@ -50,6 +50,50 @@
       "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~17220-RRA-A00.html", "note": "Lists 17220-RRA-A00 as the genuine Honda air cleaner element for 2006-2011 Civic Si applications."}]
     },
     {
+      "year_start": 2012,
+      "year_end": 2015,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "1.8L applications",
+      "engine_code": "R18Z1",
+      "oem": {"brand": "Honda", "part_number": "17220-R1A-A01", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-r1a-a01.html", "note": "Genuine Honda 17220-R1A-A01 application catalog lists 2012-2015 Civic 1.8L applications."}]
+    },
+    {
+      "year_start": 2012,
+      "year_end": 2015,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "Si",
+      "engine_code": "K24Z7",
+      "oem": {"brand": "Honda", "part_number": "17220-RX0-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-rx0-a00.html", "note": "Genuine Honda 17220-RX0-A00 catalog lists 2012-2015 Civic Si applications."}]
+    },
+    {
+      "year_start": 2016,
+      "year_end": 2021,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "2.0L naturally aspirated applications",
+      "engine_code": "K20C2",
+      "oem": {"brand": "Honda", "part_number": "17220-5BA-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-5ba-a00.html", "note": "Genuine Honda 17220-5BA-A00 application catalog lists tenth-generation Civic 2.0L naturally aspirated applications."}]
+    },
+    {
+      "year_start": 2016,
+      "year_end": 2021,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "1.5L turbo applications",
+      "engine_code": "L15B7",
+      "oem": {"brand": "Honda", "part_number": "17220-5AA-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-5aa-a00.html", "note": "Genuine Honda 17220-5AA-A00 application catalog lists tenth-generation Civic 1.5L turbo applications."}]
+    },
+    {
       "year_start": 2002,
       "year_end": 2006,
       "make": "Honda",
@@ -75,6 +119,28 @@
       "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/oem-2007-honda-cr_v-air_filter.html", "note": "Lists 17220-RZA-000 as the genuine air cleaner element for 2007 CR-V across EX, EX-L and LX 2WD/4WD; 2011 OEM air cleaner diagram is the same generation/application family."}]
     },
     {
+      "year_start": 2012,
+      "year_end": 2014,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "2.4L applications",
+      "engine_code": "K24Z7 family",
+      "oem": {"brand": "Honda", "part_number": "17220-R5A-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-r5a-a00.html", "note": "Genuine Honda 17220-R5A-A00 application catalog lists 2012-2014 CR-V 2.4L applications."}]
+    },
+    {
+      "year_start": 2015,
+      "year_end": 2016,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "2.4L applications",
+      "engine_code": "K24W9 family",
+      "oem": {"brand": "Honda", "part_number": "17220-5LA-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-5la-a00.html", "note": "Genuine Honda 17220-5LA-A00 application catalog lists 2015-2016 CR-V applications."}]
+    },
+    {
       "year_start": 1999,
       "year_end": 2001,
       "make": "Honda",
@@ -95,6 +161,28 @@
       "oem": {"brand": "Honda", "part_number": "17220-P8F-A10", "verified": true},
       "spec": {"filter_type": "panel"},
       "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/oem-2004-honda-odyssey-air_filter.html", "note": "Lists 17220-P8F-A10 as the genuine air cleaner element for 2004 Odyssey EX, EX-L and LX."}]
+    },
+    {
+      "year_start": 2005,
+      "year_end": 2010,
+      "make": "Honda",
+      "model": "Odyssey",
+      "trim": "3.5L applications",
+      "engine_code": "J35 family",
+      "oem": {"brand": "Honda", "part_number": "17220-RGL-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-rgl-a00.html", "note": "Genuine Honda 17220-RGL-A00 application catalog lists 2005-2010 Odyssey 3.5L applications."}]
+    },
+    {
+      "year_start": 2011,
+      "year_end": 2017,
+      "make": "Honda",
+      "model": "Odyssey",
+      "trim": "3.5L applications",
+      "engine_code": "J35 family",
+      "oem": {"brand": "Honda", "part_number": "17220-RV0-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-rv0-a00.html", "note": "Genuine Honda 17220-RV0-A00 application catalog lists 2011-2017 Odyssey 3.5L applications."}]
     },
     {
       "year_start": 2003,
@@ -161,6 +249,50 @@
       ]
     },
     {
+      "year_start": 2009,
+      "year_end": 2012,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "2.4L I4 applications",
+      "engine_code": "K24 family",
+      "oem": {"brand": "Honda", "part_number": "17220-R40-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-r40-a00.html", "note": "Genuine Honda 17220-R40-A00 application catalog lists 2008-2012 Accord 2.4L applications."}]
+    },
+    {
+      "year_start": 2009,
+      "year_end": 2012,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "V6 applications",
+      "engine_code": "J35 family",
+      "oem": {"brand": "Honda", "part_number": "17220-R70-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-r70-a00.html", "note": "Genuine Honda 17220-R70-A00 application catalog lists 2008-2012 Accord V6 applications."}]
+    },
+    {
+      "year_start": 2013,
+      "year_end": 2017,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "2.4L I4 applications",
+      "engine_code": "K24W family",
+      "oem": {"brand": "Honda", "part_number": "17220-5A2-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-5a2-a00.html", "note": "Genuine Honda 17220-5A2-A00 application catalog lists 2013-2017 Accord 2.4L applications."}]
+    },
+    {
+      "year_start": 2013,
+      "year_end": 2017,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "V6 applications",
+      "engine_code": "J35Y family",
+      "oem": {"brand": "Honda", "part_number": "17220-5G0-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-5g0-a00.html", "note": "Genuine Honda 17220-5G0-A00 application catalog lists 2013-2017 Accord V6 applications."}]
+    },
+    {
       "year_start": 2003,
       "year_end": 2008,
       "make": "Honda",
@@ -170,6 +302,28 @@
       "oem": {"brand": "Honda", "part_number": "17220-RDJ-J00", "verified": true},
       "spec": {"filter_type": "panel"},
       "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~17220-RDJ-J00.html", "note": "Lists genuine Honda 17220-RDJ-J00 for 2003-2008 Honda Pilot; replaces 17220-PGK-A00."}]
+    },
+    {
+      "year_start": 2009,
+      "year_end": 2015,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "3.5L applications",
+      "engine_code": "J35 family",
+      "oem": {"brand": "Honda", "part_number": "17220-RN0-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-rn0-a00.html", "note": "Genuine Honda 17220-RN0-A00 application catalog lists 2009-2015 Pilot 3.5L applications."}]
+    },
+    {
+      "year_start": 2016,
+      "year_end": 2022,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "3.5L applications",
+      "engine_code": "J35Y6",
+      "oem": {"brand": "Honda", "part_number": "17220-5J6-A10", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~air~cleaner~17220-5j6-a10.html", "note": "Genuine Honda 17220-5J6-A10 application catalog lists third-generation Pilot 3.5L applications."}]
     }
   ]
 }
