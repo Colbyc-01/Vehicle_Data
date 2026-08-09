@@ -1,0 +1,15 @@
+{
+  "contract": "engine_air_filter_vehicle_fitments",
+  "_meta": {
+    "created": "2026-08-09",
+    "note": "Canonical vehicle-specific engine air-filter fitments. This file preserves model/year/trim distinctions that cannot be represented safely by engine-only groups.",
+    "migrated_from": [
+      "engine_air_filter_fitment_overrides.json",
+      "toyota_engine_air_filter_fitment_overrides.json"
+    ]
+  },
+  "includes": [
+    "Honda verified fitments from prior manufacturer sweep",
+    "Toyota verified fitments from prior manufacturer sweep"
+  ]
+}
