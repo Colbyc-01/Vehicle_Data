@@ -1,0 +1,37 @@
+{
+  "contract": "engine_air_filter_fitment_overrides",
+  "_meta": {
+    "created": "2026-08-08",
+    "note": "Vehicle-specific verified overrides for fitments not yet represented by the engine air filter seed/group tables."
+  },
+  "items": [
+    {
+      "year_start": 2006,
+      "year_end": 2011,
+      "make": "Honda",
+      "model": "Civic",
+      "trim": "Si",
+      "engine_code": "K20Z3",
+      "oem": {
+        "brand": "Honda",
+        "part_number": "17220-RRA-A00",
+        "verified": true
+      },
+      "spec": {
+        "filter_type": "panel"
+      },
+      "evidence": [
+        {
+          "source": "HondaPartsNow OEM catalog",
+          "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~17220-RRA-A00.html",
+          "note": "Lists 17220-RRA-A00 as the genuine Honda air cleaner element for 2006-2011 Civic Si; 2006 coupe and 2007-2011 coupe/sedan, 6MT."
+        },
+        {
+          "source": "HondaPartsNow 2008 Civic Si air cleaner diagram",
+          "url": "https://www.hondapartsnow.com/parts-list/2008-honda-civic--2dr_si-ka_6mt/electrical_exhaust_heater_fuel/air_cleaner_2_0l.html",
+          "note": "Exploded OEM catalog shows 17220-RRA-A00 as Element Assy., Air Cleaner for 2008 Civic Si 2.0L."
+        }
+      ]
+    }
+  ]
+}
