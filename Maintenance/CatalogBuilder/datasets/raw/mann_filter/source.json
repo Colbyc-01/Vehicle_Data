@@ -1,22 +1,35 @@
 {
   "source_id": "mann_filter",
   "source_name": "MANN-FILTER",
-  "status": "research_ready",
+  "status": "permission_required_for_bulk_ingest",
   "priority": 4,
-  "role": ["candidate", "verification"],
-  "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter"],
+  "role": ["manual_verification", "permission_candidate"],
+  "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter", "transmission_filter"],
   "us_fitment": true,
   "raw_location": "Maintenance/CatalogBuilder/datasets/raw/mann_filter/",
-  "rights_status": "review_required",
+  "rights_status": "copyright_reproduction_reserved",
   "acquisition": {
-    "mode": "official_online_catalog_or_download",
-    "artifact_status": "not_acquired",
-    "required_before_ingest": ["exact_access_url", "terms_review", "cache_rights_review"]
+    "mode": "official_online_catalog_and_download_hub",
+    "artifact_status": "official_catalog_and_pdf_downloads_confirmed",
+    "official_catalog_url": "https://www.mann-filter.com/us-en/catalog.html",
+    "official_download_hub_url": "https://www.mann-filter.com/us-en/service/download-hub.html",
+    "confirmed_search_modes": ["vehicle", "product_type", "part_number", "cross_reference", "dimensions"],
+    "confirmed_downloads": ["catalogs", "cross_reference_lists", "brochures"],
+    "required_before_bulk_ingest": ["written_permission_or_explicit_license_for_reproduction", "cache_rights_review", "redistribution_rights_review"]
+  },
+  "evidence": {
+    "reviewed_utc_date": "2026-08-09",
+    "confirmed_claims": [
+      "Official US catalog advertises more than 300,000 applications and vehicle/product/cross-reference/dimension search.",
+      "Official Download Hub provides downloadable catalogs and cross-reference PDFs.",
+      "MANN+HUMMEL copyright notice reserves reproduction, publication, editing and translation rights for site content."
+    ]
   },
   "acceptance": {
     "must_return_exact_part_numbers": true,
     "must_include_vehicle_fitment": true,
     "single_source_is_verification": false
   },
-  "notes": "Official US catalog supports vehicle, product, cross-reference and dimension search across a large application set. Preserve originals unchanged."
+  "next_action": "Do not bulk import MANN-FILTER catalog content unless permission or a compatible license is obtained. Keep as a strong manual corroboration source and possible permission-based dataset candidate.",
+  "notes": "Strong fitment source, but current published copyright language does not give AutoSpec permission to reproduce/cache the catalog as a commercial dataset."
 }
