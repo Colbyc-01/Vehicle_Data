@@ -12,26 +12,9 @@
       "model": "Civic",
       "trim": "DX/EX/GX/HX/LX",
       "engine_code": "D17 family",
-      "oem": {
-        "brand": "Honda",
-        "part_number": "17220-PLC-000",
-        "verified": true
-      },
-      "spec": {
-        "filter_type": "panel"
-      },
-      "evidence": [
-        {
-          "source": "HondaPartsNow OEM catalog",
-          "url": "https://www.hondapartsnow.com/genuine/honda~element~air~cleaner~17220-plc-000.html",
-          "note": "Lists genuine Honda 17220-PLC-000 for 2001-2005 Civic DX, EX, GX, HX and LX applications; replaces 17220-PMR-A00."
-        },
-        {
-          "source": "HondaPartsNow 2001 Civic air cleaner diagram",
-          "url": "https://www.hondapartsnow.com/parts-list/2001-honda-civic--2dr_dx-kl_5mt/electrical_exhaust_heater_fuel/air_cleaner.html",
-          "note": "OEM exploded catalog identifies 17220-PLC-000 as Element, Air Cleaner for a 2001 Civic DX."
-        }
-      ]
+      "oem": {"brand": "Honda", "part_number": "17220-PLC-000", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~air~cleaner~17220-plc-000.html", "note": "Lists genuine Honda 17220-PLC-000 for 2001-2005 Civic DX, EX, GX, HX and LX applications; replaces 17220-PMR-A00."}]
     },
     {
       "year_start": 2002,
@@ -40,21 +23,9 @@
       "model": "Civic",
       "trim": "Si",
       "engine_code": "K20A3",
-      "oem": {
-        "brand": "Honda",
-        "part_number": "17220-PNB-505",
-        "verified": true
-      },
-      "spec": {
-        "filter_type": "panel"
-      },
-      "evidence": [
-        {
-          "source": "HondaPartsNow OEM catalog",
-          "url": "https://www.hondapartsnow.com/genuine/honda~element~air~cleaner~17220-PNB-505.html",
-          "note": "Lists genuine Honda 17220-PNB-505 for 2002-2005 Civic 3 Door Si, 5MT; supersedes 17220-PNA-003 / 17220-PNB-003 / 17220-PZD-A01."
-        }
-      ]
+      "oem": {"brand": "Honda", "part_number": "17220-PNB-505", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~air~cleaner~17220-PNB-505.html", "note": "Lists genuine Honda 17220-PNB-505 for 2002-2005 Civic 3 Door Si, 5MT; supersedes 17220-PNA-003 / 17220-PNB-003 / 17220-PZD-A01."}]
     },
     {
       "year_start": 2006,
@@ -63,26 +34,9 @@
       "model": "Civic",
       "trim": "DX/EX/GX/LX",
       "engine_code": "R18A1",
-      "oem": {
-        "brand": "Honda",
-        "part_number": "17220-RNA-A00",
-        "verified": true
-      },
-      "spec": {
-        "filter_type": "panel"
-      },
-      "evidence": [
-        {
-          "source": "HondaPartsNow OEM catalog",
-          "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~17220-rna-a00.html",
-          "note": "Lists genuine Honda 17220-RNA-A00 as the air cleaner element for 2006-2011 Honda Civic applications."
-        },
-        {
-          "source": "HondaPartsNow 2006 Civic 1.8L air cleaner diagram",
-          "url": "https://www.hondapartsnow.com/parts-list/2006-honda-civic--4dr_lx-ka_5at/electrical_exhaust_heater_fuel/air_cleaner_1_8l.html",
-          "note": "OEM exploded catalog identifies 17220-RNA-A00 as Element Assy., Air Cleaner for 2006 Civic LX 1.8L."
-        }
-      ]
+      "oem": {"brand": "Honda", "part_number": "17220-RNA-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~17220-rna-a00.html", "note": "Lists genuine Honda 17220-RNA-A00 as the air cleaner element for 2006-2011 Honda Civic applications."}]
     },
     {
       "year_start": 2006,
@@ -91,26 +45,131 @@
       "model": "Civic",
       "trim": "Si",
       "engine_code": "K20Z3",
-      "oem": {
-        "brand": "Honda",
-        "part_number": "17220-RRA-A00",
-        "verified": true
-      },
-      "spec": {
-        "filter_type": "panel"
-      },
+      "oem": {"brand": "Honda", "part_number": "17220-RRA-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~17220-RRA-A00.html", "note": "Lists 17220-RRA-A00 as the genuine Honda air cleaner element for 2006-2011 Civic Si applications."}]
+    },
+    {
+      "year_start": 2002,
+      "year_end": 2006,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX/LX/SE",
+      "engine_code": "K24 family",
+      "oem": {"brand": "Honda", "part_number": "17220-PNB-505", "verified": true},
+      "spec": {"filter_type": "panel"},
       "evidence": [
-        {
-          "source": "HondaPartsNow OEM catalog",
-          "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~17220-RRA-A00.html",
-          "note": "Lists 17220-RRA-A00 as the genuine Honda air cleaner element for 2006-2011 Civic Si; 2006 coupe and 2007-2011 coupe/sedan, 6MT."
-        },
-        {
-          "source": "HondaPartsNow 2007 Civic Si air cleaner diagram",
-          "url": "https://www.hondapartsnow.com/parts-list/2007-honda-civic--2dr_si-ka_6mt/electrical_exhaust_heater_fuel/air_cleaner_2_0l.html",
-          "note": "Exploded OEM catalog shows 17220-RRA-A00 as Element Assy., Air Cleaner for 2007 Civic Si 2.0L."
-        }
+        {"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~air~cleaner~17220-PNB-505.html", "note": "Lists 17220-PNB-505 for 2002-2006 CR-V applications."},
+        {"source": "HondaPartsNow 2002 CR-V air cleaner diagram", "url": "https://www.hondapartsnow.com/parts-list/2002-honda-cr_v--5dr_ex_4wd-ka_4at/electrical_exhaust_heater_fuel/air_cleaner.html", "note": "OEM diagram identifies 17220-PNB-505 as Element, Air Cleaner."}
       ]
+    },
+    {
+      "year_start": 2007,
+      "year_end": 2011,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX/EX-L/LX",
+      "engine_code": "K24 family",
+      "oem": {"brand": "Honda", "part_number": "17220-RZA-000", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/oem-2007-honda-cr_v-air_filter.html", "note": "Lists 17220-RZA-000 as the genuine air cleaner element for 2007 CR-V across EX, EX-L and LX 2WD/4WD; 2011 OEM air cleaner diagram is the same generation/application family."}]
+    },
+    {
+      "year_start": 1999,
+      "year_end": 2001,
+      "make": "Honda",
+      "model": "Odyssey",
+      "trim": "EX/LX/VAN",
+      "engine_code": "J35 family",
+      "oem": {"brand": "Honda", "part_number": "17220-P8F-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~17220-P8F-A00.html", "note": "Lists 17220-P8F-A00 for 1999-2001 Honda Odyssey."}]
+    },
+    {
+      "year_start": 2004,
+      "year_end": 2004,
+      "make": "Honda",
+      "model": "Odyssey",
+      "trim": "EX/EX-L/LX",
+      "engine_code": "J35 family",
+      "oem": {"brand": "Honda", "part_number": "17220-P8F-A10", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/oem-2004-honda-odyssey-air_filter.html", "note": "Lists 17220-P8F-A10 as the genuine air cleaner element for 2004 Odyssey EX, EX-L and LX."}]
+    },
+    {
+      "year_start": 2003,
+      "year_end": 2007,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "2.4L I4 applications",
+      "engine_code": "K24 family",
+      "oem": {"brand": "Honda", "part_number": "17220-RAA-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/oem-2003-honda-accord-air_filter.html", "note": "Lists 17220-RAA-A00 as the 2003 Accord I4 air cleaner element across coupe/sedan trims; this is the 2003-2007 2.4L generation family."}]
+    },
+    {
+      "year_start": 2003,
+      "year_end": 2003,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "V6",
+      "engine_code": "J30 family",
+      "oem": {"brand": "Honda", "part_number": "17220-RCA-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [
+        {"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/parts-list/2003-honda-accord--2dr_ex_v6-kl_6mt/electrical_exhaust_heater_fuel/air_cleaner_v6.html", "note": "OEM diagram identifies 17220-RCA-A00 as Element Assy., Air Cleaner for 2003 Accord V6."},
+        {"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/parts-list/2003-honda-accord--4dr_lx_v6-ka_5at/electrical_exhaust_heater_fuel/air_cleaner_v6.html", "note": "Independent sedan V6 configuration also identifies 17220-RCA-A00."}
+      ]
+    },
+    {
+      "year_start": 2007,
+      "year_end": 2007,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "V6",
+      "engine_code": "J30 family",
+      "oem": {"brand": "Honda", "part_number": "17220-RDA-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [
+        {"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/parts-list/2007-honda-accord--2dr_exv6-ka_6mt/electrical_exhaust_heater_fuel/air_cleaner_v6.html", "note": "OEM diagram identifies 17220-RDA-A00 for 2007 Accord V6 coupe."},
+        {"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/parts-list/2007-honda-accord--4dr_se_v6-kl_5at/electrical_exhaust_heater_fuel/air_cleaner_v6.html", "note": "Independent sedan V6 configuration also identifies 17220-RDA-A00."}
+      ]
+    },
+    {
+      "year_start": 2008,
+      "year_end": 2008,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "2.4L I4 applications",
+      "engine_code": "K24 family",
+      "oem": {"brand": "Honda", "part_number": "17220-R40-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/oem-2008-honda-accord-air_filter.html", "note": "Lists 17220-R40-A00 for 2008 Accord 2.4L coupe/sedan applications."}]
+    },
+    {
+      "year_start": 2008,
+      "year_end": 2008,
+      "make": "Honda",
+      "model": "Accord",
+      "trim": "V6",
+      "engine_code": "J35 family",
+      "oem": {"brand": "Honda", "part_number": "17220-R70-A00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [
+        {"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/oem-2008-honda-accord-air_filter.html", "note": "Lists 17220-R70-A00 as the second 2008 Accord air filter application corresponding to V6 models."},
+        {"source": "HondaPartsNow OEM air cleaner diagram", "url": "https://www.hondapartsnow.com/parts-list/2008-honda-accord--4dr_ex__v6-ka_5at/electrical_exhaust_heater_fuel/air_cleaner_v6.html", "note": "OEM diagram identifies 17220-R70-A00 as Element Assy., Air Cleaner for 2008 Accord V6."}
+      ]
+    },
+    {
+      "year_start": 2003,
+      "year_end": 2008,
+      "make": "Honda",
+      "model": "Pilot",
+      "trim": "all listed applications",
+      "engine_code": "J35 family",
+      "oem": {"brand": "Honda", "part_number": "17220-RDJ-J00", "verified": true},
+      "spec": {"filter_type": "panel"},
+      "evidence": [{"source": "HondaPartsNow OEM catalog", "url": "https://www.hondapartsnow.com/genuine/honda~element~assy~17220-RDJ-J00.html", "note": "Lists genuine Honda 17220-RDJ-J00 for 2003-2008 Honda Pilot; replaces 17220-PGK-A00."}]
     }
   ]
 }
