@@ -1,22 +1,44 @@
 {
   "source_id": "purolator",
   "source_name": "Purolator",
-  "status": "research_ready",
+  "status": "permission_required_verification_only",
   "priority": 3,
-  "role": ["candidate", "verification"],
+  "role": ["manual_verification"],
   "categories": ["oil_filter", "engine_air_filter", "cabin_air_filter", "fuel_filter"],
   "us_fitment": true,
   "raw_location": "Maintenance/CatalogBuilder/datasets/raw/purolator/",
-  "rights_status": "review_required",
+  "rights_status": "permission_required",
   "acquisition": {
-    "mode": "public_part_finder_or_download",
-    "artifact_status": "not_acquired",
-    "required_before_ingest": ["exact_access_url", "terms_review", "cache_rights_review"]
+    "mode": "public_part_finder",
+    "artifact_status": "live_catalog_confirmed",
+    "official_home": "https://www.purolatornow.com/",
+    "official_terms_url": "https://www.purolatornow.com/en/about-purolator/terms-of-use.html",
+    "official_contact_url": "https://www.purolatornow.com/en/contact.html",
+    "observed_vehicle_fitment": true,
+    "observed_online_catalog": true,
+    "required_before_bulk_ingest": ["written_permission_for_commercial_use", "written_permission_for_download_storage_or_republication"]
+  },
+  "rights_review": {
+    "reviewed_utc_date": "2026-08-09",
+    "finding": "Purolator's Terms of Use state that website use is permitted for personal, non-commercial use only and prohibit reproducing, republishing, downloading, storing, or transmitting site material except narrow personal-use exceptions. The terms direct requests for other uses to Purolator.Marketing@mann-hummel.com.",
+    "bulk_ingest_allowed": false,
+    "commercial_cache_allowed": false,
+    "manual_lookup_for_internal_verification": "use_cautiously",
+    "permission_contact": "Purolator.Marketing@mann-hummel.com"
+  },
+  "evidence": {
+    "reviewed_utc_date": "2026-08-09",
+    "confirmed_claims": [
+      "Purolator publicly exposes an online catalog / Part Finder for selecting filters by vehicle.",
+      "Purolator's official FAQ directs users to its Part Finder and states that applications are vehicle-specific.",
+      "Purolator's published Terms of Use limit website material to personal, non-commercial use absent permission."
+    ]
   },
   "acceptance": {
     "must_return_exact_part_numbers": true,
     "must_include_vehicle_fitment": true,
     "single_source_is_verification": false
   },
-  "notes": "Third filter target. Official Part Finder covers oil, air and cabin filters; preserve original artifacts unchanged."
+  "next_action": "Do not automate or bulk-ingest Purolator website data. Retain as a manual corroboration source unless written commercial-use permission is obtained. Continue acquisition research with MANN-FILTER and NGK/Niterra for sources with more usable rights.",
+  "notes": "Useful public fitment catalog, but current published terms block commercial reuse/caching without permission."
 }
